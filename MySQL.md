@@ -182,7 +182,10 @@
 | 外键约束 | foreign key    | 链接其他表    |
 | 自动增长 | auto_increment |          |
 ## 外键
-- 
+- 添加外键：create table 表名(
+
+	 [ constraint ]  [ 外键名称 ] foreign key(外键字段名) references 主表(主表列名)  
+ )；
 
 
 # 多表查询
