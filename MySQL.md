@@ -186,8 +186,9 @@
 
 	 [ constraint ]  [ 外键名称 ] foreign key(外键字段名) references 主表(主表列名)  
  )；
-
-
+alter table 表名 add constraint 外键名称 foreign key(外键字段名) references 主表(主表列表);
+- 删除外键：alter table 表名 drop foreign key 外键名称;
+- 删除/更新行为：
 # 多表查询
 # 事务
 
