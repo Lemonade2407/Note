@@ -199,13 +199,16 @@ alter table 表名 add constraint 外键名称 foreign key(外键字段名) refe
 | set default | 如有外键，设为default值      |
 alert table 表名 add constraint 外键名称(外键字段) references 主表名(主表名字段) on update 行为1 on delete 行为2;
 # 多表查询
-## 一对多（多对一）
+## 多表关系
+### 一对多（多对一）
 如：部门（多位员工）与员工（一个部门）
 - 在多的一方（员工）建立外键，指向一（部门）的主键
-## 多对多
+### 多对多
 如：学生与课程
 - 建立第三张表，中间表至少包含两个外键，分别关联两张表主键
-## 一对一
+### 一对一
+- 任意一方加入外键关联另一方主键，并且设置外键为UNIQUE
+## 多表查询
 
 
 # 事务
