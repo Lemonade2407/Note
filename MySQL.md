@@ -194,10 +194,17 @@ alter table 表名 add constraint 外键名称 foreign key(外键字段名) refe
 | ----------- | -------------------- |
 | no action   | 如果父表相应记录有外键，则不许删除/修改 |
 | restrict    | 同上                   |
-| cascade     |                      |
-| set null    |                      |
-| set default |                      |
+| cascade     | 如有外键，同时删除/修改对应子表记录   |
+| set null    | 如有外键，设为null          |
+| set default | 如有外键，设为default值      |
+alert table 表名 add constraint 外键名称(外键字段) references 主表名(主表名字段) on update 行为1 on delete 行为2;
 # 多表查询
+## 一对多（多对一）
+
+## 多对多
+## 一对一
+
+
 # 事务
 
 
