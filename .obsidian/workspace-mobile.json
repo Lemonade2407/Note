@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数字逻辑.md",
+                "file": "数字逻辑/数字逻辑.md",
                 "mode": "source",
                 "source": false
               },
@@ -22,18 +22,19 @@
             }
           },
           {
-            "id": "1367173b1c05dfee",
+            "id": "501dcc79b6f36276",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Drawing 2025-11-24 22.35.21.excalidraw.md"
+                "file": "数字逻辑/逻辑代数复合运算.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2025-11-24 22.35.21.excalidraw"
+              "title": "逻辑代数复合运算"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -192,11 +193,13 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "616cc73dc8532d4b",
+  "active": "501dcc79b6f36276",
   "lastOpenFiles": [
-    "未命名",
-    "Drawing 2025-11-24 22.35.21.excalidraw.md",
-    "数字逻辑.md",
+    "数字逻辑/数字逻辑.md",
+    "数字逻辑/逻辑代数复合运算.md",
+    "数字逻辑/插图/逻辑代数基本运算.excalidraw.md",
+    "数字逻辑/插图",
+    "数字逻辑",
     "Drawing 2025-11-24 20.11.48.excalidraw.md",
     "Drawing 2025-11-24 20.08.34.excalidraw.md",
     "未命名.canvas",
