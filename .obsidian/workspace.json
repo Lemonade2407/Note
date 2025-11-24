@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "表",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -178,8 +177,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,6 +191,6 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "51c63f2a333a18fd",
+  "active": "c99a96d9afc69df8",
   "lastOpenFiles": []
 }
