@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "数字逻辑"
             }
+          },
+          {
+            "id": "c6d64a96322e3146",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Drawing 2025-11-24 20.11.48.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-11-24 20.11.48.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -180,10 +193,12 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "89d2397c25e25eed",
+  "active": "c6d64a96322e3146",
   "lastOpenFiles": [
-    "未命名.canvas",
     "数字逻辑.md",
+    "Drawing 2025-11-24 20.11.48.excalidraw.md",
+    "Drawing 2025-11-24 20.08.34.excalidraw.md",
+    "未命名.canvas",
     "MySQL.md",
     "/MySQL.md"
   ]
