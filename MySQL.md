@@ -229,9 +229,7 @@ union [ all ]
 select 字段列表 from 表2 ...;
 ### 子查询
 SQL语句中嵌套SELECT语句，称为嵌套查询
-#### 
-
-
+ - select * from 表名 where/insert/…… 字段列表 = (select 字段列表 from 表名);
 # 事务
 
 
