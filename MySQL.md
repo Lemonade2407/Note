@@ -231,7 +231,13 @@ select 字段列表 from 表2 ...;
 SQL语句中嵌套SELECT语句，称为嵌套查询
  - select * from 表名 where/insert/…… 字段列表 = (select 字段列表 from 表名);
 # 事务
-
-
+把一些操作看做整体，同时成功或同时失败
+## 操作
+- 开启事务：start transaction
+- 提交事务（如果成功）：commit
+- 回滚事务（如果失败）：rollback
+## 特性
+- 原子性：最小操作单位，同时成功/失败
+- 一致性：事务结束后
 
 
