@@ -33,7 +33,8 @@
               "title": "逻辑代数复合运算"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -192,10 +193,10 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "89d2397c25e25eed",
+  "active": "501dcc79b6f36276",
   "lastOpenFiles": [
-    "数字逻辑/逻辑代数复合运算.md",
     "数字逻辑/数字逻辑.md",
+    "数字逻辑/逻辑代数复合运算.md",
     "数字逻辑/插图/逻辑代数基本运算.excalidraw.md",
     "数字逻辑/插图",
     "数字逻辑",
