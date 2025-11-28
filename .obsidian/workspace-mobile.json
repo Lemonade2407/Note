@@ -11,12 +11,14 @@
             "id": "89d2397c25e25eed",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "数字逻辑/插图/逻辑代数复合运算.md"
+                "file": "数字逻辑/数字逻辑.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "逻辑代数复合运算"
+              "icon": "lucide-file",
+              "title": "数字逻辑"
             }
           }
         ]
@@ -180,9 +182,9 @@
   },
   "active": "89d2397c25e25eed",
   "lastOpenFiles": [
+    "数字逻辑/插图/逻辑代数复合运算.md",
     "数字逻辑/数字逻辑.md",
     "数字逻辑/插图/逻辑代数基本运算.excalidraw.md",
-    "数字逻辑/插图/逻辑代数复合运算.md",
     "数字逻辑/插图",
     "数字逻辑",
     "Drawing 2025-11-24 20.11.48.excalidraw.md",
