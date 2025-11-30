@@ -1,1 +1,24 @@
-{}
+{
+  "mobileToolbarCommands": [
+    "editor:undo",
+    "editor:redo",
+    "editor:insert-table",
+    "editor:insert-embed",
+    "editor:set-heading",
+    "editor:toggle-bold",
+    "editor:toggle-highlight",
+    "editor:toggle-code",
+    "editor:toggle-bullet-list",
+    "editor:toggle-inline-math",
+    "editor:insert-mathblock",
+    "editor:insert-codeblock",
+    "editor:unindent-list",
+    "editor:indent-list",
+    "editor:insert-link",
+    "editor:toggle-numbered-list",
+    "editor:attach-file",
+    "editor:configure-toolbar"
+  ],
+  "promptDelete": false,
+  "alwaysUpdateLinks": true
+}
