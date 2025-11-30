@@ -11,10 +11,14 @@
             "id": "0df9bbb52a159db5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "数字逻辑/数字逻辑.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "数字逻辑"
             }
           }
         ]
@@ -187,7 +191,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5d6e7461581c7851",
+  "active": "c99a96d9afc69df8",
   "lastOpenFiles": [
     "数字逻辑/数字逻辑.md",
     "数字逻辑/插图/逻辑代数复合运算.md",
