@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "数字逻辑"
             }
+          },
+          {
+            "id": "1ec30245c2c735f6",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "数字逻辑/数据选择器74LS151.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "数据选择器74LS151"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -180,10 +193,12 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "89d2397c25e25eed",
+  "active": "1ec30245c2c735f6",
   "lastOpenFiles": [
-    "数字逻辑/插图/逻辑代数基本运算.excalidraw.md",
     "数字逻辑/数字逻辑.md",
+    "数字逻辑/数据选择器74LS151.md",
+    "数字逻辑/译码器74LS138.md",
+    "数字逻辑/插图/逻辑代数基本运算.excalidraw.md",
     "数字逻辑/插图/逻辑代数复合运算.md",
     "/数字逻辑/数字逻辑.md",
     "/数字逻辑",
