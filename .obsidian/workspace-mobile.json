@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2051208bf5adb7cc",
+        "id": "3b39b839f8d3bfdc",
         "type": "tabs",
         "children": [
           {
-            "id": "89d2397c25e25eed",
+            "id": "fe20893d88fe27ef",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,15 +22,15 @@
             }
           },
           {
-            "id": "1ec30245c2c735f6",
+            "id": "2beb7b98aeb9300b",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "数字逻辑/数据选择器74LS151.md"
+                "file": "数字逻辑/加法器74LS283.md"
               },
               "icon": "excalidraw-icon",
-              "title": "数据选择器74LS151"
+              "title": "加法器74LS283"
             }
           }
         ],
@@ -193,12 +193,13 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "1ec30245c2c735f6",
+  "active": "2beb7b98aeb9300b",
   "lastOpenFiles": [
     "数字逻辑/数字逻辑.md",
-    "数字逻辑/数据选择器74LS151.md",
-    "数字逻辑/译码器74LS138.md",
-    "数字逻辑/插图/逻辑代数基本运算.excalidraw.md",
+    "数字逻辑/加法器74LS283.md",
+    "数字逻辑/插图/逻辑代数基本运算.md",
+    "数字逻辑/插图/数据选择器74LS151.md",
+    "数字逻辑/插图/译码器74LS138.md",
     "数字逻辑/插图/逻辑代数复合运算.md",
     "/数字逻辑/数字逻辑.md",
     "/数字逻辑",
