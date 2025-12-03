@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3b39b839f8d3bfdc",
+        "id": "633b88690bf22c2e",
         "type": "tabs",
         "children": [
           {
-            "id": "fe20893d88fe27ef",
+            "id": "bcc75933afa51bf7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -180,10 +180,11 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "fe20893d88fe27ef",
+  "active": "bcc75933afa51bf7",
   "lastOpenFiles": [
-    "数字逻辑/插图/数值比较器74LS85.md",
+    "数字逻辑/插图/SR锁存器.md",
     "数字逻辑/数字逻辑.md",
+    "数字逻辑/插图/数值比较器74LS85.md",
     "数字逻辑/插图/加法器74LS283.md",
     "数字逻辑/插图/译码器74LS138.md",
     "数字逻辑/插图/逻辑代数基本运算.md",
