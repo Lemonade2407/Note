@@ -20,18 +20,6 @@
               "icon": "lucide-file",
               "title": "数字逻辑"
             }
-          },
-          {
-            "id": "5e746b1da9d1412e",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "数字逻辑/移位寄存器74LS194.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "移位寄存器74LS194"
-            }
           }
         ]
       }
@@ -194,8 +182,9 @@
   },
   "active": "c4052322df377362",
   "lastOpenFiles": [
-    "数字逻辑/移位寄存器74LS194.md",
+    "数字逻辑/计数器74LS163.md",
     "数字逻辑/数字逻辑.md",
+    "数字逻辑/移位寄存器74LS194.md",
     "数字逻辑/Moore状态图.md",
     "状态转换图.md",
     "数字逻辑/插图/状态转换图.md",
