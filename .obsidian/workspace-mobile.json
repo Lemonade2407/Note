@@ -176,19 +176,20 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "bases:创建新数据库": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "c4052322df377362",
   "lastOpenFiles": [
-    "数字逻辑/插图/mealy状态图.md",
     "数字逻辑/数字逻辑.md",
+    "未命名.md",
+    "未命名",
+    "数字逻辑/插图/mealy状态图.md",
     "数字逻辑/插图/数值比较器74LS85.md",
     "数字逻辑/插图/数据选择器74LS151.md",
-    "数字逻辑/移位寄存器74LS194.md",
-    "数字逻辑/计数器74LS163.md",
-    "数字逻辑/Moore状态图.md",
+    "数字逻辑/插图/移位寄存器74LS194.md",
+    "数字逻辑/插图/计数器74LS163.md",
+    "数字逻辑/插图/Moore状态图.md",
     "状态转换图.md",
     "数字逻辑/插图/状态转换图.md",
     "数字逻辑/插图/mealy模型.md",
