@@ -11,14 +11,12 @@
             "id": "5f45d7d8d2204d02",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "离散数学/离散数学.md",
-                "mode": "source",
-                "source": false
+                "file": "离散数学/插图/集合运算.jpg"
               },
-              "icon": "lucide-file",
-              "title": "离散数学"
+              "icon": "lucide-image",
+              "title": "集合运算"
             }
           }
         ]
@@ -182,9 +180,9 @@
   },
   "active": "5f45d7d8d2204d02",
   "lastOpenFiles": [
+    "离散数学/离散数学.md",
     "离散数学/插图/集合运算.jpg",
     "离散数学/插图/常见集合.jpg",
-    "离散数学/离散数学.md",
     "离散数学/插图/谓词公式.jpg",
     "作用域的扩张与收缩.jpg",
     "离散数学/插图",
