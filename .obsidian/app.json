@@ -14,9 +14,9 @@
     "editor:insert-codeblock",
     "editor:unindent-list",
     "editor:indent-list",
-    "editor:insert-link",
     "editor:toggle-numbered-list",
     "editor:attach-file",
+    "editor:insert-wikilink",
     "editor:configure-toolbar"
   ],
   "promptDelete": false,
