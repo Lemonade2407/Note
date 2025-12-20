@@ -27,12 +27,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "概率论与数理统计.md",
+                "file": "数字逻辑/数字逻辑.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "概率论与数理统计"
+              "title": "数字逻辑"
             }
           }
         ],
@@ -198,6 +199,7 @@
   },
   "active": "5b34a2dd57dd6497",
   "lastOpenFiles": [
+    "数字逻辑/插图/逻辑代数复合运算.md",
     "数字逻辑/数字逻辑.md",
     "概率论与数理统计.md",
     "离散数学/离散数学.md",
@@ -225,7 +227,6 @@
     "数字逻辑/插图/下降沿D触发器.md",
     "数字逻辑/插图/译码器74LS138.md",
     "数字逻辑/插图/逻辑代数基本运算.md",
-    "数字逻辑/插图/逻辑代数复合运算.md",
     "/数字逻辑/数字逻辑.md",
     "/数字逻辑",
     "数字逻辑/插图",
