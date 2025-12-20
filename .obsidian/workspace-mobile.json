@@ -192,7 +192,8 @@
       "command-palette:打开命令面板": false,
       "bases:创建新数据库": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
   "active": "5b34a2dd57dd6497",
