@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "离散数学/离散数学.md",
+                "file": "数字逻辑/数字逻辑.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "离散数学"
+              "title": "数字逻辑"
             }
           }
         ]
@@ -184,10 +184,10 @@
   },
   "active": "a805efee7387925e",
   "lastOpenFiles": [
+    "离散数学/离散数学.md",
     "数字逻辑/数字逻辑.md",
     "数字逻辑/插图/下降沿D触发器.md",
     "数字逻辑/插图/上升沿JK触发器.md",
-    "离散数学/离散数学.md",
     "数字逻辑/插图/逻辑代数基本运算.md",
     "数字逻辑/插图/逻辑代数复合运算.md",
     "数字逻辑/插图/移位寄存器74LS194.md",
