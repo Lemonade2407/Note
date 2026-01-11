@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "离散数学.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
@@ -182,7 +182,7 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "616cc73dc8532d4b",
+  "active": "3f64b4c6d9fd2cc0",
   "lastOpenFiles": [
     "概率论与数理统计.md",
     "离散数学.md",
