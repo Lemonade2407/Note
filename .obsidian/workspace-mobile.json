@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "离散数学/离散数学.md",
+                "file": "离散数学.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
@@ -182,11 +182,11 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "3f64b4c6d9fd2cc0",
+  "active": "616cc73dc8532d4b",
   "lastOpenFiles": [
     "概率论与数理统计.md",
+    "离散数学.md",
     "数字逻辑/数字逻辑.md",
-    "离散数学/离散数学.md",
     "数字逻辑/插图/数值比较器74LS85.md",
     "数字逻辑/插图/下降沿D触发器.md",
     "数字逻辑/插图/上升沿JK触发器.md",
