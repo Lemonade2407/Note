@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "0400af2efea32daf",
+        "id": "ebc6691939e3db18",
         "type": "tabs",
         "children": [
           {
-            "id": "3f64b4c6d9fd2cc0",
+            "id": "7ddd6a1ec25f1f06",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "概率论与数理统计.md",
+                "file": "离散数学.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "概率论与数理统计"
+              "title": "离散数学"
             }
           }
         ]
@@ -182,10 +182,10 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "3f64b4c6d9fd2cc0",
+  "active": "7ddd6a1ec25f1f06",
   "lastOpenFiles": [
-    "离散数学.md",
     "概率论与数理统计.md",
+    "离散数学.md",
     "数字逻辑/数字逻辑.md",
     "数字逻辑/插图/数值比较器74LS85.md",
     "数字逻辑/插图/下降沿D触发器.md",
