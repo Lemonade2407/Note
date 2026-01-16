@@ -1,4 +1,3 @@
-# 标题
 - 标题标签：
 ```
 <h1>标题一<\h1>
@@ -16,5 +15,13 @@
 - 内部样式
 ```
 <style>
-<style
+ span{
+  color:gray;
+ }
+</style>
 ```
+- 外部样式：引用单独的css文件
+```
+<link rel="stylesheet" href="文件地址">
+```
+- 
