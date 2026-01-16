@@ -92,4 +92,5 @@ text-indent:2em(首行缩进2字)
 </div>
 ```
 - 页面盒子模型
-	由内到外分别是：内容区域(content)、内边距区域、边框区域
+	由内到外分别是：内容区域(content)、内边距区域(padding)、边框区域(border)、外边距区域(margin)
+	常用标签：`<div>(一行一个)、<span>(一行多个)`
