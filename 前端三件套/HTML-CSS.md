@@ -111,6 +111,7 @@ text-indent:2em(首行缩进2字)
 			submit/reset/button:提交/重置/按钮
 		name:若想提交则必须设置name属性
 	<select>:定义下拉列表
+		选项使用标签<option></option>
 	<textarea>:定义文本域
 	```
 	属性：
