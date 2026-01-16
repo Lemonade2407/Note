@@ -51,5 +51,10 @@
 	src:视频地址
 	controls:显示播放控件(进度条等)
 	autoplay:是否自动播放
-	width/height:视频高度和宽度(单位)
+	width/height:视频高度和宽度
+		单位:px(像素)、%(百分比)
+```
+- 换行
+```
+<br></br>
 ```
