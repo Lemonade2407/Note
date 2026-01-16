@@ -9,3 +9,12 @@
 ```
 <a href="目标地址" target="_self"(默认,原页面打开)/“_blank”(其他页面打开)>
 ```
+- 行内样式
+```
+<span style="color:gray;"内容>
+```
+- 内部样式
+```
+<style>
+<style
+```
