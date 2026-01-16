@@ -44,11 +44,11 @@
 3.后代选择器
 	元素1，元素2{}:form,input{}
 ```
-- 插入视频、音频
+- 插入视频、音频、图片
 ```
-标签:<video>、<audio>
+标签:<video>、<audio>、<img>
 属性:
-	src:视频地址
+	src:地址
 	controls:显示播放控件(进度条等)
 	autoplay:是否自动播放
 	width/height:视频高度和宽度
