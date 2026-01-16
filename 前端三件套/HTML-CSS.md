@@ -86,3 +86,8 @@ text-height:2(2倍行高)
 text-indent:2em(首行缩进2字)
 }
 ```
+- 容器(模块)
+```
+<div id="容器名">
+</div>
+```
