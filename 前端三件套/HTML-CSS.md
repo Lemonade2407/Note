@@ -100,8 +100,8 @@ text-indent:2em(首行缩进2字)
 	表单项：不同类型的input元素
 	```
 	<input>:定义表单项，通过type属性控制输入形式
-		text:文本
-		submit:提交按钮
+		type:text:文本、submit:提交按钮
+		name:若想提交则必须设置name属性
 	<select>:定义下拉列表
 	<textarea>:定义文本域
 	```
