@@ -94,3 +94,11 @@ text-indent:2em(首行缩进2字)
 - 页面盒子模型
 	由内到外分别是：内容区域(content)、内边距区域(padding)、边框区域(border)、外边距区域(margin)
 	常用标签：`<div>(一行一个)、<span>(一行多个)`
+- 表单标签
+	功能：负责数据采集
+	标签：`<form>`
+	表单项：不同类型的input元素
+	```
+	<input>:
+	<sele
+	```
