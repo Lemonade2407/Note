@@ -96,10 +96,12 @@ text-indent:2em(首行缩进2字)
 	常用标签：`<div>(一行一个)、<span>(一行多个)`
 - 表单标签
 	功能：负责数据采集
-	标签：`<form>`
+	标签：`<form><\form>`
 	表单项：不同类型的input元素
 	```
 	<input>:定义表单项，通过type属性控制输入形式
+		text:文本
+		submit:提交按钮
 	<select>:定义下拉列表
 	<textarea>:定义文本域
 	```
