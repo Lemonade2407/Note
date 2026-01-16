@@ -108,3 +108,5 @@ text-indent:2em(首行缩进2字)
 	属性：
 		action:规定表单向哪里提交数据(URL)
 		method:规定表单数据发送方式(GET、POST)
+			GET:表单数据会出现在url后面
+			POST:表单数据会出现在消息体/请求体中提交到
