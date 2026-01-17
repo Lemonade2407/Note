@@ -139,3 +139,7 @@ text-indent:2em(首行缩进2字)
   </tbody>
 </table>
 ```
+- 页底
+```
+<footer></footer>
+```
