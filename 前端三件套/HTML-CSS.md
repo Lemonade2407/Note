@@ -128,10 +128,14 @@ text-indent:2em(首行缩进2字)
   <thead>
     //定义行
 	<tr>
+	  <th>表头单元格</th>
 	</tr>
   </thead>
-  //
+  //定义表格主体内容
   <tbody>
+    <tr>
+	  <td>普通单元格</td>
+	</tr>
   </tbody>
 </table>
 ```
