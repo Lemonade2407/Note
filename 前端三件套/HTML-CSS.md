@@ -121,3 +121,17 @@ text-indent:2em(首行缩进2字)
 		method:规定表单数据发送方式(GET、POST)
 			GET:表单数据会出现在url后面
 			POST:表单数据会出现在消息体/请求体中提交到服务器中
+- 表格
+```
+<table>
+  //定义表头
+  <thead>
+    //定义行
+	<tr>
+	</tr>
+  </thead>
+  //
+  <tbody>
+  </tbody>
+</table>
+```
