@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": " ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,7 +75,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -197,7 +198,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c99a96d9afc69df8",
+  "active": "51c63f2a333a18fd",
   "lastOpenFiles": [
     "概率论与数理统计.md",
     "前端三件套.md",
