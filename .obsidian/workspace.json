@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "前端三件套/HTML-CSS.md",
+                "file": "前端三件套.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "HTML-CSS"
+              "title": "前端三件套"
             }
           }
         ]
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端三件套/HTML-CSS.md",
+                "file": "前端三件套.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "HTML-CSS 的反向链接列表"
+              "title": "前端三件套 的反向链接列表"
             }
           },
           {
@@ -114,12 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "前端三件套/HTML-CSS.md",
+                "file": "前端三件套.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "HTML-CSS 的出链列表"
+              "title": "前端三件套 的出链列表"
             }
           },
           {
@@ -197,10 +197,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0a896e7628eaaf29",
+  "active": "c99a96d9afc69df8",
   "lastOpenFiles": [
     "概率论与数理统计.md",
-    "前端三件套/HTML-CSS.md",
+    "前端三件套.md",
     "前端三件套",
     "离散数学.md",
     "数字逻辑/插图/逻辑代数基本运算.md",
@@ -216,7 +216,7 @@
     "数字逻辑/插图/mealy状态图.md",
     "数字逻辑/插图/SR锁存器.md",
     "数字逻辑/插图/Moore状态图.md",
-    "数字逻辑/数字逻辑.md",
+    "数字逻辑.md",
     "数字逻辑/插图/逻辑代数复合运算.md",
     "数字逻辑/插图/逻辑代数基本运算.excalidraw.md",
     "数字逻辑/插图",
