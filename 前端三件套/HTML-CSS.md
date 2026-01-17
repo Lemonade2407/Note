@@ -88,9 +88,10 @@ text-indent:2em(首行缩进2字)
 ```
 - 容器(模块)
 ```
-<div id="容器名">
-</div>
+<div id="容器名"></div>
 <lable></lable>
+	绑定:for="目标id"
+	
 ```
 - 页面盒子模型
 	由内到外分别是：内容区域(content)、内边距区域(padding)、边框区域(border)、外边距区域(margin)
