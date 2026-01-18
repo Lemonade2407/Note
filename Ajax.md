@@ -1,0 +1,10 @@
+```
+axios({
+	method:'GET'
+	url:''
+}).then((result)=>{
+	console.log(result.data);
+	}).catch((err)=>{
+	alter(err);
+	});
+```
