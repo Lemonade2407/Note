@@ -2,4 +2,7 @@
 	- 使用坐标来定义项目或引入项目中需要的依赖
 	- 组成：
 		- groupId：隶属组织名称（一般为域名反写）
-		- artifactId：
+		- artifactId：项目名称（通常为模块名称）
+		- version：当前版本号
+			- SNAPSHOT：开发中版本
+			- RELEASE：发行版本
