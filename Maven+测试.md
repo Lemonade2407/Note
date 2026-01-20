@@ -35,12 +35,12 @@
 ### 断言
 - 给出正确答案，判断业务逻辑是否正确
 
-| 断言方法                                                             | 作用              |
-| ---------------------------------------------------------------- | --------------- |
-| `Assertions.assertEquals(Object exp,Object act,String msg)`      | 两值是否相等，不相等则报错   |
-| `Assertions.assertNotEquals(Object unexp,Object act,String msg)` | 两值是否不相等，相等则报错   |
-| `Assertions.assertNull(Object act,String msg)`                   | 检查对象是否为Null，否报错 |
-| `Assertions.assertNotNull(Object act,String msg)`                | 检查对象是否为Null，是报错 |
-| `Assertions.assertTrue(boolean condition,String msg)`            |                 |
-| `Assertions.assertNotNull(boolean condition,String msg)`         |                 |
-| `Assertions.assertNotNull(Object act,String msg)`                |                 |
+| 断言方法                                                                | 作用               |
+| ------------------------------------------------------------------- | ---------------- |
+| `Assertions.assertEquals(Object exp,Object act,String msg)`         | 两值是否相等，不相等则报错    |
+| `Assertions.assertNotEquals(Object unexp,Object act,String msg)`    | 两值是否不相等，相等则报错    |
+| `Assertions.assertNull(Object act,String msg)`                      | 检查对象是否为Null，否报错  |
+| `Assertions.assertNotNull(Object act,String msg)`                   | 检查对象是否为Null，是报错  |
+| `Assertions.assertTrue(boolean condition,String msg)`               | 检查条件是否为true，否报错  |
+| `Assertions.assertFalse(boolean condition,String msg)`              | 检查条件是否为false，否报错 |
+| `Assertions.assertThrows(Class expType,Executable exec,String msg)` | 检查两个对象引用是否相等，否报错 |
