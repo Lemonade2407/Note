@@ -19,7 +19,7 @@
 	}).mount('#app')//接管id=app控制权
 </script>
 ```
-### 常用指令
+# 常用指令
 - 指令:标签上带有v-前缀的特殊属性
 
 | 指令                    | 作用                             | 语法                                                              |
@@ -30,3 +30,14 @@
 | v-show                | 根据条件展示某元素，切换的是display属性，适用频繁切换 | `v-show="判定条件"`                                                 |
 | v-model               | 表单元素双向数据绑定                     | `v-model="绑定元素"`                                                |
 | v-on                  | 为标签绑定事件                        | `v-on:事件名="方法名"`可略写为`@属性名="属性值"`                                |
+# 生命周期
+- 每个生命阶段对应一个钩子函数，到达这个阶段时，会自动触发钩子函数
+- 可以通过重构钩子函数完成某些功能：如进入页面时自动执行某些函数
+1.beforeCreate
+2.create
+3.beforeMount
+4.mounted
+5.beforeUpdate
+6.update
+7.beforeUnmount
+8.unmounted
