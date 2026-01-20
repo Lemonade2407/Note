@@ -46,13 +46,13 @@
 | `Assertions.assertThrows(Class expType,Executable exec,String msg)` | 检查程序抛出的异常是否符合预期，否报错 |
 ### 注解
 
-| 注解                 | 说明  | 备注  |
-| ------------------ | --- | --- |
-| @Test              |     |     |
-| @ParameterizedTest |     |     |
-| @ValueSource       |     |     |
-| @DisplayName       |     |     |
-| @BeforeEach        |     |     |
-| @AfterEach         |     |     |
-| @BeforeAll         |     |     |
-| @After             |     |     |
+| 注解                 | 说明                      | 备注                     |
+| ------------------ | ----------------------- | ---------------------- |
+| @Test              | 修饰成为测试方法                |                        |
+| @ParameterizedTest | 参数化测试的注解（单个测试多次进行且参数不同） | 可代替@Test               |
+| @ValueSource       | 参数化测试的参数来源              | 配合@ParameterizedTest使用 |
+| @DisplayName       | 指定测试类（方法）的名称            |                        |
+| @BeforeEach        | 修饰实例方法，在每个测试方法前执行       | 初始化资源                  |
+| @AfterEach         | 修饰实例方法，在每个测试方法后执行       |                        |
+| @BeforeAll         |                         |                        |
+| @AfterAll          |                         |                        |
