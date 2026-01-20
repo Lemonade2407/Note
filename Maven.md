@@ -11,3 +11,7 @@
 		- 在pom.xml中编写`<dependencies>`标签
 		- 在`<dependencies>`标签中加入`<dependency>`
 		- 在`<dependency>`标签中定义坐标
+	- 排除依赖：
+		- 在对应`<dependency>`标签中定义`<exclusions>`
+		- 在`<exclusions>`标签中加入`<exclusion>`
+		- 在`<exclusion>`中定义要排除的依赖的坐标（不用写版本号）
