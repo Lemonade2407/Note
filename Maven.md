@@ -15,3 +15,11 @@
 		- 在对应`<dependency>`标签中定义`<exclusions>`
 		- 在`<exclusions>`标签中加入`<exclusion>`
 		- 在`<exclusion>`中定义要排除的依赖的坐标（不用写版本号）
+- 生命周期
+	- clean：清理之前操作的残余文件
+	- default：核心
+		- compile：编译
+		- test：测试
+		- package：打包
+		- install：安装项目到本地仓库
+	- site：
