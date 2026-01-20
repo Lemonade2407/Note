@@ -6,3 +6,8 @@
 		- version：当前版本号
 			- SNAPSHOT：开发中版本
 			- RELEASE：发行版本
+- 依赖：项目运行所需要的jar包
+	- 配置依赖：
+		- 在pom.xml中编写`<dependencies>`标签
+		- 在`<dependencies>`标签中加入`<dependency>`
+		- 在`<dependency>`标签中定义坐标
