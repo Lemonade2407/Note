@@ -44,3 +44,15 @@
 | `Assertions.assertTrue(boolean condition,String msg)`               | 检查条件是否为true，否报错     |
 | `Assertions.assertFalse(boolean condition,String msg)`              | 检查条件是否为false，否报错    |
 | `Assertions.assertThrows(Class expType,Executable exec,String msg)` | 检查程序抛出的异常是否符合预期，否报错 |
+### 注解
+
+| 注解                 | 说明  | 备注  |
+| ------------------ | --- | --- |
+| @Test              |     |     |
+| @ParameterizedTest |     |     |
+| @ValueSource       |     |     |
+| @DisplayName       |     |     |
+| @BeforeEach        |     |     |
+| @AfterEach         |     |     |
+| @BeforeAll         |     |     |
+| @After             |     |     |
