@@ -16,6 +16,7 @@
 		- 在对应`<dependency>`标签中定义`<exclusions>`
 		- 在`<exclusions>`标签中加入`<exclusion>`
 		- 在`<exclusion>`中定义要排除的依赖的坐标（不用写版本号）
+		- 
 - 生命周期
 	- clean：清理之前操作的残余文件
 	- default：核心
@@ -53,6 +54,6 @@
 | @ValueSource       | 参数化测试的参数来源              | 配合@ParameterizedTest使用 |
 | @DisplayName       | 指定测试类（方法）的名称            |                        |
 | @BeforeEach        | 修饰实例方法，在每个测试方法前执行       | 初始化资源                  |
-| @AfterEach         | 修饰实例方法，在每个测试方法后执行       |                        |
-| @BeforeAll         |                         |                        |
-| @AfterAll          |                         |                        |
+| @AfterEach         | 修饰实例方法，在每个测试方法后执行       | 释放资源                   |
+| @BeforeAll         | 修饰静态方法，在所有测试方法前执行       |                        |
+| @AfterAll          | 修饰静态方法，在所有测试方法前执行       |                        |
