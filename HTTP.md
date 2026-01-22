@@ -13,4 +13,14 @@ public string request(HttpServletRequest request){
 	String accept = request.getHeader("Accept")
 }
 ```
-- 设置
+- 设置响应数据
+```
+public string response(HttpServletResponse response)throws IOException{
+	//设置状态码
+	response.setStatus(401);
+	//设置响应头
+	response.setHeader("key","value");
+	//设置响应体
+	response.getWriter().write("<h1>hello response</h1>");
+}
+```
