@@ -10,5 +10,8 @@ Connection connection = DriveManager.getConnection(url,username,password);
 //获取执行对象
 Statement statement = connection.creatStatement();
 //执行SQL
-
+int i = statement.executeUpdata("SQL语句")
+//释放资源
+statement.close();
+connection.close();
 ```
