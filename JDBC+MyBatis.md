@@ -9,9 +9,14 @@ String password = "数据库密码";
 Connection connection = DriveManager.getConnection(url,username,password);
 //获取执行对象
 Statement statement = connection.creatStatement();
-//执行SQL
+//执行SQL(静态)
 int i = statement.executeUpdata("SQL语句")
+//执行预编译SQL(动态)
+PreparedStatement pstmt = conn.prepareStatement("预编译SQL语句");
+pstmt.setString(1,"");
+ResultSet resultSet = pstmt.executeQuery();
 //释放资源
 statement.close();
 connection.close();
 ```
+# 
