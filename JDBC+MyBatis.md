@@ -20,4 +20,10 @@ statement.close();
 connection.close();
 ```
 # MyBatis
-- 在
+- 在resources目录下的application.proprietaries中配置数据库连接信息
+```
+spring.datasource.url = 
+spring.datasource.driver-class-name = 
+spring.datasource.username = 
+spring.datasource.password = 
+```
