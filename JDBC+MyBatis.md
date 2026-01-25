@@ -27,4 +27,10 @@ spring.datasource.driver-class-name =
 spring.datasource.username = 
 spring.datasource.password = 
 ```
-- 创建
+- 创建Mapper
+```
+@Mapper//自动为接口创建bean对象
+public interface Mapper{
+
+}
+```
