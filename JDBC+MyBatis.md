@@ -36,3 +36,4 @@ mybatis.configuration.log-impl = org.apache.ibatis.logging.stdout.StdOutImpl
 public interface Mapper{
 }
 ```
+- 增删改查
