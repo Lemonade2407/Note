@@ -51,3 +51,4 @@ public void update(User user);
 public User findByUsernameAndPassword(@Param("username")String username,@Param("password")String password);//基于springboot框架可以省略@Param
 ```
 - XML映射配置
+	- xml文件预Mapper接口名称一致，
