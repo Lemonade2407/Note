@@ -20,17 +20,19 @@ statement.close();
 connection.close();
 ```
 # MyBatis
-- 在resources目录下的application.proprietaries中配置数据库连接信息
+- 在resources目录下的application.proprietaries中配置
 ```
+//数据库连接信息
 spring.datasource.url = 
 spring.datasource.driver-class-name = 
 spring.datasource.username = 
 spring.datasource.password = 
+//日志输出信息
+mybatis.configuration.log-impl = org.apache.ibatis.logging.
 ```
 - 创建Mapper
 ```
 @Mapper//自动为接口创建bean对象
 public interface Mapper{
-
 }
 ```
