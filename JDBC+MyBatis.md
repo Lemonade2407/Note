@@ -45,5 +45,8 @@ public void insert(User user);
 public void deleteById(Integer id);
 
 @Update("update user set username=#{username},password=#{password},name#{name},age=#{age}where id=#{id}")
-public void update(User user)
+public void update(User user);
+
+@Select("select * from user where username=#{username} and password=#{password}")
+public User findByUsernameAndPassword(String username,String password);
 ```
