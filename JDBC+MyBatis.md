@@ -29,6 +29,8 @@ spring.datasource.username =
 spring.datasource.password = 
 //日志输出信息
 mybatis.configuration.log-impl = org.apache.ibatis.logging.stdout.StdOutImpl
+//XML文件位置信息
+mybatis.mapper-locations=classpath:mapper/*.xml
 ```
 - 创建Mapper
 ```
@@ -52,10 +54,10 @@ public User findByUsernameAndPassword(@Param("username")String username,@Param("
 ```
 - XML映射配置
 	- xml文件预Mapper接口名称一致，并且在相同包下
-	```
-	<mapper namespace="包目录">
-		<select id="findAll" resultType="目标目录">
-			select * from user
-		</select>
-	</mapper>
-	```
+```
+<mapper namespace="包目录">
+	<select id="findAll" resultType="目标目录">
+		select * from user
+	</select>
+</mapper>
+```
