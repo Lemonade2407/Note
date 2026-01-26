@@ -37,3 +37,10 @@ public interface Mapper{
 }
 ```
 - 增删改查
+```
+@Insert("insert into user(username,password,name,age)values('','','',)")
+public void insert()
+
+@Delete("delete from user where id = #{id}")
+public void deleteById(Integer id);
+```
