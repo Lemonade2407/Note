@@ -48,5 +48,5 @@ public void deleteById(Integer id);
 public void update(User user);
 
 @Select("select * from user where username=#{username} and password=#{password}")
-public User findByUsernameAndPassword(String username,String password);
+public User findByUsernameAndPassword(@Param("username")String username,@Param("password")String password);
 ```
