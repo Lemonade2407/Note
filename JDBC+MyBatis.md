@@ -32,6 +32,15 @@ mybatis.configuration.log-impl = org.apache.ibatis.logging.stdout.StdOutImpl
 //XML文件位置信息
 mybatis.mapper-locations=classpath:mapper/*.xml
 ```
+- yaml格式配置文件
+```
+spring：
+	datasource：
+		url: 
+		driver-class-name: 
+		username: 
+		password: 
+```
 - 创建Mapper
 ```
 @Mapper//自动为接口创建bean对象
