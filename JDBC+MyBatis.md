@@ -45,4 +45,5 @@ public void insert(User user);
 public void deleteById(Integer id);
 
 @Update("update user set username=#{username},password=#{password},name#{name},age=#{age}where id=#{id}")
+public void update(User user)
 ```
