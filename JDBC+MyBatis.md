@@ -40,13 +40,17 @@ spring：
   driver-class-name: 
   username: 
   password: 
-//定义map集合/对象
+//定义map集合、对象
 user:
  id: 
  name: 
  age: 
  password: 
-//定义数组、list、
+//定义数组、list、set集合
+hobby:
+ - java
+ - game
+ - sport
 ```
 - 创建Mapper
 ```
