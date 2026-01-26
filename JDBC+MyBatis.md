@@ -51,4 +51,11 @@ public void update(User user);
 public User findByUsernameAndPassword(@Param("username")String username,@Param("password")String password);//基于springboot框架可以省略@Param
 ```
 - XML映射配置
-	- xml文件预Mapper接口名称一致，
+	- xml文件预Mapper接口名称一致，并且在相同包下
+	```
+	<mapper namespace="包目录">
+		<select id="findAll" resultType="目标目录">
+			select * from user
+		</select>
+	</mapper>
+	```
