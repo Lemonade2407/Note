@@ -28,7 +28,7 @@ spring.datasource.driver-class-name =
 spring.datasource.username = 
 spring.datasource.password = 
 //日志输出信息
-mybatis.configuration.log-impl = org.apache.ibatis.logging.
+mybatis.configuration.log-impl = org.apache.ibatis.logging.stdout.StdOutImpl
 ```
 - 创建Mapper
 ```
