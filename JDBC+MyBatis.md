@@ -35,11 +35,18 @@ mybatis.mapper-locations=classpath:mapper/*.xml
 - yaml格式配置文件
 ```
 spring：
-	datasource：
-		url: 
-		driver-class-name: 
-		username: 
-		password: 
+ datasource：
+  url: 
+  driver-class-name: 
+  username: 
+  password: 
+//定义map集合/对象
+user:
+ id: 
+ name: 
+ age: 
+ password: 
+//定义数组、list、
 ```
 - 创建Mapper
 ```
