@@ -57,6 +57,11 @@ hobby:
 @Mapper//自动为接口创建bean对象
 public interface Mapper{
 }
+
+@RequestMapping(path="",method=)//将 HTTP 请求映射到特定的处理方法
+public Mapper{
+}
+@GetMapping等价于@RequestMapping(path="",method=RequestMethod.GET)
 ```
 - 增删改查
 ```

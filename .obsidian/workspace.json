@@ -199,12 +199,13 @@
   },
   "active": "eab86448804c0fd7",
   "lastOpenFiles": [
-    "HTTP.md",
-    "HTML+CSS+JS.md",
-    "Ajax.md",
     "分层解耦.md",
+    "Ajax.md",
+    "HTML+CSS+JS.md",
+    "HTTP.md",
     "JDBC+MyBatis.md",
     "Maven+测试.md",
+    "MySQL.md",
     "Vue.md",
     "概率论与数理统计.md",
     "前端三件套",
@@ -226,7 +227,6 @@
     "数字逻辑/插图/逻辑代数复合运算.md",
     "数字逻辑/插图/逻辑代数基本运算.excalidraw.md",
     "数字逻辑/插图",
-    "数字逻辑",
-    "MySQL.md"
+    "数字逻辑"
   ]
 }
