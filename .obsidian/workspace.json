@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "分层解耦.md",
+                "file": "JDBC+MyBatis.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "分层解耦"
+              "title": "JDBC+MyBatis"
             }
           }
         ]
@@ -202,9 +202,9 @@
     "HTTP.md",
     "HTML+CSS+JS.md",
     "Ajax.md",
-    "Maven+测试.md",
-    "JDBC+MyBatis.md",
     "分层解耦.md",
+    "JDBC+MyBatis.md",
+    "Maven+测试.md",
     "Vue.md",
     "概率论与数理统计.md",
     "前端三件套",
