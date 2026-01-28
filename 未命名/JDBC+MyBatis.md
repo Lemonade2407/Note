@@ -51,6 +51,10 @@ hobby:
  - java
  - game
  - sport
+//命名规则配置（下划线自动转为驼峰命名）
+mybatis:
+ configuration:
+   map-underscore-to-caml-case:ture
 ```
 - 创建Mapper
 ```
