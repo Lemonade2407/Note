@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名/Ajax.md",
+                "file": "未命名/分层解耦.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Ajax"
+              "title": "分层解耦"
             }
           }
         ]
@@ -200,9 +200,9 @@
   "active": "eab86448804c0fd7",
   "lastOpenFiles": [
     "未命名/JDBC+MyBatis.md",
-    "未命名",
     "未命名/分层解耦.md",
     "未命名/Ajax.md",
+    "未命名",
     "未命名/HTML+CSS+JS.md",
     "未命名/HTTP.md",
     "未命名/Maven+测试.md",
