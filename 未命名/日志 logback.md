@@ -5,19 +5,27 @@
 # 配置详解
 - 配置输出的位置
 	- 控制台输出:```
-	  ```
-	    <appender name="STDOUT" class="ch.qos.logback.core.ConsoleAppender">
-		    <encoder class = "ch.qos.logback.classic.encoder.PatternLayoutEncoder">
+	```
+	<appender name="STDOUT" class="ch.qos.logback.core.ConsoleAppender">
+		<encoder class = "ch.qos.logback.classic.encoder.PatternLayoutEncoder">
+			//输出格式%d表示日期%thread表示线程名
+			<pattern>%d{yyyy-MM-dd HH:mm:ss.SSS} [%thread]%-5level %logger{50}-%msg%n</pattern>
+		</encoder>
+	</appender>
+	```
+	- 文件输出:
+	```
+	<appender name="FILE" class="ch.qos.logback.core.rolling.RollingFileAppender">
+		<rollingPolicy>
+			//文件名，%i表示序列号
+			<FileNamePattern>filepath-%d{yyyy-MM-dd}-%i.log</FilenamePattern>
+			
+		</rollingPolicy>
+		<encoder class = "ch.qos.logback.classic.encoder.PatternLayoutEncoder">
 				//输出格式%d表示日期%thread表示线程名
 				<pattern>%d{yyyy-MM-dd HH:mm:ss.SSS} [%thread]%-5level %logger{50}-%msg%n</pattern>
 			</encoder>
-		</appender>
-		```
-	- 文件输出:
-	```
-		<appender name="FILE" class="ch.qos.logback.core.rolling.RollingFileAppender">
-			
-		</appender>
+	</appender>
 	```
 - 日志开关
 	```
