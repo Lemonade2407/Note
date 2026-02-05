@@ -6,6 +6,8 @@
 - 配置输出的位置
 	- 控制台输出:```
 	  ```<appender name="STDOUT" class="ch.qos.logback.core.ConsoleAppender">...</appender>
+	  //输出格式%d表示日期%thread表示线程名
+		<patten>%d{yyyy-MM-dd HH:mm:ss.SSS} [%thread]%-5level %logger{50}-%msg%n</patten>
 	  ```
 	- 文件输出:```<appender name="FILE" class="ch.qos.logback.core.rolling.RollingFileAppender">...</appender>```
 - 日志开关
