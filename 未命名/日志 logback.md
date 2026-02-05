@@ -1,6 +1,6 @@
 # 使用步骤
 - 引入依赖和配置文件logback.xml
-- 定义日志记录对象Logger
+- 定义日志记录对象Logger或加上注解@Slf4j
 `private static final Logger log=LoggerFactory.getLogger(LogTest.class)`
 # 配置详解
 - 配置输出的位置
@@ -38,8 +38,9 @@
 	</root>
 ```
 # 日志级别
-- trace
-- debug
-- info
-- warn
-- error
+由低到高为
+- trace:`log.trace("")`
+- debug:`log.debug("")`
+- info:`log.info("")`
+- warn:`log.warn("")`
+- error:`log.error("")`
