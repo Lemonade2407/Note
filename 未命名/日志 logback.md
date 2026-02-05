@@ -1,0 +1,2 @@
+- 引入依赖和配置文件logback.xml
+- 定义日志记录对象Logger
