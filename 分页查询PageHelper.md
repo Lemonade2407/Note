@@ -1,2 +1,7 @@
+- 引入PageHelper依赖
 - mapper
-	- 
+	- 查询语句
+- service
+	- PageHelper.startPage(page,pageSize);
+	- 调用mapper接口方法
+	- return结果
