@@ -2,6 +2,7 @@
 - 引入依赖和配置文件logback.xml
 - 定义日志记录对象Logger或加上注解@Slf4j
 `private static final Logger log=LoggerFactory.getLogger(LogTest.class)`
+- 字符串拼接使用占位符{}
 # 配置详解
 - 配置输出的位置
 	- 控制台输出:```
@@ -32,7 +33,7 @@
   ```
 - 日志开关
 ```
-	<root level ="ALL">//ALL是开启OFF是关闭
+	<root level ="ALL">//ALL是全开启OFF是全关闭，输出大于等于级别的所有日志（一般用INFO和DEBUG
 		<appender-ref ref = "STDOUT" />
 		<appender-ref ref = "FILE" />
 	</root>
