@@ -79,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "1cbf698e3cf52978",
@@ -199,9 +200,9 @@
   },
   "active": "d7f8a01b1659bde0",
   "lastOpenFiles": [
-    "未命名/分页查询PageHelper.md",
-    "Spring事务.md",
     "未命名/分层解耦.md",
+    "Spring事务.md",
+    "未命名/分页查询PageHelper.md",
     "未命名/日志 logback.md",
     "未命名/JDBC+MyBatis.md",
     "未命名/Ajax.md",

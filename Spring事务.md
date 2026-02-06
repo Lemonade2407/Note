@@ -2,5 +2,6 @@
 - 配置事务管理日志级别
 ```
 logging:
- level: org.springframework.jdbc.suppo
+ level:
+   org.springframework.jdbc.support.JdbcTransactionManager: debug
 ```
