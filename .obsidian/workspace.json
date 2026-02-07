@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名/分层解耦.md",
+                "file": "未命名/JDBC+MyBatis.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "分层解耦"
+              "title": "JDBC+MyBatis"
             }
           }
         ]
@@ -199,11 +199,11 @@
   },
   "active": "598b8c6ae2c0602e",
   "lastOpenFiles": [
+    "未命名/分层解耦.md",
     "未命名/JDBC+MyBatis.md",
     "未命名/文件上传功能.md",
     "未命名/HTTP.md",
     "未命名/Maven+测试.md",
-    "未命名/分层解耦.md",
     "未命名/分页查询PageHelper.md",
     "未命名/日志 logback.md",
     "未命名/Ajax.md",
