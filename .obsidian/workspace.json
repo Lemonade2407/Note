@@ -8,18 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "598b8c6ae2c0602e",
+            "id": "f18f803b9e840d37",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "web开发/工具/分页查询PageHelper.md",
+                "file": "web开发/工具/全局异常处理器.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "分页查询PageHelper"
+              "title": "全局异常处理器"
             }
           }
         ]
@@ -197,8 +197,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c99a96d9afc69df8",
+  "active": "f18f803b9e840d37",
   "lastOpenFiles": [
+    "web开发/文件上传功能.md",
+    "web开发/工具/全局异常处理器.md",
+    "web开发/工具/分页查询PageHelper.md",
+    "未命名",
     "web开发/工具",
     "web开发/前端/HTTP.md",
     "web开发/前端",
@@ -206,10 +210,8 @@
     "web开发/前端/Vue.md",
     "web开发/工具/Maven+测试.md",
     "web开发/Ajax.md",
-    "web开发/文件上传功能.md",
     "web开发/工具/分层解耦.md",
     "web开发/JDBC+MyBatis.md",
-    "web开发/工具/分页查询PageHelper.md",
     "web开发/工具/日志 logback.md",
     "Spring事务.md",
     "web开发",
