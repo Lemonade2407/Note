@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名/JDBC+MyBatis.md",
+                "file": "web开发/工具/分页查询PageHelper.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "JDBC+MyBatis"
+              "title": "分页查询PageHelper"
             }
           }
         ]
@@ -197,20 +197,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "598b8c6ae2c0602e",
+  "active": "c99a96d9afc69df8",
   "lastOpenFiles": [
-    "未命名/分层解耦.md",
-    "未命名/JDBC+MyBatis.md",
-    "未命名/文件上传功能.md",
-    "未命名/HTTP.md",
-    "未命名/Maven+测试.md",
-    "未命名/分页查询PageHelper.md",
-    "未命名/日志 logback.md",
-    "未命名/Ajax.md",
-    "未命名/HTML+CSS+JS.md",
-    "未命名/Vue.md",
+    "web开发/工具",
+    "web开发/前端/HTTP.md",
+    "web开发/前端",
+    "web开发/前端/HTML+CSS+JS.md",
+    "web开发/前端/Vue.md",
+    "web开发/工具/Maven+测试.md",
+    "web开发/Ajax.md",
+    "web开发/文件上传功能.md",
+    "web开发/工具/分层解耦.md",
+    "web开发/JDBC+MyBatis.md",
+    "web开发/工具/分页查询PageHelper.md",
+    "web开发/工具/日志 logback.md",
     "Spring事务.md",
-    "未命名",
+    "web开发",
     "MySQL.md",
     "概率论与数理统计.md",
     "前端三件套",
@@ -226,7 +228,6 @@
     "数字逻辑/插图/上升沿T触发器.md",
     "数字逻辑/插图/上升沿JK触发器.md",
     "数字逻辑/插图/mealy状态图.md",
-    "数字逻辑/插图/SR锁存器.md",
     "数字逻辑/插图",
     "数字逻辑"
   ]
