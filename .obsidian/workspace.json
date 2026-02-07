@@ -21,21 +21,8 @@
               "icon": "lucide-file",
               "title": "分层解耦"
             }
-          },
-          {
-            "id": "a63859385d184cd8",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "版本说明 1.11.7"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -210,7 +197,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a63859385d184cd8",
+  "active": "598b8c6ae2c0602e",
   "lastOpenFiles": [
     "未命名/JDBC+MyBatis.md",
     "未命名/文件上传功能.md",
