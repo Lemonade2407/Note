@@ -21,8 +21,24 @@
               "icon": "lucide-file",
               "title": "全局异常处理器"
             }
+          },
+          {
+            "id": "3328320542212d97",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "可视化.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "可视化"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -197,10 +213,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f18f803b9e840d37",
+  "active": "3328320542212d97",
   "lastOpenFiles": [
-    "web开发/文件上传功能.md",
     "web开发/工具/全局异常处理器.md",
+    "可视化.md",
+    "web开发/文件上传功能.md",
     "web开发/工具/分页查询PageHelper.md",
     "未命名",
     "web开发/工具",
@@ -229,7 +246,6 @@
     "数字逻辑/插图/下降沿D触发器.md",
     "数字逻辑/插图/上升沿T触发器.md",
     "数字逻辑/插图/上升沿JK触发器.md",
-    "数字逻辑/插图/mealy状态图.md",
     "数字逻辑/插图",
     "数字逻辑"
   ]
