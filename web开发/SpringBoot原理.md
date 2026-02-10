@@ -9,4 +9,5 @@
 	- 适用于有状态的Bean
 - 指定方法：@Scope("prototype")
 ## 第三方Bean
-- 启动类中第三方对象加上@Bean注解
+- 配置类中声明第三方方法加上@Bean注解，创建对象
+# SpringBoot原理
