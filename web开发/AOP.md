@@ -19,6 +19,8 @@ public class RecordTimeAspect{
 ```
 # 核心概念
 - 连接点JoinPoint：可以被AOP控制的方法
+	- @Around只能用ProceedingJoinPoint类获取连接点信息
+	- 其他通知类型只能通过JoinPoint类获取连接点信息
 - 通知Advice：重复的逻辑（体现为一个方法）
 	- @Around：目标方法前、后都被执行，返回值必须为Object
 	- @Before：目标方法前执行
@@ -40,6 +42,5 @@ public class RecordTimeAspect{
 		  public @interface LogOperation{
 		  }
 		  ```
-		
 - 切面Aspect：通知与切入点
 - 目标对象Target：通知的应用对象
