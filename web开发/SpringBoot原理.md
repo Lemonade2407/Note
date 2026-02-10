@@ -10,4 +10,3 @@
 - 指定方法：@Scope("prototype")
 ## 第三方Bean
 - 配置类中声明第三方方法加上@Bean注解，创建对象
-# SpringBoot原理
