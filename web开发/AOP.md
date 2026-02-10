@@ -31,7 +31,15 @@ public class RecordTimeAspect{
 	- 切入点表达式：决定哪些方法需要加入通知
 		- *通配单层，..通配多层
 		- execution(返回值 包名.类名.方法名(方法参数))：根据方法的签名来匹配
-		- @annotation(...)：根据注解匹配
 		- 基于接口描述，而不是实现类
+		- @annotation(...)：根据注解匹配
+		- 自定义注解，将注解标记在所需类上
+		- ```
+		  @Target(ElementType.METHOD)
+		  @Retention(RetentionPolicy.RUNTIME)
+		  public @interface LogOperation{
+		  }
+		  ```
+		
 - 切面Aspect：通知与切入点
 - 目标对象Target：通知的应用对象
