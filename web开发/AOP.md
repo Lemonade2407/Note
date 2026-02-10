@@ -32,5 +32,6 @@ public class RecordTimeAspect{
 		- *通配单层，..通配多层
 		- execution(返回值 包名.类名.方法名(方法参数))：根据方法的签名来匹配
 		- @annotation(...)：根据注解匹配
+		- 基于接口描述，而不是实现类
 - 切面Aspect：通知与切入点
 - 目标对象Target：通知的应用对象
