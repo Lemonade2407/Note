@@ -29,6 +29,8 @@ public class RecordTimeAspect{
 - 切入点PointCut：匹配连接点的条件，通知仅在切入点执行时被应用
 	- @Pointcut("切入点表达式")public void pt(){}，可以抽取公共表达式。
 	- 切入点表达式：决定哪些方法需要加入通知
-		- execution(...)：根据
+		- *通配单层，..通配多层
+		- execution(返回值 包名.类名.方法名(方法参数))：根据方法的签名来匹配
+		- @annotation(...)：根据注解匹配
 - 切面Aspect：通知与切入点
 - 目标对象Target：通知的应用对象
