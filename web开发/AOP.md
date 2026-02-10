@@ -18,8 +18,8 @@ public class RecordTimeAspect{
 }
 ```
 # 核心概念
-- 连接点JoinPoint：可以被AOP
-- 通知Advice：
+- 连接点JoinPoint：可以被AOP控制的方法
+- 通知Advice：重复的逻辑（体现为一个方法）
 - 切入点PointCut：
 - 切面Aspect：
 - 目标对象Target：
