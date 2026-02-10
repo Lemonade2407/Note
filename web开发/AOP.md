@@ -22,9 +22,9 @@ public class RecordTimeAspect{
 - 通知Advice：重复的逻辑（体现为一个方法）
 	- @Around：目标方法前、后都被执行
 	- @Before：目标方法前执行
-	- @After：
-	- @AfterReturning
-	- @AfterThrowing
+	- @After：目标方法后执行
+	- @AfterReturning：目标方法后执行，有异常不执行
+	- @AfterThrowing：异常后执行
 - 切入点PointCut：匹配连接点的条件，通知仅在切入点执行时被应用
 - 切面Aspect：通知与切入点
 - 目标对象Target：通知的应用对象
