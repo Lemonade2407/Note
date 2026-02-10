@@ -20,6 +20,6 @@ public class RecordTimeAspect{
 # 核心概念
 - 连接点JoinPoint：可以被AOP控制的方法
 - 通知Advice：重复的逻辑（体现为一个方法）
-- 切入点PointCut：
-- 切面Aspect：
-- 目标对象Target：
+- 切入点PointCut：匹配连接点的条件，通知仅在切入点执行时被应用
+- 切面Aspect：描述通知与切入点的对应关系
+- 目标对象Target：通知的应用对象
