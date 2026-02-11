@@ -42,4 +42,5 @@
 - 按功能+层分
 - 每一个部分单独创建Maven模块，在management模块中引入其他部分依赖
 # 继承
-- `<parent>...</parent>`
+- `<parent>父工程</parent>`
+- 创建parent.pom文件作为
