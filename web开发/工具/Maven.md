@@ -83,3 +83,6 @@
 	</dependencies>
 </dependencyManagement>
 ```
+# 聚合
+- 将多个模块聚合成一个整体，一起打包构建
+- 通过`<module>`
