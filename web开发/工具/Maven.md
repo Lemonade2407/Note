@@ -92,3 +92,25 @@
 </modules>
 ```
 # 私服
+1. 设置私服的访问用户名和密码（settings.xml中的servers)
+```
+<server>
+	<id>...-releases</id>
+	<username>...</username>
+	<password>...</password>
+</server>
+<server>
+	<id>...-snapshots</id>
+	<username>...</username>
+	<password>...</password>
+</server>
+```
+2. pom文件中配置上传地址
+```
+<distributionManagement>
+	<repository>
+		<id>...-releases</id>
+		<url>...</url>
+	</repository>
+</distributionManagement>
+```
