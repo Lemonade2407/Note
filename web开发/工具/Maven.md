@@ -43,13 +43,14 @@
 - 每一个部分单独创建Maven模块，在management模块中引入其他部分依赖
 # 继承
 - `<parent>父工程</parent>`
-- 创建parent.pom文件作为项目父工程
-- 父工程继承Springframework依赖
+- 创建parent模块作为项目父工程，打包方式改为pom`<packaging>pom</packaging>`
+- 子工程中配置父工程依赖
 ```
 <parent>
- <groupId>org.springframework.boot</groupId>
- <artifactId>spring-boot-starter-parent</artifactId>
+ <groupId></groupId>
+ <artifactId>parent</artifactId>
  <version>...</version>
+ <relativePath>相对路径</relativePath>
 </parent>
 
 
