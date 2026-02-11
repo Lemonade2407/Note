@@ -70,9 +70,16 @@
 	<artifactId>...</artifactId>
 </dependencies>
 ```
-- 优化：使用自定义属性
+- 优化：使用自定义属性，方便管理大量依赖
 ```
 <properties>
-
-
+	<lombok.version>1.18.30</lombok.version>
+</properties>
+<dependencyManangement>
+	<dependencies>
+		<groupId>org.projectlombok</groupId>
+		<artifactId>lombok</artifactId>
+		<version>${lombok.version}</version>
+	</dependencies>
+</dependencyManagement>
 ```
