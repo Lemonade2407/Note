@@ -56,8 +56,23 @@
 # 版本锁定
 - 在父工程中通过`<dependencyManagement>`统一管理依赖版本
 ```
+父工程
 <dependencyManangement>
 	<dependencies>
-	</d
+		<groupId>...</groupId>
+		<artifactId>...</artifactId>
+		<version>...</version>
+	</dependencies>
 </dependencyManagement>
+子工程仍需引用依赖，但无需配置版本
+<dependencies>
+	<groupId>...</groupId>
+	<artifactId>...</artifactId>
+</dependencies>
+```
+- 优化：使用自定义属性
+```
+<properties>
+
+
 ```
