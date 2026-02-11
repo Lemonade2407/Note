@@ -52,6 +52,12 @@
  <version>...</version>
  <relativePath>相对路径</relativePath>
 </parent>
-
-
+```
+# 版本锁定
+- 在父工程中通过`<dependencyManagement>`统一管理依赖版本
+```
+<dependencyManangement>
+	<dependencies>
+	</d
+</dependencyManagement>
 ```
