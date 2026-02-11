@@ -122,8 +122,28 @@
 3. 设置私服依赖下载的仓库地址（settings.xml中的mirrors、profiles中配置）
 ```
 <mirror>
-	<id>...</id>
+	<id>...-public</id>
 	<mirrorOf>...</mirrorOf>
 	<url>...</url>
 </mirror>
+
+<profile>
+	<id>...</id>
+	<activation>
+		<activeByDefault>true</activeByDefault>
+	</activation>
+	<repositories>
+		<repository>
+			<id>...-public</id>
+			<url>...</url>
+			//releases和snapshots均可访问
+			<releases>
+				<enable>true</enable>
+			</releases>
+			<snapshots>
+				<enable>true</enable>
+			</snapshots>
+		</repository>
+	</repositories>
+</profile>
 ```
