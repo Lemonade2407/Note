@@ -84,5 +84,11 @@
 </dependencyManagement>
 ```
 # 聚合
-- 将多个模块聚合成一个整体，一起打包构建
-- 通过`<module>`
+- 将多个模块聚合成一个整体，一起打包构建，一般也是父工程
+- 通过`<modules>`设置子模块名称
+```
+<modules>
+	<module>...</module>
+</modules>
+```
+# 私服
