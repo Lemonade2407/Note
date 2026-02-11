@@ -35,6 +35,7 @@
 	- package：打包
 	- install：安装项目到本地仓库
 - site：
+- deploy：上传私服
 - 删除残留文件：命令行`del /s *.lastUpdate`
 # 分模块设计
 - 按功能分
@@ -112,5 +113,17 @@
 		<id>...-releases</id>
 		<url>...</url>
 	</repository>
+	<snapshotRepository>
+		<id>...-snapshots</id>
+		<url>...</url>
+	</snapshotRepository>
 </distributionManagement>
+```
+3. 设置私服依赖下载的仓库地址（settings.xml中的mirrors、profiles中配置）
+```
+<mirror>
+	<id>...</id>
+	<mirrorOf>...</mirrorOf>
+	<url>...</url>
+</mirror>
 ```
