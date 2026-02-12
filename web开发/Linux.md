@@ -2,6 +2,7 @@
 - 格式：command 【-options选项】【parameter参数】
 - 技巧：tab自动补全，箭头调出曾用命令，clear或Ctrl+l快速清屏
 - command --help可输出指令帮助
+## 目录操作命令
 - ls：显示指定目录下的内容
 	- ls -al dir
 	- -a：显示所有文件及目录，包括隐藏文件
@@ -22,3 +23,4 @@
 	- rm -rf name
 	- -r：将目录及其中内容全部删除
 	- -f：强制删除，无需确认
+## 文件操作命令
