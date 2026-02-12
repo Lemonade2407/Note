@@ -28,3 +28,17 @@
 	- cat -n fileName
 	- -n：对行数编号（从1开始） 
 - more：以分页的形式展示文件内容
+	- more fileName
+	- tips：
+		- 回车：向下滚动一行
+		- 空格：向下滚动一屏
+		- b：返回上一屏
+		- q/Ctrl+c：退出
+- head：查看文件开头内容
+	- head -n fileName
+	- -n：输出开头n行内容
+- tail：查看文件尾部内容
+	- tail -nf fileName
+	- -n：输出末尾n行内容
+	- -f：动态读取末尾内容并展示，一般用于日志输出
+	- 
