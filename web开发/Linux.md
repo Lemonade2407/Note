@@ -10,5 +10,9 @@
 	- parameter：dir：指定目录，默认当前目录
 - cd：切换路径
 	- cd dirName
-	- option：
-		- .
+	- tips：
+		- .表示目前所在目录
+		- ..表示上一级目录
+		- ~表示home目录
+		- -表示上一次所在目录
+	- paramenter：绝对路径/相对路径
