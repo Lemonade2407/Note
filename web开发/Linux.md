@@ -5,5 +5,5 @@
 	- ls -al dir
 	- options：
 		- -a：显示所有文件及目录，包括隐藏文件
-		- -l：列出文件名、类型、权限、拥有者、大小等详细信息
-	- parameter：dir：zhidingmul，
+		- -l：列出文件名、类型、权限、拥有者、大小等详细信息，可简写为ll
+	- parameter：dir：指定目录，默认当前目录
