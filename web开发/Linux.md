@@ -80,3 +80,4 @@
 - find：查找文件
 	- dirName -option fileName
 	- -name：根据文件名查找
+- grep：文件中查找指定内容
