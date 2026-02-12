@@ -82,4 +82,5 @@
 	- -name：根据文件名查找
 - grep：文件中查找指定内容
 	- grep -inAB word fileName
-	- -i：
+	- -i：检索的关键字或略大小写
+	- -n：
