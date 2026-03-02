@@ -11,10 +11,15 @@
             "id": "770379772800760e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Python.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "Python"
             }
           }
         ]
@@ -179,6 +184,7 @@
   },
   "active": "770379772800760e",
   "lastOpenFiles": [
+    "Python.md",
     "web开发/前端/HTTP.md",
     "web开发/前端/HTML+CSS+JS.md",
     "web开发/登录校验.md",
@@ -204,7 +210,6 @@
     "web开发/AOP.md",
     "/web开发/登录校验.md",
     "/web开发/测试.md",
-    "/web开发/文件上传功能.md",
     "web开发/工具",
     "web开发/前端",
     "web开发",
