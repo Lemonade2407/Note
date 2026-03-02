@@ -41,10 +41,12 @@
 | len(x) | 返回长度 |
 #### 处理方法
 
-| 方法                      | 描述                     |
-| ----------------------- | ---------------------- |
-| str.split(sep,maxsplit) | 返回一个列表，包含str根据sep分割的部分 |
-| str.strip([chars])      | 返回str                  |
+| 方法                         | 描述                                |
+| -------------------------- | --------------------------------- |
+| str.split(sep,maxsplit)    | 返回一个列表，包含str根据sep分割的部分            |
+| str.strip(chars)           | 返回str，两侧去掉chars中列出的字符             |
+| str.center(width,fillchar) | 返回长度为width的字符串，str居中，两侧填充fillchar |
+| str.zfill(width)           | 返回长度为width的字符串，str不足部分左侧填0        |
 
 ## 注释
 - `# 单行注释`
