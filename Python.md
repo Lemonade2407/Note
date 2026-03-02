@@ -47,8 +47,9 @@
 | str.strip(chars)           | 返回str，两侧去掉chars中列出的字符             |
 | str.center(width,fillchar) | 返回长度为width的字符串，str居中，两侧填充fillchar |
 | str.zfill(width)           | 返回长度为width的字符串，str不足部分左侧填0        |
+| str.format()               | str中用占位符{顺序编号}占位，方法中参数按顺序填充       |
 
-## 注释
+### 注释
 - `# 单行注释`
 - ```
   ` ` ` 
@@ -58,24 +59,6 @@
   释
   ` ` ` 
   ```
-
-## 赋值
-- 同步赋值:`x,y=y,x`
-## input()函数
-- 字符串 ＝ input(提示文字)
-## 分支语句
-```
-if 条件1:
-	语句块1
-elseif 条件2:
-	语句块2
-else:
-	语句块n
-```
-## eval()函数
-- 将输入的字符串转变为Python语句并执行
-- eval(输入字符串)
-- 若想输出字符串则需再套一层“”
-## 
+##
 # turtle库
 - 图形绘制函数库
