@@ -37,8 +37,7 @@
               "title": "数据库原理"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -198,10 +197,10 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "a959831175107ba6",
+  "active": "770379772800760e",
   "lastOpenFiles": [
-    "MySQL.md",
     "数据库原理.md",
+    "MySQL.md",
     "Python.md",
     "web开发/前端/HTTP.md",
     "web开发/前端/HTML+CSS+JS.md",
