@@ -256,4 +256,3 @@ SQL语句中嵌套SELECT语句，称为嵌套查询
 | read committed      | ✕         | ✓     | ✓   |
 | repeatable read（默认） | ✕         | ✕     | ✓   |
 | serializable        | ✕         | ✕     | ✕   |
-# 
