@@ -148,7 +148,11 @@ def 函数名(参数):
 | `变量名.read(size)`      | 读入前size长度的内容    |
 | `变量名.readline(size)`  | 读入一行前size长度的内容  |
 | `变量名.readlines(hint)` | 读入hint/所有行，返回列表 |
-
+常用逐行处理
+```
+for line in file
+	print(line)
+```
 # 常用库
 ## math库
 - 整数、小数计算函数库
@@ -160,3 +164,6 @@ def 函数名(参数):
 - 以不同格式显示日期和时间
 ## jieba库
 - 中文分词函数库
+## PIL库
+- 图像归档和图像处理
+- 
