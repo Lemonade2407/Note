@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MySQL.md",
+                "file": "Python.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "MySQL"
+              "title": "Python"
             }
           },
           {
@@ -199,8 +199,8 @@
   },
   "active": "770379772800760e",
   "lastOpenFiles": [
-    "数据库原理.md",
     "MySQL.md",
+    "数据库原理.md",
     "Python.md",
     "web开发/前端/HTTP.md",
     "web开发/前端/HTML+CSS+JS.md",
