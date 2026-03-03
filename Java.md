@@ -7,3 +7,10 @@
 # 接口
 - interface关键字
 - 接口内变量默认public、static、final，方法默认public、abstract
+## 扩展接口
+- 创建子方法，增加方法
+```
+interface 子方法 extends 父方法{
+	新增方法
+}
+```
