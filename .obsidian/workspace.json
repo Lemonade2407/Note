@@ -23,15 +23,18 @@
             }
           },
           {
-            "id": "80a5fca867f8755e",
+            "id": "1d46ec209bcca9de",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.12.4"
+                "file": "计算机组成原理.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-book-up",
-              "title": "版本说明 1.12.4"
+              "icon": "lucide-file",
+              "title": "计算机组成原理"
             }
           }
         ],
@@ -210,11 +213,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "80a5fca867f8755e",
+  "active": "1d46ec209bcca9de",
   "lastOpenFiles": [
+    "数据库原理.md",
+    "计算机组成原理.md",
     "Python.md",
     "Java.md",
-    "数据库原理.md",
     "web开发/接口文档.md",
     "web开发/Docker.md",
     "web开发/Linux.md",
@@ -241,7 +245,6 @@
     "web开发/JDBC+MyBatis.md",
     "web开发/工具/日志 logback.md",
     "web开发",
-    "MySQL.md",
     "前端三件套",
     "数字逻辑/插图",
     "数字逻辑"
