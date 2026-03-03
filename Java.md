@@ -4,3 +4,6 @@
 - final类不能派生子类
 - final方法不能重写
 - final变量无法修改
+# 接口
+- interface关键字
+- 接口内变量默认public、static、final，方法默认public、abstract
