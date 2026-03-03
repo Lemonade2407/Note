@@ -191,8 +191,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c99a96d9afc69df8",
+  "active": "5d6e7461581c7851",
   "lastOpenFiles": [
+    "数据库原理.md",
+    "Python.md",
+    "Java.md",
     "web开发/接口文档.md",
     "web开发/Docker.md",
     "web开发/Linux.md",
@@ -221,9 +224,6 @@
     "web开发",
     "MySQL.md",
     "前端三件套",
-    "离散数学.md",
-    "数字逻辑/插图/逻辑代数基本运算.md",
-    "数字逻辑/插图/译码器74LS138.md",
     "数字逻辑/插图",
     "数字逻辑"
   ]
