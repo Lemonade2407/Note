@@ -4,37 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "41e5069fc1c3df15",
+        "id": "896c91a50c9ebf5f",
         "type": "tabs",
         "children": [
           {
-            "id": "476239b9f6c6c0a2",
+            "id": "a959831175107ba6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名/日志 logback.md",
+                "file": "数据库原理.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "日志 logback"
-            }
-          },
-          {
-            "id": "d624792fc308bc0f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "未命名/日志 logback.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "日志 logback"
+              "title": "数据库原理"
             }
           }
         ]
@@ -185,61 +170,62 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:新建数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:创建新数据库": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "476239b9f6c6c0a2",
+  "active": "a959831175107ba6",
   "lastOpenFiles": [
-    "未命名/分层解耦.md",
-    "未命名/日志 logback.md",
-    "未命名 1",
-    "未命名/JDBC+MyBatis.md",
-    "离散数学.md",
-    "未命名/Vue.md",
-    "未命名/Maven+测试.md",
-    "未命名/HTTP.md",
-    "未命名/HTML+CSS+JS.md",
-    "未命名/Ajax.md",
-    "/未命名/分层解耦.md",
-    "/未命名/Vue.md",
-    "/未命名/Maven+测试.md",
-    "/未命名/JDBC+MyBatis.md",
-    "/未命名/HTTP.md",
-    "/未命名/HTML+CSS+JS.md",
-    "/未命名/Ajax.md",
-    "数字逻辑.md",
-    "/数字逻辑.md",
+    "Java.md",
+    "Python.md",
     "未命名",
+    "数据库原理.md",
+    "MySQL.md",
+    "web开发/前端/HTTP.md",
+    "web开发/前端/HTML+CSS+JS.md",
+    "web开发/登录校验.md",
+    "web开发/测试.md",
+    "web开发/文件上传功能.md",
+    "web开发/接口文档.md",
+    "web开发/工具/日志 logback.md",
+    "web开发/工具/可视化.md",
+    "web开发/工具/分页查询PageHelper.md",
+    "web开发/工具/ThreadLocal.md",
+    "web开发/工具/Spring事务.md",
+    "web开发/工具/Maven.md",
+    "web开发/前端/Vue.md",
+    "/web开发/前端/HTTP.md",
+    "/web开发/前端/HTML+CSS+JS.md",
+    "web开发/分层解耦.md",
+    "web开发/全局异常处理器.md",
+    "web开发/SpringBoot原理.md",
+    "web开发/Linux.md",
+    "web开发/JDBC+MyBatis.md",
+    "web开发/Docker.md",
+    "web开发/Ajax.md",
+    "web开发/工具",
+    "web开发/前端",
+    "web开发",
+    "/web开发/工具",
+    "/web开发/前端",
+    "/web开发",
     "/未命名",
+    "未命名 1",
     "/数字逻辑/插图",
-    "/数字逻辑",
-    "概率论与数理统计.md",
-    "数字逻辑/数字逻辑.md",
-    "数字逻辑/插图/数值比较器74LS85.md",
-    "数字逻辑/插图/下降沿D触发器.md",
-    "数字逻辑/插图/上升沿JK触发器.md",
-    "数字逻辑/插图/逻辑代数基本运算.md",
-    "数字逻辑/插图/逻辑代数复合运算.md",
-    "数字逻辑/插图/移位寄存器74LS194.md",
     "Screenshot_2025-12-10-21-18-29-25_a935a6faaffa07c582f2c3acde62ae6b.jpg",
     "离散数学/插图/集合运算.jpg",
     "离散数学/插图/常见集合.jpg",
     "离散数学/插图/谓词公式.jpg",
     "作用域的扩张与收缩.jpg",
-    "离散数学/插图",
-    "离散数学",
     "离散数学/插图/命题定理.jpg",
-    "数字逻辑/插图",
-    "数字逻辑",
     "未命名.canvas"
   ]
 }

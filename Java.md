@@ -1,0 +1,16 @@
+# super关键字
+- 实现对父类方法的访问
+# final关键字
+- final类不能派生子类
+- final方法不能重写
+- final变量无法修改
+# 接口
+- interface关键字
+- 接口内变量默认public、static、final，方法默认public、abstract
+## 扩展接口
+- 创建子方法，增加方法
+```
+interface 子方法 extends 父方法{
+	新增方法
+}
+```
