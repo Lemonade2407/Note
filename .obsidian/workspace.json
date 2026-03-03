@@ -11,15 +11,10 @@
             "id": "875dd6ad12b88a25",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "web开发/接口文档.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "接口文档"
+              "title": "新标签页"
             }
           }
         ]
@@ -180,8 +175,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,7 +191,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "875dd6ad12b88a25",
+  "active": "c99a96d9afc69df8",
   "lastOpenFiles": [
     "web开发/接口文档.md",
     "web开发/Docker.md",
