@@ -4,25 +4,38 @@
     "type": "split",
     "children": [
       {
-        "id": "32289e20e08fa5de",
+        "id": "42c7758fa646a8ec",
         "type": "tabs",
         "children": [
           {
-            "id": "1d46ec209bcca9de",
+            "id": "50aa2a7cd68a53c4",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "计算机组成原理 (艾伦·克莱门茨 (Alan Clem_ (z-library.sk, 1lib.sk, z-lib.sk).pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "计算机组成原理 (艾伦·克莱门茨 (Alan Clem_ (z-library.sk, 1lib.sk, z-lib.sk)"
+            }
+          },
+          {
+            "id": "9453759cfbcb394a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据库原理.md",
+                "file": "计算机组成原理.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "数据库原理"
+              "title": "计算机组成原理"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -79,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "1cbf698e3cf52978",
@@ -197,10 +211,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1d46ec209bcca9de",
+  "active": "9453759cfbcb394a",
   "lastOpenFiles": [
+    "计算机组成原理 (艾伦·克莱门茨 (Alan Clem_ (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+    "算法设计与分析 (第3版) (屈婉玲 刘田 张立昂 王捍贫) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+    "数据结构 用面向对象方法与C++语言描述 第3版 (陈晨125车南大学) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+    "未命名.md",
     "计算机组成原理.md",
+    "MySQL.md",
+    "C++ STL.md",
+    "未命名",
+    "web开发/工具/Maven.md",
+    "web开发/分层解耦.md",
+    "数据结构.md",
+    "算法.md",
     "数据库原理.md",
+    "数据库系统概论  第6版_9787040591255   _ 15274809.pdf",
     "Python.md",
     "Java.md",
     "web开发/接口文档.md",
@@ -208,10 +234,8 @@
     "web开发/Linux.md",
     "web开发/前端/Vue.md",
     "web开发/全局异常处理器.md",
-    "web开发/分层解耦.md",
     "web开发/测试.md",
     "web开发/SpringBoot原理.md",
-    "web开发/工具/Maven.md",
     "web开发/工具/可视化.md",
     "web开发/工具/Spring事务.md",
     "概率论与数理统计.md",
@@ -219,18 +243,10 @@
     "web开发/AOP.md",
     "web开发/登录校验.md",
     "web开发/文件上传功能.md",
-    "web开发/工具/分页查询PageHelper.md",
-    "未命名",
     "web开发/工具",
-    "web开发/前端/HTTP.md",
     "web开发/前端",
-    "web开发/前端/HTML+CSS+JS.md",
-    "web开发/Ajax.md",
-    "web开发/JDBC+MyBatis.md",
-    "web开发/工具/日志 logback.md",
     "web开发",
     "前端三件套",
-    "数字逻辑/插图",
-    "数字逻辑"
+    "数字逻辑/插图"
   ]
 }
