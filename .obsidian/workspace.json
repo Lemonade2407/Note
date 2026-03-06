@@ -4,22 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "42c7758fa646a8ec",
+        "id": "efc8cae9182699b4",
         "type": "tabs",
         "children": [
           {
-            "id": "9453759cfbcb394a",
+            "id": "552b2236391deffc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "计算机组成原理.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "数据结构 用面向对象方法与C++语言描述 第3版 (陈晨125车南大学) (z-library.sk, 1lib.sk, z-lib.sk).pdf"
               },
-              "icon": "lucide-file",
-              "title": "计算机组成原理"
+              "icon": "lucide-file-text",
+              "title": "数据结构 用面向对象方法与C++语言描述 第3版 (陈晨125车南大学) (z-library.sk, 1lib.sk, z-lib.sk)"
             }
           }
         ]
@@ -79,8 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "1cbf698e3cf52978",
@@ -198,19 +194,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9453759cfbcb394a",
+  "active": "552b2236391deffc",
   "lastOpenFiles": [
+    "数据结构.md",
+    "计算机组成原理.md",
     "计算机组成原理 (艾伦·克莱门茨 (Alan Clem_ (z-library.sk, 1lib.sk, z-lib.sk).pdf",
     "算法设计与分析 (第3版) (屈婉玲 刘田 张立昂 王捍贫) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
     "数据结构 用面向对象方法与C++语言描述 第3版 (陈晨125车南大学) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
     "未命名.md",
-    "计算机组成原理.md",
     "MySQL.md",
     "C++ STL.md",
     "未命名",
     "web开发/工具/Maven.md",
     "web开发/分层解耦.md",
-    "数据结构.md",
     "算法.md",
     "数据库原理.md",
     "数据库系统概论  第6版_9787040591255   _ 15274809.pdf",
