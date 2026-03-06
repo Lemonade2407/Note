@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "50aa2a7cd68a53c4",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "计算机组成原理 (艾伦·克莱门茨 (Alan Clem_ (z-library.sk, 1lib.sk, z-lib.sk).pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "计算机组成原理 (艾伦·克莱门茨 (Alan Clem_ (z-library.sk, 1lib.sk, z-lib.sk)"
-            }
-          },
-          {
             "id": "9453759cfbcb394a",
             "type": "leaf",
             "state": {
@@ -34,8 +22,7 @@
               "title": "计算机组成原理"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
