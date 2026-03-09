@@ -4,29 +4,32 @@
     "type": "split",
     "children": [
       {
-        "id": "842d68a0a4ecd3f9",
+        "id": "3c9374035e03a973",
         "type": "tabs",
         "children": [
           {
-            "id": "723f9daef42635d2",
+            "id": "d000e3f102167d02",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "计算机组成原理 (艾伦·克莱门茨 (Alan Clem_ (z-library.sk, 1lib.sk, z-lib.sk).pdf"
+                "file": "数据库系统概论.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-file-text",
-              "title": "计算机组成原理 (艾伦·克莱门茨 (Alan Clem_ (z-library.sk, 1lib.sk, z-lib.sk)"
+              "icon": "lucide-file",
+              "title": "数据库系统概论"
             }
           }
         ]
       },
       {
-        "id": "72886d7d2ba9c2ea",
+        "id": "0bafbe38b5d0ef29",
         "type": "tabs",
         "children": [
           {
-            "id": "fb38b3ef44ac4580",
+            "id": "ff705f2b5887c293",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -212,16 +215,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "723f9daef42635d2",
+  "active": "d000e3f102167d02",
   "lastOpenFiles": [
+    "数据库系统概论  第6版_9787040591255   _ 15274809.pdf",
     "数据库系统概论.md",
+    "计算机组成原理第3版 (唐朔飞) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+    "计算机组成原理 (艾伦·克莱门茨 (Alan Clem_ (z-library.sk, 1lib.sk, z-lib.sk).pdf",
     "MySQL.md",
     "离散数学.md",
-    "数据库系统概论  第6版_9787040591255   _ 15274809.pdf",
     "数据结构 用面向对象方法与C++语言描述 第3版 (陈晨125车南大学) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
     "数据结构(C++).md",
     "计算机组成原理.md",
-    "计算机组成原理 (艾伦·克莱门茨 (Alan Clem_ (z-library.sk, 1lib.sk, z-lib.sk).pdf",
     "算法设计与分析 (第3版) (屈婉玲 刘田 张立昂 王捍贫) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
     "未命名.md",
     "C++ STL.md",
@@ -244,11 +248,9 @@
     "web开发/工具/ThreadLocal.md",
     "web开发/AOP.md",
     "web开发/登录校验.md",
-    "web开发/文件上传功能.md",
     "web开发/工具",
     "web开发/前端",
     "web开发",
-    "前端三件套",
-    "数字逻辑/插图"
+    "前端三件套"
   ]
 }
