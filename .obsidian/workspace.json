@@ -231,8 +231,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ef080b084267988c",
+  "active": "fb38b3ef44ac4580",
   "lastOpenFiles": [
+    "数据库原理.md",
     "数据结构 用面向对象方法与C++语言描述 第3版 (陈晨125车南大学) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
     "数据库系统概论  第6版_9787040591255   _ 15274809.pdf",
     "MySQL.md",
@@ -246,7 +247,6 @@
     "web开发/工具/Maven.md",
     "web开发/分层解耦.md",
     "算法.md",
-    "数据库原理.md",
     "Python.md",
     "Java.md",
     "web开发/接口文档.md",
