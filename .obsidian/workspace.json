@@ -21,21 +21,26 @@
               "icon": "lucide-file",
               "title": "计算机组成原理"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "b45f9315135fd475",
+        "type": "tabs",
+        "children": [
           {
-            "id": "5d53a23b86f754ec",
+            "id": "ebaaab6a09acb317",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "数据结构 用面向对象方法与C++语言描述 第3版 (陈晨125车南大学) (z-library.sk, 1lib.sk, z-lib.sk).pdf"
+                "file": "计算机组成原理第3版 (唐朔飞) (z-library.sk, 1lib.sk, z-lib.sk).pdf"
               },
               "icon": "lucide-file-text",
-              "title": "数据结构 用面向对象方法与C++语言描述 第3版 (陈晨125车南大学) (z-library.sk, 1lib.sk, z-lib.sk)"
+              "title": "计算机组成原理第3版 (唐朔飞) (z-library.sk, 1lib.sk, z-lib.sk)"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -210,17 +215,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5d53a23b86f754ec",
+  "active": "d000e3f102167d02",
   "lastOpenFiles": [
+    "计算机组成原理第3版 (唐朔飞) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
     "计算机组成原理.md",
+    "数据结构 用面向对象方法与C++语言描述 第3版 (陈晨125车南大学) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
     "web开发/前端/Vue.md",
     "数据库系统概论.md",
     "数据库系统概论  第6版_9787040591255   _ 15274809.pdf",
-    "计算机组成原理第3版 (唐朔飞) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
     "计算机组成原理 (艾伦·克莱门茨 (Alan Clem_ (z-library.sk, 1lib.sk, z-lib.sk).pdf",
     "MySQL.md",
     "离散数学.md",
-    "数据结构 用面向对象方法与C++语言描述 第3版 (陈晨125车南大学) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
     "数据结构(C++).md",
     "算法设计与分析 (第3版) (屈婉玲 刘田 张立昂 王捍贫) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
     "未命名.md",
