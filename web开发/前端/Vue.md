@@ -41,3 +41,7 @@
 6.update
 7.beforeUnmount
 8.unmounted
+# 工程化
+1. 创建项目：`npm create vue`
+2. 安装依赖：`npm install`
+3. 启动：`npm run dev`

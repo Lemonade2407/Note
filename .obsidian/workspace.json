@@ -13,31 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据库系统概论.md",
+                "file": "web开发/前端/Vue.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "数据库系统概论"
-            }
-          }
-        ]
-      },
-      {
-        "id": "0bafbe38b5d0ef29",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ff705f2b5887c293",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "数据库系统概论  第6版_9787040591255   _ 15274809.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "数据库系统概论  第6版_9787040591255   _ 15274809"
+              "title": "Vue"
             }
           }
         ]
@@ -217,8 +199,8 @@
   },
   "active": "d000e3f102167d02",
   "lastOpenFiles": [
-    "数据库系统概论  第6版_9787040591255   _ 15274809.pdf",
     "数据库系统概论.md",
+    "数据库系统概论  第6版_9787040591255   _ 15274809.pdf",
     "计算机组成原理第3版 (唐朔飞) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
     "计算机组成原理 (艾伦·克莱门茨 (Alan Clem_ (z-library.sk, 1lib.sk, z-lib.sk).pdf",
     "MySQL.md",
