@@ -199,6 +199,9 @@
   },
   "active": "ebaaab6a09acb317",
   "lastOpenFiles": [
+    "web开发/前端/HTTP.md",
+    "web开发/前端/HTML+CSS+JS.md",
+    "web开发/前端/Vue.md",
     "408/计算机组成原理/计算机组成原理.md",
     "408/计算机组成原理/计算机组成原理第3版 (唐朔飞) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
     "408/计算机组成原理/插图/异步通信三种方式.png",
@@ -219,7 +222,6 @@
     "未命名.md",
     "408/计算机组成原理",
     "数据结构 用面向对象方法与C++语言描述 第3版 (陈晨125车南大学) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
-    "web开发/前端/Vue.md",
     "数据库系统概论.md",
     "数据库系统概论  第6版_9787040591255   _ 15274809.pdf",
     "计算机组成原理 (艾伦·克莱门茨 (Alan Clem_ (z-library.sk, 1lib.sk, z-lib.sk).pdf",
@@ -242,7 +244,6 @@
     "web开发/工具/Spring事务.md",
     "数学/概率论与数理统计.md",
     "web开发/工具/ThreadLocal.md",
-    "web开发/AOP.md",
-    "web开发/登录校验.md"
+    "web开发/AOP.md"
   ]
 }
