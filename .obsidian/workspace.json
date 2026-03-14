@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "web开发/文件上传功能.md",
+                "file": "web开发/登录校验JWT.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "文件上传功能"
+              "title": "登录校验JWT"
             }
           }
         ]
@@ -199,6 +199,7 @@
   },
   "active": "ebaaab6a09acb317",
   "lastOpenFiles": [
+    "web开发/文件上传功能.md",
     "web开发/全局异常处理器.md",
     "web开发/登录校验JWT.md",
     "web开发/JDBC+MyBatis.md",
@@ -243,7 +244,6 @@
     "web开发/测试.md",
     "web开发/SpringBoot原理.md",
     "web开发/工具/可视化.md",
-    "web开发/工具/Spring事务.md",
-    "数学/概率论与数理统计.md"
+    "web开发/工具/Spring事务.md"
   ]
 }
