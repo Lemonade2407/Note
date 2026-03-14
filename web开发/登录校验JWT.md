@@ -65,14 +65,7 @@ public Result session2(HttpSession session){
 - JSON Web Token
 - 组成：
 	- Header（头）：记录令牌类型、签名算法等
-		- Authorization：客户端向服务器发送认证信息
-		- WWW-Authenticate：服务器要求客户端认证
-		- Proxy-Authenticate：代理服务器要求认证
-		- Proxy-Authorization：向代理服务器发送认证
-	- 前缀：
-		- 
 	- Payload（有效载荷）：携带信息
-		- 
 	- Signature（签名）：融入前两部分和密钥，经算法得来
 - 生成/解析：引入jjwt依赖
 ### 令牌校验
