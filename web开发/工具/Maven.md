@@ -61,6 +61,9 @@
 	- 作用：
 		 - 自动生成 getter/setter/toString 等方法
 - JWT Token 认证
+	- ```
+	  
+	  ```
 # 生命周期
 - clean：清理之前操作的残余文件
 - default：核心
