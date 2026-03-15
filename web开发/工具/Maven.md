@@ -27,7 +27,19 @@
 | provided    | √     | √      |          |
 | runtime     |       | √      | √        |
 ## 常用依赖及其作用
-- lombook：
+- SpringBoot
+	- ```
+	  <!-- Spring Boot Web -->
+<dependency>
+    <groupId>org.springframework.boot</groupId>
+    <artifactId>spring-boot-starter-web</artifactId>
+</dependency>
+	  ```
+	  - 作用：
+		  - 提供 Web 开发的基础功能
+		  - 内置 Tomcat 服务器
+		  - 支持 RESTful API
+		  - 自动配置 Spring MVC
 
 # 生命周期
 - clean：清理之前操作的残余文件
