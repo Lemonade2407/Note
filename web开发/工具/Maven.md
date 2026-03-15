@@ -29,18 +29,27 @@
 ## 常用依赖及其作用
 - SpringBoot
 	- ```
-	  <!-- Spring Boot Web -->
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-web</artifactId>
 </dependency>
 	  ```
-	  - 作用：
-		  - 提供 Web 开发的基础功能
-		  - 内置 Tomcat 服务器
+	- 作用：
+		 - 提供 Web 开发的基础功能
+		 - 内置 Tomcat 服务器
 		  - 支持 RESTful API
 		  - 自动配置 Spring MVC
-
+- MyBatis
+	- ```
+	  <dependency>
+    <groupId>org.mybatis.spring.boot</groupId>
+    <artifactId>mybatis-spring-boot-starter</artifactId>
+</dependency>
+	  ```
+	- 作用：
+✅ 简化数据库操作
+✅ SQL 与代码分离（XML 映射文件）
+✅ 自动将数据库字段映射到 Java 对象
 # 生命周期
 - clean：清理之前操作的残余文件
 - default：核心
