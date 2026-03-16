@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "高级编程语言/Python.md",
+                "file": "web开发/分层解耦.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Python"
+              "title": "分层解耦"
             }
           }
         ]
@@ -197,19 +197,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c99a96d9afc69df8",
+  "active": "ebaaab6a09acb317",
   "lastOpenFiles": [
+    "web开发/前端/HTML+CSS+JS.md",
+    "web开发/前端/Vue.md",
+    "高级编程语言/Python.md",
     "web开发/登录校验JWT.md",
     "web开发/JDBC+MyBatis.md",
     "web开发/SpringBoot原理.md",
     "web开发/Linux.md",
     "web开发/测试.md",
-    "web开发/前端/HTML+CSS+JS.md",
     "web开发/工具/Maven.md",
     "web开发/HTTP.md",
     "web开发/文件上传功能.md",
     "web开发/全局异常处理器.md",
-    "web开发/前端/Vue.md",
     "408/计算机组成原理/计算机组成原理.md",
     "408/计算机组成原理/计算机组成原理第3版 (唐朔飞) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
     "408/计算机组成原理/插图/异步通信三种方式.png",
@@ -239,7 +240,6 @@
     "高级编程语言/C++ STL.md",
     "web开发/分层解耦.md",
     "算法.md",
-    "高级编程语言/Python.md",
     "高级编程语言/Java.md",
     "web开发/接口文档.md",
     "web开发/Docker.md",
