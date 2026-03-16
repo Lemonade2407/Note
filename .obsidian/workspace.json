@@ -11,15 +11,12 @@
             "id": "ebaaab6a09acb317",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "数据库系统概论.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "SQL数据类型.png"
               },
-              "icon": "lucide-file",
-              "title": "数据库系统概论"
+              "icon": "lucide-image",
+              "title": "SQL数据类型"
             }
           }
         ]
@@ -215,10 +212,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ebaaab6a09acb317",
+  "active": "c99a96d9afc69df8",
   "lastOpenFiles": [
-    "数据库系统概论  第6版_9787040591255   _ 15274809.pdf",
+    "未命名",
     "数据库系统概论.md",
+    "SQL数据类型.png",
+    "数据库系统概论  第6版_9787040591255   _ 15274809.pdf",
     "web开发/分层解耦.md",
     "web开发/前端/HTML+CSS+JS.md",
     "web开发/前端/Vue.md",
@@ -247,7 +246,6 @@
     "408/计算机组成原理/插图/三总线结构.png",
     "408/计算机组成原理/插图/双总线结构.png",
     "Pasted image 20260310141509.png",
-    "408/计算机组成原理/插图/以存储器为中心的计算机结构框图.png",
     "408/计算机组成原理/插图",
     "未命名.md",
     "408/计算机组成原理",
