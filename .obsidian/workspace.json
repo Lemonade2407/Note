@@ -23,24 +23,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "ff984fbc86b4688f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "6d570ca3a2e51dd8",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "计算机基础知识/算法设计与分析 (第3版) (屈婉玲 刘田 张立昂 王捍贫) (z-library.sk, 1lib.sk, z-lib.sk).pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "算法设计与分析 (第3版) (屈婉玲 刘田 张立昂 王捍贫) (z-library.sk, 1lib.sk, z-lib.sk)"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "1cbf698e3cf52978",
@@ -218,8 +201,8 @@
   "active": "d8e71d4e4eb80e4c",
   "lastOpenFiles": [
     "计算机基础知识/算法设计与分析 (第3版) (屈婉玲 刘田 张立昂 王捍贫) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
-    "计算机基础知识/计算机组成原理/计算机组成原理第3版 (唐朔飞) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
     "计算机基础知识/算法设计与分析.md",
+    "计算机基础知识/计算机组成原理/计算机组成原理第3版 (唐朔飞) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
     "计算机基础知识/计算机组成原理/计算机组成原理.md",
     "web开发/工具/分页查询PageHelper.md",
     "web开发/登录校验JWT.md",
@@ -257,7 +240,6 @@
     "Pasted image 20260310141509.png",
     "计算机基础知识/计算机组成原理/插图",
     "计算机基础知识/计算机组成原理",
-    "计算机基础知识/数据结构 用面向对象方法与C++语言描述 第3版 (陈晨125车南大学) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
     "计算机基础知识/MySQL.md",
     "数学/离散数学.md",
     "高级编程语言/C++ STL.md",
