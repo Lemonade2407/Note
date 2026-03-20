@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数学/概率论与数理统计.md",
+                "file": "计算机基础知识/算法设计与分析.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "概率论与数理统计"
+              "title": "算法设计与分析"
             }
           }
         ]
@@ -79,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "1cbf698e3cf52978",
@@ -197,8 +198,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c99a96d9afc69df8",
+  "active": "d8e71d4e4eb80e4c",
   "lastOpenFiles": [
+    "数学/概率论与数理统计.md",
     "数学/离散数学.md",
     "计算机基础知识/算法设计与分析.md",
     "计算机基础知识/算法设计与分析 (第3版) (屈婉玲 刘田 张立昂 王捍贫) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
