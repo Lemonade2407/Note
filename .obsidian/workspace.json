@@ -8,18 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4b872cd7af246b61",
+            "id": "d8e71d4e4eb80e4c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机基础知识/计算机组成原理/计算机组成原理.md",
+                "file": "计算机基础知识/算法设计与分析.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "计算机组成原理"
+              "title": "算法设计与分析"
             }
           }
         ]
@@ -34,10 +34,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "计算机基础知识/计算机组成原理/计算机组成原理第3版 (唐朔飞) (z-library.sk, 1lib.sk, z-lib.sk).pdf"
+                "file": "计算机基础知识/算法设计与分析 (第3版) (屈婉玲 刘田 张立昂 王捍贫) (z-library.sk, 1lib.sk, z-lib.sk).pdf"
               },
               "icon": "lucide-file-text",
-              "title": "计算机组成原理第3版 (唐朔飞) (z-library.sk, 1lib.sk, z-lib.sk)"
+              "title": "算法设计与分析 (第3版) (屈婉玲 刘田 张立昂 王捍贫) (z-library.sk, 1lib.sk, z-lib.sk)"
             }
           }
         ]
@@ -215,9 +215,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4b872cd7af246b61",
+  "active": "d8e71d4e4eb80e4c",
   "lastOpenFiles": [
+    "计算机基础知识/算法设计与分析 (第3版) (屈婉玲 刘田 张立昂 王捍贫) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
     "计算机基础知识/计算机组成原理/计算机组成原理第3版 (唐朔飞) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+    "计算机基础知识/算法设计与分析.md",
     "计算机基础知识/计算机组成原理/计算机组成原理.md",
     "web开发/工具/分页查询PageHelper.md",
     "web开发/登录校验JWT.md",
@@ -254,7 +256,6 @@
     "计算机基础知识/计算机组成原理/插图/双总线结构.png",
     "Pasted image 20260310141509.png",
     "计算机基础知识/计算机组成原理/插图",
-    "未命名.md",
     "计算机基础知识/计算机组成原理",
     "计算机基础知识/数据结构 用面向对象方法与C++语言描述 第3版 (陈晨125车南大学) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
     "计算机基础知识/MySQL.md",
