@@ -1,25 +1,25 @@
 {
   "main": {
-    "id": "bf87bb41ad8e09fe",
+    "id": "9d9658710fc6010e",
     "type": "split",
     "children": [
       {
-        "id": "896c91a50c9ebf5f",
+        "id": "b8610cfc27a3c7b6",
         "type": "tabs",
         "children": [
           {
-            "id": "a959831175107ba6",
+            "id": "b71d2033f5c54134",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据库原理.md",
+                "file": "计算机基础知识/计算机组成原理/计算机组成原理.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "数据库原理"
+              "title": "计算机组成原理"
             }
           }
         ]
@@ -28,11 +28,11 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "db9ebdb6b0cba2d7",
+    "id": "8fa6d25aa4bb8090",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "616cc73dc8532d4b",
+        "id": "bc020e8fcb3ceefe",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -45,7 +45,7 @@
         }
       },
       {
-        "id": "7c93e8886e26ad45",
+        "id": "99e4f50dfc7a2633",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -62,7 +62,7 @@
         }
       },
       {
-        "id": "5e4644e35d4c753a",
+        "id": "b2b5decba7257e01",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -77,7 +77,7 @@
         }
       },
       {
-        "id": "6e3c15f0fad8d2fc",
+        "id": "07217bf772fadd20",
         "type": "leaf",
         "state": {
           "type": "all-properties",
@@ -91,7 +91,7 @@
         }
       },
       {
-        "id": "af3fbc8309d086b7",
+        "id": "5fa84a2bd95afd3a",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -104,16 +104,15 @@
     "currentTab": 0
   },
   "right": {
-    "id": "fb2e8c4a6d32ec34",
+    "id": "6c3a7ce2c3f2c49d",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "7cccb5792c8d748c",
+        "id": "754f923e0f7bfca4",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "MySQL.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -127,12 +126,11 @@
         }
       },
       {
-        "id": "67023f6579dba13c",
+        "id": "da261b0659e992c2",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "MySQL.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -141,12 +139,11 @@
         }
       },
       {
-        "id": "c529179ace493506",
+        "id": "e11b4cfd62d5afd2",
         "type": "leaf",
         "state": {
           "type": "outline",
           "state": {
-            "file": "MySQL.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -154,50 +151,57 @@
           "icon": "lucide-list",
           "title": "大纲"
         }
-      },
-      {
-        "id": "64fc100c562122d5",
-        "type": "leaf",
-        "state": {
-          "type": "git-view",
-          "state": {},
-          "icon": "git-pull-request",
-          "title": "Source Control"
-        }
       }
     ],
-    "currentTab": 3
+    "currentTab": 0
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:新建数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "markdown-importer:打开 Markdown 格式转换器": false
+      "bases:新建数据库": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a959831175107ba6",
+  "active": "b71d2033f5c54134",
   "lastOpenFiles": [
-    "计算机组成原理.md",
-    "/计算机组成原理.md",
-    "/web开发",
-    "Java.md",
-    "Python.md",
-    "未命名",
-    "数据库原理.md",
-    "MySQL.md",
-    "web开发/前端/HTTP.md",
-    "web开发/前端/HTML+CSS+JS.md",
-    "web开发/登录校验.md",
-    "web开发/测试.md",
-    "web开发/文件上传功能.md",
-    "web开发/接口文档.md",
+    "高级编程语言/Python.md",
+    "高级编程语言/Java.md",
+    "高级编程语言/C++ STL.md",
+    "高级编程语言",
+    "计算机基础知识/软件工程导论/图片/顺序图.png",
+    "计算机基础知识/软件工程导论/图片/过程模型对比.png",
+    "计算机基础知识/软件工程导论/图片/螺旋模型.png",
+    "计算机基础知识/软件工程导论/图片/类图.png",
+    "计算机基础知识/软件工程导论/图片/用例图.png",
+    "计算机基础知识/软件工程导论/图片/瀑布模型.png",
+    "计算机基础知识/软件工程导论/图片/活动图.png",
+    "计算机基础知识/软件工程导论/图片/敏捷开发.png",
+    "计算机基础知识/软件工程导论/图片/快速原型模型.png",
+    "计算机基础知识/软件工程导论/图片/增量开发模型.png",
+    "计算机基础知识/软件工程导论/软件工程导论.md",
+    "计算机基础知识/软件工程导论/图片",
+    "计算机基础知识/计算机组成原理/计算机组成原理.md",
+    "计算机基础知识/计算机组成原理/插图",
+    "计算机基础知识/数据库系统概论/数据库系统概论.md",
+    "计算机基础知识/数据库系统概论/图片",
+    "计算机基础知识/软件工程导论",
+    "计算机基础知识/计算机组成原理",
+    "计算机基础知识/算法设计与分析.md",
+    "计算机基础知识/算法.md",
+    "计算机基础知识/数据结构(C++).md",
+    "计算机基础知识/数据库系统概论",
+    "计算机基础知识/数字逻辑.md",
+    "计算机基础知识/MySQL.md",
+    "计算机基础知识",
+    "数学/离散数学.md",
+    "数学/概率论与数理统计.md",
+    "数学",
     "web开发/工具/日志 logback.md",
     "web开发/工具/可视化.md",
     "web开发/工具/分页查询PageHelper.md",
@@ -205,27 +209,12 @@
     "web开发/工具/Spring事务.md",
     "web开发/工具/Maven.md",
     "web开发/前端/Vue.md",
-    "/web开发/前端/HTTP.md",
-    "/web开发/前端/HTML+CSS+JS.md",
-    "web开发/分层解耦.md",
-    "web开发/全局异常处理器.md",
-    "web开发/SpringBoot原理.md",
-    "web开发/Linux.md",
-    "web开发/JDBC+MyBatis.md",
+    "web开发/前端/HTML+CSS+JS.md",
+    "web开发/登录校验JWT.md",
+    "web开发/测试.md",
+    "web开发/文件上传功能.md",
     "web开发/工具",
-    "web开发/前端",
-    "web开发",
-    "/web开发/工具",
-    "/web开发/前端",
-    "/未命名",
-    "未命名 1",
-    "/数字逻辑/插图",
-    "Screenshot_2025-12-10-21-18-29-25_a935a6faaffa07c582f2c3acde62ae6b.jpg",
-    "离散数学/插图/集合运算.jpg",
-    "离散数学/插图/常见集合.jpg",
-    "离散数学/插图/谓词公式.jpg",
-    "作用域的扩张与收缩.jpg",
-    "离散数学/插图/命题定理.jpg",
-    "未命名.canvas"
+    "web开发/分层解耦.md",
+    "web开发/全局异常处理器.md"
   ]
 }

@@ -3,9 +3,9 @@
   "autoCommitMessage": "vault backup: {{date}}",
   "commitMessageScript": "",
   "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
-  "autoSaveInterval": 5,
-  "autoPushInterval": 5,
-  "autoPullInterval": 5,
+  "autoSaveInterval": 10,
+  "autoPushInterval": 10,
+  "autoPullInterval": 10,
   "autoPullOnBoot": true,
   "autoCommitOnlyStaged": false,
   "disablePush": false,
@@ -17,6 +17,7 @@
   "showStatusBar": true,
   "updateSubmodules": false,
   "syncMethod": "merge",
+  "mergeStrategy": "none",
   "customMessageOnAutoBackup": false,
   "autoBackupAfterFileChange": false,
   "treeStructure": false,
@@ -34,6 +35,11 @@
   "authorInHistoryView": "hide",
   "dateInHistoryView": false,
   "diffStyle": "split",
+  "hunks": {
+    "showSigns": false,
+    "hunkCommands": false,
+    "statusBar": "disabled"
+  },
   "lineAuthor": {
     "show": false,
     "followMovement": "inactive",
