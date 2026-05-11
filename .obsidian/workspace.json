@@ -8,25 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1d65bfebff855774",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "计算机基础知识/计算机组成原理/计算机组成原理第3版 (唐朔飞) (z-library.sk, 1lib.sk, z-lib.sk).pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "计算机组成原理第3版 (唐朔飞) (z-library.sk, 1lib.sk, z-lib.sk)"
-            }
-          },
-          {
             "id": "fb8bcc8cdae9e0d3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "简历.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
@@ -34,8 +22,7 @@
               "title": "简历"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
