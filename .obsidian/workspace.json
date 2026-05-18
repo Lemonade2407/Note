@@ -6,6 +6,7 @@
       {
         "id": "6dbd261cb1eefbbd",
         "type": "tabs",
+        "dimension": 40.38461538461539,
         "children": [
           {
             "id": "21f8a236b767465f",
@@ -27,6 +28,7 @@
       {
         "id": "21dab3172f3825a4",
         "type": "tabs",
+        "dimension": 59.61538461538461,
         "children": [
           {
             "id": "4cd4cb7c8916873c",
@@ -54,19 +56,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c99a96d9afc69df8",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "文件列表"
-            }
-          },
-          {
             "id": "51c63f2a333a18fd",
             "type": "leaf",
             "state": {
@@ -92,12 +81,27 @@
               "icon": "lucide-bookmark",
               "title": "书签"
             }
+          },
+          {
+            "id": "c99a96d9afc69df8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "1cbf698e3cf52978",
@@ -215,11 +219,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4cd4cb7c8916873c",
+  "active": "21f8a236b767465f",
   "lastOpenFiles": [
+    "计算机基础知识/计算机组成原理/计算机组成原理第3版 (唐朔飞) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
     "计算机基础知识/计算机组成原理/计算机组成原理.md",
     "数学/概率论与数理统计.md",
-    "计算机基础知识/计算机组成原理/计算机组成原理第3版 (唐朔飞) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
     "简历.md",
     "计算机基础知识/计算机组成原理/插图/程序中断方式接口电路.png",
     "计算机基础知识/计算机组成原理/插图/主机控制IO设备的方式.png",
