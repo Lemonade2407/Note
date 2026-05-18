@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "6dbd261cb1eefbbd",
+        "id": "21dab3172f3825a4",
         "type": "tabs",
-        "dimension": 40.38461538461539,
+        "dimension": 37.87625418060201,
         "children": [
           {
-            "id": "21f8a236b767465f",
+            "id": "4cd4cb7c8916873c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -26,12 +26,12 @@
         ]
       },
       {
-        "id": "21dab3172f3825a4",
+        "id": "7834e6a383cbafa1",
         "type": "tabs",
-        "dimension": 59.61538461538461,
+        "dimension": 62.12374581939799,
         "children": [
           {
-            "id": "4cd4cb7c8916873c",
+            "id": "58ae6ef8c4c47d44",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -100,8 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "1cbf698e3cf52978",
@@ -219,10 +218,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "21f8a236b767465f",
+  "active": "4cd4cb7c8916873c",
   "lastOpenFiles": [
     "计算机基础知识/计算机组成原理/计算机组成原理第3版 (唐朔飞) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
     "计算机基础知识/计算机组成原理/计算机组成原理.md",
+    "计算机基础知识/计算机组成原理/插图/原码两位乘规则.png",
     "数学/概率论与数理统计.md",
     "简历.md",
     "计算机基础知识/计算机组成原理/插图/程序中断方式接口电路.png",
@@ -238,7 +238,6 @@
     "web开发/AOP.md",
     "计算机基础知识/软件工程导论/软件工程导论.md",
     "计算机基础知识/软件工程导论/图片/活动图.png",
-    "计算机基础知识/软件工程导论/图片/用例图.png",
     "计算机基础知识/软件工程导论/图片",
     "计算机基础知识/软件工程导论",
     "计算机基础知识/算法设计与分析.md",
