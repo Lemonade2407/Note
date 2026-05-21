@@ -6,6 +6,7 @@
       {
         "id": "21dab3172f3825a4",
         "type": "tabs",
+        "dimension": 50,
         "children": [
           {
             "id": "4cd4cb7c8916873c",
@@ -27,6 +28,7 @@
       {
         "id": "509d29309b217c09",
         "type": "tabs",
+        "dimension": 50,
         "children": [
           {
             "id": "0eb77430ef64dbec",
@@ -98,7 +100,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "1cbf698e3cf52978",
@@ -216,7 +219,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c99a96d9afc69df8",
+  "active": "4cd4cb7c8916873c",
   "lastOpenFiles": [
     "计算机基础知识/计算机组成原理/插图/主存地址分配.png",
     "计算机基础知识/计算机组成原理/计算机组成原理第3版 (唐朔飞) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
