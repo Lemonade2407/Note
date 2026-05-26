@@ -4,40 +4,45 @@
     "type": "split",
     "children": [
       {
-        "id": "6dbd261cb1eefbbd",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "21f8a236b767465f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "计算机基础知识/计算机组成原理/计算机组成原理.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "计算机组成原理"
-            }
-          }
-        ]
-      },
-      {
         "id": "21dab3172f3825a4",
         "type": "tabs",
+        "dimension": 38.7123745819398,
         "children": [
           {
             "id": "4cd4cb7c8916873c",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "计算机基础知识/计算机组成原理/计算机组成原理第3版 (唐朔飞) (z-library.sk, 1lib.sk, z-lib.sk).pdf"
+                "file": "计算机基础知识/数据库系统概论/数据库系统概论.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-file-text",
-              "title": "计算机组成原理第3版 (唐朔飞) (z-library.sk, 1lib.sk, z-lib.sk)"
+              "icon": "lucide-file",
+              "title": "数据库系统概论"
+            }
+          }
+        ]
+      },
+      {
+        "id": "d38c75dc4005b506",
+        "type": "tabs",
+        "dimension": 61.2876254180602,
+        "children": [
+          {
+            "id": "6c3e2f6da14db0f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "计算机基础知识/数据库系统概论/数据库系统概论.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "数据库系统概论"
             }
           }
         ]
@@ -53,19 +58,6 @@
         "id": "4c85457dd277c513",
         "type": "tabs",
         "children": [
-          {
-            "id": "c99a96d9afc69df8",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "文件列表"
-            }
-          },
           {
             "id": "51c63f2a333a18fd",
             "type": "leaf",
@@ -92,8 +84,22 @@
               "icon": "lucide-bookmark",
               "title": "书签"
             }
+          },
+          {
+            "id": "c99a96d9afc69df8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -198,8 +204,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -215,31 +220,32 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "21f8a236b767465f",
+  "active": "6c3e2f6da14db0f7",
   "lastOpenFiles": [
-    "简历.md",
-    "计算机基础知识/计算机组成原理/计算机组成原理.md",
-    "计算机基础知识/计算机组成原理/计算机组成原理第3版 (唐朔飞) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
-    "计算机基础知识/计算机组成原理/插图/程序中断方式接口电路.png",
-    "计算机基础知识/计算机组成原理/插图/主机控制IO设备的方式.png",
-    "计算机基础知识/计算机组成原理/插图/中断请求标记寄存器.png",
-    "计算机基础知识/计算机组成原理/插图/指令的六级流水时序.png",
-    "计算机基础知识/计算机组成原理/插图/间指周期数据流.png",
-    "计算机基础知识/计算机组成原理/插图/中断周期数据流.png",
-    "计算机基础知识/计算机组成原理/插图/取指周期数据流.png",
-    "计算机基础知识/计算机组成原理/插图/CPU结构图.png",
-    "计算机基础知识/数据库系统概论/数据库系统概论  第6版_9787040591255   _ 15274809.pdf",
     "计算机基础知识/数据库系统概论/数据库系统概论.md",
-    "web开发/AOP.md",
+    "计算机基础知识/数据库系统概论/数据库系统概论  第6版.pdf",
+    "计算机基础知识/数据库系统概论/图片/多值依赖.png",
+    "计算机基础知识/数据库系统概论/图片/参照完整性检查和违约处理.png",
+    "计算机基础知识/计算机组成原理/计算机组成原理.md",
+    "计算机基础知识/计算机组成原理/插图/Pasted image 20260525112227.png",
+    "计算机基础知识/计算机组成原理/计算机组成原理第3版 (唐朔飞) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+    "计算机基础知识/计算机组成原理/插图/微程序控制单元.png",
+    "计算机基础知识/计算机组成原理/插图/机器指令对应的微程序.png",
+    "计算机基础知识/计算机组成原理/插图/组合逻辑控制单元框图.png",
+    "计算机基础知识/计算机组成原理/插图/控制单元的外特性.png",
+    "计算机基础知识/计算机组成原理/插图/DMA传送过程.png",
+    "计算机基础知识/计算机组成原理/插图/DMA接口组成图.png",
+    "计算机基础知识/计算机组成原理/插图/程序中断方式接口电路的基本组成.png",
+    "计算机基础知识/数字逻辑.md",
+    "数学/离散数学.md",
     "计算机基础知识/软件工程导论/软件工程导论.md",
-    "计算机基础知识/软件工程导论/图片/活动图.png",
-    "计算机基础知识/软件工程导论/图片/用例图.png",
+    "数学/概率论与数理统计.md",
+    "简历.md",
+    "web开发/AOP.md",
     "计算机基础知识/软件工程导论/图片",
     "计算机基础知识/软件工程导论",
     "计算机基础知识/算法设计与分析.md",
     "web开发/工具/Spring事务.md",
-    "数学/概率论与数理统计.md",
-    "数学/离散数学.md",
     "计算机基础知识/算法设计与分析 (第3版) (屈婉玲 刘田 张立昂 王捍贫) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
     "web开发/工具/分页查询PageHelper.md",
     "web开发/登录校验JWT.md",
@@ -258,7 +264,6 @@
     "web开发/Linux.md",
     "web开发/工具/Maven.md",
     "web开发/HTTP.md",
-    "web开发/文件上传功能.md",
     "计算机基础知识",
     "数学",
     "高级编程语言"
