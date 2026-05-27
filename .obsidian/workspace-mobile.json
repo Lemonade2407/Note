@@ -1,0 +1,221 @@
+{
+  "main": {
+    "id": "9d9658710fc6010e",
+    "type": "split",
+    "children": [
+      {
+        "id": "b8610cfc27a3c7b6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b71d2033f5c54134",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "计算机基础知识/计算机组成原理/计算机组成原理.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "计算机组成原理"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8fa6d25aa4bb8090",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "bc020e8fcb3ceefe",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "文件列表"
+        }
+      },
+      {
+        "id": "99e4f50dfc7a2633",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "搜索"
+        }
+      },
+      {
+        "id": "b2b5decba7257e01",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "标签"
+        }
+      },
+      {
+        "id": "07217bf772fadd20",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "添加笔记属性"
+        }
+      },
+      {
+        "id": "5fa84a2bd95afd3a",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "书签"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "6c3a7ce2c3f2c49d",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "754f923e0f7bfca4",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "反向链接"
+        }
+      },
+      {
+        "id": "da261b0659e992c2",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "出链"
+        }
+      },
+      {
+        "id": "e11b4cfd62d5afd2",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "大纲"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "b71d2033f5c54134",
+  "lastOpenFiles": [
+    "计算机基础知识/软件工程导论/图片/软件设计模式分类.png",
+    "计算机基础知识/软件工程导论/图片/软件测试流程图.png",
+    "计算机基础知识/软件工程导论/图片/缺陷报告表.png",
+    "计算机基础知识/软件工程导论/图片/环路复杂度.png",
+    "计算机基础知识/软件工程导论/图片/测试用例表.png",
+    "计算机基础知识/软件工程导论/图片/测试方法.png",
+    "计算机基础知识/软件工程导论/图片/测试层次.png",
+    "计算机基础知识/软件工程导论/图片/数据流图.png",
+    "计算机基础知识/软件工程导论/图片/微服务模式.png",
+    "计算机基础知识/软件工程导论/图片/因果图法.png",
+    "计算机基础知识/软件工程导论/图片/功能模块设计.png",
+    "/计算机基础知识/数据库系统概论/数据库系统概论.md",
+    "/计算机基础知识/软件工程导论/软件工程导论.md",
+    "/计算机基础知识/软件工程导论/图片",
+    "/计算机基础知识/软件工程导论",
+    "/计算机基础知识/计算机组成原理/插图",
+    "/计算机基础知识/计算机组成原理",
+    "/计算机基础知识/数据库系统概论/图片",
+    "/计算机基础知识/数据库系统概论",
+    "/计算机基础知识",
+    "计算机基础知识/计算机组成原理/计算机组成原理.md",
+    "高级编程语言/Python.md",
+    "高级编程语言/Java.md",
+    "高级编程语言/C++ STL.md",
+    "高级编程语言",
+    "计算机基础知识/软件工程导论/软件工程导论.md",
+    "计算机基础知识/软件工程导论/图片",
+    "计算机基础知识/计算机组成原理/插图",
+    "计算机基础知识/数据库系统概论/数据库系统概论.md",
+    "计算机基础知识/算法设计与分析.md",
+    "计算机基础知识/算法.md",
+    "计算机基础知识/数据结构(C++).md",
+    "计算机基础知识/数字逻辑.md",
+    "计算机基础知识/MySQL.md",
+    "数学/离散数学.md",
+    "数学/概率论与数理统计.md",
+    "web开发/工具/日志 logback.md",
+    "web开发/工具/可视化.md",
+    "web开发/工具/分页查询PageHelper.md",
+    "web开发/工具/ThreadLocal.md",
+    "web开发/工具/Spring事务.md",
+    "web开发/工具/Maven.md",
+    "web开发/前端/Vue.md",
+    "web开发/前端/HTML+CSS+JS.md",
+    "web开发/登录校验JWT.md",
+    "web开发/测试.md"
+  ]
+}
