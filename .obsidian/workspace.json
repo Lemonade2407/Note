@@ -96,7 +96,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "eaeed76e0f39c3c2",
@@ -214,7 +215,7 @@
       "bases:新建数据库": false
     }
   },
-  "active": "657ccf8f8cdc5279",
+  "active": "457a2d4d76a9f35b",
   "lastOpenFiles": [
     "计算机基础知识/数据结构/数据结构 用面向对象方法与C++语言描述 第3版 (陈晨125车南大学) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
     "计算机基础知识/数据结构/数据结构.md",
