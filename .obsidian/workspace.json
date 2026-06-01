@@ -22,6 +22,24 @@
             }
           }
         ]
+      },
+      {
+        "id": "8208e70c3a0e2d63",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "13cea96e7d6ef104",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "计算机基础知识/数据结构/数据结构 用面向对象方法与C++语言描述 第3版 (陈晨125车南大学) (z-library.sk, 1lib.sk, z-lib.sk).pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "数据结构 用面向对象方法与C++语言描述 第3版 (陈晨125车南大学) (z-library.sk, 1lib.sk, z-lib.sk)"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -78,7 +96,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "eaeed76e0f39c3c2",
@@ -198,6 +217,7 @@
   "active": "457a2d4d76a9f35b",
   "lastOpenFiles": [
     "计算机基础知识/数据结构/数据结构 用面向对象方法与C++语言描述 第3版 (陈晨125车南大学) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+    "计算机基础知识/数据结构/数据结构(C++).md",
     "计算机基础知识/数据库系统概论/图片/查询处理步骤.png",
     "计算机基础知识/数字逻辑.md",
     "计算机基础知识/算法.md",
