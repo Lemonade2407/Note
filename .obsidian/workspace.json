@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a1ae9fc0b8ba4b07",
+        "id": "f908d84b0626e63c",
         "type": "tabs",
         "children": [
           {
-            "id": "d3179ef6ea20f834",
+            "id": "457a2d4d76a9f35b",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "计算机基础知识/计算机组成原理/计算机组成原理第3版 (唐朔飞) (z-library.sk, 1lib.sk, z-lib.sk).pdf"
+                "file": "计算机基础知识/数据结构/数据结构(C++).md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "计算机组成原理第3版 (唐朔飞) (z-library.sk, 1lib.sk, z-lib.sk)"
+              "icon": "lucide-file",
+              "title": "数据结构(C++)"
             }
           }
         ]
@@ -193,19 +195,25 @@
       "bases:新建数据库": false
     }
   },
-  "active": "657ccf8f8cdc5279",
+  "active": "457a2d4d76a9f35b",
   "lastOpenFiles": [
+    "计算机基础知识/数据结构/数据结构 用面向对象方法与C++语言描述 第3版 (陈晨125车南大学) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+    "计算机基础知识/数据库系统概论/图片/查询处理步骤.png",
+    "计算机基础知识/数字逻辑.md",
+    "计算机基础知识/算法.md",
+    "计算机基础知识/数据库系统概论/MySQL.md",
+    "计算机基础知识/算法设计与分析.md",
+    "计算机基础知识/数据库系统概论/数据库系统概论  第5版 .pdf",
+    "计算机基础知识/数据结构",
+    "计算机基础知识/计算机组成原理/计算机组成原理第3版 (唐朔飞) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
     "计算机基础知识/计算机组成原理/计算机组成原理.md",
     "计算机基础知识/数据库系统概论/数据库系统概论.md",
-    "计算机基础知识/数据库系统概论/数据库系统概论  第5版 .pdf",
-    "活锁和死锁.png",
-    "查询处理步骤.png",
-    "ODBC的工作流程.png",
+    "计算机基础知识/数据库系统概论/图片/活锁和死锁.png",
+    "计算机基础知识/数据库系统概论/图片/ODBC的工作流程.png",
     "计算机基础知识/数据库系统概论/图片/实体间的联系.png",
     "计算机基础知识/数据库系统概论/图片/ESQL语句实例2.png",
     "计算机基础知识/数据库系统概论/图片/ESQL编程实例1.png",
     "计算机基础知识/数据库系统概论/图片/数据库设计各个阶段.png",
-    "conflict-files-obsidian-git.md",
-    "计算机基础知识/计算机组成原理/计算机组成原理第3版 (唐朔飞) (z-library.sk, 1lib.sk, z-lib.sk).pdf"
+    "conflict-files-obsidian-git.md"
   ]
 }
