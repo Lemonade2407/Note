@@ -11,14 +11,14 @@
             "id": "13cea96e7d6ef104",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "计算机基础知识/计算机组成原理/计算机组成原理.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/plugins/obsidian-git/data.json",
+                "bFile": ".obsidian/plugins/obsidian-git/data.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "计算机组成原理"
+              "icon": "diff",
+              "title": "Diff: data.json  (Working Tree)"
             }
           }
         ]
@@ -198,8 +198,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -216,8 +215,8 @@
   },
   "active": "13cea96e7d6ef104",
   "lastOpenFiles": [
-    "计算机基础知识/数据库系统概论/数据库系统概论.md",
     "计算机基础知识/计算机组成原理/计算机组成原理.md",
+    "计算机基础知识/数据库系统概论/数据库系统概论.md",
     "计算机基础知识/计算机组成原理/计算机组成原理第3版 (唐朔飞) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
     "计算机基础知识/数据结构/数据结构 用面向对象方法与C++语言描述 第3版 (陈晨125车南大学) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
     "计算机基础知识/数据结构/数据结构.md",
