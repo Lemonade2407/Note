@@ -204,7 +204,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:新建绘图文件": false,
       "obsidian-git:Open Git source control": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
@@ -212,13 +211,19 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:新建数据库": false
+      "bases:新建数据库": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
   "active": "457a2d4d76a9f35b",
   "lastOpenFiles": [
-    "计算机基础知识/数据结构/数据结构 用面向对象方法与C++语言描述 第3版 (陈晨125车南大学) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+    "计算机基础知识/软件工程导论/软件工程导论.md",
+    "计算机基础知识/计算机组成原理/计算机组成原理.md",
+    "Excalidraw/Drawing 2026-06-02 13.40.08.excalidraw.md",
     "计算机基础知识/数据结构/数据结构.md",
+    "Excalidraw",
+    "Excalidraw/Drawing 2026-06-02 13.40.01.excalidraw.md",
+    "计算机基础知识/数据结构/数据结构 用面向对象方法与C++语言描述 第3版 (陈晨125车南大学) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
     "计算机基础知识/数据库系统概论/图片/查询处理步骤.png",
     "计算机基础知识/数字逻辑.md",
     "计算机基础知识/算法.md",
@@ -227,7 +232,6 @@
     "计算机基础知识/数据库系统概论/数据库系统概论  第5版 .pdf",
     "计算机基础知识/数据结构",
     "计算机基础知识/计算机组成原理/计算机组成原理第3版 (唐朔飞) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
-    "计算机基础知识/计算机组成原理/计算机组成原理.md",
     "计算机基础知识/数据库系统概论/数据库系统概论.md",
     "计算机基础知识/数据库系统概论/图片/活锁和死锁.png",
     "计算机基础知识/数据库系统概论/图片/ODBC的工作流程.png",
