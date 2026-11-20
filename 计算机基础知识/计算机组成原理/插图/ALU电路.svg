@@ -1,0 +1,304 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1198" height="1258" viewBox="0 0 1198 1258">
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9.2" refY="5" markerWidth="6.5" markerHeight="6.5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2b2b2b"/></marker></defs>
+<rect x="0" y="0" width="1198" height="1258" fill="#ffffff"/>
+<g stroke="#2b2b2b" fill="none" stroke-linecap="round" stroke-linejoin="round">
+<polyline points="44.0,360.0 112.0,360.0 137.0,394.0 162.0,360.0 240.0,360.0 200.0,445.0 95.0,445.0 44.0,360.0" stroke-width="2.0" fill="none"/>
+<line x1="80.0" y1="322.0" x2="80.0" y2="358.0" stroke-width="1.5" marker-end="url(#ah)"/>
+<line x1="190.0" y1="322.0" x2="190.0" y2="358.0" stroke-width="1.5" marker-end="url(#ah)"/>
+<line x1="148.0" y1="445.0" x2="148.0" y2="452.0" stroke-width="1.5" marker-end="url(#ah)"/>
+<line x1="232.0" y1="377.0" x2="205.0" y2="377.0" stroke-width="1.5" marker-end="url(#ah)"/>
+<line x1="232.0" y1="422.0" x2="205.0" y2="422.0" stroke-width="1.5" marker-end="url(#ah)"/>
+<circle cx="252.0" cy="392.0" r="1.6" stroke-width="1.0" fill="#111111"/>
+<circle cx="252.0" cy="400.0" r="1.6" stroke-width="1.0" fill="#111111"/>
+<circle cx="252.0" cy="408.0" r="1.6" stroke-width="1.0" fill="#111111"/>
+<rect x="428.0" y="268.0" width="223.0" height="114.0" stroke-width="2.0" fill="#ffffff"/>
+<line x1="476.0" y1="268.0" x2="476.0" y2="236.0" stroke-width="1.5" marker-end="url(#ah)"/>
+<line x1="518.0" y1="268.0" x2="518.0" y2="236.0" stroke-width="1.5" marker-end="url(#ah)"/>
+<line x1="560.0" y1="268.0" x2="560.0" y2="236.0" stroke-width="1.5" marker-end="url(#ah)"/>
+<line x1="602.0" y1="268.0" x2="602.0" y2="236.0" stroke-width="1.5" marker-end="url(#ah)"/>
+<line x1="428.0" y1="283.0" x2="402.0" y2="283.0" stroke-width="1.5" marker-end="url(#ah)"/>
+<circle cx="422.0" cy="283.0" r="5.0" stroke-width="1.5" fill="#ffffff"/>
+<line x1="428.0" y1="315.0" x2="402.0" y2="315.0" stroke-width="1.5" marker-end="url(#ah)"/>
+<line x1="428.0" y1="343.0" x2="402.0" y2="343.0" stroke-width="1.5" marker-end="url(#ah)"/>
+<line x1="428.0" y1="370.0" x2="402.0" y2="370.0" stroke-width="1.5" marker-end="url(#ah)"/>
+<line x1="677.0" y1="272.0" x2="651.0" y2="272.0" stroke-width="1.5" marker-end="url(#ah)"/>
+<line x1="677.0" y1="297.0" x2="651.0" y2="297.0" stroke-width="1.5" marker-end="url(#ah)"/>
+<line x1="677.0" y1="322.0" x2="651.0" y2="322.0" stroke-width="1.5" marker-end="url(#ah)"/>
+<line x1="677.0" y1="347.0" x2="651.0" y2="347.0" stroke-width="1.5" marker-end="url(#ah)"/>
+<line x1="677.0" y1="372.0" x2="651.0" y2="372.0" stroke-width="1.5" marker-end="url(#ah)"/>
+<line x1="441.0" y1="430.0" x2="441.0" y2="382.0" stroke-width="1.5" marker-end="url(#ah)"/>
+<line x1="463.0" y1="430.0" x2="463.0" y2="382.0" stroke-width="1.5" marker-end="url(#ah)"/>
+<line x1="485.0" y1="430.0" x2="485.0" y2="382.0" stroke-width="1.5" marker-end="url(#ah)"/>
+<line x1="507.0" y1="430.0" x2="507.0" y2="382.0" stroke-width="1.5" marker-end="url(#ah)"/>
+<line x1="543.0" y1="430.0" x2="543.0" y2="382.0" stroke-width="1.5" marker-end="url(#ah)"/>
+<line x1="565.0" y1="430.0" x2="565.0" y2="382.0" stroke-width="1.5" marker-end="url(#ah)"/>
+<line x1="587.0" y1="430.0" x2="587.0" y2="382.0" stroke-width="1.5" marker-end="url(#ah)"/>
+<line x1="609.0" y1="430.0" x2="609.0" y2="382.0" stroke-width="1.5" marker-end="url(#ah)"/>
+<line x1="631.0" y1="430.0" x2="631.0" y2="382.0" stroke-width="1.5" marker-end="url(#ah)"/>
+<circle cx="631.0" cy="389.0" r="5.0" stroke-width="1.5" fill="#ffffff"/>
+<rect x="842.0" y="268.0" width="223.0" height="114.0" stroke-width="2.0" fill="#ffffff"/>
+<line x1="890.0" y1="268.0" x2="890.0" y2="236.0" stroke-width="1.5" marker-end="url(#ah)"/>
+<line x1="932.0" y1="268.0" x2="932.0" y2="236.0" stroke-width="1.5" marker-end="url(#ah)"/>
+<line x1="974.0" y1="268.0" x2="974.0" y2="236.0" stroke-width="1.5" marker-end="url(#ah)"/>
+<line x1="1016.0" y1="268.0" x2="1016.0" y2="236.0" stroke-width="1.5" marker-end="url(#ah)"/>
+<line x1="842.0" y1="283.0" x2="816.0" y2="283.0" stroke-width="1.5" marker-end="url(#ah)"/>
+<line x1="842.0" y1="315.0" x2="816.0" y2="315.0" stroke-width="1.5" marker-end="url(#ah)"/>
+<line x1="842.0" y1="343.0" x2="816.0" y2="343.0" stroke-width="1.5" marker-end="url(#ah)"/>
+<circle cx="836.0" cy="343.0" r="5.0" stroke-width="1.5" fill="#ffffff"/>
+<line x1="842.0" y1="370.0" x2="816.0" y2="370.0" stroke-width="1.5" marker-end="url(#ah)"/>
+<circle cx="836.0" cy="370.0" r="5.0" stroke-width="1.5" fill="#ffffff"/>
+<line x1="1091.0" y1="272.0" x2="1065.0" y2="272.0" stroke-width="1.5" marker-end="url(#ah)"/>
+<line x1="1091.0" y1="297.0" x2="1065.0" y2="297.0" stroke-width="1.5" marker-end="url(#ah)"/>
+<line x1="1091.0" y1="322.0" x2="1065.0" y2="322.0" stroke-width="1.5" marker-end="url(#ah)"/>
+<line x1="1091.0" y1="347.0" x2="1065.0" y2="347.0" stroke-width="1.5" marker-end="url(#ah)"/>
+<line x1="1091.0" y1="372.0" x2="1065.0" y2="372.0" stroke-width="1.5" marker-end="url(#ah)"/>
+<line x1="855.0" y1="430.0" x2="855.0" y2="382.0" stroke-width="1.5" marker-end="url(#ah)"/>
+<line x1="877.0" y1="430.0" x2="877.0" y2="382.0" stroke-width="1.5" marker-end="url(#ah)"/>
+<line x1="899.0" y1="430.0" x2="899.0" y2="382.0" stroke-width="1.5" marker-end="url(#ah)"/>
+<line x1="921.0" y1="430.0" x2="921.0" y2="382.0" stroke-width="1.5" marker-end="url(#ah)"/>
+<line x1="957.0" y1="430.0" x2="957.0" y2="382.0" stroke-width="1.5" marker-end="url(#ah)"/>
+<line x1="979.0" y1="430.0" x2="979.0" y2="382.0" stroke-width="1.5" marker-end="url(#ah)"/>
+<line x1="1001.0" y1="430.0" x2="1001.0" y2="382.0" stroke-width="1.5" marker-end="url(#ah)"/>
+<line x1="1023.0" y1="430.0" x2="1023.0" y2="382.0" stroke-width="1.5" marker-end="url(#ah)"/>
+<line x1="1045.0" y1="430.0" x2="1045.0" y2="382.0" stroke-width="1.5" marker-end="url(#ah)"/>
+<rect x="27.0" y="715.0" width="1153.0" height="486.0" stroke-width="1.6" fill="#ffffff"/>
+<rect x="27.0" y="715.0" width="1153.0" height="189.0" stroke-width="1.6" fill="#e8e8e8"/>
+<line x1="27.0" y1="762.0" x2="1180.0" y2="762.0" stroke-width="1.4"/>
+<line x1="27.0" y1="810.0" x2="1180.0" y2="810.0" stroke-width="1.4"/>
+<line x1="262.0" y1="762.0" x2="262.0" y2="904.0" stroke-width="1.4"/>
+<line x1="448.0" y1="762.0" x2="448.0" y2="904.0" stroke-width="1.4"/>
+<line x1="681.0" y1="762.0" x2="681.0" y2="904.0" stroke-width="1.4"/>
+<line x1="869.0" y1="762.0" x2="869.0" y2="904.0" stroke-width="1.4"/>
+<line x1="448.0" y1="810.0" x2="448.0" y2="904.0" stroke-width="1.4"/>
+<line x1="869.0" y1="810.0" x2="869.0" y2="904.0" stroke-width="1.4"/>
+<line x1="27.0" y1="946.0" x2="1180.0" y2="946.0" stroke-width="1.4"/>
+<line x1="27.0" y1="988.0" x2="1180.0" y2="988.0" stroke-width="1.4"/>
+<line x1="27.0" y1="1031.0" x2="1180.0" y2="1031.0" stroke-width="1.4"/>
+<line x1="27.0" y1="1074.0" x2="1180.0" y2="1074.0" stroke-width="1.4"/>
+<line x1="27.0" y1="1116.0" x2="1180.0" y2="1116.0" stroke-width="1.4"/>
+<line x1="27.0" y1="1158.0" x2="1180.0" y2="1158.0" stroke-width="1.4"/>
+<line x1="348.6" y1="911.2" x2="361.4" y2="911.2" stroke-width="1.5"/>
+<line x1="770.6" y1="911.2" x2="783.4" y2="911.2" stroke-width="1.5"/>
+<line x1="342.1" y1="953.2" x2="367.9" y2="953.2" stroke-width="1.5"/>
+<line x1="521.3" y1="953.2" x2="547.1" y2="953.2" stroke-width="1.5"/>
+<line x1="757.7" y1="953.2" x2="796.3" y2="953.2" stroke-width="1.5"/>
+<line x1="335.7" y1="995.7" x2="348.6" y2="995.7" stroke-width="1.5"/>
+<line x1="534.2" y1="995.7" x2="547.1" y2="995.7" stroke-width="1.5"/>
+<line x1="764.1" y1="995.7" x2="777.0" y2="995.7" stroke-width="1.5"/>
+<line x1="1031.4" y1="995.7" x2="1044.3" y2="995.7" stroke-width="1.5"/>
+<line x1="335.7" y1="1081.2" x2="374.3" y2="1081.2" stroke-width="1.5"/>
+<line x1="602.3" y1="1081.2" x2="615.1" y2="1081.2" stroke-width="1.5"/>
+<line x1="764.1" y1="1081.2" x2="789.9" y2="1081.2" stroke-width="1.5"/>
+<line x1="348.6" y1="1123.2" x2="361.4" y2="1123.2" stroke-width="1.5"/>
+<line x1="608.7" y1="1123.2" x2="621.6" y2="1123.2" stroke-width="1.5"/>
+<line x1="770.6" y1="1123.2" x2="783.4" y2="1123.2" stroke-width="1.5"/>
+<line x1="994.2" y1="1123.2" x2="1007.1" y2="1123.2" stroke-width="1.5"/>
+<rect x="0.0" y="1254.0" width="1198.0" height="4.0" stroke-width="0" fill="#1a1a1a"/>
+</g>
+<text x="75.0" y="34.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="25" text-anchor="start" dominant-baseline="central" fill="#111111">图 6.16 所示是 ALU 框图。图中 A</text>
+<text x="478.8" y="40.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17.0" text-anchor="start" dominant-baseline="central" fill="#111111">i</text>
+<text x="488.3" y="34.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="25" text-anchor="start" dominant-baseline="central" fill="#111111"> 和 B</text>
+<text x="552.0" y="40.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17.0" text-anchor="start" dominant-baseline="central" fill="#111111">i</text>
+<text x="561.5" y="34.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="25" text-anchor="start" dominant-baseline="central" fill="#111111"> 为输入变量；k</text>
+<text x="736.3" y="40.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17.0" text-anchor="start" dominant-baseline="central" fill="#111111">i</text>
+<text x="745.8" y="34.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="25" text-anchor="start" dominant-baseline="central" fill="#111111"> 为控制信号，k</text>
+<text x="920.6" y="40.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17.0" text-anchor="start" dominant-baseline="central" fill="#111111">i</text>
+<text x="930.1" y="34.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="25" text-anchor="start" dominant-baseline="central" fill="#111111"> 的不同取值可决定</text>
+<text x="75.0" y="80.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="25" text-anchor="start" dominant-baseline="central" fill="#111111">该电路做哪一种算术运算或哪一种逻辑运算；F</text>
+<text x="585.8" y="86.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17.0" text-anchor="start" dominant-baseline="central" fill="#111111">i</text>
+<text x="595.3" y="80.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="25" text-anchor="start" dominant-baseline="central" fill="#111111"> 是输出函数。</text>
+<text x="75.0" y="121.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="25" text-anchor="start" dominant-baseline="central" fill="#111111">现在 ALU 电路已制成集成电路芯片，例如，74181 是能完成 4 位二进制代码的算术逻辑运</text>
+<text x="75.0" y="163.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="25" text-anchor="start" dominant-baseline="central" fill="#111111">件，外特性如图 6.17 所示。</text>
+<text x="148.0" y="412.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="24" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">ALU</text>
+<text x="69.7" y="306.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="22" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">A</text>
+<text x="79.1" y="311.7" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="14.96" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">i</text>
+<text x="179.7" y="306.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="22" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">B</text>
+<text x="189.1" y="311.7" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="14.96" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">i</text>
+<text x="137.7" y="464.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="22" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">F</text>
+<text x="147.1" y="469.7" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="14.96" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">i</text>
+<text x="261.7" y="400.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="22" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">k</text>
+<text x="271.1" y="405.7" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="14.96" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">i</text>
+<text x="152.0" y="488.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="21" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">图 6.16　ALU 框图</text>
+<text x="539.5" y="298.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="21" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">74181</text>
+<text x="539.5" y="342.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="21" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">4 位 ALU</text>
+<text x="466.1" y="222.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="21" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">F</text>
+<text x="475.2" y="227.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="14.280000000000001" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">3</text>
+<text x="508.1" y="222.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="21" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">F</text>
+<text x="517.2" y="227.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="14.280000000000001" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">2</text>
+<text x="550.1" y="222.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="21" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">F</text>
+<text x="559.2" y="227.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="14.280000000000001" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">1</text>
+<text x="592.1" y="222.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="21" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">F</text>
+<text x="601.2" y="227.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="14.280000000000001" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">0</text>
+<text x="358.2" y="283.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="21" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">C</text>
+<text x="367.3" y="288.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="14.280000000000001" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">n+4</text>
+<text x="358.7" y="315.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="21" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">A=B</text>
+<text x="382.2" y="343.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="21" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">G</text>
+<text x="382.2" y="370.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="21" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">P</text>
+<text x="683.0" y="272.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="21" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">S</text>
+<text x="692.0" y="277.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="14.280000000000001" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">'</text>
+<text x="683.0" y="297.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="21" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">S</text>
+<text x="692.0" y="302.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="14.280000000000001" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">'</text>
+<text x="683.0" y="322.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="21" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">S</text>
+<text x="692.0" y="327.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="14.280000000000001" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">'</text>
+<text x="683.0" y="347.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="21" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">S</text>
+<text x="692.0" y="352.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="14.280000000000001" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">'</text>
+<text x="683.0" y="372.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="21" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">M</text>
+<text x="431.1" y="422.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="21" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">B</text>
+<text x="440.2" y="427.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="14.280000000000001" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">3</text>
+<text x="453.1" y="422.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="21" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">B</text>
+<text x="462.2" y="427.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="14.280000000000001" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">2</text>
+<text x="475.1" y="422.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="21" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">B</text>
+<text x="484.2" y="427.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="14.280000000000001" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">1</text>
+<text x="497.1" y="422.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="21" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">B</text>
+<text x="506.2" y="427.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="14.280000000000001" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">0</text>
+<text x="533.1" y="422.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="21" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">A</text>
+<text x="542.2" y="427.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="14.280000000000001" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">3</text>
+<text x="555.1" y="422.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="21" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">A</text>
+<text x="564.2" y="427.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="14.280000000000001" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">2</text>
+<text x="577.1" y="422.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="21" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">A</text>
+<text x="586.2" y="427.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="14.280000000000001" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">1</text>
+<text x="599.1" y="422.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="21" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">A</text>
+<text x="608.2" y="427.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="14.280000000000001" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">0</text>
+<text x="617.1" y="422.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="21" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">C</text>
+<text x="626.2" y="427.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="14.280000000000001" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">-1</text>
+<text x="953.5" y="298.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="21" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">74181</text>
+<text x="953.5" y="342.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="21" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">4 位 ALU</text>
+<text x="880.1" y="222.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="21" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">F</text>
+<text x="889.2" y="227.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="14.280000000000001" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">3</text>
+<text x="922.1" y="222.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="21" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">F</text>
+<text x="931.2" y="227.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="14.280000000000001" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">2</text>
+<text x="964.1" y="222.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="21" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">F</text>
+<text x="973.2" y="227.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="14.280000000000001" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">1</text>
+<text x="1006.1" y="222.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="21" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">F</text>
+<text x="1015.2" y="227.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="14.280000000000001" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">0</text>
+<text x="772.2" y="283.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="21" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">C</text>
+<text x="781.3" y="288.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="14.280000000000001" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">n+4</text>
+<text x="772.7" y="315.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="21" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">A=B</text>
+<text x="796.2" y="343.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="21" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">G</text>
+<text x="796.2" y="370.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="21" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">P</text>
+<text x="1097.0" y="272.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="21" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">S</text>
+<text x="1106.0" y="277.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="14.280000000000001" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">3</text>
+<text x="1097.0" y="297.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="21" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">S</text>
+<text x="1106.0" y="302.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="14.280000000000001" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">2</text>
+<text x="1097.0" y="322.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="21" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">S</text>
+<text x="1106.0" y="327.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="14.280000000000001" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">1</text>
+<text x="1097.0" y="347.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="21" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">S</text>
+<text x="1106.0" y="352.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="14.280000000000001" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">0</text>
+<text x="1097.0" y="372.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="21" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">M</text>
+<text x="845.1" y="422.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="21" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">B</text>
+<text x="854.2" y="427.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="14.280000000000001" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">3</text>
+<text x="867.1" y="422.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="21" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">B</text>
+<text x="876.2" y="427.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="14.280000000000001" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">2</text>
+<text x="889.1" y="422.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="21" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">B</text>
+<text x="898.2" y="427.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="14.280000000000001" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">1</text>
+<text x="911.1" y="422.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="21" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">B</text>
+<text x="920.2" y="427.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="14.280000000000001" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">0</text>
+<text x="947.1" y="422.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="21" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">A</text>
+<text x="956.2" y="427.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="14.280000000000001" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">3</text>
+<text x="969.1" y="422.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="21" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">A</text>
+<text x="978.2" y="427.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="14.280000000000001" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">2</text>
+<text x="991.1" y="422.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="21" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">A</text>
+<text x="1000.2" y="427.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="14.280000000000001" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">1</text>
+<text x="1013.1" y="422.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="21" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">A</text>
+<text x="1022.2" y="427.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="14.280000000000001" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">0</text>
+<text x="1031.1" y="422.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="21" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">C</text>
+<text x="1040.2" y="427.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="14.280000000000001" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">-1</text>
+<text x="555.0" y="478.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="21" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">(a) 正逻辑</text>
+<text x="985.0" y="478.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="21" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">(b) 负逻辑</text>
+<text x="640.0" y="527.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="21" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">图 6.17　74181 外特性示意图</text>
+<text x="75.0" y="596.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="25" text-anchor="start" dominant-baseline="central" fill="#111111">74181 有两种工作方式，即正逻辑和负逻辑，分别如图 6.17(a) 和图 6.17(b) 所示。表 6.32</text>
+<text x="75.0" y="637.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="25" text-anchor="start" dominant-baseline="central" fill="#111111">列出了其算术/逻辑运算功能，逻辑电路参见附录 6C 的图 6.30。</text>
+<text x="600.0" y="690.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="24" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">表 6.32　74181 ALU 的算术/逻辑运算功能表</text>
+<text x="600.0" y="740.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="24" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">功　能</text>
+<text x="471.0" y="786.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="23" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">负逻辑输入或输出</text>
+<text x="930.0" y="786.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="23" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">正逻辑输入或输出</text>
+<text x="144.0" y="813.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="22" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">工作方式选择</text>
+<text x="74.4" y="872.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="22" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">输入 S</text>
+<text x="140.2" y="877.7" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="14.96" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">3</text>
+<text x="148.6" y="872.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="22" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">S</text>
+<text x="158.1" y="877.7" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="14.96" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">2</text>
+<text x="166.4" y="872.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="22" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">S</text>
+<text x="175.9" y="877.7" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="14.96" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">1</text>
+<text x="184.3" y="872.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="22" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">S</text>
+<text x="193.7" y="877.7" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="14.96" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">0</text>
+<text x="355.0" y="840.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="22" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">逻辑运算</text>
+<text x="324.2" y="878.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="22" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">(M=1)</text>
+<text x="565.0" y="840.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="22" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">算术运算</text>
+<text x="495.0" y="878.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="22" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">(M=0)(C</text>
+<text x="578.4" y="883.7" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="14.96" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">-1</text>
+<text x="595.2" y="878.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="22" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">=0)</text>
+<text x="777.0" y="840.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="22" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">逻辑运算</text>
+<text x="746.2" y="878.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="22" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">(M=1)</text>
+<text x="1025.0" y="840.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="22" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">算术运算</text>
+<text x="955.0" y="878.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="22" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">(M=0)(C</text>
+<text x="1038.4" y="883.7" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="14.96" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">-1</text>
+<text x="1055.2" y="878.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="22" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">=1)</text>
+<text x="105.0" y="925.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="25" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">0</text>
+<text x="131.0" y="925.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="25" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">0</text>
+<text x="157.0" y="925.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="25" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">0</text>
+<text x="183.0" y="925.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="25" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">0</text>
+<text x="348.6" y="925.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="23" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">A</text>
+<text x="527.7" y="925.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="23" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">A 减 1</text>
+<text x="770.6" y="925.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="23" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">A</text>
+<text x="1018.6" y="925.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="23" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">A</text>
+<text x="105.0" y="967.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="25" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">0</text>
+<text x="131.0" y="967.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="25" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">0</text>
+<text x="157.0" y="967.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="25" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">0</text>
+<text x="183.0" y="967.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="25" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">1</text>
+<text x="342.1" y="967.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="23" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">AB</text>
+<text x="521.3" y="967.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="23" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">AB</text>
+<text x="547.1" y="967.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="23" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic"> 减 1</text>
+<text x="757.7" y="967.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="23" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">A+B</text>
+<text x="1005.7" y="967.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="23" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">A+B</text>
+<text x="105.0" y="1009.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="25" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">0</text>
+<text x="131.0" y="1009.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="25" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">0</text>
+<text x="157.0" y="1009.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="25" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">1</text>
+<text x="183.0" y="1009.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="25" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">0</text>
+<text x="335.7" y="1009.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="23" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">A</text>
+<text x="348.6" y="1009.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="23" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">+B</text>
+<text x="521.3" y="1009.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="23" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">A</text>
+<text x="534.2" y="1009.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="23" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">B</text>
+<text x="547.1" y="1009.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="23" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic"> 减 1</text>
+<text x="764.1" y="1009.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="23" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">A</text>
+<text x="777.0" y="1009.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="23" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">B</text>
+<text x="1005.7" y="1009.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="23" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">A+</text>
+<text x="1031.4" y="1009.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="23" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">B</text>
+<text x="105.0" y="1052.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="25" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">0</text>
+<text x="131.0" y="1052.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="25" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">0</text>
+<text x="157.0" y="1052.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="25" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">1</text>
+<text x="183.0" y="1052.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="25" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">1</text>
+<text x="319.1" y="1052.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="23" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">逻辑 1</text>
+<text x="540.6" y="1052.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="23" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">减 1</text>
+<text x="741.1" y="1052.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="23" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">逻辑 0</text>
+<text x="1000.6" y="1052.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="23" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">减 1</text>
+<text x="105.0" y="1095.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="25" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">0</text>
+<text x="131.0" y="1095.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="25" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">1</text>
+<text x="157.0" y="1095.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="25" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">0</text>
+<text x="183.0" y="1095.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="25" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">0</text>
+<text x="335.7" y="1095.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="23" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">A+B</text>
+<text x="502.0" y="1095.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="23" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">A 加 (A+</text>
+<text x="602.3" y="1095.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="23" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">B</text>
+<text x="615.1" y="1095.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="23" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">)</text>
+<text x="764.1" y="1095.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="23" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">AB</text>
+<text x="981.3" y="1095.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="23" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">A 加 AB</text>
+<text x="105.0" y="1137.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="25" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">0</text>
+<text x="131.0" y="1137.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="25" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">1</text>
+<text x="157.0" y="1137.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="25" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">0</text>
+<text x="183.0" y="1137.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="25" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">1</text>
+<text x="348.6" y="1137.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="23" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">B</text>
+<text x="495.5" y="1137.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="23" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">AB 加 (A+</text>
+<text x="608.7" y="1137.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="23" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">B</text>
+<text x="621.6" y="1137.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="23" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">)</text>
+<text x="770.6" y="1137.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="23" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">B</text>
+<text x="955.5" y="1137.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="23" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">(A+</text>
+<text x="994.2" y="1137.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="23" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">B</text>
+<text x="1007.1" y="1137.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="23" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">) 加 AB</text>
+<text x="105.0" y="1179.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="25" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">0</text>
+<text x="131.0" y="1179.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="25" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">1</text>
+<text x="157.0" y="1179.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="25" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">1</text>
+<text x="183.0" y="1179.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="25" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">0</text>
+<text x="330.6" y="1179.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="23" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">A⊕B</text>
+<text x="496.9" y="1179.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="23" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">A 减 B 减 1</text>
+<text x="752.6" y="1179.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="23" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">A⊕B</text>
+<text x="956.9" y="1179.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="23" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">A 减 B 减 1</text>
+</svg>

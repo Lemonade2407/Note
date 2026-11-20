@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="623" height="334" viewBox="0 0 623 334">
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9.2" refY="5" markerWidth="6.5" markerHeight="6.5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2b2b2b"/></marker></defs>
+<rect x="0" y="0" width="623" height="334" fill="#ffffff"/>
+<g stroke="#2b2b2b" fill="none" stroke-linecap="round" stroke-linejoin="round">
+<rect x="127.0" y="39.0" width="90.0" height="36.0" stroke-width="1.5" fill="#ededed" rx="3"/>
+<rect x="368.0" y="39.0" width="89.0" height="36.0" stroke-width="1.5" fill="#ededed" rx="3"/>
+<rect x="127.0" y="88.0" width="90.0" height="35.0" stroke-width="1.5" fill="#ededed" rx="3"/>
+<rect x="231.0" y="88.0" width="125.0" height="35.0" stroke-width="1.5" fill="#ededed" rx="3"/>
+<line x1="242.0" y1="52.0" x2="342.0" y2="52.0" stroke-width="1.5"/>
+<line x1="242.0" y1="61.0" x2="342.0" y2="61.0" stroke-width="1.5"/>
+<polyline points="242.0,47.0 228.0,56.5 242.0,66.0" stroke-width="1.5" fill="#ffffff"/>
+<polyline points="342.0,47.0 356.0,56.5 342.0,66.0" stroke-width="1.5" fill="#ffffff"/>
+<line x1="88.0" y1="147.0" x2="529.0" y2="147.0" stroke-width="1.5"/>
+<line x1="88.0" y1="158.0" x2="529.0" y2="158.0" stroke-width="1.5"/>
+<polyline points="88.0,142.0 74.0,152.5 88.0,163.0" stroke-width="1.5" fill="#ffffff"/>
+<polyline points="529.0,142.0 543.0,152.5 529.0,163.0" stroke-width="1.5" fill="#ffffff"/>
+<line x1="75.0" y1="270.0" x2="534.0" y2="270.0" stroke-width="1.5"/>
+<line x1="75.0" y1="281.0" x2="534.0" y2="281.0" stroke-width="1.5"/>
+<polyline points="75.0,265.0 61.0,275.5 75.0,286.0" stroke-width="1.5" fill="#ffffff"/>
+<polyline points="534.0,265.0 548.0,275.5 534.0,286.0" stroke-width="1.5" fill="#ffffff"/>
+<rect x="52.0" y="197.0" width="80.0" height="35.0" stroke-width="1.5" fill="#ededed" rx="3"/>
+<rect x="144.0" y="197.0" width="82.0" height="35.0" stroke-width="1.5" fill="#ededed" rx="3"/>
+<rect x="238.0" y="197.0" width="111.0" height="35.0" stroke-width="1.5" fill="#ededed" rx="3"/>
+<rect x="362.0" y="197.0" width="82.0" height="35.0" stroke-width="1.5" fill="#ededed" rx="3"/>
+<rect x="455.0" y="197.0" width="81.0" height="35.0" stroke-width="1.5" fill="#ededed" rx="3"/>
+<line x1="92.0" y1="232.0" x2="92.0" y2="270.0" stroke-width="1.4"/>
+<line x1="184.0" y1="232.0" x2="184.0" y2="270.0" stroke-width="1.4"/>
+<line x1="294.0" y1="232.0" x2="294.0" y2="270.0" stroke-width="1.4"/>
+<line x1="404.0" y1="232.0" x2="404.0" y2="270.0" stroke-width="1.4"/>
+<line x1="496.0" y1="232.0" x2="496.0" y2="270.0" stroke-width="1.4"/>
+<line x1="294.0" y1="158.0" x2="294.0" y2="197.0" stroke-width="1.4"/>
+<line x1="171.0" y1="123.0" x2="171.0" y2="147.0" stroke-width="1.4"/>
+<line x1="294.0" y1="61.0" x2="294.0" y2="88.0" stroke-width="1.4"/>
+<line x1="412.0" y1="75.0" x2="412.0" y2="147.0" stroke-width="1.4"/>
+</g>
+<text x="172.0" y="57.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">CPU</text>
+<text x="412.5" y="57.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">Cache</text>
+<text x="172.0" y="105.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">主存</text>
+<text x="293.5" y="105.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="13" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">局部 I/O 控制器</text>
+<text x="292.0" y="40.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">局部总线</text>
+<text x="320.0" y="135.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">系统总线</text>
+<text x="345.0" y="260.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">扩展总线</text>
+<text x="92.0" y="214.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">局域网</text>
+<text x="185.0" y="214.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">SCSI</text>
+<text x="293.5" y="214.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="14" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">扩展总线接口</text>
+<text x="403.0" y="214.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="14" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">Modem</text>
+<text x="495.5" y="214.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">串行接口</text>
+<text x="300.0" y="315.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="18" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">图 3.9  三总线结构的又一形式</text>
+</svg>

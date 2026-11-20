@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1596" height="938" viewBox="0 0 1596 938">
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9.2" refY="5" markerWidth="6.5" markerHeight="6.5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2b2b2b"/></marker></defs>
+<rect x="0" y="0" width="1596" height="938" fill="#ffffff"/>
+<g stroke="#2b2b2b" fill="none" stroke-linecap="round" stroke-linejoin="round">
+<rect x="54.0" y="26.0" width="1501.0" height="881.0" stroke-width="3.0" fill="none"/>
+<line x1="54.0" y1="126.0" x2="1555.0" y2="126.0" stroke-width="3.0"/>
+<line x1="54.0" y1="231.0" x2="1448.0" y2="231.0" stroke-width="3.0"/>
+<line x1="54.0" y1="336.0" x2="1449.0" y2="336.0" stroke-width="3.0"/>
+<line x1="54.0" y1="466.0" x2="1126.0" y2="466.0" stroke-width="3.0"/>
+<line x1="54.0" y1="606.0" x2="843.0" y2="606.0" stroke-width="3.0"/>
+<line x1="54.0" y1="800.0" x2="1448.0" y2="800.0" stroke-width="3.0"/>
+<line x1="450.0" y1="606.0" x2="450.0" y2="800.0" stroke-width="3.0"/>
+<line x1="844.0" y1="466.0" x2="844.0" y2="800.0" stroke-width="3.0"/>
+<line x1="1126.0" y1="336.0" x2="1126.0" y2="800.0" stroke-width="3.0"/>
+<line x1="1448.0" y1="231.0" x2="1448.0" y2="906.0" stroke-width="3.0"/>
+<line x1="54.0" y1="231.0" x2="1126.0" y2="334.0" stroke-width="3.0"/>
+<line x1="1126.0" y1="334.0" x2="1448.0" y2="231.0" stroke-width="3.0"/>
+<line x1="54.0" y1="336.0" x2="843.0" y2="464.0" stroke-width="3.0"/>
+<line x1="843.0" y1="464.0" x2="1126.0" y2="336.0" stroke-width="3.0"/>
+<line x1="54.0" y1="466.0" x2="450.0" y2="606.0" stroke-width="3.0"/>
+<line x1="450.0" y1="606.0" x2="843.0" y2="466.0" stroke-width="3.0"/>
+</g>
+<text x="804.0" y="78.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="46" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">输入year</text>
+<text x="810.0" y="180.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="49" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">DO WHILE year不等于0</text>
+<text x="804.0" y="855.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="46" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">输入year</text>
+<text x="1080.0" y="272.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="48" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">year能被4整除</text>
+<text x="95.0" y="292.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="46" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">是</text>
+<text x="1385.0" y="292.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="46" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">否</text>
+<text x="880.0" y="380.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="48" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">year能被100整除</text>
+<text x="95.0" y="424.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="46" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">是</text>
+<text x="1040.0" y="424.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="46" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">否</text>
+<text x="500.0" y="500.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="46" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">year能被400</text>
+<text x="500.0" y="552.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="46" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">整除</text>
+<text x="95.0" y="560.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="46" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">是</text>
+<text x="765.0" y="560.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="46" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">否</text>
+<text x="252.0" y="672.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="50" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">输出year</text>
+<text x="252.0" y="728.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="50" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">是闰年</text>
+<text x="646.0" y="672.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="50" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">输出year</text>
+<text x="646.0" y="728.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="50" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">不是闰年</text>
+<text x="985.0" y="620.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="50" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">输出year</text>
+<text x="985.0" y="676.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="50" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">是闰年</text>
+<text x="1287.0" y="560.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="50" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">输出year</text>
+<text x="1287.0" y="616.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="50" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">不是闰年</text>
+</svg>

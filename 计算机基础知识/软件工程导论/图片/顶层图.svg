@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1262" height="642" viewBox="0 0 1262 642">
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9.2" refY="5" markerWidth="6.5" markerHeight="6.5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2b2b2b"/></marker></defs>
+<rect x="0" y="0" width="1262" height="642" fill="#ffffff"/>
+<g stroke="#2b2b2b" fill="none" stroke-linecap="round" stroke-linejoin="round">
+<rect x="4.0" y="69.0" width="93.0" height="445.0" stroke-width="2.0" fill="none"/>
+<rect x="1160.0" y="13.0" width="95.0" height="626.0" stroke-width="2.0" fill="none"/>
+<ellipse cx="618.0" cy="320.0" rx="112.0" ry="300.0" stroke-width="2.0" fill="none"/>
+<line x1="97.0" y1="178.0" x2="519.3" y2="178.0" stroke-width="2.0" marker-end="url(#ah)"/>
+<line x1="97.0" y1="261.0" x2="508.2" y2="261.0" stroke-width="2.0" marker-end="url(#ah)"/>
+<line x1="97.0" y1="342.0" x2="506.3" y2="342.0" stroke-width="2.0" marker-end="url(#ah)"/>
+<line x1="511.6" y1="414.0" x2="97.0" y2="414.0" stroke-width="2.0" marker-end="url(#ah)"/>
+<line x1="1160.0" y1="42.0" x2="660.1" y2="42.0" stroke-width="2.0" marker-end="url(#ah)"/>
+<line x1="1160.0" y1="100.0" x2="694.1" y2="100.0" stroke-width="2.0" marker-end="url(#ah)"/>
+<line x1="709.5" y1="147.0" x2="1160.0" y2="147.0" stroke-width="2.0" marker-end="url(#ah)"/>
+<line x1="721.1" y1="203.0" x2="1160.0" y2="203.0" stroke-width="2.0" marker-end="url(#ah)"/>
+<line x1="1160.0" y1="258.0" x2="727.6" y2="258.0" stroke-width="2.0" marker-end="url(#ah)"/>
+<line x1="730.0" y1="314.0" x2="1160.0" y2="314.0" stroke-width="2.0" marker-end="url(#ah)"/>
+<line x1="1160.0" y1="369.0" x2="728.5" y2="369.0" stroke-width="2.0" marker-end="url(#ah)"/>
+<line x1="1160.0" y1="425.0" x2="722.9" y2="425.0" stroke-width="2.0" marker-end="url(#ah)"/>
+<line x1="712.7" y1="480.0" x2="1160.0" y2="480.0" stroke-width="2.0" marker-end="url(#ah)"/>
+<line x1="1160.0" y1="536.0" x2="695.7" y2="536.0" stroke-width="2.0" marker-end="url(#ah)"/>
+<line x1="665.2" y1="592.0" x2="1160.0" y2="592.0" stroke-width="2.0" marker-end="url(#ah)"/>
+</g>
+<text x="50.0" y="186.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="34" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">图</text>
+<text x="50.0" y="228.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="34" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">书</text>
+<text x="50.0" y="270.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="34" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">馆</text>
+<text x="50.0" y="312.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="34" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">管</text>
+<text x="50.0" y="354.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="34" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">理</text>
+<text x="50.0" y="396.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="34" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">员</text>
+<text x="1207.0" y="303.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="34" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">读</text>
+<text x="1207.0" y="344.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="34" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">者</text>
+<text x="618.0" y="215.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="32" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">图</text>
+<text x="618.0" y="256.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="32" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">书</text>
+<text x="618.0" y="297.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="32" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">借</text>
+<text x="618.0" y="338.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="32" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">阅</text>
+<text x="618.0" y="379.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="32" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">系</text>
+<text x="618.0" y="420.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="32" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">统</text>
+<text x="308.2" y="156.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="35" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">读者信息维护事务</text>
+<text x="302.6" y="239.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="35" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">图书信息维护事务</text>
+<text x="301.7" y="320.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="35" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">管理员查询事务</text>
+<text x="304.3" y="392.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="35" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">管理员查询结果</text>
+<text x="930.0" y="22.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="35" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">读者号</text>
+<text x="930.0" y="80.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="35" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">预借书条码号</text>
+<text x="930.0" y="127.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="35" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">超期信息</text>
+<text x="930.0" y="183.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="35" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">借阅信息</text>
+<text x="930.0" y="238.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="35" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">续借事务</text>
+<text x="930.0" y="294.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="35" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">续借信息</text>
+<text x="930.0" y="349.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="35" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">欲还书条码号</text>
+<text x="930.0" y="405.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="35" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">支付罚款事务</text>
+<text x="930.0" y="460.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="35" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">还书信息</text>
+<text x="930.0" y="516.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="35" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">读者查询事务</text>
+<text x="930.0" y="572.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="35" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">读者查询结果</text>
+</svg>

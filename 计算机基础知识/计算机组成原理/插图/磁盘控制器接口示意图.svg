@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="843" height="407" viewBox="0 0 843 407">
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9.2" refY="5" markerWidth="6.5" markerHeight="6.5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2b2b2b"/></marker></defs>
+<rect x="0" y="0" width="843" height="407" fill="#ffffff"/>
+<g stroke="#2b2b2b" fill="none" stroke-linecap="round" stroke-linejoin="round">
+<rect x="86.0" y="82.0" width="62.0" height="52.0" stroke-width="1.5" fill="#ffffff"/>
+<rect x="188.0" y="82.0" width="116.0" height="52.0" stroke-width="1.5" fill="#ffffff"/>
+<rect x="346.0" y="82.0" width="60.0" height="52.0" stroke-width="1.5" fill="#ffffff"/>
+<rect x="446.0" y="82.0" width="62.0" height="52.0" stroke-width="1.5" fill="#ffffff"/>
+<rect x="555.0" y="82.0" width="49.0" height="204.0" stroke-width="1.5" fill="#ffffff"/>
+<rect x="636.0" y="82.0" width="62.0" height="53.0" stroke-width="1.5" fill="#ffffff"/>
+<rect x="644.0" y="143.0" width="46.0" height="150.0" stroke-width="1.5" fill="#ffffff"/>
+<rect x="86.0" y="206.0" width="62.0" height="52.0" stroke-width="1.5" fill="#ffffff"/>
+<rect x="229.0" y="206.0" width="117.0" height="52.0" stroke-width="1.5" fill="#ffffff"/>
+<rect x="446.0" y="206.0" width="62.0" height="52.0" stroke-width="1.5" fill="#ffffff"/>
+<line x1="40.0" y1="108.0" x2="86.0" y2="108.0" stroke-width="1.3" marker-end="url(#ah)"/>
+<line x1="148.0" y1="108.0" x2="188.0" y2="108.0" stroke-width="1.3" marker-end="url(#ah)"/>
+<line x1="304.0" y1="108.0" x2="346.0" y2="108.0" stroke-width="1.3" marker-end="url(#ah)"/>
+<line x1="406.0" y1="108.0" x2="446.0" y2="108.0" stroke-width="1.3" marker-end="url(#ah)"/>
+<line x1="508.0" y1="108.0" x2="555.0" y2="108.0" stroke-width="1.3" marker-end="url(#ah)"/>
+<line x1="604.0" y1="108.0" x2="636.0" y2="108.0" stroke-width="1.3" marker-end="url(#ah)"/>
+<line x1="698.0" y1="108.0" x2="757.0" y2="108.0" stroke-width="1.3" marker-end="url(#ah)"/>
+<line x1="87.0" y1="232.0" x2="40.0" y2="232.0" stroke-width="1.3" marker-end="url(#ah)"/>
+<line x1="230.0" y1="232.0" x2="148.0" y2="232.0" stroke-width="1.3" marker-end="url(#ah)"/>
+<line x1="447.0" y1="232.0" x2="346.0" y2="232.0" stroke-width="1.3" marker-end="url(#ah)"/>
+<line x1="557.0" y1="232.0" x2="508.0" y2="232.0" stroke-width="1.3" marker-end="url(#ah)"/>
+<line x1="644.0" y1="232.0" x2="604.0" y2="232.0" stroke-width="1.3" marker-end="url(#ah)"/>
+<line x1="760.0" y1="232.0" x2="690.0" y2="232.0" stroke-width="1.3" marker-end="url(#ah)"/>
+<line x1="145.0" y1="52.0" x2="145.0" y2="308.0" stroke-width="1.2" stroke-dasharray="7,4"/>
+<line x1="430.0" y1="52.0" x2="430.0" y2="308.0" stroke-width="1.2" stroke-dasharray="7,4"/>
+<line x1="765.0" y1="52.0" x2="765.0" y2="308.0" stroke-width="1.2" stroke-dasharray="7,4"/>
+<circle cx="168.0" cy="331.0" r="22.0" stroke-width="1.4" fill="#ffffff"/>
+<circle cx="430.0" cy="331.0" r="22.0" stroke-width="1.4" fill="#ffffff"/>
+<circle cx="762.0" cy="331.0" r="22.0" stroke-width="1.4" fill="#ffffff"/>
+</g>
+<text x="117.0" y="97.9" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">读放</text>
+<text x="117.0" y="118.1" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">大器</text>
+<text x="246.0" y="97.9" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">读时钟</text>
+<text x="246.0" y="118.1" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">产生器</text>
+<text x="376.0" y="97.9" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">数据</text>
+<text x="376.0" y="118.1" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">译码</text>
+<text x="477.0" y="97.9" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">串/并</text>
+<text x="477.0" y="118.1" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">转换</text>
+<text x="580.0" y="152.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">格</text>
+<text x="580.0" y="173.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">式</text>
+<text x="580.0" y="194.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">控</text>
+<text x="580.0" y="215.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">制</text>
+<text x="667.0" y="98.4" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">DMA</text>
+<text x="667.0" y="118.6" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">控制</text>
+<text x="667.0" y="165.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">数</text>
+<text x="667.0" y="189.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">据</text>
+<text x="667.0" y="213.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">缓</text>
+<text x="667.0" y="237.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">冲</text>
+<text x="117.0" y="221.9" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">写放</text>
+<text x="117.0" y="242.1" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">大器</text>
+<text x="287.5" y="232.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">数据编码器</text>
+<text x="477.0" y="221.9" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">串/并</text>
+<text x="477.0" y="242.1" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">转换</text>
+<text x="188.0" y="30.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">ST506 接口</text>
+<text x="455.0" y="12.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">ESdi 接口</text>
+<text x="455.0" y="37.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">SMD 接口</text>
+<text x="775.0" y="26.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">SCSI 接口</text>
+<text x="110.0" y="310.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">驱动器</text>
+<text x="280.0" y="310.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">数据分离器</text>
+<text x="630.0" y="310.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">磁盘数据控制器</text>
+<text x="782.0" y="174.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">主机</text>
+<text x="168.0" y="331.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="18" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">A</text>
+<text x="430.0" y="331.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="18" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">B</text>
+<text x="762.0" y="331.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="18" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">C</text>
+<text x="430.0" y="388.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="19" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">图 4.68   磁盘控制器接口的示意图</text>
+</svg>

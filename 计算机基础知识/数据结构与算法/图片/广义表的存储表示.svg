@@ -1,0 +1,153 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="480" viewBox="0 0 900 480">
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9.2" refY="5" markerWidth="6.5" markerHeight="6.5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2b2b2b"/></marker></defs>
+<rect x="0" y="0" width="900" height="480" fill="#ffffff"/>
+<g stroke="#2b2b2b" fill="none" stroke-linecap="round" stroke-linejoin="round">
+<line x1="100.0" y1="30.0" x2="130.0" y2="30.0" stroke-width="1.3" marker-end="url(#ah)"/>
+<rect x="130.0" y="17.0" width="34.0" height="26.0" stroke-width="1.3" fill="#d9d9d9"/>
+<rect x="164.0" y="17.0" width="34.0" height="26.0" stroke-width="1.3" fill="none"/>
+<rect x="198.0" y="17.0" width="34.0" height="26.0" stroke-width="1.3" fill="none"/>
+<line x1="100.0" y1="105.0" x2="130.0" y2="105.0" stroke-width="1.3" marker-end="url(#ah)"/>
+<rect x="130.0" y="92.0" width="34.0" height="26.0" stroke-width="1.3" fill="#d9d9d9"/>
+<rect x="164.0" y="92.0" width="34.0" height="26.0" stroke-width="1.3" fill="none"/>
+<rect x="198.0" y="92.0" width="34.0" height="26.0" stroke-width="1.3" fill="none"/>
+<line x1="232.0" y1="105.0" x2="242.0" y2="105.0" stroke-width="1.3" marker-end="url(#ah)"/>
+<rect x="242.0" y="92.0" width="34.0" height="26.0" stroke-width="1.3" fill="none"/>
+<rect x="276.0" y="92.0" width="34.0" height="26.0" stroke-width="1.3" fill="none"/>
+<rect x="310.0" y="92.0" width="34.0" height="26.0" stroke-width="1.3" fill="none"/>
+<line x1="344.0" y1="105.0" x2="354.0" y2="105.0" stroke-width="1.3" marker-end="url(#ah)"/>
+<rect x="354.0" y="92.0" width="34.0" height="26.0" stroke-width="1.3" fill="none"/>
+<rect x="388.0" y="92.0" width="34.0" height="26.0" stroke-width="1.3" fill="none"/>
+<rect x="422.0" y="92.0" width="34.0" height="26.0" stroke-width="1.3" fill="none"/>
+<line x1="100.0" y1="181.0" x2="130.0" y2="181.0" stroke-width="1.3" marker-end="url(#ah)"/>
+<rect x="130.0" y="168.0" width="34.0" height="26.0" stroke-width="1.3" fill="#d9d9d9"/>
+<rect x="164.0" y="168.0" width="34.0" height="26.0" stroke-width="1.3" fill="none"/>
+<rect x="198.0" y="168.0" width="34.0" height="26.0" stroke-width="1.3" fill="none"/>
+<line x1="232.0" y1="181.0" x2="242.0" y2="181.0" stroke-width="1.3" marker-end="url(#ah)"/>
+<rect x="242.0" y="168.0" width="34.0" height="26.0" stroke-width="1.3" fill="none"/>
+<rect x="276.0" y="168.0" width="34.0" height="26.0" stroke-width="1.3" fill="none"/>
+<rect x="310.0" y="168.0" width="34.0" height="26.0" stroke-width="1.3" fill="none"/>
+<line x1="344.0" y1="181.0" x2="354.0" y2="181.0" stroke-width="1.3" marker-end="url(#ah)"/>
+<rect x="354.0" y="168.0" width="34.0" height="26.0" stroke-width="1.3" fill="none"/>
+<rect x="388.0" y="168.0" width="34.0" height="26.0" stroke-width="1.3" fill="none"/>
+<rect x="422.0" y="168.0" width="34.0" height="26.0" stroke-width="1.3" fill="none"/>
+<line x1="456.0" y1="181.0" x2="466.0" y2="181.0" stroke-width="1.3" marker-end="url(#ah)"/>
+<rect x="466.0" y="168.0" width="34.0" height="26.0" stroke-width="1.3" fill="none"/>
+<rect x="500.0" y="168.0" width="34.0" height="26.0" stroke-width="1.3" fill="none"/>
+<rect x="534.0" y="168.0" width="34.0" height="26.0" stroke-width="1.3" fill="none"/>
+<line x1="100.0" y1="263.0" x2="130.0" y2="263.0" stroke-width="1.3" marker-end="url(#ah)"/>
+<rect x="130.0" y="250.0" width="34.0" height="26.0" stroke-width="1.3" fill="#d9d9d9"/>
+<rect x="164.0" y="250.0" width="34.0" height="26.0" stroke-width="1.3" fill="none"/>
+<rect x="198.0" y="250.0" width="34.0" height="26.0" stroke-width="1.3" fill="none"/>
+<line x1="232.0" y1="263.0" x2="242.0" y2="263.0" stroke-width="1.3" marker-end="url(#ah)"/>
+<rect x="242.0" y="250.0" width="34.0" height="26.0" stroke-width="1.3" fill="none"/>
+<rect x="276.0" y="250.0" width="34.0" height="26.0" stroke-width="1.3" fill="none"/>
+<rect x="310.0" y="250.0" width="34.0" height="26.0" stroke-width="1.3" fill="none"/>
+<line x1="344.0" y1="263.0" x2="354.0" y2="263.0" stroke-width="1.3" marker-end="url(#ah)"/>
+<rect x="354.0" y="250.0" width="34.0" height="26.0" stroke-width="1.3" fill="none"/>
+<rect x="388.0" y="250.0" width="34.0" height="26.0" stroke-width="1.3" fill="none"/>
+<rect x="422.0" y="250.0" width="34.0" height="26.0" stroke-width="1.3" fill="none"/>
+<rect x="320.0" y="336.0" width="34.0" height="26.0" stroke-width="1.3" fill="#d9d9d9"/>
+<rect x="354.0" y="336.0" width="34.0" height="26.0" stroke-width="1.3" fill="none"/>
+<rect x="388.0" y="336.0" width="34.0" height="26.0" stroke-width="1.3" fill="none"/>
+<line x1="541.0" y1="276.0" x2="337.0" y2="336.0" stroke-width="1.3" marker-end="url(#ah)"/>
+<line x1="422.0" y1="349.0" x2="432.0" y2="349.0" stroke-width="1.3" marker-end="url(#ah)"/>
+<rect x="432.0" y="336.0" width="34.0" height="26.0" stroke-width="1.3" fill="none"/>
+<rect x="466.0" y="336.0" width="34.0" height="26.0" stroke-width="1.3" fill="none"/>
+<rect x="500.0" y="336.0" width="34.0" height="26.0" stroke-width="1.3" fill="none"/>
+<line x1="534.0" y1="349.0" x2="544.0" y2="349.0" stroke-width="1.3" marker-end="url(#ah)"/>
+<rect x="544.0" y="336.0" width="34.0" height="26.0" stroke-width="1.3" fill="none"/>
+<rect x="578.0" y="336.0" width="34.0" height="26.0" stroke-width="1.3" fill="none"/>
+<rect x="612.0" y="336.0" width="34.0" height="26.0" stroke-width="1.3" fill="none"/>
+<line x1="646.0" y1="349.0" x2="656.0" y2="349.0" stroke-width="1.3" marker-end="url(#ah)"/>
+<rect x="656.0" y="336.0" width="34.0" height="26.0" stroke-width="1.3" fill="none"/>
+<rect x="690.0" y="336.0" width="34.0" height="26.0" stroke-width="1.3" fill="none"/>
+<rect x="724.0" y="336.0" width="34.0" height="26.0" stroke-width="1.3" fill="none"/>
+<line x1="100.0" y1="423.0" x2="130.0" y2="423.0" stroke-width="1.3" marker-end="url(#ah)"/>
+<rect x="130.0" y="410.0" width="34.0" height="26.0" stroke-width="1.3" fill="#d9d9d9"/>
+<rect x="164.0" y="410.0" width="34.0" height="26.0" stroke-width="1.3" fill="none"/>
+<rect x="198.0" y="410.0" width="34.0" height="26.0" stroke-width="1.3" fill="none"/>
+<line x1="232.0" y1="423.0" x2="242.0" y2="423.0" stroke-width="1.3" marker-end="url(#ah)"/>
+<rect x="242.0" y="410.0" width="34.0" height="26.0" stroke-width="1.3" fill="none"/>
+<rect x="276.0" y="410.0" width="34.0" height="26.0" stroke-width="1.3" fill="none"/>
+<rect x="310.0" y="410.0" width="34.0" height="26.0" stroke-width="1.3" fill="none"/>
+<line x1="344.0" y1="423.0" x2="354.0" y2="423.0" stroke-width="1.3" marker-end="url(#ah)"/>
+<rect x="354.0" y="410.0" width="34.0" height="26.0" stroke-width="1.3" fill="none"/>
+<rect x="388.0" y="410.0" width="34.0" height="26.0" stroke-width="1.3" fill="none"/>
+<rect x="422.0" y="410.0" width="34.0" height="26.0" stroke-width="1.3" fill="none"/>
+<line x1="100.0" y1="483.0" x2="130.0" y2="483.0" stroke-width="1.3" marker-end="url(#ah)"/>
+<rect x="130.0" y="470.0" width="34.0" height="26.0" stroke-width="1.3" fill="#d9d9d9"/>
+<rect x="164.0" y="470.0" width="34.0" height="26.0" stroke-width="1.3" fill="none"/>
+<rect x="198.0" y="470.0" width="34.0" height="26.0" stroke-width="1.3" fill="none"/>
+<line x1="232.0" y1="483.0" x2="242.0" y2="483.0" stroke-width="1.3" marker-end="url(#ah)"/>
+<rect x="242.0" y="470.0" width="34.0" height="26.0" stroke-width="1.3" fill="none"/>
+<rect x="276.0" y="470.0" width="34.0" height="26.0" stroke-width="1.3" fill="none"/>
+<rect x="310.0" y="470.0" width="34.0" height="26.0" stroke-width="1.3" fill="none"/>
+<line x1="344.0" y1="483.0" x2="354.0" y2="483.0" stroke-width="1.3" marker-end="url(#ah)"/>
+<rect x="354.0" y="470.0" width="34.0" height="26.0" stroke-width="1.3" fill="none"/>
+<rect x="388.0" y="470.0" width="34.0" height="26.0" stroke-width="1.3" fill="none"/>
+<rect x="422.0" y="470.0" width="34.0" height="26.0" stroke-width="1.3" fill="none"/>
+</g>
+<text x="96.0" y="30.0" font-family="SimSun, 'Microsoft YaHei', serif" font-size="13" text-anchor="end" dominant-baseline="central" fill="#2b2b2b">A</text>
+<text x="147.0" y="30.0" font-family="SimSun, 'Microsoft YaHei', serif" font-size="13" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">0</text>
+<text x="181.0" y="30.0" font-family="SimSun, 'Microsoft YaHei', serif" font-size="13" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">1</text>
+<text x="215.0" y="30.0" font-family="SimSun, 'Microsoft YaHei', serif" font-size="13" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">∧</text>
+<text x="96.0" y="105.0" font-family="SimSun, 'Microsoft YaHei', serif" font-size="13" text-anchor="end" dominant-baseline="central" fill="#2b2b2b">B</text>
+<text x="147.0" y="105.0" font-family="SimSun, 'Microsoft YaHei', serif" font-size="13" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">0</text>
+<text x="181.0" y="105.0" font-family="SimSun, 'Microsoft YaHei', serif" font-size="13" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">2</text>
+<text x="215.0" y="105.0" font-family="SimSun, 'Microsoft YaHei', serif" font-size="13" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b"></text>
+<text x="259.0" y="105.0" font-family="SimSun, 'Microsoft YaHei', serif" font-size="13" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">1</text>
+<text x="293.0" y="105.0" font-family="SimSun, 'Microsoft YaHei', serif" font-size="13" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">a</text>
+<text x="327.0" y="105.0" font-family="SimSun, 'Microsoft YaHei', serif" font-size="13" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b"></text>
+<text x="371.0" y="105.0" font-family="SimSun, 'Microsoft YaHei', serif" font-size="13" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">1</text>
+<text x="405.0" y="105.0" font-family="SimSun, 'Microsoft YaHei', serif" font-size="13" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">b</text>
+<text x="439.0" y="105.0" font-family="SimSun, 'Microsoft YaHei', serif" font-size="13" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">∧</text>
+<text x="96.0" y="181.0" font-family="SimSun, 'Microsoft YaHei', serif" font-size="13" text-anchor="end" dominant-baseline="central" fill="#2b2b2b">D</text>
+<text x="147.0" y="181.0" font-family="SimSun, 'Microsoft YaHei', serif" font-size="13" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">0</text>
+<text x="181.0" y="181.0" font-family="SimSun, 'Microsoft YaHei', serif" font-size="13" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">1</text>
+<text x="215.0" y="181.0" font-family="SimSun, 'Microsoft YaHei', serif" font-size="13" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b"></text>
+<text x="259.0" y="181.0" font-family="SimSun, 'Microsoft YaHei', serif" font-size="13" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">2</text>
+<text x="327.0" y="181.0" font-family="SimSun, 'Microsoft YaHei', serif" font-size="13" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b"></text>
+<text x="371.0" y="181.0" font-family="SimSun, 'Microsoft YaHei', serif" font-size="13" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">2</text>
+<text x="439.0" y="181.0" font-family="SimSun, 'Microsoft YaHei', serif" font-size="13" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b"></text>
+<text x="483.0" y="181.0" font-family="SimSun, 'Microsoft YaHei', serif" font-size="13" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">2</text>
+<text x="551.0" y="181.0" font-family="SimSun, 'Microsoft YaHei', serif" font-size="13" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">∧</text>
+<text x="96.0" y="263.0" font-family="SimSun, 'Microsoft YaHei', serif" font-size="13" text-anchor="end" dominant-baseline="central" fill="#2b2b2b">C</text>
+<text x="147.0" y="263.0" font-family="SimSun, 'Microsoft YaHei', serif" font-size="13" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">0</text>
+<text x="181.0" y="263.0" font-family="SimSun, 'Microsoft YaHei', serif" font-size="13" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">1</text>
+<text x="215.0" y="263.0" font-family="SimSun, 'Microsoft YaHei', serif" font-size="13" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b"></text>
+<text x="259.0" y="263.0" font-family="SimSun, 'Microsoft YaHei', serif" font-size="13" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">1</text>
+<text x="293.0" y="263.0" font-family="SimSun, 'Microsoft YaHei', serif" font-size="13" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">c</text>
+<text x="327.0" y="263.0" font-family="SimSun, 'Microsoft YaHei', serif" font-size="13" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b"></text>
+<text x="371.0" y="263.0" font-family="SimSun, 'Microsoft YaHei', serif" font-size="13" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">2</text>
+<text x="439.0" y="263.0" font-family="SimSun, 'Microsoft YaHei', serif" font-size="13" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">∧</text>
+<text x="337.0" y="349.0" font-family="SimSun, 'Microsoft YaHei', serif" font-size="13" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">0</text>
+<text x="371.0" y="349.0" font-family="SimSun, 'Microsoft YaHei', serif" font-size="13" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">1</text>
+<text x="405.0" y="349.0" font-family="SimSun, 'Microsoft YaHei', serif" font-size="13" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b"></text>
+<text x="449.0" y="349.0" font-family="SimSun, 'Microsoft YaHei', serif" font-size="13" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">1</text>
+<text x="483.0" y="349.0" font-family="SimSun, 'Microsoft YaHei', serif" font-size="13" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">d</text>
+<text x="517.0" y="349.0" font-family="SimSun, 'Microsoft YaHei', serif" font-size="13" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b"></text>
+<text x="561.0" y="349.0" font-family="SimSun, 'Microsoft YaHei', serif" font-size="13" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">1</text>
+<text x="595.0" y="349.0" font-family="SimSun, 'Microsoft YaHei', serif" font-size="13" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">e</text>
+<text x="629.0" y="349.0" font-family="SimSun, 'Microsoft YaHei', serif" font-size="13" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b"></text>
+<text x="673.0" y="349.0" font-family="SimSun, 'Microsoft YaHei', serif" font-size="13" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">1</text>
+<text x="707.0" y="349.0" font-family="SimSun, 'Microsoft YaHei', serif" font-size="13" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">f</text>
+<text x="741.0" y="349.0" font-family="SimSun, 'Microsoft YaHei', serif" font-size="13" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">∧</text>
+<text x="96.0" y="423.0" font-family="SimSun, 'Microsoft YaHei', serif" font-size="13" text-anchor="end" dominant-baseline="central" fill="#2b2b2b">E</text>
+<text x="147.0" y="423.0" font-family="SimSun, 'Microsoft YaHei', serif" font-size="13" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">0</text>
+<text x="181.0" y="423.0" font-family="SimSun, 'Microsoft YaHei', serif" font-size="13" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">0</text>
+<text x="215.0" y="423.0" font-family="SimSun, 'Microsoft YaHei', serif" font-size="13" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b"></text>
+<text x="259.0" y="423.0" font-family="SimSun, 'Microsoft YaHei', serif" font-size="13" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">2</text>
+<text x="327.0" y="423.0" font-family="SimSun, 'Microsoft YaHei', serif" font-size="13" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b"></text>
+<text x="371.0" y="423.0" font-family="SimSun, 'Microsoft YaHei', serif" font-size="13" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">2</text>
+<text x="439.0" y="423.0" font-family="SimSun, 'Microsoft YaHei', serif" font-size="13" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">∧</text>
+<text x="96.0" y="483.0" font-family="SimSun, 'Microsoft YaHei', serif" font-size="13" text-anchor="end" dominant-baseline="central" fill="#2b2b2b">F</text>
+<text x="147.0" y="483.0" font-family="SimSun, 'Microsoft YaHei', serif" font-size="13" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">0</text>
+<text x="181.0" y="483.0" font-family="SimSun, 'Microsoft YaHei', serif" font-size="13" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">1</text>
+<text x="215.0" y="483.0" font-family="SimSun, 'Microsoft YaHei', serif" font-size="13" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b"></text>
+<text x="259.0" y="483.0" font-family="SimSun, 'Microsoft YaHei', serif" font-size="13" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">1</text>
+<text x="293.0" y="483.0" font-family="SimSun, 'Microsoft YaHei', serif" font-size="13" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">h</text>
+<text x="327.0" y="483.0" font-family="SimSun, 'Microsoft YaHei', serif" font-size="13" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b"></text>
+<text x="371.0" y="483.0" font-family="SimSun, 'Microsoft YaHei', serif" font-size="13" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">2</text>
+<text x="439.0" y="483.0" font-family="SimSun, 'Microsoft YaHei', serif" font-size="13" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">∧</text>
+<text x="450.0" y="516.0" font-family="SimSun, 'Microsoft YaHei', serif" font-size="14" text-anchor="middle" dominant-baseline="central" fill="#444">图 4.22  广义表的存储表示</text>
+</svg>

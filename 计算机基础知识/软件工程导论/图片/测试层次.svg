@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1509" height="1056" viewBox="0 0 1509 1056">
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9.2" refY="5" markerWidth="6.5" markerHeight="6.5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2b2b2b"/></marker></defs>
+<rect x="0" y="0" width="1509" height="1056" fill="#ffffff"/>
+<g stroke="#2b2b2b" fill="none" stroke-linecap="round" stroke-linejoin="round">
+<polyline points="55.0,32.0 110.0,63.0 55.0,94.0 78.0,63.0 55.0,32.0" stroke-width="1" fill="#2b8fb0"/>
+<polyline points="95.0,32.0 150.0,63.0 95.0,94.0 118.0,63.0 95.0,32.0" stroke-width="1" fill="#2b8fb0"/>
+<circle cx="1140.0" cy="45.0" r="34.0" stroke-width="1.5" fill="#2b8fb0"/>
+<circle cx="1140.0" cy="45.0" r="27.0" stroke-width="1" fill="#ffffff"/>
+<rect x="588.0" y="152.0" width="172.0" height="83.0" stroke-width="0" fill="#d9d9d9" rx="6"/>
+<rect x="383.0" y="268.0" width="173.0" height="84.0" stroke-width="0" fill="#d9d9d9" rx="6"/>
+<rect x="926.0" y="268.0" width="173.0" height="84.0" stroke-width="0" fill="#d9d9d9" rx="6"/>
+<rect x="157.0" y="434.0" width="206.0" height="84.0" stroke-width="0" fill="#d9d9d9" rx="6"/>
+<rect x="507.0" y="434.0" width="207.0" height="84.0" stroke-width="0" fill="#d9d9d9" rx="6"/>
+<rect x="790.0" y="434.0" width="207.0" height="84.0" stroke-width="0" fill="#d9d9d9" rx="6"/>
+<rect x="1108.0" y="434.0" width="206.0" height="84.0" stroke-width="0" fill="#d9d9d9" rx="6"/>
+<rect x="77.0" y="598.0" width="193.0" height="87.0" stroke-width="0" fill="#d9d9d9" rx="6"/>
+<rect x="338.0" y="598.0" width="195.0" height="87.0" stroke-width="0" fill="#d9d9d9" rx="6"/>
+<rect x="55.0" y="740.0" width="206.0" height="82.0" stroke-width="0" fill="#d9d9d9" rx="6"/>
+<rect x="338.0" y="740.0" width="195.0" height="82.0" stroke-width="0" fill="#d9d9d9" rx="6"/>
+<rect x="570.0" y="740.0" width="212.0" height="82.0" stroke-width="0" fill="#d9d9d9" rx="6"/>
+<rect x="66.0" y="899.0" width="119.0" height="82.0" stroke-width="0" fill="#d9d9d9" rx="6"/>
+<rect x="218.0" y="899.0" width="92.0" height="82.0" stroke-width="0" fill="#d9d9d9" rx="6"/>
+<line x1="674.0" y1="235.0" x2="674.0" y2="259.0" stroke-width="2.0"/>
+<line x1="469.0" y1="259.0" x2="1013.0" y2="259.0" stroke-width="2.0"/>
+<line x1="469.0" y1="259.0" x2="469.0" y2="250.0" stroke-width="2.2"/>
+<polyline points="469.0,268.0 461.0,248.0 477.0,248.0 469.0,268.0" stroke-width="1.0" fill="#2b2b2b"/>
+<line x1="1013.0" y1="259.0" x2="1013.0" y2="250.0" stroke-width="2.2"/>
+<polyline points="1013.0,268.0 1005.0,248.0 1021.0,248.0 1013.0,268.0" stroke-width="1.0" fill="#2b2b2b"/>
+<line x1="469.0" y1="352.0" x2="469.0" y2="402.0" stroke-width="2.0"/>
+<line x1="260.0" y1="402.0" x2="611.0" y2="402.0" stroke-width="2.0"/>
+<line x1="260.0" y1="402.0" x2="260.0" y2="416.0" stroke-width="2.2"/>
+<polyline points="260.0,434.0 252.0,414.0 268.0,414.0 260.0,434.0" stroke-width="1.0" fill="#2b2b2b"/>
+<line x1="611.0" y1="402.0" x2="611.0" y2="416.0" stroke-width="2.2"/>
+<polyline points="611.0,434.0 603.0,414.0 619.0,414.0 611.0,434.0" stroke-width="1.0" fill="#2b2b2b"/>
+<line x1="1013.0" y1="352.0" x2="1013.0" y2="393.0" stroke-width="2.0"/>
+<line x1="894.0" y1="393.0" x2="1211.0" y2="393.0" stroke-width="2.0"/>
+<line x1="894.0" y1="393.0" x2="894.0" y2="416.0" stroke-width="2.2"/>
+<polyline points="894.0,434.0 886.0,414.0 902.0,414.0 894.0,434.0" stroke-width="1.0" fill="#2b2b2b"/>
+<line x1="1211.0" y1="393.0" x2="1211.0" y2="416.0" stroke-width="2.2"/>
+<polyline points="1211.0,434.0 1203.0,414.0 1219.0,414.0 1211.0,434.0" stroke-width="1.0" fill="#2b2b2b"/>
+<line x1="260.0" y1="518.0" x2="260.0" y2="557.0" stroke-width="2.0"/>
+<line x1="181.0" y1="557.0" x2="430.0" y2="557.0" stroke-width="2.0"/>
+<line x1="181.0" y1="557.0" x2="181.0" y2="580.0" stroke-width="2.2"/>
+<polyline points="181.0,598.0 173.0,578.0 189.0,578.0 181.0,598.0" stroke-width="1.0" fill="#2b2b2b"/>
+<line x1="430.0" y1="557.0" x2="430.0" y2="580.0" stroke-width="2.2"/>
+<polyline points="430.0,598.0 422.0,578.0 438.0,578.0 430.0,598.0" stroke-width="1.0" fill="#2b2b2b"/>
+<line x1="181.0" y1="685.0" x2="181.0" y2="710.0" stroke-width="2.0"/>
+<line x1="158.0" y1="710.0" x2="676.0" y2="710.0" stroke-width="2.0"/>
+<line x1="158.0" y1="710.0" x2="158.0" y2="722.0" stroke-width="2.2"/>
+<polyline points="158.0,740.0 150.0,720.0 166.0,720.0 158.0,740.0" stroke-width="1.0" fill="#2b2b2b"/>
+<line x1="435.0" y1="710.0" x2="435.0" y2="722.0" stroke-width="2.2"/>
+<polyline points="435.0,740.0 427.0,720.0 443.0,720.0 435.0,740.0" stroke-width="1.0" fill="#2b2b2b"/>
+<line x1="676.0" y1="710.0" x2="676.0" y2="722.0" stroke-width="2.2"/>
+<polyline points="676.0,740.0 668.0,720.0 684.0,720.0 676.0,740.0" stroke-width="1.0" fill="#2b2b2b"/>
+<line x1="158.0" y1="822.0" x2="158.0" y2="861.0" stroke-width="2.0"/>
+<line x1="138.0" y1="861.0" x2="319.0" y2="861.0" stroke-width="2.0"/>
+<line x1="138.0" y1="861.0" x2="138.0" y2="881.0" stroke-width="2.2"/>
+<polyline points="138.0,899.0 130.0,879.0 146.0,879.0 138.0,899.0" stroke-width="1.0" fill="#2b2b2b"/>
+<line x1="319.0" y1="861.0" x2="319.0" y2="881.0" stroke-width="2.2"/>
+<polyline points="319.0,899.0 311.0,879.0 327.0,879.0 319.0,899.0" stroke-width="1.0" fill="#2b2b2b"/>
+<polyline points="882.0,145.0 882.0,168.0 762.0,190.0" stroke-width="1.5" fill="#bfbfbf"/>
+<rect x="882.0" y="62.0" width="193.0" height="103.0" stroke-width="1.8" fill="#bfbfbf"/>
+<polyline points="611.0,958.0 611.0,990.0 312.0,950.0" stroke-width="1.5" fill="#bfbfbf"/>
+<rect x="611.0" y="923.0" width="192.0" height="102.0" stroke-width="1.8" fill="#bfbfbf"/>
+<polyline points="958.0,545.0 986.6,560.3 986.6,659.8 1010.0,672.5 986.6,685.2 986.6,784.7 958.0,800.0" stroke-width="2.4" fill="none"/>
+</g>
+<text x="215.0" y="63.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="64" text-anchor="start" dominant-baseline="central" fill="#17809b" font-weight="bold">测试的层次</text>
+<text x="1140.0" y="40.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="28" text-anchor="middle" dominant-baseline="central" fill="#2b8fb0" font-weight="bold">B</text>
+<text x="1140.0" y="60.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="6" text-anchor="middle" dominant-baseline="central" fill="#2b8fb0" font-weight="bold">BJUT 1960</text>
+<text x="1200.0" y="42.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="32" text-anchor="start" dominant-baseline="central" fill="#3aa8c8" font-weight="bold">北京工业大学</text>
+<text x="1200.0" y="72.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="9" text-anchor="start" dominant-baseline="central" fill="#3aa8c8" font-weight="bold">BEIJINGUNIVERSITYOFTECHNOLOGY</text>
+<text x="674.0" y="193.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="36" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b" font-weight="bold">产品</text>
+<text x="469.5" y="310.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="36" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b" font-weight="bold">子系统1</text>
+<text x="1012.5" y="310.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="36" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b" font-weight="bold">子系统2</text>
+<text x="260.0" y="476.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="36" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b" font-weight="bold">软件子系统1</text>
+<text x="610.5" y="476.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="36" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b" font-weight="bold">硬件子系统1</text>
+<text x="893.5" y="476.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="36" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b" font-weight="bold">软件子系统2</text>
+<text x="1211.0" y="476.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="36" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b" font-weight="bold">硬件子系统2</text>
+<text x="173.5" y="641.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="36" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b" font-weight="bold">软件模块1</text>
+<text x="435.5" y="641.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="36" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b" font-weight="bold">软件模块2</text>
+<text x="158.0" y="781.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="36" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b" font-weight="bold">软件程序1</text>
+<text x="435.5" y="781.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="36" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b" font-weight="bold">软件程序2</text>
+<text x="676.0" y="781.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="36" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b" font-weight="bold">软件程序3</text>
+<text x="125.5" y="940.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="36" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b" font-weight="bold">单元1</text>
+<text x="264.0" y="940.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="36" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b" font-weight="bold">单元2</text>
+<text x="978.0" y="90.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="32" text-anchor="middle" dominant-baseline="central" fill="#c00000" font-weight="bold">系统测试</text>
+<text x="978.0" y="134.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="32" text-anchor="middle" dominant-baseline="central" fill="#c00000" font-weight="bold">验收测试</text>
+<text x="706.0" y="951.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="36" text-anchor="middle" dominant-baseline="central" fill="#c00000" font-weight="bold">单元测试</text>
+<text x="859.0" y="656.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="36" text-anchor="end" dominant-baseline="central" fill="#c00000" font-weight="bold">集成测试</text>
+<text x="1065.0" y="566.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="36" text-anchor="start" dominant-baseline="central" fill="#c00000" font-weight="bold">模块内的集成</text>
+<text x="1065.0" y="668.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="36" text-anchor="start" dominant-baseline="central" fill="#c00000" font-weight="bold">子系统内的集成测试</text>
+<text x="1065.0" y="782.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="36" text-anchor="start" dominant-baseline="central" fill="#c00000" font-weight="bold">子系统间的集成测试</text>
+</svg>

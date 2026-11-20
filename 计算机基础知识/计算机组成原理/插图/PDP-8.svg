@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="425" height="252" viewBox="0 0 425 252">
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9.2" refY="5" markerWidth="6.5" markerHeight="6.5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2b2b2b"/></marker></defs>
+<rect x="0" y="0" width="425" height="252" fill="#ffffff"/>
+<g stroke="#2b2b2b" fill="none" stroke-linecap="round" stroke-linejoin="round">
+<rect x="115.0" y="12.0" width="261.0" height="28.0" stroke-width="1.6" fill="#ffffff"/>
+<line x1="176.0" y1="12.0" x2="176.0" y2="40.0" stroke-width="1.4"/>
+<line x1="205.0" y1="12.0" x2="205.0" y2="40.0" stroke-width="1.4"/>
+<line x1="234.0" y1="12.0" x2="234.0" y2="40.0" stroke-width="1.4"/>
+<rect x="115.0" y="81.0" width="261.0" height="28.0" stroke-width="1.6" fill="#ffffff"/>
+<line x1="174.0" y1="81.0" x2="174.0" y2="109.0" stroke-width="1.4"/>
+<line x1="317.0" y1="81.0" x2="317.0" y2="109.0" stroke-width="1.4"/>
+<rect x="115.0" y="150.0" width="261.0" height="28.0" stroke-width="1.6" fill="#ffffff"/>
+<line x1="174.0" y1="150.0" x2="174.0" y2="178.0" stroke-width="1.4"/>
+</g>
+<text x="145.5" y="26.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="19" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">操作码</text>
+<text x="190.5" y="26.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="19" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">间</text>
+<text x="219.5" y="26.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="19" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">页</text>
+<text x="305.0" y="26.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="19" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">地址码</text>
+<text x="115.0" y="57.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">0</text>
+<text x="176.0" y="57.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">2</text>
+<text x="206.0" y="57.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">3</text>
+<text x="222.0" y="57.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">4</text>
+<text x="240.0" y="57.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">5</text>
+<text x="376.0" y="57.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">11</text>
+<text x="144.5" y="95.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="19" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">1 1 0</text>
+<text x="245.5" y="95.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="19" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">设备</text>
+<text x="346.5" y="95.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="19" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">操作码</text>
+<text x="115.0" y="126.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">0</text>
+<text x="168.0" y="126.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">2</text>
+<text x="180.0" y="126.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">3</text>
+<text x="310.0" y="126.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">8</text>
+<text x="320.0" y="126.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">9</text>
+<text x="376.0" y="126.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">11</text>
+<text x="144.5" y="164.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="19" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">1 1 1</text>
+<text x="275.0" y="164.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="19" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">辅助操作码</text>
+<text x="115.0" y="195.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">0</text>
+<text x="168.0" y="195.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">2</text>
+<text x="180.0" y="195.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">3</text>
+<text x="376.0" y="195.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">11</text>
+<text x="10.0" y="26.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">访存类指令</text>
+<text x="10.0" y="95.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">I/O 类指令</text>
+<text x="10.0" y="164.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">寄存器类指令</text>
+<text x="212.0" y="228.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="20" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">图 7.19　PDP-8 指令格式</text>
+</svg>

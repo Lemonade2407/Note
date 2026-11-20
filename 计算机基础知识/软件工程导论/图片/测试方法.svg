@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1714" height="799" viewBox="0 0 1714 799">
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9.2" refY="5" markerWidth="6.5" markerHeight="6.5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2b2b2b"/></marker></defs>
+<rect x="0" y="0" width="1714" height="799" fill="#ffffff"/>
+<g stroke="#2b2b2b" fill="none" stroke-linecap="round" stroke-linejoin="round">
+<polyline points="355.0,400.0 224.0,400.0 224.0,396.0 190.0,413.0 224.0,430.0 224.0,426.0 355.0,426.0 355.0,400.0" stroke-width="1.2" fill="#a8c0e8"/>
+<polyline points="1390.0,472.0 1486.0,472.0 1486.0,468.0 1520.0,485.0 1486.0,502.0 1486.0,498.0 1390.0,498.0 1390.0,472.0" stroke-width="1.2" fill="#a8c0e8"/>
+<rect x="854.0" y="88.0" width="376.0" height="628.0" stroke-width="1.5" fill="#1a1a1a"/>
+<polyline points="392.0,143.0 407.4,174.2 407.4,377.0 420.0,403.0 407.4,429.0 407.4,631.8 392.0,663.0" stroke-width="2.2" fill="none"/>
+<polyline points="1318.0,88.0 1275.1,125.7 1275.1,370.6 1240.0,402.0 1275.1,433.4 1275.1,678.3 1318.0,716.0" stroke-width="2.6" fill="none"/>
+</g>
+<text x="100.0" y="234.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="54" text-anchor="middle" dominant-baseline="central" fill="#1f4e79">结</text>
+<text x="100.0" y="295.6" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="54" text-anchor="middle" dominant-baseline="central" fill="#1f4e79">构</text>
+<text x="100.0" y="357.1" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="54" text-anchor="middle" dominant-baseline="central" fill="#1f4e79">化</text>
+<text x="100.0" y="418.7" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="54" text-anchor="middle" dominant-baseline="central" fill="#1f4e79">测</text>
+<text x="100.0" y="480.2" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="54" text-anchor="middle" dominant-baseline="central" fill="#1f4e79">试</text>
+<text x="100.0" y="541.8" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="54" text-anchor="middle" dominant-baseline="central" fill="#1f4e79">方</text>
+<text x="100.0" y="603.4" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="54" text-anchor="middle" dominant-baseline="central" fill="#1f4e79">法</text>
+<text x="292.0" y="322.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="55" text-anchor="middle" dominant-baseline="central" fill="#2e5c8a">白</text>
+<text x="292.0" y="386.9" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="55" text-anchor="middle" dominant-baseline="central" fill="#2e5c8a">盒</text>
+<text x="292.0" y="451.8" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="55" text-anchor="middle" dominant-baseline="central" fill="#2e5c8a">方</text>
+<text x="292.0" y="516.7" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="55" text-anchor="middle" dominant-baseline="central" fill="#2e5c8a">法</text>
+<text x="1350.0" y="354.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="54" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">黑</text>
+<text x="1350.0" y="417.7" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="54" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">盒</text>
+<text x="1350.0" y="481.4" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="54" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">方</text>
+<text x="1350.0" y="545.2" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="54" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">法</text>
+<text x="1560.0" y="387.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="53" text-anchor="middle" dominant-baseline="central" fill="#2e5c8a">基</text>
+<text x="1560.0" y="447.9" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="53" text-anchor="middle" dominant-baseline="central" fill="#2e5c8a">于</text>
+<text x="1560.0" y="508.9" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="53" text-anchor="middle" dominant-baseline="central" fill="#2e5c8a">需</text>
+<text x="1620.0" y="387.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="53" text-anchor="middle" dominant-baseline="central" fill="#2e5c8a">求</text>
+<text x="1620.0" y="447.9" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="53" text-anchor="middle" dominant-baseline="central" fill="#2e5c8a">的</text>
+<text x="1620.0" y="508.9" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="53" text-anchor="middle" dominant-baseline="central" fill="#2e5c8a">测</text>
+<text x="1680.0" y="387.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="53" text-anchor="middle" dominant-baseline="central" fill="#2e5c8a">试</text>
+<text x="1680.0" y="447.9" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="53" text-anchor="middle" dominant-baseline="central" fill="#2e5c8a">方</text>
+<text x="1680.0" y="508.9" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="53" text-anchor="middle" dominant-baseline="central" fill="#2e5c8a">法</text>
+<text x="875.0" y="150.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="52" text-anchor="start" dominant-baseline="central" fill="#ffffff" font-weight="bold">等价类划分法</text>
+<text x="875.0" y="235.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="52" text-anchor="start" dominant-baseline="central" fill="#ffffff" font-weight="bold">边界值分析法</text>
+<text x="875.0" y="320.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="52" text-anchor="start" dominant-baseline="central" fill="#ffffff" font-weight="bold">判定表方法</text>
+<text x="875.0" y="405.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="52" text-anchor="start" dominant-baseline="central" fill="#ffffff" font-weight="bold">因果图法</text>
+<text x="875.0" y="490.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="52" text-anchor="start" dominant-baseline="central" fill="#ffffff" font-weight="bold">Pairwise方法</text>
+<text x="875.0" y="575.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="52" text-anchor="start" dominant-baseline="central" fill="#ffffff" font-weight="bold">正交试验法</text>
+<text x="875.0" y="660.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="52" text-anchor="start" dominant-baseline="central" fill="#ffffff" font-weight="bold">功能图法</text>
+<text x="435.0" y="188.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="53" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">语句覆盖</text>
+<text x="435.0" y="264.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="53" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">判定覆盖</text>
+<text x="435.0" y="340.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="53" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">条件覆盖</text>
+<text x="435.0" y="416.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="53" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">判定条件覆盖</text>
+<text x="435.0" y="492.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="53" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">条件组合覆盖</text>
+<text x="435.0" y="568.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="53" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">基本路径覆盖</text>
+</svg>

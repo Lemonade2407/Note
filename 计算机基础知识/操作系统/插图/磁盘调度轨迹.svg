@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="480" viewBox="0 0 900 480">
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9.2" refY="5" markerWidth="6.5" markerHeight="6.5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2b2b2b"/></marker></defs>
+<rect x="0" y="0" width="900" height="480" fill="#ffffff"/>
+<g stroke="#2b2b2b" fill="none" stroke-linecap="round" stroke-linejoin="round">
+<line x1="90.0" y1="60.0" x2="90.0" y2="420.0" stroke-width="1.4"/>
+<line x1="84.0" y1="420.0" x2="90.0" y2="420.0" stroke-width="1.2"/>
+<line x1="84.0" y1="330.0" x2="90.0" y2="330.0" stroke-width="1.2"/>
+<line x1="84.0" y1="240.0" x2="90.0" y2="240.0" stroke-width="1.2"/>
+<line x1="84.0" y1="150.0" x2="90.0" y2="150.0" stroke-width="1.2"/>
+<line x1="84.0" y1="60.0" x2="90.0" y2="60.0" stroke-width="1.2"/>
+<polyline points="170.0,240.0 242.0,321.0 314.0,315.6 386.0,349.8 458.0,387.6 530.0,258.0 602.0,132.0 674.0,150.0 746.0,351.6 818.0,88.8" stroke-width="1.6" fill="none"/>
+<polyline points="170.0,240.0 242.0,258.0 314.0,315.6 386.0,321.0 458.0,349.8 530.0,351.6 602.0,387.6 674.0,150.0 746.0,132.0 818.0,88.8" stroke-width="1.6" fill="none" stroke-dasharray="6,5"/>
+<circle cx="170.0" cy="240.0" r="4.0" stroke-width="1" fill="#2b2b2b"/>
+<circle cx="242.0" cy="321.0" r="4.0" stroke-width="1" fill="#2b2b2b"/>
+<circle cx="314.0" cy="315.6" r="4.0" stroke-width="1" fill="#2b2b2b"/>
+<circle cx="386.0" cy="349.8" r="4.0" stroke-width="1" fill="#2b2b2b"/>
+<circle cx="458.0" cy="387.6" r="4.0" stroke-width="1" fill="#2b2b2b"/>
+<circle cx="530.0" cy="258.0" r="4.0" stroke-width="1" fill="#2b2b2b"/>
+<circle cx="602.0" cy="132.0" r="4.0" stroke-width="1" fill="#2b2b2b"/>
+<circle cx="674.0" cy="150.0" r="4.0" stroke-width="1" fill="#2b2b2b"/>
+<circle cx="746.0" cy="351.6" r="4.0" stroke-width="1" fill="#2b2b2b"/>
+<circle cx="818.0" cy="88.8" r="4.0" stroke-width="1" fill="#2b2b2b"/>
+<line x1="600.0" y1="430.0" x2="650.0" y2="430.0" stroke-width="1.6"/>
+<line x1="600.0" y1="452.0" x2="650.0" y2="452.0" stroke-width="1.6" stroke-dasharray="6,5"/>
+</g>
+<text x="70.0" y="420.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="13" text-anchor="end" dominant-baseline="central" fill="#2b2b2b">0</text>
+<text x="70.0" y="330.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="13" text-anchor="end" dominant-baseline="central" fill="#2b2b2b">50</text>
+<text x="70.0" y="240.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="13" text-anchor="end" dominant-baseline="central" fill="#2b2b2b">100</text>
+<text x="70.0" y="150.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="13" text-anchor="end" dominant-baseline="central" fill="#2b2b2b">150</text>
+<text x="70.0" y="60.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="13" text-anchor="end" dominant-baseline="central" fill="#2b2b2b">200</text>
+<text x="70.0" y="40.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="14" text-anchor="end" dominant-baseline="central" fill="#2b2b2b">磁道号</text>
+<text x="500.0" y="462.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">请求到达的先后顺序 →</text>
+<text x="170.0" y="224.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="13" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">100</text>
+<text x="242.0" y="305.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="13" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">55</text>
+<text x="314.0" y="299.6" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="13" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">58</text>
+<text x="386.0" y="333.8" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="13" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">39</text>
+<text x="458.0" y="371.6" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="13" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">18</text>
+<text x="530.0" y="242.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="13" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">90</text>
+<text x="602.0" y="116.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="13" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">160</text>
+<text x="674.0" y="134.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="13" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">150</text>
+<text x="746.0" y="335.6" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="13" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">38</text>
+<text x="818.0" y="72.8" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="13" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">184</text>
+<text x="170.0" y="448.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="13" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">起点 100</text>
+<text x="660.0" y="430.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="14" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">FCFS</text>
+<text x="660.0" y="452.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="14" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">SSTF</text>
+</svg>

@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1230" height="521" viewBox="0 0 1230 521">
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9.2" refY="5" markerWidth="6.5" markerHeight="6.5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2b2b2b"/></marker></defs>
+<rect x="0" y="0" width="1230" height="521" fill="#ffffff"/>
+<g stroke="#2b2b2b" fill="none" stroke-linecap="round" stroke-linejoin="round">
+<line x1="196.0" y1="258.0" x2="288.0" y2="180.0" stroke-width="1.6"/>
+<line x1="196.0" y1="278.0" x2="288.0" y2="334.0" stroke-width="1.6"/>
+<line x1="390.0" y1="168.0" x2="480.0" y2="118.0" stroke-width="1.6"/>
+<line x1="716.0" y1="118.0" x2="848.0" y2="118.0" stroke-width="1.6"/>
+<line x1="390.0" y1="168.0" x2="480.0" y2="168.0" stroke-width="1.6"/>
+<line x1="716.0" y1="168.0" x2="848.0" y2="168.0" stroke-width="1.6"/>
+<line x1="390.0" y1="168.0" x2="480.0" y2="218.0" stroke-width="1.6"/>
+<line x1="716.0" y1="218.0" x2="848.0" y2="218.0" stroke-width="1.6"/>
+<line x1="390.0" y1="346.0" x2="480.0" y2="296.0" stroke-width="1.6"/>
+<line x1="716.0" y1="296.0" x2="848.0" y2="296.0" stroke-width="1.6"/>
+<line x1="390.0" y1="346.0" x2="480.0" y2="346.0" stroke-width="1.6"/>
+<line x1="716.0" y1="346.0" x2="848.0" y2="346.0" stroke-width="1.6"/>
+<line x1="390.0" y1="346.0" x2="480.0" y2="396.0" stroke-width="1.6"/>
+<line x1="716.0" y1="396.0" x2="848.0" y2="396.0" stroke-width="1.6"/>
+</g>
+<text x="300.0" y="48.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="36" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">产品种类</text>
+<text x="600.0" y="48.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="36" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">超产数量</text>
+<text x="1040.0" y="48.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="36" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">奖金数额</text>
+<text x="120.0" y="268.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="34" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">奖金政策</text>
+<text x="336.0" y="168.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="34" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">产品A</text>
+<text x="336.0" y="346.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="34" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">产品B</text>
+<text x="494.0" y="118.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="34" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">1&lt;N≤50</text>
+<text x="862.0" y="118.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="34" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">N</text>
+<text x="494.0" y="168.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="34" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">50&lt;N≤100</text>
+<text x="862.0" y="168.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="34" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">50+1.25(N-50)</text>
+<text x="494.0" y="218.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="34" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">N&gt;100</text>
+<text x="862.0" y="218.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="34" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">112.5+1.5(N-100)</text>
+<text x="494.0" y="296.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="34" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">1&lt;N≤25</text>
+<text x="862.0" y="296.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="34" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">2N</text>
+<text x="494.0" y="346.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="34" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">25&lt;N≤50</text>
+<text x="862.0" y="346.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="34" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">50+2.5(N-25)</text>
+<text x="494.0" y="396.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="34" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">N&gt;50</text>
+<text x="862.0" y="396.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="34" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">112.5+3(N-50)</text>
+</svg>

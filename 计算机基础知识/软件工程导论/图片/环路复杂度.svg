@@ -1,0 +1,116 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1857" height="986" viewBox="0 0 1857 986">
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9.2" refY="5" markerWidth="6.5" markerHeight="6.5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2b2b2b"/></marker></defs>
+<rect x="0" y="0" width="1857" height="986" fill="#ffffff"/>
+<g stroke="#2b2b2b" fill="none" stroke-linecap="round" stroke-linejoin="round">
+<rect x="400.0" y="55.0" width="155.0" height="82.0" stroke-width="3.0" fill="none" rx="40"/>
+<line x1="478.0" y1="137.0" x2="478.0" y2="168.6" stroke-width="3.0"/>
+<polyline points="478.0,192.0 467.6,166.0 488.4,166.0 478.0,192.0" stroke-width="1.0" fill="#2b2b2b"/>
+<polyline points="397.0,195.0 602.0,195.0 559.0,258.0 358.0,258.0 397.0,195.0" stroke-width="3.0" fill="none"/>
+<line x1="478.0" y1="258.0" x2="478.0" y2="291.6" stroke-width="3.0"/>
+<polyline points="478.0,315.0 467.6,289.0 488.4,289.0 478.0,315.0" stroke-width="1.0" fill="#2b2b2b"/>
+<polyline points="478.0,318.0 577.0,368.0 478.0,418.0 379.0,368.0 478.0,318.0" stroke-width="3.0" fill="none"/>
+<line x1="378.0" y1="368.0" x2="182.0" y2="368.0" stroke-width="3.0"/>
+<line x1="182.0" y1="368.0" x2="182.0" y2="454.6" stroke-width="3.0"/>
+<polyline points="182.0,478.0 171.6,452.0 192.4,452.0 182.0,478.0" stroke-width="1.0" fill="#2b2b2b"/>
+<line x1="577.0" y1="368.0" x2="683.0" y2="368.0" stroke-width="3.0"/>
+<line x1="683.0" y1="368.0" x2="683.0" y2="410.6" stroke-width="3.0"/>
+<polyline points="683.0,434.0 672.6,408.0 693.4,408.0 683.0,434.0" stroke-width="1.0" fill="#2b2b2b"/>
+<polyline points="683.0,436.0 782.0,486.0 683.0,536.0 584.0,486.0 683.0,436.0" stroke-width="3.0" fill="none"/>
+<line x1="583.0" y1="486.0" x2="478.0" y2="486.0" stroke-width="3.0"/>
+<line x1="478.0" y1="486.0" x2="478.0" y2="532.6" stroke-width="3.0"/>
+<polyline points="478.0,556.0 467.6,530.0 488.4,530.0 478.0,556.0" stroke-width="1.0" fill="#2b2b2b"/>
+<line x1="782.0" y1="486.0" x2="878.0" y2="486.0" stroke-width="3.0"/>
+<line x1="878.0" y1="486.0" x2="878.0" y2="514.6" stroke-width="3.0"/>
+<polyline points="878.0,538.0 867.6,512.0 888.4,512.0 878.0,538.0" stroke-width="1.0" fill="#2b2b2b"/>
+<rect x="82.0" y="480.0" width="202.0" height="78.0" stroke-width="3.0" fill="none"/>
+<rect x="377.0" y="558.0" width="201.0" height="78.0" stroke-width="3.0" fill="none"/>
+<rect x="795.0" y="540.0" width="166.0" height="106.0" stroke-width="3.0" fill="none"/>
+<line x1="881.0" y1="592.0" x2="929.0" y2="592.0" stroke-width="2.6"/>
+<line x1="182.0" y1="558.0" x2="182.0" y2="670.0" stroke-width="3.0"/>
+<line x1="182.0" y1="670.0" x2="878.0" y2="670.0" stroke-width="3.0"/>
+<line x1="878.0" y1="646.0" x2="878.0" y2="670.0" stroke-width="3.0"/>
+<line x1="478.0" y1="636.0" x2="478.0" y2="709.6" stroke-width="3.0"/>
+<polyline points="478.0,733.0 467.6,707.0 488.4,707.0 478.0,733.0" stroke-width="1.0" fill="#2b2b2b"/>
+<polyline points="397.0,735.0 597.0,735.0 559.0,799.0 358.0,799.0 397.0,735.0" stroke-width="3.0" fill="none"/>
+<line x1="478.0" y1="799.0" x2="478.0" y2="838.6" stroke-width="3.0"/>
+<polyline points="478.0,862.0 467.6,836.0 488.4,836.0 478.0,862.0" stroke-width="1.0" fill="#2b2b2b"/>
+<rect x="400.0" y="864.0" width="155.0" height="72.0" stroke-width="3.0" fill="none" rx="36"/>
+<circle cx="715.0" cy="168.0" r="21.0" stroke-width="2.2" fill="#ffffff"/>
+<line x1="688.0" y1="180.0" x2="600.0" y2="196.0" stroke-width="2.0"/>
+<circle cx="717.0" cy="255.0" r="21.0" stroke-width="2.2" fill="#ffffff"/>
+<line x1="692.0" y1="267.0" x2="562.0" y2="306.0" stroke-width="2.0"/>
+<circle cx="88.0" cy="428.0" r="21.0" stroke-width="2.2" fill="#ffffff"/>
+<line x1="100.0" y1="448.0" x2="122.0" y2="472.0" stroke-width="2.0"/>
+<circle cx="806.0" cy="360.0" r="21.0" stroke-width="2.2" fill="#ffffff"/>
+<line x1="795.0" y1="378.0" x2="748.0" y2="450.0" stroke-width="2.0"/>
+<circle cx="120.0" cy="620.0" r="21.0" stroke-width="2.2" fill="#ffffff"/>
+<line x1="146.0" y1="621.0" x2="374.0" y2="590.0" stroke-width="2.0"/>
+<circle cx="1030.0" cy="537.0" r="21.0" stroke-width="2.2" fill="#ffffff"/>
+<line x1="1008.0" y1="545.0" x2="966.0" y2="528.0" stroke-width="2.0"/>
+<circle cx="690.0" cy="750.0" r="21.0" stroke-width="2.2" fill="#ffffff"/>
+<line x1="668.0" y1="758.0" x2="600.0" y2="764.0" stroke-width="2.0"/>
+<circle cx="1328.0" cy="156.0" r="52.0" stroke-width="3.0" fill="#ffffff"/>
+<circle cx="1324.0" cy="318.0" r="52.0" stroke-width="3.0" fill="#ffffff"/>
+<circle cx="1224.0" cy="492.0" r="52.0" stroke-width="3.0" fill="#ffffff"/>
+<circle cx="1424.0" cy="492.0" r="52.0" stroke-width="3.0" fill="#ffffff"/>
+<circle cx="1332.0" cy="643.0" r="52.0" stroke-width="3.0" fill="#ffffff"/>
+<circle cx="1516.0" cy="652.0" r="52.0" stroke-width="3.0" fill="#ffffff"/>
+<circle cx="1224.0" cy="802.0" r="52.0" stroke-width="3.0" fill="#ffffff"/>
+<line x1="1328.0" y1="208.0" x2="1325.5" y2="242.5" stroke-width="3.0"/>
+<polyline points="1324.0,264.0 1316.1,239.4 1335.3,240.7 1324.0,264.0" stroke-width="1.0" fill="#2b2b2b"/>
+<line x1="1290.0" y1="362.0" x2="1256.4" y2="423.1" stroke-width="3.0"/>
+<polyline points="1246.0,442.0 1249.2,416.3 1266.0,425.6 1246.0,442.0" stroke-width="1.0" fill="#2b2b2b"/>
+<line x1="1360.0" y1="362.0" x2="1390.3" y2="422.7" stroke-width="3.0"/>
+<polyline points="1400.0,442.0 1380.7,424.8 1397.9,416.2 1400.0,442.0" stroke-width="1.0" fill="#2b2b2b"/>
+<line x1="1224.0" y1="544.0" x2="1224.0" y2="726.4" stroke-width="3.0"/>
+<polyline points="1224.0,748.0 1214.4,724.0 1233.6,724.0 1224.0,748.0" stroke-width="1.0" fill="#2b2b2b"/>
+<line x1="1400.0" y1="536.0" x2="1365.5" y2="579.1" stroke-width="3.0"/>
+<polyline points="1352.0,596.0 1359.5,571.3 1374.5,583.3 1352.0,596.0" stroke-width="1.0" fill="#2b2b2b"/>
+<line x1="1452.0" y1="530.0" x2="1478.6" y2="584.6" stroke-width="3.0"/>
+<polyline points="1488.0,604.0 1468.9,586.6 1486.1,578.2 1488.0,604.0" stroke-width="1.0" fill="#2b2b2b"/>
+<line x1="1298.0" y1="690.0" x2="1273.4" y2="740.6" stroke-width="3.0"/>
+<polyline points="1264.0,760.0 1265.9,734.2 1283.1,742.6 1264.0,760.0" stroke-width="1.0" fill="#2b2b2b"/>
+<line x1="1478.0" y1="696.0" x2="1291.9" y2="773.7" stroke-width="3.0"/>
+<polyline points="1272.0,782.0 1290.4,763.9 1297.8,781.6 1272.0,782.0" stroke-width="1.0" fill="#2b2b2b"/>
+</g>
+<text x="478.0" y="96.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="58" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">开始</text>
+<text x="452.0" y="226.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="56" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">输入</text>
+<text x="522.0" y="228.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="58" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b" font-style="italic">x</text>
+<text x="440.0" y="372.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="46" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b" font-style="italic">x</text>
+<text x="468.0" y="370.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="46" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">≤</text>
+<text x="505.0" y="372.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="46" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">2?</text>
+<text x="312.0" y="330.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="46" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">是</text>
+<text x="632.0" y="330.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="46" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">否</text>
+<text x="645.0" y="490.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="46" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b" font-style="italic">x</text>
+<text x="673.0" y="488.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="46" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">≤</text>
+<text x="710.0" y="490.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="46" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">5?</text>
+<text x="566.0" y="450.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="46" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">是</text>
+<text x="790.0" y="450.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="46" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">否</text>
+<text x="165.0" y="520.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="46" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">y=x</text>
+<text x="206.0" y="506.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="28" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b" font-style="italic">2</text>
+<text x="477.0" y="598.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="50" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">y=2x-3</text>
+<text x="836.0" y="594.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="50" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">y=</text>
+<text x="905.0" y="570.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="42" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">1</text>
+<text x="905.0" y="618.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="46" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b" font-style="italic">x</text>
+<text x="452.0" y="767.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="56" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">输出</text>
+<text x="518.0" y="769.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="58" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b" font-style="italic">y</text>
+<text x="478.0" y="900.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="58" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">结束</text>
+<text x="715.0" y="168.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="24" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">1</text>
+<text x="717.0" y="255.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="24" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">2</text>
+<text x="88.0" y="428.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="24" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">3</text>
+<text x="806.0" y="360.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="24" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">4</text>
+<text x="120.0" y="620.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="24" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">5</text>
+<text x="1030.0" y="537.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="24" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">6</text>
+<text x="690.0" y="750.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="24" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">7</text>
+<text x="1328.0" y="156.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="44" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">1</text>
+<text x="1324.0" y="318.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="44" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">2</text>
+<text x="1224.0" y="492.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="44" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">3</text>
+<text x="1424.0" y="492.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="44" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">4</text>
+<text x="1332.0" y="643.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="44" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">5</text>
+<text x="1516.0" y="652.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="44" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">6</text>
+<text x="1224.0" y="802.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="44" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">7</text>
+<text x="1305.0" y="552.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="46" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">R1</text>
+<text x="1437.0" y="698.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="46" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">R2</text>
+<text x="1162.0" y="660.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="46" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">R3</text>
+<text x="1595.0" y="910.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="58" text-anchor="middle" dominant-baseline="central" fill="#0000ff" font-weight="bold">环路复杂度为3</text>
+</svg>

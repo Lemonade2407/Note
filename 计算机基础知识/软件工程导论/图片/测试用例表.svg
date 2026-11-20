@@ -1,0 +1,114 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1028" height="808" viewBox="0 0 1028 808">
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9.2" refY="5" markerWidth="6.5" markerHeight="6.5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2b2b2b"/></marker></defs>
+<rect x="0" y="0" width="1028" height="808" fill="#ffffff"/>
+<g stroke="#2b2b2b" fill="none" stroke-linecap="round" stroke-linejoin="round">
+<rect x="21.0" y="26.0" width="969.0" height="206.0" stroke-width="1.6" fill="none"/>
+<line x1="21.0" y1="74.0" x2="990.0" y2="74.0" stroke-width="1.6"/>
+<line x1="21.0" y1="177.0" x2="990.0" y2="177.0" stroke-width="1.6"/>
+<line x1="21.0" y1="232.0" x2="990.0" y2="232.0" stroke-width="1.6"/>
+<line x1="156.0" y1="26.0" x2="156.0" y2="232.0" stroke-width="1.6"/>
+<line x1="280.0" y1="26.0" x2="280.0" y2="74.0" stroke-width="1.6"/>
+<line x1="592.0" y1="26.0" x2="592.0" y2="74.0" stroke-width="1.6"/>
+<rect x="21.0" y="258.0" width="969.0" height="541.0" stroke-width="1.6" fill="none"/>
+<line x1="21.0" y1="283.0" x2="990.0" y2="283.0" stroke-width="1.6"/>
+<line x1="21.0" y1="309.0" x2="990.0" y2="309.0" stroke-width="1.6"/>
+<line x1="21.0" y1="358.0" x2="990.0" y2="358.0" stroke-width="1.6"/>
+<line x1="21.0" y1="454.0" x2="990.0" y2="454.0" stroke-width="1.6"/>
+<line x1="21.0" y1="503.0" x2="990.0" y2="503.0" stroke-width="1.6"/>
+<line x1="21.0" y1="529.0" x2="990.0" y2="529.0" stroke-width="1.6"/>
+<line x1="21.0" y1="578.0" x2="990.0" y2="578.0" stroke-width="1.6"/>
+<line x1="21.0" y1="626.0" x2="990.0" y2="626.0" stroke-width="1.6"/>
+<line x1="21.0" y1="675.0" x2="990.0" y2="675.0" stroke-width="1.6"/>
+<line x1="21.0" y1="724.0" x2="990.0" y2="724.0" stroke-width="1.6"/>
+<line x1="21.0" y1="772.0" x2="990.0" y2="772.0" stroke-width="1.6"/>
+<line x1="156.0" y1="258.0" x2="156.0" y2="799.0" stroke-width="1.6"/>
+<line x1="344.0" y1="258.0" x2="344.0" y2="799.0" stroke-width="1.6"/>
+<line x1="597.0" y1="258.0" x2="597.0" y2="799.0" stroke-width="1.6"/>
+<line x1="903.0" y1="258.0" x2="903.0" y2="799.0" stroke-width="1.6"/>
+</g>
+<text x="51.0" y="39.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">用例ID</text>
+<text x="166.0" y="39.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">XXXX-</text>
+<text x="166.0" y="61.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">XX-XX</text>
+<text x="310.0" y="38.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">用例名称</text>
+<text x="622.0" y="38.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">系统登录</text>
+<text x="51.0" y="86.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">用例描述</text>
+<text x="186.0" y="86.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">系统登录</text>
+<text x="186.0" y="112.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">用户名存在、密码正确的情况下，进入系统</text>
+<text x="186.0" y="138.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">页面信息包含：页面背景显示</text>
+<text x="186.0" y="164.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">用户名和密码录入接口，输入数据后的登入系统接口</text>
+<text x="51.0" y="189.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">用例入口</text>
+<text x="186.0" y="189.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">打开IE，在地址栏输入相应地址</text>
+<text x="186.0" y="215.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">进入该系统登录页面</text>
+<text x="51.0" y="271.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">测试用例ID</text>
+<text x="186.0" y="271.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">场景</text>
+<text x="374.0" y="271.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">测试步骤</text>
+<text x="627.0" y="271.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">预期结果</text>
+<text x="933.0" y="271.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">备注</text>
+<text x="51.0" y="295.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">TC1</text>
+<text x="186.0" y="295.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">初始页面显示</text>
+<text x="374.0" y="295.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">从用例入口处进入</text>
+<text x="627.0" y="295.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">页面元素完整，显示与详细设计一致</text>
+<text x="51.0" y="321.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">TC2</text>
+<text x="186.0" y="321.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">用户名录入－验</text>
+<text x="186.0" y="340.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">证</text>
+<text x="374.0" y="321.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">输入已存在的用户：test</text>
+<text x="627.0" y="321.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">输入成功</text>
+<text x="51.0" y="370.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">TC3</text>
+<text x="186.0" y="370.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">用户名－容错性</text>
+<text x="186.0" y="389.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">验证</text>
+<text x="374.0" y="370.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">输入：</text>
+<text x="374.0" y="389.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">aaaaaabbbbbbcccccddddddeeeee</text>
+<text x="627.0" y="370.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">输入到蓝色显示的字符时，系统拒绝</text>
+<text x="627.0" y="389.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">输入</text>
+<text x="933.0" y="370.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="14" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">输入数</text>
+<text x="933.0" y="389.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="14" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">据超过规</text>
+<text x="933.0" y="408.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="14" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">定长度范</text>
+<text x="933.0" y="427.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="14" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">围</text>
+<text x="51.0" y="466.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">TC4</text>
+<text x="186.0" y="466.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">密码－密码录入</text>
+<text x="374.0" y="466.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">输入与用户名相关联的数</text>
+<text x="374.0" y="485.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">据：test</text>
+<text x="627.0" y="466.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">输入成功</text>
+<text x="51.0" y="515.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">TC5</text>
+<text x="186.0" y="515.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">系统登录－成功</text>
+<text x="374.0" y="515.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">TC2，TC4，单击登录按钮</text>
+<text x="627.0" y="515.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">登录系统成功</text>
+<text x="51.0" y="541.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">TC6</text>
+<text x="186.0" y="541.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">系统登录－用户</text>
+<text x="186.0" y="560.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">名、密码校验</text>
+<text x="374.0" y="541.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">没有输入用户名、密码，单</text>
+<text x="374.0" y="560.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">击登录按钮</text>
+<text x="627.0" y="541.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">系统登录失败，并提示：请检查用户</text>
+<text x="627.0" y="560.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">名和密码的输入是否正确</text>
+<text x="51.0" y="590.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">TC7</text>
+<text x="186.0" y="590.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">系统登录－密码</text>
+<text x="186.0" y="609.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">校验</text>
+<text x="374.0" y="590.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">输入用户名，没有输入密</text>
+<text x="374.0" y="609.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">码，单击登录按钮</text>
+<text x="627.0" y="590.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">系统登录失败，并提示：需要输入密</text>
+<text x="627.0" y="609.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">码</text>
+<text x="51.0" y="638.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">TC8</text>
+<text x="186.0" y="638.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">系统登录－密码</text>
+<text x="186.0" y="657.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">有效性校验</text>
+<text x="374.0" y="638.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">输入用户名，输入密码与用</text>
+<text x="374.0" y="657.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">户名不一致，单击登录按钮</text>
+<text x="627.0" y="638.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">系统登录失败，并提示：错误的密码</text>
+<text x="51.0" y="687.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">TC9</text>
+<text x="186.0" y="687.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">系统登录－输入</text>
+<text x="186.0" y="706.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">有效性校验</text>
+<text x="374.0" y="687.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">输入不存在的用户名、密</text>
+<text x="374.0" y="706.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">码，单击登录按钮</text>
+<text x="627.0" y="687.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">系统登录失败，并提示：用户名不存</text>
+<text x="627.0" y="706.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">在</text>
+<text x="51.0" y="736.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">TC10</text>
+<text x="186.0" y="736.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">系统登录－安全</text>
+<text x="186.0" y="755.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">校验</text>
+<text x="374.0" y="736.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">连续3次未成功</text>
+<text x="627.0" y="736.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">系统提示：您没有使用该系统的权</text>
+<text x="627.0" y="755.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">限，请与管理员联系！</text>
+<text x="51.0" y="785.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">…</text>
+<text x="186.0" y="785.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">…</text>
+<text x="374.0" y="785.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">…</text>
+<text x="627.0" y="785.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">…</text>
+<text x="933.0" y="785.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">…</text>
+</svg>

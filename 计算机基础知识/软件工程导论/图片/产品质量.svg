@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1378" height="694" viewBox="0 0 1378 694">
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9.2" refY="5" markerWidth="6.5" markerHeight="6.5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2b2b2b"/></marker></defs>
+<rect x="0" y="0" width="1378" height="694" fill="#ffffff"/>
+<g stroke="#2b2b2b" fill="none" stroke-linecap="round" stroke-linejoin="round">
+<rect x="562.0" y="41.0" width="324.0" height="113.0" stroke-width="1.5" fill="#ffffff"/>
+<line x1="724.0" y1="154.0" x2="724.0" y2="161.0" stroke-width="1.4"/>
+<line x1="173.0" y1="161.0" x2="1300.0" y2="161.0" stroke-width="1.4"/>
+<line x1="173.0" y1="161.0" x2="173.0" y2="203.0" stroke-width="1.4"/>
+<rect x="98.0" y="203.0" width="150.0" height="95.0" stroke-width="1.5" fill="#ffffff"/>
+<rect x="98.0" y="305.0" width="150.0" height="375.0" stroke-width="1.5" fill="#ffffff"/>
+<line x1="334.0" y1="161.0" x2="334.0" y2="203.0" stroke-width="1.4"/>
+<rect x="259.0" y="203.0" width="150.0" height="95.0" stroke-width="1.5" fill="#ffffff"/>
+<rect x="259.0" y="305.0" width="150.0" height="375.0" stroke-width="1.5" fill="#ffffff"/>
+<line x1="494.0" y1="161.0" x2="494.0" y2="203.0" stroke-width="1.4"/>
+<rect x="419.0" y="203.0" width="150.0" height="95.0" stroke-width="1.5" fill="#ffffff"/>
+<rect x="419.0" y="305.0" width="150.0" height="375.0" stroke-width="1.5" fill="#ffffff"/>
+<line x1="655.0" y1="161.0" x2="655.0" y2="203.0" stroke-width="1.4"/>
+<rect x="580.0" y="203.0" width="150.0" height="95.0" stroke-width="1.5" fill="#ffffff"/>
+<rect x="580.0" y="305.0" width="150.0" height="375.0" stroke-width="1.5" fill="#ffffff"/>
+<line x1="819.0" y1="161.0" x2="819.0" y2="203.0" stroke-width="1.4"/>
+<rect x="744.0" y="203.0" width="150.0" height="95.0" stroke-width="1.5" fill="#ffffff"/>
+<rect x="744.0" y="305.0" width="150.0" height="375.0" stroke-width="1.5" fill="#ffffff"/>
+<line x1="976.5" y1="161.0" x2="976.5" y2="203.0" stroke-width="1.4"/>
+<rect x="901.0" y="203.0" width="151.0" height="95.0" stroke-width="1.5" fill="#ffffff"/>
+<rect x="901.0" y="305.0" width="151.0" height="375.0" stroke-width="1.5" fill="#ffffff"/>
+<line x1="1138.0" y1="161.0" x2="1138.0" y2="203.0" stroke-width="1.4"/>
+<rect x="1063.0" y="203.0" width="150.0" height="95.0" stroke-width="1.5" fill="#ffffff"/>
+<rect x="1063.0" y="305.0" width="150.0" height="375.0" stroke-width="1.5" fill="#ffffff"/>
+<line x1="1299.5" y1="161.0" x2="1299.5" y2="203.0" stroke-width="1.4"/>
+<rect x="1224.0" y="203.0" width="151.0" height="95.0" stroke-width="1.5" fill="#ffffff"/>
+<rect x="1224.0" y="305.0" width="151.0" height="375.0" stroke-width="1.5" fill="#ffffff"/>
+</g>
+<text x="724.0" y="97.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="20" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">系统/软件产品质量</text>
+<text x="173.0" y="250.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="19" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">功能性</text>
+<text x="173.0" y="340.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">功能完备性</text>
+<text x="173.0" y="387.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">功能正确性</text>
+<text x="173.0" y="434.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">功能适合性</text>
+<text x="173.0" y="481.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">功能性的</text>
+<text x="173.0" y="507.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">依从性</text>
+<text x="334.0" y="250.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="19" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">性能效率</text>
+<text x="334.0" y="340.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">时间特性</text>
+<text x="334.0" y="387.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">资源利用性</text>
+<text x="334.0" y="434.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">容量</text>
+<text x="334.0" y="481.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">性能效率的</text>
+<text x="334.0" y="507.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">依从性</text>
+<text x="494.0" y="250.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="19" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">兼容性</text>
+<text x="494.0" y="340.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">共存性</text>
+<text x="494.0" y="390.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">互操作性</text>
+<text x="494.0" y="440.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">兼容性的</text>
+<text x="494.0" y="466.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">依从性</text>
+<text x="655.0" y="250.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="19" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">易用性</text>
+<text x="655.0" y="340.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">可辨识性</text>
+<text x="655.0" y="374.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">易学性</text>
+<text x="655.0" y="408.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">易操作性</text>
+<text x="655.0" y="442.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">用户差错防御性</text>
+<text x="655.0" y="476.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">用户界面舒适性</text>
+<text x="655.0" y="510.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">易访问性</text>
+<text x="655.0" y="544.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">易用性的</text>
+<text x="655.0" y="570.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">依从性</text>
+<text x="819.0" y="250.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="19" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">可靠性</text>
+<text x="819.0" y="340.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">成熟性</text>
+<text x="819.0" y="379.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">可用性</text>
+<text x="819.0" y="418.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">容错性</text>
+<text x="819.0" y="457.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">易恢复性</text>
+<text x="819.0" y="496.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">可靠性的</text>
+<text x="819.0" y="522.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">依从性</text>
+<text x="976.5" y="250.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="19" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">信息安全性</text>
+<text x="976.5" y="340.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">保密性</text>
+<text x="976.5" y="376.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">完整性</text>
+<text x="976.5" y="412.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">抗抵赖性</text>
+<text x="976.5" y="448.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">可核查性</text>
+<text x="976.5" y="484.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">真实性</text>
+<text x="976.5" y="520.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">信息安全的</text>
+<text x="976.5" y="546.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">依从性</text>
+<text x="1138.0" y="250.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="19" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">维护性</text>
+<text x="1138.0" y="340.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">模块化</text>
+<text x="1138.0" y="376.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">可重用性</text>
+<text x="1138.0" y="412.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">易分析性</text>
+<text x="1138.0" y="448.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">易修改性</text>
+<text x="1138.0" y="484.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">易测试性</text>
+<text x="1138.0" y="520.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">维护性的</text>
+<text x="1138.0" y="546.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">依从性</text>
+<text x="1299.5" y="250.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="19" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">可移植性</text>
+<text x="1299.5" y="340.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">适应性</text>
+<text x="1299.5" y="387.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">易安装性</text>
+<text x="1299.5" y="434.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">易替换性</text>
+<text x="1299.5" y="481.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">可移植性的</text>
+<text x="1299.5" y="507.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">依从性</text>
+</svg>

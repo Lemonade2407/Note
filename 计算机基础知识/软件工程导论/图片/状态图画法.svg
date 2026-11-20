@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1270" height="323" viewBox="0 0 1270 323">
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9.2" refY="5" markerWidth="6.5" markerHeight="6.5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2b2b2b"/></marker></defs>
+<rect x="0" y="0" width="1270" height="323" fill="#ffffff"/>
+<g stroke="#2b2b2b" fill="none" stroke-linecap="round" stroke-linejoin="round">
+<circle cx="10.0" cy="168.0" r="10.0" stroke-width="1.2" fill="#2b2b2b"/>
+<line x1="21.0" y1="168.0" x2="227.0" y2="168.0" stroke-width="1.8" marker-end="url(#ah)"/>
+<rect x="230.0" y="13.0" width="250.0" height="297.0" stroke-width="1.8" fill="none" rx="30"/>
+<line x1="230.0" y1="98.0" x2="480.0" y2="98.0" stroke-width="1.8"/>
+<line x1="230.0" y1="205.0" x2="480.0" y2="205.0" stroke-width="1.8"/>
+<rect x="755.0" y="13.0" width="250.0" height="297.0" stroke-width="1.8" fill="none" rx="30"/>
+<line x1="755.0" y1="98.0" x2="1005.0" y2="98.0" stroke-width="1.8"/>
+<line x1="755.0" y1="205.0" x2="1005.0" y2="205.0" stroke-width="1.8"/>
+<line x1="480.0" y1="158.0" x2="750.0" y2="158.0" stroke-width="1.8" marker-end="url(#ah)"/>
+<line x1="1005.0" y1="158.0" x2="1214.0" y2="158.0" stroke-width="1.8" marker-end="url(#ah)"/>
+<circle cx="1235.0" cy="165.0" r="17.0" stroke-width="1.8" fill="none"/>
+<circle cx="1235.0" cy="165.0" r="9.0" stroke-width="1.0" fill="#2b2b2b"/>
+</g>
+<text x="355.0" y="49.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="38" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">状态1</text>
+<text x="355.0" y="154.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="38" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">状态变量1</text>
+<text x="355.0" y="260.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="38" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">活动表1</text>
+<text x="880.0" y="49.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="38" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">状态2</text>
+<text x="880.0" y="154.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="38" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">状态变量2</text>
+<text x="880.0" y="260.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="38" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">活动表2</text>
+<text x="30.0" y="136.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="37" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">初始事件</text>
+<text x="592.0" y="135.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="37" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">事件表达式</text>
+<text x="1111.0" y="137.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="37" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">结束事件</text>
+</svg>

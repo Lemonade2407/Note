@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="724" viewBox="0 0 1024 724">
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9.2" refY="5" markerWidth="6.5" markerHeight="6.5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2b2b2b"/></marker></defs>
+<rect x="0" y="0" width="1024" height="724" fill="#ffffff"/>
+<g stroke="#2b2b2b" fill="none" stroke-linecap="round" stroke-linejoin="round">
+<polyline points="46.0,30.0 92.0,55.0 46.0,80.0 62.0,55.0 46.0,30.0" stroke-width="1" fill="#40afca"/>
+<polyline points="78.0,30.0 124.0,55.0 78.0,80.0 94.0,55.0 78.0,30.0" stroke-width="1" fill="#40afca"/>
+<circle cx="765.0" cy="37.0" r="28.0" stroke-width="1.5" fill="#2e93b5"/>
+<circle cx="765.0" cy="37.0" r="22.0" stroke-width="1" fill="#ffffff"/>
+<rect x="195.0" y="201.0" width="659.0" height="423.0" stroke-width="1.4" fill="#ffffff"/>
+<line x1="195.0" y1="240.0" x2="854.0" y2="240.0" stroke-width="1.4"/>
+<line x1="333.0" y1="201.0" x2="333.0" y2="624.0" stroke-width="1.4"/>
+<line x1="530.0" y1="201.0" x2="530.0" y2="624.0" stroke-width="1.4"/>
+<line x1="649.0" y1="201.0" x2="649.0" y2="624.0" stroke-width="1.4"/>
+<circle cx="214.0" cy="267.0" r="12.0" stroke-width="1" fill="#2b2b2b"/>
+<rect x="246.0" y="250.0" width="87.0" height="37.0" stroke-width="1.4" fill="#ffffff" rx="17" stroke="#2b2b2b"/>
+<rect x="361.0" y="250.0" width="147.0" height="37.0" stroke-width="1.4" fill="#ffffff" rx="17" stroke="#2b2b2b"/>
+<polyline points="453.0,318.0 471.0,335.0 453.0,352.0 435.0,335.0 453.0,318.0" stroke-width="1.4" fill="#ffffff"/>
+<rect x="386.0" y="421.0" width="94.0" height="35.0" stroke-width="1.4" fill="#ffffff" rx="17" stroke="#2b2b2b"/>
+<rect x="555.0" y="421.0" width="56.0" height="35.0" stroke-width="1.4" fill="#ffffff" rx="17" stroke="#2b2b2b"/>
+<rect x="707.0" y="288.0" width="96.0" height="43.0" stroke-width="1.4" fill="#ffffff" rx="20" stroke="#2b2b2b"/>
+<rect x="707.0" y="346.0" width="96.0" height="46.0" stroke-width="1.4" fill="#ffffff" rx="20" stroke="#2b2b2b"/>
+<rect x="715.0" y="422.0" width="90.0" height="45.0" stroke-width="1.4" fill="#ffffff" rx="20" stroke="#2b2b2b"/>
+<rect x="208.0" y="471.0" width="91.0" height="33.0" stroke-width="1.4" fill="#ffffff" rx="16" stroke="#2b2b2b"/>
+<rect x="214.0" y="527.0" width="78.0" height="32.0" stroke-width="1.4" fill="#ffffff" rx="16" stroke="#2b2b2b"/>
+<circle cx="249.0" cy="590.0" r="13.0" stroke-width="1.4" fill="#ffffff"/>
+<circle cx="249.0" cy="590.0" r="7.0" stroke-width="1" fill="#2b2b2b"/>
+<rect x="671.0" y="305.0" width="7.0" height="66.0" stroke-width="1" fill="#8c8c8c"/>
+<rect x="836.0" y="305.0" width="7.0" height="66.0" stroke-width="1" fill="#8c8c8c"/>
+<line x1="226.0" y1="267.0" x2="244.0" y2="267.0" stroke-width="1.3" marker-end="url(#ah)"/>
+<line x1="333.0" y1="267.0" x2="359.0" y2="267.0" stroke-width="1.3" marker-end="url(#ah)"/>
+<line x1="453.0" y1="287.0" x2="453.0" y2="316.0" stroke-width="1.3" marker-end="url(#ah)"/>
+<line x1="453.0" y1="352.0" x2="453.0" y2="419.0" stroke-width="1.3" marker-end="url(#ah)"/>
+<line x1="480.0" y1="438.0" x2="553.0" y2="438.0" stroke-width="1.3" marker-end="url(#ah)"/>
+<line x1="611.0" y1="438.0" x2="713.0" y2="438.0" stroke-width="1.3" marker-end="url(#ah)"/>
+<line x1="471.0" y1="335.0" x2="669.0" y2="335.0" stroke-width="1.3" marker-end="url(#ah)"/>
+<line x1="674.0" y1="330.0" x2="705.0" y2="309.0" stroke-width="1.3"/>
+<polyline points="707.0,308.0 703.5,318.8 695.6,307.3 707.0,308.0" stroke-width="1" fill="#2b2b2b"/>
+<line x1="674.0" y1="344.0" x2="705.0" y2="369.0" stroke-width="1.3"/>
+<polyline points="707.0,370.0 695.6,369.6 704.6,358.9 707.0,370.0" stroke-width="1" fill="#2b2b2b"/>
+<line x1="803.0" y1="309.0" x2="834.0" y2="322.0" stroke-width="1.3"/>
+<polyline points="836.0,322.0 825.0,325.0 830.4,312.1 836.0,322.0" stroke-width="1" fill="#2b2b2b"/>
+<line x1="803.0" y1="369.0" x2="834.0" y2="355.0" stroke-width="1.3"/>
+<polyline points="836.0,355.0 830.7,365.1 824.9,352.3 836.0,355.0" stroke-width="1" fill="#2b2b2b"/>
+<polyline points="843.0,336.0 846.0,336.0 846.0,484.0 303.0,484.0" stroke-width="1.3" fill="none" marker-end="url(#ah)"/>
+<polyline points="756.0,422.0 756.0,406.0 680.0,406.0" stroke-width="1.3" fill="none"/>
+<polyline points="653.0,406.0 653.0,338.0 669.0,338.0" stroke-width="1.3" fill="none"/>
+<line x1="680.0" y1="406.0" x2="653.0" y2="406.0" stroke-width="1.3"/>
+<line x1="253.0" y1="504.0" x2="253.0" y2="525.0" stroke-width="1.3" marker-end="url(#ah)"/>
+<line x1="253.0" y1="559.0" x2="253.0" y2="577.0" stroke-width="1.3" marker-end="url(#ah)"/>
+</g>
+<text x="150.0" y="53.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="42" text-anchor="start" dominant-baseline="central" fill="#17809b" font-weight="bold">建立交互模型</text>
+<text x="765.0" y="34.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="26" text-anchor="middle" dominant-baseline="central" fill="#2e93b5" font-weight="bold">B</text>
+<text x="765.0" y="52.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="5.2" text-anchor="middle" dominant-baseline="central" fill="#2e93b5" font-weight="bold">BJUT 1960</text>
+<text x="806.0" y="38.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="27" text-anchor="start" dominant-baseline="central" fill="#3aa8c8" font-weight="bold">北京工业大学</text>
+<text x="806.0" y="66.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="7.6" text-anchor="start" dominant-baseline="central" fill="#3aa8c8" font-weight="bold">BEIJINGUNIVERSITYOFTECHNOLOGY</text>
+<text x="130.0" y="130.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="22" text-anchor="start" dominant-baseline="central" fill="#2b2b2b" font-weight="bold">活动图-还书</text>
+<text x="263.0" y="212.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="12" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">用户接口</text>
+<text x="263.0" y="231.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="12" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">（FormObject）</text>
+<text x="431.0" y="221.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="12" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">业务逻辑接口（ControlObject）</text>
+<text x="589.0" y="212.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="12" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">第三方支付</text>
+<text x="589.0" y="231.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="12" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">接口（Payment）</text>
+<text x="751.0" y="221.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="12" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">数据库接口（DB）</text>
+<text x="289.0" y="260.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="11" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">扫描图书</text>
+<text x="289.0" y="277.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="11" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">条形码</text>
+<text x="434.0" y="269.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="11" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">检查是否超期未交罚款</text>
+<text x="484.0" y="326.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="12" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">否</text>
+<text x="442.0" y="368.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="12" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">是</text>
+<text x="433.0" y="439.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="11" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">计算罚款金额</text>
+<text x="583.0" y="439.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="11" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">支付罚款</text>
+<text x="755.0" y="301.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="11" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">修改借阅信息</text>
+<text x="755.0" y="319.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="11" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">为已还书</text>
+<text x="755.0" y="360.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="11" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">修改图书状态</text>
+<text x="755.0" y="379.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="11" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">为未借出</text>
+<text x="760.0" y="435.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="11" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">修改借阅信息</text>
+<text x="760.0" y="454.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="11" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">为已交罚款</text>
+<text x="253.0" y="488.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="11" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">显示还书信息</text>
+<text x="253.0" y="544.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="11" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">退出</text>
+</svg>

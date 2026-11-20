@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="718" height="164" viewBox="0 0 718 164">
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9.2" refY="5" markerWidth="6.5" markerHeight="6.5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2b2b2b"/></marker></defs>
+<rect x="0" y="0" width="718" height="164" fill="#ffffff"/>
+<g stroke="#2b2b2b" fill="none" stroke-linecap="round" stroke-linejoin="round">
+<rect x="84.0" y="36.0" width="24.0" height="50.0" stroke-width="1.8" fill="#ffffff"/>
+<rect x="146.0" y="24.0" width="26.0" height="49.0" stroke-width="1.8" fill="#ffffff"/>
+<circle cx="79.0" cy="60.0" r="4.5" stroke-width="1.5" fill="#ffffff"/>
+<line x1="58.0" y1="60.0" x2="74.5" y2="60.0" stroke-width="1.5"/>
+<line x1="83.5" y1="60.0" x2="84.0" y2="60.0" stroke-width="1.5"/>
+<line x1="108.0" y1="49.0" x2="138.0" y2="49.0" stroke-width="1.5"/>
+<circle cx="142.0" cy="49.0" r="4.0" stroke-width="1.5" fill="#ffffff"/>
+<line x1="146.0" y1="49.0" x2="146.0" y2="49.0" stroke-width="1.5"/>
+<line x1="108.0" y1="72.0" x2="125.0" y2="72.0" stroke-width="1.5"/>
+<line x1="125.0" y1="72.0" x2="125.0" y2="83.0" stroke-width="1.5"/>
+<line x1="117.0" y1="84.0" x2="133.0" y2="84.0" stroke-width="2.2"/>
+<line x1="172.0" y1="60.0" x2="190.0" y2="60.0" stroke-width="1.5"/>
+<line x1="190.0" y1="60.0" x2="190.0" y2="78.0" stroke-width="1.5"/>
+<rect x="230.5" y="36.0" width="24.0" height="50.0" stroke-width="1.8" fill="#ffffff"/>
+<rect x="292.5" y="24.0" width="26.0" height="49.0" stroke-width="1.8" fill="#ffffff"/>
+<circle cx="225.5" cy="60.0" r="4.5" stroke-width="1.5" fill="#ffffff"/>
+<line x1="172.0" y1="37.0" x2="202.0" y2="37.0" stroke-width="1.5"/>
+<line x1="202.0" y1="37.0" x2="202.0" y2="60.0" stroke-width="1.5"/>
+<line x1="202.0" y1="60.0" x2="221.0" y2="60.0" stroke-width="1.5"/>
+<line x1="230.0" y1="60.0" x2="230.5" y2="60.0" stroke-width="1.5"/>
+<line x1="254.5" y1="49.0" x2="284.5" y2="49.0" stroke-width="1.5"/>
+<circle cx="288.5" cy="49.0" r="4.0" stroke-width="1.5" fill="#ffffff"/>
+<line x1="292.5" y1="49.0" x2="292.5" y2="49.0" stroke-width="1.5"/>
+<line x1="254.5" y1="72.0" x2="271.5" y2="72.0" stroke-width="1.5"/>
+<line x1="271.5" y1="72.0" x2="271.5" y2="83.0" stroke-width="1.5"/>
+<line x1="263.5" y1="84.0" x2="279.5" y2="84.0" stroke-width="2.2"/>
+<line x1="318.5" y1="60.0" x2="336.5" y2="60.0" stroke-width="1.5"/>
+<line x1="336.5" y1="60.0" x2="336.5" y2="78.0" stroke-width="1.5"/>
+<rect x="377.0" y="36.0" width="24.0" height="50.0" stroke-width="1.8" fill="#ffffff"/>
+<rect x="439.0" y="24.0" width="26.0" height="49.0" stroke-width="1.8" fill="#ffffff"/>
+<circle cx="372.0" cy="60.0" r="4.5" stroke-width="1.5" fill="#ffffff"/>
+<line x1="318.5" y1="37.0" x2="348.5" y2="37.0" stroke-width="1.5"/>
+<line x1="348.5" y1="37.0" x2="348.5" y2="60.0" stroke-width="1.5"/>
+<line x1="348.5" y1="60.0" x2="367.5" y2="60.0" stroke-width="1.5"/>
+<line x1="376.5" y1="60.0" x2="377.0" y2="60.0" stroke-width="1.5"/>
+<line x1="401.0" y1="49.0" x2="431.0" y2="49.0" stroke-width="1.5"/>
+<circle cx="435.0" cy="49.0" r="4.0" stroke-width="1.5" fill="#ffffff"/>
+<line x1="439.0" y1="49.0" x2="439.0" y2="49.0" stroke-width="1.5"/>
+<line x1="401.0" y1="72.0" x2="418.0" y2="72.0" stroke-width="1.5"/>
+<line x1="418.0" y1="72.0" x2="418.0" y2="83.0" stroke-width="1.5"/>
+<line x1="410.0" y1="84.0" x2="426.0" y2="84.0" stroke-width="2.2"/>
+<line x1="465.0" y1="60.0" x2="483.0" y2="60.0" stroke-width="1.5"/>
+<line x1="483.0" y1="60.0" x2="483.0" y2="78.0" stroke-width="1.5"/>
+<rect x="523.5" y="36.0" width="24.0" height="50.0" stroke-width="1.8" fill="#ffffff"/>
+<rect x="585.5" y="24.0" width="26.0" height="49.0" stroke-width="1.8" fill="#ffffff"/>
+<circle cx="518.5" cy="60.0" r="4.5" stroke-width="1.5" fill="#ffffff"/>
+<line x1="465.0" y1="37.0" x2="495.0" y2="37.0" stroke-width="1.5"/>
+<line x1="495.0" y1="37.0" x2="495.0" y2="60.0" stroke-width="1.5"/>
+<line x1="495.0" y1="60.0" x2="514.0" y2="60.0" stroke-width="1.5"/>
+<line x1="523.0" y1="60.0" x2="523.5" y2="60.0" stroke-width="1.5"/>
+<line x1="547.5" y1="49.0" x2="577.5" y2="49.0" stroke-width="1.5"/>
+<circle cx="581.5" cy="49.0" r="4.0" stroke-width="1.5" fill="#ffffff"/>
+<line x1="585.5" y1="49.0" x2="585.5" y2="49.0" stroke-width="1.5"/>
+<line x1="547.5" y1="72.0" x2="564.5" y2="72.0" stroke-width="1.5"/>
+<line x1="564.5" y1="72.0" x2="564.5" y2="83.0" stroke-width="1.5"/>
+<line x1="556.5" y1="84.0" x2="572.5" y2="84.0" stroke-width="2.2"/>
+<line x1="611.5" y1="60.0" x2="629.5" y2="60.0" stroke-width="1.5"/>
+<line x1="629.5" y1="60.0" x2="629.5" y2="78.0" stroke-width="1.5"/>
+<line x1="611.5" y1="37.0" x2="641.5" y2="37.0" stroke-width="1.5"/>
+<line x1="641.5" y1="37.0" x2="641.5" y2="60.0" stroke-width="1.5"/>
+</g>
+<text x="96.0" y="61.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="20" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">&amp;</text>
+<text x="159.0" y="48.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="20" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">&amp;</text>
+<text x="37.8" y="60.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">C</text>
+<text x="47.3" y="64.8" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="12.24" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">3</text>
+<text x="116.8" y="97.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">d</text>
+<text x="126.3" y="101.8" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="12.24" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">3</text>
+<text x="181.8" y="90.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">t</text>
+<text x="191.3" y="94.8" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="12.24" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">3</text>
+<text x="242.5" y="61.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="20" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">&amp;</text>
+<text x="305.5" y="48.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="20" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">&amp;</text>
+<text x="188.8" y="25.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">C</text>
+<text x="198.3" y="29.8" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="12.24" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">2</text>
+<text x="263.3" y="97.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">d</text>
+<text x="272.8" y="101.8" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="12.24" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">2</text>
+<text x="328.3" y="90.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">t</text>
+<text x="337.8" y="94.8" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="12.24" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">2</text>
+<text x="389.0" y="61.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="20" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">&amp;</text>
+<text x="452.0" y="48.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="20" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">&amp;</text>
+<text x="335.3" y="25.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">C</text>
+<text x="344.8" y="29.8" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="12.24" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">1</text>
+<text x="409.8" y="97.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">d</text>
+<text x="419.3" y="101.8" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="12.24" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">1</text>
+<text x="474.8" y="90.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">t</text>
+<text x="484.3" y="94.8" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="12.24" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">1</text>
+<text x="535.5" y="61.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="20" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">&amp;</text>
+<text x="598.5" y="48.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="20" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">&amp;</text>
+<text x="481.8" y="25.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">C</text>
+<text x="491.3" y="29.8" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="12.24" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">0</text>
+<text x="556.3" y="97.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">d</text>
+<text x="565.8" y="101.8" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="12.24" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">0</text>
+<text x="621.3" y="90.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">t</text>
+<text x="630.8" y="94.8" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="12.24" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">0</text>
+<text x="645.5" y="25.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">C</text>
+<text x="655.0" y="29.8" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="12.24" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">-1</text>
+<text x="359.0" y="140.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="21" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">图 6.20　四位串行进位链</text>
+</svg>

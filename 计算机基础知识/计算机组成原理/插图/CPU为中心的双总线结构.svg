@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="607" height="326" viewBox="0 0 607 326">
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9.2" refY="5" markerWidth="6.5" markerHeight="6.5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2b2b2b"/></marker></defs>
+<rect x="0" y="0" width="607" height="326" fill="#ffffff"/>
+<g stroke="#2b2b2b" fill="none" stroke-linecap="round" stroke-linejoin="round">
+<rect x="47.0" y="23.0" width="118.0" height="59.0" stroke-width="1.5" fill="#ededed" rx="3"/>
+<rect x="48.0" y="224.0" width="117.0" height="59.0" stroke-width="1.5" fill="#ededed" rx="3"/>
+<rect x="188.0" y="121.0" width="95.0" height="39.0" stroke-width="1.5" fill="#ededed" rx="3"/>
+<rect x="319.0" y="121.0" width="92.0" height="39.0" stroke-width="1.5" fill="#ededed" rx="3"/>
+<rect x="481.0" y="121.0" width="93.0" height="39.0" stroke-width="1.5" fill="#ededed" rx="3"/>
+<rect x="188.0" y="224.0" width="95.0" height="59.0" stroke-width="1.5" fill="#ededed" rx="3"/>
+<rect x="319.0" y="224.0" width="92.0" height="59.0" stroke-width="1.5" fill="#ededed" rx="3"/>
+<rect x="481.0" y="224.0" width="93.0" height="59.0" stroke-width="1.5" fill="#ededed" rx="3"/>
+<line x1="164.0" y1="49.0" x2="565.0" y2="49.0" stroke-width="1.5"/>
+<line x1="164.0" y1="57.0" x2="565.0" y2="57.0" stroke-width="1.5"/>
+<polyline points="565.0,45.0 588.0,53.0 565.0,61.0" stroke-width="1.5" fill="#ffffff"/>
+<line x1="100.0" y1="102.0" x2="100.0" y2="202.0" stroke-width="1.5"/>
+<line x1="111.0" y1="102.0" x2="111.0" y2="202.0" stroke-width="1.5"/>
+<polyline points="95.0,102.0 105.5,85.0 116.0,102.0" stroke-width="1.5" fill="#ffffff"/>
+<polyline points="95.0,202.0 105.5,219.0 116.0,202.0" stroke-width="1.5" fill="#ffffff"/>
+<line x1="231.0" y1="67.0" x2="231.0" y2="111.0" stroke-width="1.5"/>
+<line x1="239.0" y1="67.0" x2="239.0" y2="111.0" stroke-width="1.5"/>
+<polyline points="228.0,67.0 235.0,60.0 242.0,67.0" stroke-width="1.5" fill="#ffffff"/>
+<polyline points="228.0,111.0 235.0,118.0 242.0,111.0" stroke-width="1.5" fill="#ffffff"/>
+<line x1="231.0" y1="170.0" x2="231.0" y2="214.0" stroke-width="1.5"/>
+<line x1="239.0" y1="170.0" x2="239.0" y2="214.0" stroke-width="1.5"/>
+<polyline points="228.0,170.0 235.0,163.0 242.0,170.0" stroke-width="1.5" fill="#ffffff"/>
+<polyline points="228.0,214.0 235.0,221.0 242.0,214.0" stroke-width="1.5" fill="#ffffff"/>
+<line x1="362.0" y1="67.0" x2="362.0" y2="111.0" stroke-width="1.5"/>
+<line x1="370.0" y1="67.0" x2="370.0" y2="111.0" stroke-width="1.5"/>
+<polyline points="359.0,67.0 366.0,60.0 373.0,67.0" stroke-width="1.5" fill="#ffffff"/>
+<polyline points="359.0,111.0 366.0,118.0 373.0,111.0" stroke-width="1.5" fill="#ffffff"/>
+<line x1="362.0" y1="170.0" x2="362.0" y2="214.0" stroke-width="1.5"/>
+<line x1="370.0" y1="170.0" x2="370.0" y2="214.0" stroke-width="1.5"/>
+<polyline points="359.0,170.0 366.0,163.0 373.0,170.0" stroke-width="1.5" fill="#ffffff"/>
+<polyline points="359.0,214.0 366.0,221.0 373.0,214.0" stroke-width="1.5" fill="#ffffff"/>
+<line x1="500.0" y1="67.0" x2="500.0" y2="111.0" stroke-width="1.5"/>
+<line x1="508.0" y1="67.0" x2="508.0" y2="111.0" stroke-width="1.5"/>
+<polyline points="497.0,67.0 504.0,60.0 511.0,67.0" stroke-width="1.5" fill="#ffffff"/>
+<polyline points="497.0,111.0 504.0,118.0 511.0,111.0" stroke-width="1.5" fill="#ffffff"/>
+<line x1="500.0" y1="170.0" x2="500.0" y2="214.0" stroke-width="1.5"/>
+<line x1="508.0" y1="170.0" x2="508.0" y2="214.0" stroke-width="1.5"/>
+<polyline points="497.0,170.0 504.0,163.0 511.0,170.0" stroke-width="1.5" fill="#ffffff"/>
+<polyline points="497.0,214.0 504.0,221.0 511.0,214.0" stroke-width="1.5" fill="#ffffff"/>
+</g>
+<text x="106.0" y="39.7" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">中央处理器</text>
+<text x="106.0" y="65.3" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">CPU</text>
+<text x="106.5" y="253.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">主存</text>
+<text x="235.5" y="140.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">I/O 接口</text>
+<text x="365.0" y="140.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">I/O 接口</text>
+<text x="527.5" y="140.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">I/O 接口</text>
+<text x="235.5" y="240.7" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">I/O</text>
+<text x="235.5" y="266.3" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">设备 1</text>
+<text x="365.0" y="240.7" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">I/O</text>
+<text x="365.0" y="266.3" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">设备 2</text>
+<text x="527.5" y="240.7" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">I/O</text>
+<text x="527.5" y="266.3" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">设备 n</text>
+<text x="378.0" y="37.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">I/O 总线</text>
+<text x="86.0" y="134.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">M</text>
+<text x="86.0" y="154.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">总</text>
+<text x="86.0" y="174.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">线</text>
+<text x="300.0" y="306.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="18" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">图 3.1  面向 CPU 的双总线结构框图</text>
+</svg>

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="430" viewBox="0 0 880 430">
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9.2" refY="5" markerWidth="6.5" markerHeight="6.5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2b2b2b"/></marker></defs>
+<rect x="0" y="0" width="880" height="430" fill="#ffffff"/>
+<g stroke="#2b2b2b" fill="none" stroke-linecap="round" stroke-linejoin="round">
+<rect x="260.0" y="24.0" width="320.0" height="46.0" stroke-width="1.5" fill="#ededed" rx="7"/>
+<line x1="420.0" y1="70.0" x2="420.0" y2="100.0" stroke-width="1.5" marker-end="url(#ah)"/>
+<rect x="180.0" y="100.0" width="440.0" height="104.0" stroke-width="1.5" fill="#ededed" rx="7"/>
+<line x1="420.0" y1="204.0" x2="420.0" y2="232.0" stroke-width="1.5" marker-end="url(#ah)"/>
+<rect x="180.0" y="232.0" width="440.0" height="104.0" stroke-width="1.5" fill="#ededed" rx="7"/>
+<line x1="420.0" y1="336.0" x2="420.0" y2="364.0" stroke-width="1.5" marker-end="url(#ah)"/>
+<rect x="260.0" y="364.0" width="320.0" height="44.0" stroke-width="1.5" fill="#ededed" rx="7"/>
+<line x1="96.0" y1="152.0" x2="176.0" y2="152.0" stroke-width="1.2" stroke-dasharray="5,4"/>
+<line x1="96.0" y1="284.0" x2="176.0" y2="284.0" stroke-width="1.2" stroke-dasharray="5,4"/>
+</g>
+<text x="420.0" y="47.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">中断请求（外设、时钟、故障）</text>
+<text x="400.0" y="128.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">中断隐指令（由硬件自动完成，不是程序指令）</text>
+<text x="400.0" y="152.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">① 关中断　　② 保存断点（PC、PSW）</text>
+<text x="400.0" y="176.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">③ 引出中断服务程序</text>
+<text x="400.0" y="260.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">中断服务程序（软件完成）</text>
+<text x="400.0" y="284.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">① 保存现场　　② 处理中断</text>
+<text x="400.0" y="308.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">③ 恢复现场、开中断</text>
+<text x="420.0" y="386.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">返回断点，继续执行原程序</text>
+<text x="64.0" y="152.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b" font-weight="bold">硬件</text>
+<text x="64.0" y="284.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b" font-weight="bold">软件</text>
+</svg>

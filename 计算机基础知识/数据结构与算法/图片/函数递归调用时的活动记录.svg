@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="320" viewBox="0 0 760 320">
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9.2" refY="5" markerWidth="6.5" markerHeight="6.5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2b2b2b"/></marker></defs>
+<rect x="0" y="0" width="760" height="320" fill="#ffffff"/>
+<g stroke="#2b2b2b" fill="none" stroke-linecap="round" stroke-linejoin="round">
+<rect x="60.0" y="40.0" width="230.0" height="104.0" stroke-width="1.3" fill="none"/>
+<rect x="60.0" y="186.0" width="230.0" height="96.0" stroke-width="1.3" fill="none"/>
+<polyline points="46.0,96.0 30.0,96.0 30.0,196.0 56.0,196.0" stroke-width="1.3" fill="none" marker-end="url(#ah)"/>
+<polyline points="290.0,88.0 330.0,88.0 330.0,240.0 292.0,240.0" stroke-width="1.3" fill="none" stroke-dasharray="5 4"/>
+<line x1="330.0" y1="240.0" x2="292.0" y2="240.0" stroke-width="1.3" stroke-dasharray="5 4" marker-end="url(#ah)"/>
+<rect x="470.0" y="60.0" width="240.0" height="44.0" stroke-width="1.3" fill="none"/>
+<rect x="470.0" y="104.0" width="240.0" height="34.0" stroke-width="1.3" fill="none"/>
+<rect x="470.0" y="138.0" width="240.0" height="34.0" stroke-width="1.3" fill="none"/>
+</g>
+<text x="175.0" y="62.0" font-family="SimSun, 'Microsoft YaHei', serif" font-size="14" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">call Function（&lt;参数表&gt;）</text>
+<text x="175.0" y="90.0" font-family="SimSun, 'Microsoft YaHei', serif" font-size="14" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">〈下一条指令〉</text>
+<text x="175.0" y="210.0" font-family="SimSun, 'Microsoft YaHei', serif" font-size="14" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">Function（&lt;参数表&gt;）</text>
+<text x="175.0" y="240.0" font-family="SimSun, 'Microsoft YaHei', serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">⋮</text>
+<text x="175.0" y="266.0" font-family="SimSun, 'Microsoft YaHei', serif" font-size="14" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">return</text>
+<text x="28.0" y="130.0" font-family="SimSun, 'Microsoft YaHei', serif" font-size="14" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">调用模块</text>
+<text x="120.0" y="300.0" font-family="SimSun, 'Microsoft YaHei', serif" font-size="13" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">被调用函数模块</text>
+<text x="392.0" y="300.0" font-family="SimSun, 'Microsoft YaHei', serif" font-size="13" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">函数调用与返回</text>
+<text x="590.0" y="82.0" font-family="SimSun, 'Microsoft YaHei', serif" font-size="13" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">返回地址（递归调用的下一条指令）</text>
+<text x="590.0" y="121.0" font-family="SimSun, 'Microsoft YaHei', serif" font-size="13" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">局部变量值</text>
+<text x="590.0" y="155.0" font-family="SimSun, 'Microsoft YaHei', serif" font-size="13" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">参数的副本空间</text>
+<text x="590.0" y="198.0" font-family="SimSun, 'Microsoft YaHei', serif" font-size="13" text-anchor="middle" dominant-baseline="central" fill="#333">活动记录（递归工作记录）</text>
+<text x="380.0" y="308.0" font-family="SimSun, 'Microsoft YaHei', serif" font-size="14" text-anchor="middle" dominant-baseline="central" fill="#444">图 3.12  函数递归调用时的活动记录</text>
+</svg>

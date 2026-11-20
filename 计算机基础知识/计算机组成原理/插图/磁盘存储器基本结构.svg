@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="592" height="312" viewBox="0 0 592 312">
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9.2" refY="5" markerWidth="6.5" markerHeight="6.5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2b2b2b"/></marker></defs>
+<rect x="0" y="0" width="592" height="312" fill="#ffffff"/>
+<g stroke="#2b2b2b" fill="none" stroke-linecap="round" stroke-linejoin="round">
+<rect x="54.0" y="30.0" width="64.0" height="210.0" stroke-width="1.5" fill="#ffffff"/>
+<rect x="192.0" y="30.0" width="68.0" height="210.0" stroke-width="1.5" fill="#ffffff"/>
+<rect x="332.0" y="30.0" width="68.0" height="210.0" stroke-width="1.5" fill="#ffffff"/>
+<rect x="470.0" y="30.0" width="68.0" height="210.0" stroke-width="1.5" fill="#ffffff"/>
+<polyline points="118.0,135.0 133.0,124.0 133.0,130.5 177.0,130.5 177.0,124.0 192.0,135.0 177.0,146.0 177.0,139.5 133.0,139.5 133.0,146.0 118.0,135.0" stroke-width="1.5" fill="none"/>
+<polyline points="260.0,135.0 275.0,124.0 275.0,130.5 317.0,130.5 317.0,124.0 332.0,135.0 317.0,146.0 317.0,139.5 275.0,139.5 275.0,146.0 260.0,135.0" stroke-width="1.5" fill="none"/>
+<polyline points="400.0,135.0 415.0,124.0 415.0,130.5 455.0,130.5 455.0,124.0 470.0,135.0 455.0,146.0 455.0,139.5 415.0,139.5 415.0,146.0 400.0,135.0" stroke-width="1.5" fill="none"/>
+</g>
+<text x="86.0" y="95.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="21" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">主</text>
+<text x="86.0" y="176.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="21" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">机</text>
+<text x="226.0" y="95.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="18" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">磁</text>
+<text x="226.0" y="115.4" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="18" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">盘</text>
+<text x="226.0" y="135.8" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="18" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">控</text>
+<text x="226.0" y="156.2" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="18" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">制</text>
+<text x="226.0" y="176.6" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="18" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">器</text>
+<text x="366.0" y="95.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="18" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">磁</text>
+<text x="366.0" y="115.4" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="18" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">盘</text>
+<text x="366.0" y="135.8" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="18" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">驱</text>
+<text x="366.0" y="156.2" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="18" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">动</text>
+<text x="366.0" y="176.6" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="18" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">器</text>
+<text x="504.0" y="94.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="21" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">盘</text>
+<text x="504.0" y="176.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="21" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">片</text>
+<text x="296.0" y="271.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="19" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">图 4.66   磁盘存储器基本结构示意</text>
+</svg>

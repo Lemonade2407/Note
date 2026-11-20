@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="470" viewBox="0 0 900 470">
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9.2" refY="5" markerWidth="6.5" markerHeight="6.5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2b2b2b"/></marker></defs>
+<rect x="0" y="0" width="900" height="470" fill="#ffffff"/>
+<g stroke="#2b2b2b" fill="none" stroke-linecap="round" stroke-linejoin="round">
+<line x1="110.0" y1="74.0" x2="782.0" y2="74.0" stroke-width="1.0"/>
+<rect x="110.0" y="80.0" width="84.0" height="42.0" stroke-width="1.4" fill="#ffffff"/>
+<rect x="194.0" y="80.0" width="84.0" height="42.0" stroke-width="1.4" fill="#ffffff"/>
+<rect x="278.0" y="80.0" width="168.0" height="42.0" stroke-width="1.4" fill="#ffffff"/>
+<rect x="446.0" y="80.0" width="336.0" height="42.0" stroke-width="1.4" fill="#ffffff"/>
+<rect x="110.0" y="128.0" width="336.0" height="42.0" stroke-width="1.4" fill="#ffffff"/>
+<rect x="446.0" y="128.0" width="63.0" height="42.0" stroke-width="1.4" fill="#ffffff"/>
+<rect x="509.0" y="128.0" width="273.0" height="42.0" stroke-width="1.4" fill="#ffffff"/>
+<rect x="110.0" y="176.0" width="168.0" height="42.0" stroke-width="1.4" fill="#ffffff"/>
+<rect x="278.0" y="176.0" width="168.0" height="42.0" stroke-width="1.4" fill="#ffffff"/>
+<rect x="446.0" y="176.0" width="336.0" height="42.0" stroke-width="1.4" fill="#ffffff"/>
+<rect x="110.0" y="224.0" width="672.0" height="42.0" stroke-width="1.4" fill="#ffffff" rx="6"/>
+<rect x="110.0" y="272.0" width="672.0" height="42.0" stroke-width="1.4" fill="#ffffff" rx="6"/>
+<rect x="110.0" y="320.0" width="672.0" height="42.0" stroke-width="1.4" fill="#fdf6cf" rx="6"/>
+<rect x="110.0" y="372.0" width="672.0" height="42.0" stroke-width="1.4" fill="#d9e3cc" rx="6"/>
+</g>
+<text x="30.0" y="28.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17" text-anchor="start" dominant-baseline="central" fill="#2b2b2b" font-weight="bold">IPv4 数据报首部（固定 20 B，每行 32 bit）</text>
+<text x="110.0" y="66.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="12" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">0</text>
+<text x="278.0" y="66.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="12" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">8</text>
+<text x="446.0" y="66.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="12" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">16</text>
+<text x="614.0" y="66.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="12" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">24</text>
+<text x="761.0" y="66.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="12" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">31</text>
+<text x="152.0" y="101.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">版本</text>
+<text x="236.0" y="101.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">首部长度</text>
+<text x="362.0" y="101.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">区分服务</text>
+<text x="614.0" y="101.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">总长度</text>
+<text x="278.0" y="149.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">标识</text>
+<text x="477.5" y="149.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">标志</text>
+<text x="645.5" y="149.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">片偏移</text>
+<text x="194.0" y="197.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">生存时间 TTL</text>
+<text x="362.0" y="197.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">协议</text>
+<text x="614.0" y="197.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">首部检验和</text>
+<text x="446.0" y="245.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">源 IP 地址（32 位）</text>
+<text x="446.0" y="293.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">目的 IP 地址（32 位）</text>
+<text x="446.0" y="341.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">可选字段（0~40 B）</text>
+<text x="446.0" y="393.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">数据部分（上层报文）</text>
+<text x="30.0" y="440.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="13" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">首部长度以 4 B 为单位（最小 5，即 20 B）；标志位 DF 禁止分片、MF 表示后面还有分片</text>
+<text x="30.0" y="462.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="13" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">分片：片偏移以 8 B 为单位，除最后一片外每片数据长度必须是 8 的整数倍</text>
+</svg>

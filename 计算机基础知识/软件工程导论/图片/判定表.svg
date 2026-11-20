@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1664" height="905" viewBox="0 0 1664 905">
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9.2" refY="5" markerWidth="6.5" markerHeight="6.5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2b2b2b"/></marker></defs>
+<rect x="0" y="0" width="1664" height="905" fill="#ffffff"/>
+<g stroke="#2b2b2b" fill="none" stroke-linecap="round" stroke-linejoin="round">
+<rect x="71.0" y="60.0" width="1507.0" height="740.0" stroke-width="2.6" fill="#ffffff"/>
+<line x1="185.0" y1="60.0" x2="185.0" y2="800.0" stroke-width="2.0"/>
+<line x1="701.0" y1="60.0" x2="701.0" y2="800.0" stroke-width="2.0"/>
+<line x1="920.0" y1="60.0" x2="920.0" y2="800.0" stroke-width="2.0"/>
+<line x1="1139.0" y1="60.0" x2="1139.0" y2="800.0" stroke-width="2.0"/>
+<line x1="1359.0" y1="60.0" x2="1359.0" y2="800.0" stroke-width="2.0"/>
+<line x1="71.0" y1="152.0" x2="1578.0" y2="152.0" stroke-width="2.0"/>
+<line x1="71.0" y1="291.0" x2="1578.0" y2="291.0" stroke-width="2.0"/>
+<line x1="71.0" y1="383.0" x2="1578.0" y2="383.0" stroke-width="2.0"/>
+<line x1="71.0" y1="475.0" x2="1578.0" y2="475.0" stroke-width="2.0"/>
+<line x1="71.0" y1="637.0" x2="1578.0" y2="637.0" stroke-width="2.0"/>
+</g>
+<text x="810.5" y="106.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="54" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b" font-weight="bold">1</text>
+<text x="1029.5" y="106.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="54" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b" font-weight="bold">2</text>
+<text x="1249.0" y="106.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="54" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b" font-weight="bold">3</text>
+<text x="1468.5" y="106.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="54" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b" font-weight="bold">4</text>
+<text x="128.0" y="200.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="62" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">条</text>
+<text x="128.0" y="292.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="62" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">件</text>
+<text x="128.0" y="520.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="62" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">动</text>
+<text x="128.0" y="612.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="62" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">作</text>
+<text x="443.0" y="221.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="54" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">订货额</text>
+<text x="810.5" y="221.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="54" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">≥1000</text>
+<text x="1029.5" y="221.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="54" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">≥1000</text>
+<text x="1249.0" y="221.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="54" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">≥1000</text>
+<text x="1468.5" y="221.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="54" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">&lt;1000</text>
+<text x="443.0" y="337.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="54" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">顾客信誉</text>
+<text x="810.5" y="337.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="50" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">好</text>
+<text x="1029.5" y="337.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="50" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">不好</text>
+<text x="1249.0" y="337.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="50" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">不好</text>
+<text x="1468.5" y="337.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="50" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">-</text>
+<text x="443.0" y="429.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="54" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">老顾客</text>
+<text x="810.5" y="429.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="50" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">-</text>
+<text x="1029.5" y="429.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="50" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">是</text>
+<text x="1249.0" y="429.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="50" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">不是</text>
+<text x="1468.5" y="429.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="50" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">-</text>
+<text x="443.0" y="518.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="50" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">订单设“优先”标</text>
+<text x="443.0" y="594.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="50" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">志</text>
+<text x="810.5" y="556.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="54" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">√</text>
+<text x="1029.5" y="556.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="54" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">√</text>
+<text x="443.0" y="680.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="50" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">订单设“正常”标</text>
+<text x="443.0" y="756.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="50" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">志</text>
+<text x="1249.0" y="718.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="54" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">√</text>
+<text x="1468.5" y="718.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="54" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">√</text>
+</svg>

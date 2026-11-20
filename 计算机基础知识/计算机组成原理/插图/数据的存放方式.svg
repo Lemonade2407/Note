@@ -1,0 +1,108 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="622" height="871" viewBox="0 0 622 871">
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9.2" refY="5" markerWidth="6.5" markerHeight="6.5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2b2b2b"/></marker></defs>
+<rect x="0" y="0" width="622" height="871" fill="#ffffff"/>
+<g stroke="#2b2b2b" fill="none" stroke-linecap="round" stroke-linejoin="round">
+<rect x="71.0" y="70.0" width="436.0" height="315.0" stroke-width="1.6" fill="#ffffff"/>
+<line x1="71.0" y1="102.0" x2="507.0" y2="102.0" stroke-width="1.4"/>
+<line x1="71.0" y1="133.0" x2="507.0" y2="133.0" stroke-width="1.4"/>
+<line x1="71.0" y1="165.0" x2="507.0" y2="165.0" stroke-width="1.4"/>
+<line x1="71.0" y1="196.0" x2="507.0" y2="196.0" stroke-width="1.4"/>
+<line x1="71.0" y1="228.0" x2="507.0" y2="228.0" stroke-width="1.4"/>
+<line x1="71.0" y1="259.0" x2="507.0" y2="259.0" stroke-width="1.4"/>
+<line x1="71.0" y1="291.0" x2="507.0" y2="291.0" stroke-width="1.4"/>
+<line x1="71.0" y1="322.0" x2="507.0" y2="322.0" stroke-width="1.4"/>
+<line x1="71.0" y1="354.0" x2="507.0" y2="354.0" stroke-width="1.4"/>
+<line x1="179.0" y1="133.0" x2="179.0" y2="196.0" stroke-width="1.4"/>
+<line x1="289.0" y1="133.0" x2="289.0" y2="228.0" stroke-width="1.4"/>
+<line x1="398.0" y1="133.0" x2="398.0" y2="196.0" stroke-width="1.4"/>
+<rect x="72.0" y="456.0" width="436.0" height="95.0" stroke-width="1.6" fill="#ffffff"/>
+<line x1="72.0" y1="488.0" x2="508.0" y2="488.0" stroke-width="1.4"/>
+<line x1="72.0" y1="519.0" x2="508.0" y2="519.0" stroke-width="1.4"/>
+<line x1="180.0" y1="488.0" x2="180.0" y2="519.0" stroke-width="1.4"/>
+<line x1="290.0" y1="456.0" x2="290.0" y2="551.0" stroke-width="1.4"/>
+<rect x="72.0" y="456.0" width="218.0" height="32.0" stroke-width="1.6" fill="#e8e8e8"/>
+<rect x="72.0" y="488.0" width="108.0" height="31.0" stroke-width="1.6" fill="#e8e8e8"/>
+<rect x="180.0" y="488.0" width="110.0" height="31.0" stroke-width="1.6" fill="#e8e8e8"/>
+<rect x="290.0" y="488.0" width="218.0" height="31.0" stroke-width="1.6" fill="#e8e8e8"/>
+<rect x="140.0" y="707.0" width="167.0" height="54.0" stroke-width="1.6" fill="#ffffff"/>
+<line x1="182.0" y1="707.0" x2="182.0" y2="761.0" stroke-width="1.4"/>
+<line x1="223.0" y1="707.0" x2="223.0" y2="761.0" stroke-width="1.4"/>
+<line x1="265.0" y1="707.0" x2="265.0" y2="761.0" stroke-width="1.4"/>
+<line x1="140.0" y1="734.0" x2="307.0" y2="734.0" stroke-width="1.4"/>
+<rect x="363.0" y="707.0" width="167.0" height="54.0" stroke-width="1.6" fill="#ffffff"/>
+<line x1="405.0" y1="707.0" x2="405.0" y2="761.0" stroke-width="1.4"/>
+<line x1="446.0" y1="707.0" x2="446.0" y2="761.0" stroke-width="1.4"/>
+<line x1="488.0" y1="707.0" x2="488.0" y2="761.0" stroke-width="1.4"/>
+<line x1="363.0" y1="734.0" x2="530.0" y2="734.0" stroke-width="1.4"/>
+</g>
+<text x="289.0" y="57.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="21" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">存储器</text>
+<text x="553.0" y="57.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="21" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">地址(十进制)</text>
+<text x="289.0" y="86.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">字(地址 0)</text>
+<text x="289.0" y="117.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">字(地址 4)</text>
+<text x="125.0" y="149.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">字节(地址 11)</text>
+<text x="234.0" y="149.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">字节(地址 10)</text>
+<text x="343.5" y="149.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">字节(地址 9)</text>
+<text x="452.5" y="149.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">字节(地址 8)</text>
+<text x="125.0" y="180.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">字节(地址 15)</text>
+<text x="234.0" y="180.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">字节(地址 14)</text>
+<text x="343.5" y="180.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">字节(地址 13)</text>
+<text x="452.5" y="180.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">字节(地址 12)</text>
+<text x="180.0" y="212.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">半字(地址 18)</text>
+<text x="398.0" y="212.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">半字(地址 16)</text>
+<text x="180.0" y="243.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">半字(地址 22)</text>
+<text x="398.0" y="243.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">半字(地址 20)</text>
+<text x="289.0" y="275.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">双字(地址 24)</text>
+<text x="289.0" y="306.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">双字</text>
+<text x="289.0" y="338.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">双字(地址 32)</text>
+<text x="289.0" y="369.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">双字</text>
+<text x="530.0" y="86.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="18" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">0</text>
+<text x="530.0" y="117.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="18" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">4</text>
+<text x="530.0" y="149.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="18" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">8</text>
+<text x="530.0" y="180.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="18" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">12</text>
+<text x="530.0" y="212.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="18" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">16</text>
+<text x="530.0" y="243.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="18" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">20</text>
+<text x="530.0" y="275.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="18" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">24</text>
+<text x="530.0" y="306.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="18" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">28</text>
+<text x="530.0" y="338.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="18" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">32</text>
+<text x="530.0" y="369.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="18" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">36</text>
+<text x="289.0" y="407.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="20" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">(a) 对准边界</text>
+<text x="289.0" y="440.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="21" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">存储器</text>
+<text x="553.0" y="440.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="21" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">地址(十进制)</text>
+<text x="181.0" y="472.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">字(地址 2)</text>
+<text x="399.0" y="472.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">半字(地址 0)</text>
+<text x="126.0" y="503.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">字节(地址 7)</text>
+<text x="235.0" y="503.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">字节(地址 6)</text>
+<text x="399.0" y="503.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">字(地址 4)</text>
+<text x="181.0" y="535.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">半字(地址 10)</text>
+<text x="399.0" y="535.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">半字(地址 8)</text>
+<text x="530.0" y="472.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="18" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">0</text>
+<text x="530.0" y="503.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="18" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">4</text>
+<text x="530.0" y="535.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="18" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">8</text>
+<text x="289.0" y="573.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="20" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">(b) 不对准边界</text>
+<text x="290.0" y="617.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="21" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">图 7.3　存储器中数据的存放</text>
+<text x="160.0" y="655.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="20" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">字地址</text>
+<text x="385.0" y="655.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="20" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">字地址</text>
+<text x="161.0" y="720.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="20" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">3</text>
+<text x="202.0" y="720.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="20" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">2</text>
+<text x="243.0" y="720.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="20" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">1</text>
+<text x="284.0" y="720.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="20" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">0</text>
+<text x="161.0" y="748.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="20" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">7</text>
+<text x="202.0" y="748.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="20" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">6</text>
+<text x="243.0" y="748.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="20" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">5</text>
+<text x="284.0" y="748.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="20" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">4</text>
+<text x="128.0" y="720.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="18" text-anchor="end" dominant-baseline="central" fill="#2b2b2b">0</text>
+<text x="128.0" y="748.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="18" text-anchor="end" dominant-baseline="central" fill="#2b2b2b">4</text>
+<text x="384.0" y="720.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="20" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">0</text>
+<text x="425.0" y="720.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="20" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">1</text>
+<text x="466.0" y="720.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="20" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">2</text>
+<text x="507.0" y="720.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="20" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">3</text>
+<text x="384.0" y="748.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="20" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">4</text>
+<text x="425.0" y="748.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="20" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">5</text>
+<text x="466.0" y="748.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="20" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">6</text>
+<text x="507.0" y="748.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="20" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">7</text>
+<text x="351.0" y="720.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="18" text-anchor="end" dominant-baseline="central" fill="#2b2b2b">0</text>
+<text x="351.0" y="748.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="18" text-anchor="end" dominant-baseline="central" fill="#2b2b2b">4</text>
+<text x="220.0" y="790.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="19" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">(a) 低字节为低地址</text>
+<text x="445.0" y="790.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="19" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">(b) 高字节为低地址</text>
+<text x="290.0" y="820.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="21" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">图 7.4　两种字节次序</text>
+</svg>

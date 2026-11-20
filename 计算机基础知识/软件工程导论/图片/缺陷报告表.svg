@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="928" height="950" viewBox="0 0 928 950">
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9.2" refY="5" markerWidth="6.5" markerHeight="6.5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2b2b2b"/></marker></defs>
+<rect x="0" y="0" width="928" height="950" fill="#ffffff"/>
+<g stroke="#2b2b2b" fill="none" stroke-linecap="round" stroke-linejoin="round">
+<rect x="26.0" y="16.0" width="881.0" height="915.0" stroke-width="1.6" fill="none"/>
+<line x1="26.0" y1="66.0" x2="907.0" y2="66.0" stroke-width="1.6"/>
+<line x1="26.0" y1="117.0" x2="907.0" y2="117.0" stroke-width="1.6"/>
+<line x1="26.0" y1="168.0" x2="907.0" y2="168.0" stroke-width="1.6"/>
+<line x1="26.0" y1="219.0" x2="907.0" y2="219.0" stroke-width="1.6"/>
+<line x1="26.0" y1="269.0" x2="907.0" y2="269.0" stroke-width="1.6"/>
+<line x1="26.0" y1="369.0" x2="907.0" y2="369.0" stroke-width="1.6"/>
+<line x1="26.0" y1="719.0" x2="907.0" y2="719.0" stroke-width="1.6"/>
+<line x1="26.0" y1="770.0" x2="907.0" y2="770.0" stroke-width="1.6"/>
+<line x1="26.0" y1="820.0" x2="907.0" y2="820.0" stroke-width="1.6"/>
+<line x1="166.0" y1="16.0" x2="166.0" y2="931.0" stroke-width="1.6"/>
+<line x1="483.0" y1="66.0" x2="483.0" y2="269.0" stroke-width="1.6"/>
+<line x1="632.0" y1="66.0" x2="632.0" y2="269.0" stroke-width="1.6"/>
+<rect x="26.0" y="16.0" width="140.0" height="50.0" stroke-width="0" fill="#e8e8e8"/>
+<rect x="26.0" y="66.0" width="140.0" height="51.0" stroke-width="0" fill="#e8e8e8"/>
+<rect x="26.0" y="117.0" width="140.0" height="51.0" stroke-width="0" fill="#e8e8e8"/>
+<rect x="26.0" y="168.0" width="140.0" height="51.0" stroke-width="0" fill="#e8e8e8"/>
+<rect x="26.0" y="219.0" width="140.0" height="50.0" stroke-width="0" fill="#e8e8e8"/>
+<rect x="26.0" y="269.0" width="140.0" height="100.0" stroke-width="0" fill="#e8e8e8"/>
+<rect x="26.0" y="369.0" width="140.0" height="350.0" stroke-width="0" fill="#e8e8e8"/>
+<rect x="26.0" y="719.0" width="140.0" height="51.0" stroke-width="0" fill="#e8e8e8"/>
+<rect x="26.0" y="770.0" width="140.0" height="50.0" stroke-width="0" fill="#e8e8e8"/>
+<rect x="26.0" y="820.0" width="140.0" height="111.0" stroke-width="0" fill="#e8e8e8"/>
+<line x1="26.0" y1="16.0" x2="26.0" y2="931.0" stroke-width="1.6"/>
+<line x1="166.0" y1="16.0" x2="166.0" y2="931.0" stroke-width="1.6"/>
+</g>
+<text x="96.0" y="41.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="21" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b" font-weight="bold">模块名称</text>
+<text x="96.0" y="91.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="21" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b" font-weight="bold">版本号</text>
+<text x="96.0" y="142.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="21" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b" font-weight="bold">缺陷类型</text>
+<text x="96.0" y="193.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="21" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b" font-weight="bold">可重复性</text>
+<text x="96.0" y="244.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="21" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b" font-weight="bold">测试平台</text>
+<text x="96.0" y="319.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="21" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b" font-weight="bold">简述</text>
+<text x="96.0" y="544.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="21" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b" font-weight="bold">操作步骤</text>
+<text x="96.0" y="744.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="21" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b" font-weight="bold">实际结果</text>
+<text x="96.0" y="795.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="21" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b" font-weight="bold">预期结果</text>
+<text x="96.0" y="875.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="21" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b" font-weight="bold">注释</text>
+<text x="180.0" y="41.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="21" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">贴吧注册登录页面</text>
+<text x="507.0" y="91.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="21" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b" font-weight="bold">测试人</text>
+<text x="656.0" y="91.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="21" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">庄睿哲</text>
+<text x="180.0" y="142.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="21" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">功能错误</text>
+<text x="507.0" y="142.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="21" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b" font-weight="bold">严重级别</text>
+<text x="656.0" y="142.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="21" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">B</text>
+<text x="180.0" y="193.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="21" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">是</text>
+<text x="507.0" y="193.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="21" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b" font-weight="bold">缺陷状态</text>
+<text x="656.0" y="193.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="21" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">New</text>
+<text x="180.0" y="244.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="21" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">Win7</text>
+<text x="507.0" y="244.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="21" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b" font-weight="bold">浏览器</text>
+<text x="656.0" y="244.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="21" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">百度浏览器</text>
+<text x="180.0" y="305.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="21" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">系统规定注册用户名的长度为 6-20 字符。用少于 6 个字符的用户名可以成功</text>
+<text x="180.0" y="340.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="21" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">注册</text>
+<text x="180.0" y="395.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="21" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">1.  进入贴吧网站首页</text>
+<text x="180.0" y="445.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="21" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">2.  点击注册，进入用户注册页面</text>
+<text x="180.0" y="495.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="21" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">3.  单击“同意”按钮，进入用户注册页面</text>
+<text x="180.0" y="545.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="21" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">4.  在用户名文本框中输入“123”</text>
+<text x="180.0" y="595.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="21" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">5.  设置密码为“johnson”</text>
+<text x="180.0" y="645.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="21" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">6.  注册完毕后返回登录页面</text>
+<text x="180.0" y="695.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="21" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">7.  输入用户名“123”，密码“johnson”</text>
+<text x="180.0" y="744.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="21" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">注册成功，登陆成功</text>
+<text x="180.0" y="795.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="21" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">提示用户名错误，不能注册成功</text>
+<text x="180.0" y="848.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="21" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">建议修改</text>
+</svg>

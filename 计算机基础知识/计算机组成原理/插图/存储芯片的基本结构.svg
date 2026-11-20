@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="718" height="293" viewBox="0 0 718 293">
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9.2" refY="5" markerWidth="6.5" markerHeight="6.5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2b2b2b"/></marker></defs>
+<rect x="0" y="0" width="718" height="293" fill="#ffffff"/>
+<g stroke="#2b2b2b" fill="none" stroke-linecap="round" stroke-linejoin="round">
+<rect x="146.0" y="34.0" width="362.0" height="201.0" stroke-width="1.6" fill="none"/>
+<rect x="166.0" y="60.0" width="59.0" height="148.0" stroke-width="1.4" fill="none"/>
+<rect x="242.0" y="60.0" width="168.0" height="148.0" stroke-width="1.4" fill="none"/>
+<rect x="429.0" y="60.0" width="59.0" height="148.0" stroke-width="1.4" fill="none"/>
+<line x1="90.0" y1="53.0" x2="146.0" y2="53.0" stroke-width="1.2" marker-end="url(#ah)"/>
+<line x1="90.0" y1="70.0" x2="146.0" y2="70.0" stroke-width="1.2" marker-end="url(#ah)"/>
+<line x1="90.0" y1="153.0" x2="146.0" y2="153.0" stroke-width="1.2" marker-end="url(#ah)"/>
+<line x1="90.0" y1="170.0" x2="146.0" y2="170.0" stroke-width="1.2" marker-end="url(#ah)"/>
+<circle cx="107.0" cy="104.0" r="1.8" stroke-width="0.5" fill="#2b2b2b"/>
+<circle cx="107.0" cy="112.0" r="1.8" stroke-width="0.5" fill="#2b2b2b"/>
+<circle cx="107.0" cy="120.0" r="1.8" stroke-width="0.5" fill="#2b2b2b"/>
+<polyline points="82.0,48.0 80.5,50.5 78.0,52.5 75.5,54.0 74.5,58.0 74.5,100.0 73.5,104.0 71.5,108.0 67.0,112.0 71.5,116.0 73.5,120.0 74.5,124.0 74.5,166.0 75.5,170.0 78.0,171.5 80.5,173.5 82.0,176.0" stroke-width="1.2" fill="none"/>
+<line x1="95.0" y1="198.0" x2="146.0" y2="198.0" stroke-width="1.2" marker-end="url(#ah)"/>
+<line x1="508.0" y1="53.0" x2="564.0" y2="53.0" stroke-width="1.2" marker-end="url(#ah)"/>
+<line x1="508.0" y1="70.0" x2="564.0" y2="70.0" stroke-width="1.2" marker-end="url(#ah)"/>
+<line x1="508.0" y1="153.0" x2="564.0" y2="153.0" stroke-width="1.2" marker-end="url(#ah)"/>
+<line x1="508.0" y1="170.0" x2="564.0" y2="170.0" stroke-width="1.2" marker-end="url(#ah)"/>
+<circle cx="536.0" cy="104.0" r="1.8" stroke-width="0.5" fill="#2b2b2b"/>
+<circle cx="536.0" cy="112.0" r="1.8" stroke-width="0.5" fill="#2b2b2b"/>
+<circle cx="536.0" cy="120.0" r="1.8" stroke-width="0.5" fill="#2b2b2b"/>
+<polyline points="568.0,48.0 569.5,50.5 572.0,52.5 574.5,54.0 575.5,58.0 575.5,100.0 576.5,104.0 578.5,108.0 583.0,112.0 578.5,116.0 576.5,120.0 575.5,124.0 575.5,166.0 574.5,170.0 572.0,171.5 569.5,173.5 568.0,176.0" stroke-width="1.2" fill="none"/>
+<line x1="600.0" y1="205.0" x2="508.0" y2="205.0" stroke-width="1.2" marker-end="url(#ah)"/>
+</g>
+<text x="196.0" y="86.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">译</text>
+<text x="196.0" y="103.7" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">码</text>
+<text x="196.0" y="121.4" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">驱</text>
+<text x="196.0" y="139.1" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">动</text>
+<text x="326.0" y="86.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">存</text>
+<text x="326.0" y="103.7" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">储</text>
+<text x="326.0" y="121.4" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">矩</text>
+<text x="326.0" y="139.1" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">阵</text>
+<text x="459.0" y="86.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">读</text>
+<text x="459.0" y="103.7" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">/</text>
+<text x="459.0" y="121.4" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">写</text>
+<text x="459.0" y="139.1" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">电</text>
+<text x="459.0" y="156.8" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">路</text>
+<text x="52.0" y="88.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">地</text>
+<text x="52.0" y="105.7" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">址</text>
+<text x="52.0" y="123.4" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">线</text>
+<text x="38.0" y="198.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">片选线</text>
+<text x="604.0" y="88.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">数</text>
+<text x="604.0" y="105.7" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">据</text>
+<text x="604.0" y="123.4" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">线</text>
+<text x="608.0" y="205.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">读/写控制线</text>
+<text x="360.0" y="262.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="14" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">图 4.7  存储芯片的基本结构</text>
+</svg>

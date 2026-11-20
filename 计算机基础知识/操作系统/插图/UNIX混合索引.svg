@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="500" viewBox="0 0 900 500">
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9.2" refY="5" markerWidth="6.5" markerHeight="6.5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2b2b2b"/></marker></defs>
+<rect x="0" y="0" width="900" height="500" fill="#ffffff"/>
+<g stroke="#2b2b2b" fill="none" stroke-linecap="round" stroke-linejoin="round">
+<rect x="40.0" y="60.0" width="150.0" height="60.0" stroke-width="1.5" fill="#ededed" rx="7"/>
+<rect x="40.0" y="130.0" width="150.0" height="32.0" stroke-width="1.2" fill="#ededed"/>
+<rect x="40.0" y="164.0" width="150.0" height="32.0" stroke-width="1.2" fill="#ededed"/>
+<rect x="40.0" y="198.0" width="150.0" height="32.0" stroke-width="1.2" fill="#ededed"/>
+<rect x="40.0" y="232.0" width="150.0" height="32.0" stroke-width="1.2" fill="#ededed"/>
+<rect x="40.0" y="272.0" width="150.0" height="32.0" stroke-width="1.2" fill="#f7f7f7"/>
+<rect x="40.0" y="312.0" width="150.0" height="32.0" stroke-width="1.2" fill="#f7f7f7"/>
+<rect x="40.0" y="352.0" width="150.0" height="32.0" stroke-width="1.2" fill="#f7f7f7"/>
+<rect x="250.0" y="130.0" width="46.0" height="32.0" stroke-width="1.2" fill="#ededed"/>
+<line x1="192.0" y1="146.0" x2="248.0" y2="146.0" stroke-width="1.1"/>
+<rect x="250.0" y="164.0" width="46.0" height="32.0" stroke-width="1.2" fill="#ededed"/>
+<line x1="192.0" y1="180.0" x2="248.0" y2="180.0" stroke-width="1.1"/>
+<rect x="250.0" y="198.0" width="46.0" height="32.0" stroke-width="1.2" fill="#ededed"/>
+<line x1="192.0" y1="214.0" x2="248.0" y2="214.0" stroke-width="1.1"/>
+<rect x="250.0" y="232.0" width="46.0" height="32.0" stroke-width="1.2" fill="#ededed"/>
+<line x1="192.0" y1="248.0" x2="248.0" y2="248.0" stroke-width="1.1"/>
+<rect x="250.0" y="262.0" width="90.0" height="40.0" stroke-width="1.5" fill="#ededed" rx="7"/>
+<line x1="190.0" y1="288.0" x2="248.0" y2="282.0" stroke-width="1.4" marker-end="url(#ah)"/>
+<rect x="390.0" y="262.0" width="60.0" height="40.0" stroke-width="1.2" fill="#ededed"/>
+<line x1="340.0" y1="282.0" x2="388.0" y2="282.0" stroke-width="1.4" marker-end="url(#ah)"/>
+<rect x="250.0" y="322.0" width="90.0" height="40.0" stroke-width="1.5" fill="#ededed" rx="7"/>
+<line x1="190.0" y1="328.0" x2="248.0" y2="334.0" stroke-width="1.4" marker-end="url(#ah)"/>
+<rect x="380.0" y="314.0" width="90.0" height="40.0" stroke-width="1.5" fill="#ededed" rx="7"/>
+<line x1="340.0" y1="342.0" x2="378.0" y2="338.0" stroke-width="1.4" marker-end="url(#ah)"/>
+<rect x="510.0" y="314.0" width="60.0" height="40.0" stroke-width="1.2" fill="#ededed"/>
+<line x1="470.0" y1="334.0" x2="508.0" y2="334.0" stroke-width="1.4" marker-end="url(#ah)"/>
+<rect x="250.0" y="382.0" width="90.0" height="40.0" stroke-width="1.5" fill="#ededed" rx="7"/>
+<line x1="190.0" y1="368.0" x2="248.0" y2="394.0" stroke-width="1.4" marker-end="url(#ah)"/>
+</g>
+<text x="115.0" y="78.8" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">inode</text>
+<text x="115.0" y="101.2" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">文件控制信息</text>
+<text x="115.0" y="146.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="14" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">直接地址 0</text>
+<text x="115.0" y="180.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="14" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">直接地址 1</text>
+<text x="115.0" y="214.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="14" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">…</text>
+<text x="115.0" y="248.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="14" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">直接地址 9</text>
+<text x="115.0" y="288.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="14" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">一次间接</text>
+<text x="115.0" y="328.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="14" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">二次间接</text>
+<text x="115.0" y="368.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="14" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">三次间接</text>
+<text x="115.0" y="40.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">索引结点（内存/磁盘）</text>
+<text x="273.0" y="146.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="12" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">数据块</text>
+<text x="273.0" y="180.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="12" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">数据块</text>
+<text x="273.0" y="214.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="12" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">数据块</text>
+<text x="273.0" y="248.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="12" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">数据块</text>
+<text x="273.0" y="118.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="14" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">直接块（10 个）</text>
+<text x="295.0" y="282.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="14" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">索引块</text>
+<text x="420.0" y="282.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="13" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">数据</text>
+<text x="470.0" y="282.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="14" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">256 个块号</text>
+<text x="295.0" y="342.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="14" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">索引块</text>
+<text x="425.0" y="334.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="14" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">索引块</text>
+<text x="540.0" y="334.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="13" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">数据</text>
+<text x="590.0" y="334.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="14" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">256×256 个块号</text>
+<text x="295.0" y="402.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="14" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">索引块</text>
+<text x="360.0" y="404.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="14" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">再经两级索引块（256³ 个块号）</text>
+<text x="40.0" y="444.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">最大文件 = (10 + 256 + 256² + 256³) × 块大小</text>
+<text x="40.0" y="470.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">块大小 4KB、指针 4B 时约 40KB + 1MB + 256MB + 64GB</text>
+</svg>

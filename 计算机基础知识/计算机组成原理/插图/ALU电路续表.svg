@@ -1,0 +1,143 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1193" height="606" viewBox="0 0 1193 606">
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9.2" refY="5" markerWidth="6.5" markerHeight="6.5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2b2b2b"/></marker></defs>
+<rect x="0" y="0" width="1193" height="606" fill="#ffffff"/>
+<g stroke="#2b2b2b" fill="none" stroke-linecap="round" stroke-linejoin="round">
+<rect x="28.0" y="25.0" width="1137.0" height="548.0" stroke-width="1.6" fill="#ffffff"/>
+<rect x="28.0" y="25.0" width="1137.0" height="185.0" stroke-width="1.6" fill="#e8e8e8"/>
+<line x1="28.0" y1="72.0" x2="1165.0" y2="72.0" stroke-width="1.4"/>
+<line x1="28.0" y1="118.0" x2="1165.0" y2="118.0" stroke-width="1.4"/>
+<line x1="276.0" y1="72.0" x2="276.0" y2="210.0" stroke-width="1.4"/>
+<line x1="460.0" y1="72.0" x2="460.0" y2="210.0" stroke-width="1.4"/>
+<line x1="693.0" y1="72.0" x2="693.0" y2="210.0" stroke-width="1.4"/>
+<line x1="922.0" y1="72.0" x2="922.0" y2="210.0" stroke-width="1.4"/>
+<line x1="28.0" y1="250.0" x2="1165.0" y2="250.0" stroke-width="1.4"/>
+<line x1="28.0" y1="290.0" x2="1165.0" y2="290.0" stroke-width="1.4"/>
+<line x1="28.0" y1="331.0" x2="1165.0" y2="331.0" stroke-width="1.4"/>
+<line x1="28.0" y1="371.0" x2="1165.0" y2="371.0" stroke-width="1.4"/>
+<line x1="28.0" y1="411.0" x2="1165.0" y2="411.0" stroke-width="1.4"/>
+<line x1="28.0" y1="451.0" x2="1165.0" y2="451.0" stroke-width="1.4"/>
+<line x1="28.0" y1="492.0" x2="1165.0" y2="492.0" stroke-width="1.4"/>
+<line x1="28.0" y1="532.0" x2="1165.0" y2="532.0" stroke-width="1.4"/>
+<line x1="374.4" y1="216.2" x2="387.3" y2="216.2" stroke-width="1.5"/>
+<line x1="583.4" y1="216.2" x2="596.3" y2="216.2" stroke-width="1.5"/>
+<line x1="794.1" y1="216.2" x2="819.9" y2="216.2" stroke-width="1.5"/>
+<line x1="355.1" y1="256.2" x2="380.9" y2="256.2" stroke-width="1.5"/>
+<line x1="787.7" y1="256.2" x2="826.3" y2="256.2" stroke-width="1.5"/>
+<line x1="782.6" y1="296.7" x2="831.4" y2="296.7" stroke-width="1.5"/>
+<line x1="507.5" y1="337.2" x2="533.3" y2="337.2" stroke-width="1.5"/>
+<line x1="1012.2" y1="337.2" x2="1025.1" y2="337.2" stroke-width="1.5"/>
+<line x1="355.1" y1="457.7" x2="380.9" y2="457.7" stroke-width="1.5"/>
+<line x1="813.4" y1="457.7" x2="826.3" y2="457.7" stroke-width="1.5"/>
+<line x1="533.3" y1="498.2" x2="559.1" y2="498.2" stroke-width="1.5"/>
+<line x1="1018.6" y1="498.2" x2="1031.5" y2="498.2" stroke-width="1.5"/>
+</g>
+<text x="1150.0" y="48.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="22" text-anchor="end" dominant-baseline="central" fill="#2b2b2b">续表</text>
+<text x="597.0" y="48.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="24" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">功　能</text>
+<text x="368.0" y="96.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="23" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">负逻辑输入或输出</text>
+<text x="929.0" y="96.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="23" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">正逻辑输入或输出</text>
+<text x="152.0" y="120.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="22" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">工作方式选择</text>
+<text x="82.4" y="162.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="22" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">输入 S</text>
+<text x="148.2" y="167.7" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="14.96" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">3</text>
+<text x="156.6" y="162.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="22" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">S</text>
+<text x="166.1" y="167.7" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="14.96" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">2</text>
+<text x="174.4" y="162.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="22" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">S</text>
+<text x="183.9" y="167.7" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="14.96" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">1</text>
+<text x="192.3" y="162.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="22" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">S</text>
+<text x="201.7" y="167.7" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="14.96" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">0</text>
+<text x="368.0" y="132.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="22" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">逻辑运算</text>
+<text x="337.2" y="180.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="22" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">(M=1)</text>
+<text x="577.0" y="132.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="22" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">算术运算</text>
+<text x="507.0" y="180.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="22" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">(M=0)(C</text>
+<text x="590.4" y="185.7" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="14.96" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">-1</text>
+<text x="607.2" y="180.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="22" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">=0)</text>
+<text x="807.0" y="132.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="22" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">逻辑运算</text>
+<text x="776.2" y="180.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="22" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">(M=1)</text>
+<text x="1043.0" y="132.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="22" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">算术运算</text>
+<text x="973.0" y="180.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="22" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">(M=0)(C</text>
+<text x="1056.4" y="185.7" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="14.96" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">-1</text>
+<text x="1073.2" y="180.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="22" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">=1)</text>
+<text x="113.0" y="230.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="25" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">0</text>
+<text x="139.0" y="230.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="25" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">1</text>
+<text x="165.0" y="230.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="25" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">1</text>
+<text x="191.0" y="230.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="25" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">1</text>
+<text x="348.7" y="230.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="23" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">A+</text>
+<text x="374.4" y="230.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="23" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">B</text>
+<text x="557.7" y="230.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="23" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">A+</text>
+<text x="583.4" y="230.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="23" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">B</text>
+<text x="794.1" y="230.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="23" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">AB</text>
+<text x="999.3" y="230.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="23" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">AB 减 1</text>
+<text x="113.0" y="270.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="25" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">1</text>
+<text x="139.0" y="270.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="25" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">0</text>
+<text x="165.0" y="270.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="25" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">0</text>
+<text x="191.0" y="270.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="25" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">0</text>
+<text x="355.1" y="270.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="23" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">AB</text>
+<text x="514.0" y="270.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="23" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">A 加 (A+B)</text>
+<text x="787.7" y="270.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="23" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">A+B</text>
+<text x="999.3" y="270.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="23" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">A 加 AB</text>
+<text x="113.0" y="310.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="25" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">1</text>
+<text x="139.0" y="310.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="25" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">0</text>
+<text x="165.0" y="310.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="25" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">0</text>
+<text x="191.0" y="310.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="25" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">1</text>
+<text x="343.6" y="310.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="23" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">A⊕B</text>
+<text x="539.7" y="310.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="23" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">A 加 B</text>
+<text x="782.6" y="310.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="23" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">A⊕B</text>
+<text x="1005.7" y="310.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="23" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">A 加 B</text>
+<text x="113.0" y="351.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="25" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">1</text>
+<text x="139.0" y="351.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="25" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">0</text>
+<text x="165.0" y="351.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="25" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">1</text>
+<text x="191.0" y="351.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="25" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">0</text>
+<text x="361.6" y="351.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="23" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">B</text>
+<text x="507.5" y="351.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="23" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">AB</text>
+<text x="533.3" y="351.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="23" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic"> 加 (A+B)</text>
+<text x="800.6" y="351.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="23" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">B</text>
+<text x="973.5" y="351.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="23" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">(A+</text>
+<text x="1012.2" y="351.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="23" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">B</text>
+<text x="1025.1" y="351.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="23" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">) 加 AB</text>
+<text x="113.0" y="391.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="25" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">1</text>
+<text x="139.0" y="391.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="25" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">0</text>
+<text x="165.0" y="391.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="25" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">1</text>
+<text x="191.0" y="391.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="25" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">1</text>
+<text x="348.7" y="391.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="23" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">A+B</text>
+<text x="557.7" y="391.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="23" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">A+B</text>
+<text x="794.1" y="391.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="23" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">AB</text>
+<text x="999.3" y="391.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="23" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">AB 减 1</text>
+<text x="113.0" y="431.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="25" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">1</text>
+<text x="139.0" y="431.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="25" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">1</text>
+<text x="165.0" y="431.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="25" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">0</text>
+<text x="191.0" y="431.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="25" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">0</text>
+<text x="332.1" y="431.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="23" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">逻辑 0</text>
+<text x="535.4" y="431.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="23" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">A 加 A</text>
+<text x="606.9" y="424.1" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15.64" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">*</text>
+<text x="771.1" y="431.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="23" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">逻辑 1</text>
+<text x="1001.4" y="431.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="23" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">A 加 A</text>
+<text x="1072.9" y="424.1" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15.64" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">*</text>
+<text x="113.0" y="471.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="25" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">1</text>
+<text x="139.0" y="471.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="25" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">1</text>
+<text x="165.0" y="471.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="25" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">0</text>
+<text x="191.0" y="471.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="25" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">1</text>
+<text x="355.1" y="471.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="23" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">AB</text>
+<text x="533.3" y="471.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="23" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">AB 加 A</text>
+<text x="787.7" y="471.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="23" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">A+</text>
+<text x="813.4" y="471.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="23" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">B</text>
+<text x="980.0" y="471.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="23" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">(A+B) 加 A</text>
+<text x="113.0" y="512.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="25" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">1</text>
+<text x="139.0" y="512.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="25" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">1</text>
+<text x="165.0" y="512.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="25" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">1</text>
+<text x="191.0" y="512.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="25" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">0</text>
+<text x="355.1" y="512.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="23" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">AB</text>
+<text x="533.3" y="512.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="23" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">AB</text>
+<text x="559.1" y="512.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="23" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic"> 加 A</text>
+<text x="787.7" y="512.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="23" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">A+B</text>
+<text x="980.0" y="512.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="23" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">(A+</text>
+<text x="1018.6" y="512.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="23" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">B</text>
+<text x="1031.5" y="512.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="23" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">) 加 A</text>
+<text x="113.0" y="552.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="25" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">1</text>
+<text x="139.0" y="552.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="25" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">1</text>
+<text x="165.0" y="552.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="25" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">1</text>
+<text x="191.0" y="552.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="25" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">1</text>
+<text x="361.6" y="552.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="23" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">A</text>
+<text x="570.6" y="552.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="23" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">A</text>
+<text x="800.6" y="552.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="23" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">A</text>
+<text x="1005.7" y="552.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="23" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">A 减 1</text>
+<text x="40.0" y="592.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="21" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">① 1=高电平 0=低电平; ② * 表示每一位均移到下一个更高位, 即 A* = 2A</text>
+</svg>

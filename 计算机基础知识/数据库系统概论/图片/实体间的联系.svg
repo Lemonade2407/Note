@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="780" height="400" viewBox="0 0 780 400">
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9.2" refY="5" markerWidth="6.5" markerHeight="6.5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2b2b2b"/></marker></defs>
+<rect x="0" y="0" width="780" height="400" fill="#ffffff"/>
+<g stroke="#2b2b2b" fill="none" stroke-linecap="round" stroke-linejoin="round">
+<rect x="52.0" y="40.0" width="156.0" height="46.0" stroke-width="1.5" fill="#ededed" rx="3"/>
+<rect x="52.0" y="210.0" width="156.0" height="46.0" stroke-width="1.5" fill="#ededed" rx="3"/>
+<line x1="130.0" y1="86.0" x2="130.0" y2="122.0" stroke-width="1.4"/>
+<line x1="130.0" y1="172.0" x2="130.0" y2="210.0" stroke-width="1.4"/>
+<polyline points="130.0,122.0 205.0,147.0 130.0,172.0 55.0,147.0 130.0,122.0" stroke-width="1.5" fill="#ffffff"/>
+<rect x="312.0" y="40.0" width="156.0" height="46.0" stroke-width="1.5" fill="#ededed" rx="3"/>
+<rect x="312.0" y="210.0" width="156.0" height="46.0" stroke-width="1.5" fill="#ededed" rx="3"/>
+<line x1="390.0" y1="86.0" x2="390.0" y2="122.0" stroke-width="1.4"/>
+<line x1="390.0" y1="172.0" x2="390.0" y2="210.0" stroke-width="1.4"/>
+<polyline points="390.0,122.0 465.0,147.0 390.0,172.0 315.0,147.0 390.0,122.0" stroke-width="1.5" fill="#ffffff"/>
+<rect x="572.0" y="40.0" width="156.0" height="46.0" stroke-width="1.5" fill="#ededed" rx="3"/>
+<rect x="572.0" y="210.0" width="156.0" height="46.0" stroke-width="1.5" fill="#ededed" rx="3"/>
+<line x1="650.0" y1="86.0" x2="650.0" y2="122.0" stroke-width="1.4"/>
+<line x1="650.0" y1="172.0" x2="650.0" y2="210.0" stroke-width="1.4"/>
+<polyline points="650.0,122.0 725.0,147.0 650.0,172.0 575.0,147.0 650.0,122.0" stroke-width="1.5" fill="#ffffff"/>
+</g>
+<text x="130.0" y="63.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">实体型A</text>
+<text x="130.0" y="233.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">实体型B</text>
+<text x="130.0" y="147.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">联系名</text>
+<text x="142.0" y="104.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="start" dominant-baseline="central" fill="#2b2b2b" font-style="italic">1</text>
+<text x="142.0" y="196.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="start" dominant-baseline="central" fill="#2b2b2b" font-style="italic">1</text>
+<text x="130.0" y="320.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">(a) 1:1 联系</text>
+<text x="390.0" y="63.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">实体型A</text>
+<text x="390.0" y="233.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">实体型B</text>
+<text x="390.0" y="147.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">联系名</text>
+<text x="402.0" y="104.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="start" dominant-baseline="central" fill="#2b2b2b" font-style="italic">1</text>
+<text x="402.0" y="196.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="start" dominant-baseline="central" fill="#2b2b2b" font-style="italic">n</text>
+<text x="390.0" y="320.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">(b) 1:n 联系</text>
+<text x="650.0" y="63.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">实体型A</text>
+<text x="650.0" y="233.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">实体型B</text>
+<text x="650.0" y="147.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">联系名</text>
+<text x="662.0" y="104.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="start" dominant-baseline="central" fill="#2b2b2b" font-style="italic">m</text>
+<text x="662.0" y="196.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="start" dominant-baseline="central" fill="#2b2b2b" font-style="italic">n</text>
+<text x="650.0" y="320.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">(c) m:n 联系</text>
+<text x="390.0" y="362.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">图 7.6  两个实体型之间的三类联系</text>
+</svg>

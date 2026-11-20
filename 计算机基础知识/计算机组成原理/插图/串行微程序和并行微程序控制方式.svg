@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="448" viewBox="0 0 960 448">
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9.2" refY="5" markerWidth="6.5" markerHeight="6.5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2b2b2b"/></marker></defs>
+<rect x="0" y="0" width="960" height="448" fill="#ffffff"/>
+<g stroke="#2b2b2b" fill="none" stroke-linecap="round" stroke-linejoin="round">
+<line x1="61.0" y1="47.0" x2="455.0" y2="47.0" stroke-width="1.4"/>
+<line x1="463.0" y1="47.0" x2="855.0" y2="47.0" stroke-width="1.4"/>
+<polyline points="69.0,42.0 61.0,47.0 69.0,52.0" stroke-width="1.4" fill="none"/>
+<polyline points="447.0,42.0 455.0,47.0 447.0,52.0" stroke-width="1.4" fill="none"/>
+<polyline points="471.0,42.0 463.0,47.0 471.0,52.0" stroke-width="1.4" fill="none"/>
+<polyline points="847.0,42.0 855.0,47.0 847.0,52.0" stroke-width="1.4" fill="none"/>
+<line x1="459.0" y1="35.0" x2="459.0" y2="57.0" stroke-width="1.3"/>
+<rect x="61.0" y="82.0" width="794.0" height="39.0" stroke-width="1.5" fill="#ffffff"/>
+<line x1="258.0" y1="82.0" x2="258.0" y2="121.0" stroke-width="1.4"/>
+<line x1="459.0" y1="82.0" x2="459.0" y2="121.0" stroke-width="1.4"/>
+<line x1="657.0" y1="82.0" x2="657.0" y2="121.0" stroke-width="1.4"/>
+<rect x="60.0" y="220.0" width="399.0" height="38.0" stroke-width="1.5" fill="#ffffff"/>
+<line x1="258.0" y1="220.0" x2="258.0" y2="258.0" stroke-width="1.4"/>
+<rect x="258.0" y="258.0" width="399.0" height="38.0" stroke-width="1.5" fill="#ffffff"/>
+<line x1="459.0" y1="258.0" x2="459.0" y2="296.0" stroke-width="1.4"/>
+<rect x="459.0" y="296.0" width="396.0" height="38.0" stroke-width="1.5" fill="#ffffff"/>
+<line x1="657.0" y1="296.0" x2="657.0" y2="334.0" stroke-width="1.4"/>
+</g>
+<text x="258.0" y="30.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">第 i 条微指令周期</text>
+<text x="657.0" y="30.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">第 i+1 条微指令周期</text>
+<text x="159.5" y="101.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">取第 i 条微指令</text>
+<text x="358.5" y="101.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">执行第 i 条微指令</text>
+<text x="558.0" y="101.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">取第 i+1 条微指令</text>
+<text x="756.0" y="101.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">执行第 i+1 条微指令</text>
+<text x="420.0" y="152.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">（a） 串行操作</text>
+<text x="159.0" y="239.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">取第 i 条微指令</text>
+<text x="358.5" y="239.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">执行第 i 条微指令</text>
+<text x="358.5" y="277.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">取第 i+1 条微指令</text>
+<text x="558.0" y="277.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">执行第 i+1 条微指令</text>
+<text x="558.0" y="315.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">取第 i+2 条微指令</text>
+<text x="756.0" y="315.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">执行第 i+2 条微指令</text>
+<text x="430.0" y="366.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">（b） 并行操作</text>
+<text x="470.0" y="420.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">图 10.15  串行微程序和并行微程序控制方式</text>
+</svg>

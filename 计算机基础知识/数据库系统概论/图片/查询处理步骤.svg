@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="620" viewBox="0 0 640 620">
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9.2" refY="5" markerWidth="6.5" markerHeight="6.5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2b2b2b"/></marker></defs>
+<rect x="0" y="0" width="640" height="620" fill="#ffffff"/>
+<g stroke="#2b2b2b" fill="none" stroke-linecap="round" stroke-linejoin="round">
+<rect x="210.0" y="26.0" width="140.0" height="30.0" stroke-width="1.5" fill="#ededed" rx="3"/>
+<rect x="190.0" y="76.0" width="180.0" height="56.0" stroke-width="1.5" fill="#ededed" rx="3"/>
+<rect x="190.0" y="156.0" width="180.0" height="96.0" stroke-width="1.5" fill="#ededed" rx="3"/>
+<rect x="190.0" y="276.0" width="180.0" height="34.0" stroke-width="1.5" fill="#ededed" rx="3"/>
+<rect x="190.0" y="330.0" width="180.0" height="56.0" stroke-width="1.5" fill="#ededed" rx="3"/>
+<rect x="190.0" y="410.0" width="180.0" height="34.0" stroke-width="1.5" fill="#ededed" rx="3"/>
+<rect x="210.0" y="486.0" width="140.0" height="30.0" stroke-width="1.5" fill="#ededed" rx="3"/>
+<rect x="190.0" y="538.0" width="180.0" height="34.0" stroke-width="1.5" fill="#ededed" rx="3"/>
+<line x1="280.0" y1="56.0" x2="280.0" y2="76.0" stroke-width="1.5" marker-end="url(#ah)"/>
+<line x1="280.0" y1="132.0" x2="280.0" y2="156.0" stroke-width="1.5" marker-end="url(#ah)"/>
+<line x1="280.0" y1="252.0" x2="280.0" y2="276.0" stroke-width="1.5" marker-end="url(#ah)"/>
+<line x1="280.0" y1="310.0" x2="280.0" y2="330.0" stroke-width="1.5" marker-end="url(#ah)"/>
+<line x1="280.0" y1="386.0" x2="280.0" y2="410.0" stroke-width="1.5" marker-end="url(#ah)"/>
+<line x1="280.0" y1="444.0" x2="280.0" y2="486.0" stroke-width="1.5" marker-end="url(#ah)"/>
+<line x1="280.0" y1="516.0" x2="280.0" y2="538.0" stroke-width="1.5" marker-end="url(#ah)"/>
+<rect x="470.0" y="204.0" width="130.0" height="122.0" stroke-width="1.4" fill="#f7f7f7"/>
+<ellipse cx="535.0" cy="204.0" rx="65.0" ry="14.0" stroke-width="1.4" fill="#f7f7f7"/>
+<ellipse cx="535.0" cy="326.0" rx="65.0" ry="14.0" stroke-width="1.4" fill="none"/>
+<line x1="470.0" y1="204.0" x2="470.0" y2="326.0" stroke-width="1.4"/>
+<line x1="600.0" y1="204.0" x2="600.0" y2="326.0" stroke-width="1.4"/>
+<line x1="470.0" y1="300.0" x2="370.0" y2="200.0" stroke-width="1.4" marker-end="url(#ah)"/>
+<line x1="470.0" y1="250.0" x2="370.0" y2="358.0" stroke-width="1.4" marker-end="url(#ah)"/>
+</g>
+<text x="280.0" y="41.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">查询语句</text>
+<text x="280.0" y="93.2" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">词法分析</text>
+<text x="280.0" y="114.8" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">语法分析</text>
+<text x="280.0" y="174.8" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">语义分析</text>
+<text x="280.0" y="194.2" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">符号名转换</text>
+<text x="280.0" y="213.8" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">安全性检查</text>
+<text x="280.0" y="233.2" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">完整性初步检查</text>
+<text x="280.0" y="293.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">查询树(query tree)</text>
+<text x="280.0" y="347.2" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">代数优化</text>
+<text x="280.0" y="368.8" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">物理优化等</text>
+<text x="280.0" y="427.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">查询执行计划</text>
+<text x="280.0" y="501.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">代码生成</text>
+<text x="280.0" y="555.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="14" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">查询计划的执行代码</text>
+<text x="535.0" y="250.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">数据库</text>
+<text x="535.0" y="274.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">数据字典</text>
+<text x="40.0" y="90.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">查询分析</text>
+<text x="40.0" y="204.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">查询检查</text>
+<text x="40.0" y="358.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">查询优化</text>
+<text x="40.0" y="503.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">查询执行</text>
+<text x="300.0" y="590.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">图 9.1  查询处理步骤</text>
+</svg>

@@ -1,0 +1,116 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1863" height="947" viewBox="0 0 1863 947">
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9.2" refY="5" markerWidth="6.5" markerHeight="6.5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2b2b2b"/></marker></defs>
+<rect x="0" y="0" width="1863" height="947" fill="#ffffff"/>
+<g stroke="#2b2b2b" fill="none" stroke-linecap="round" stroke-linejoin="round">
+<line x1="903.0" y1="107.0" x2="612.0" y2="214.0" stroke-width="2.6"/>
+<line x1="903.0" y1="107.0" x2="612.0" y2="214.0" stroke-width="2.6" marker-end="url(#ah)"/>
+<line x1="903.0" y1="107.0" x2="903.0" y2="214.0" stroke-width="2.6"/>
+<line x1="903.0" y1="107.0" x2="903.0" y2="214.0" stroke-width="2.6" marker-end="url(#ah)"/>
+<line x1="903.0" y1="107.0" x2="1197.0" y2="214.0" stroke-width="2.6"/>
+<line x1="903.0" y1="107.0" x2="1197.0" y2="214.0" stroke-width="2.6" marker-end="url(#ah)"/>
+<line x1="612.0" y1="274.0" x2="522.0" y2="381.0" stroke-width="2.6"/>
+<line x1="612.0" y1="274.0" x2="522.0" y2="381.0" stroke-width="2.6" marker-end="url(#ah)"/>
+<line x1="612.0" y1="274.0" x2="703.0" y2="381.0" stroke-width="2.6"/>
+<line x1="612.0" y1="274.0" x2="703.0" y2="381.0" stroke-width="2.6" marker-end="url(#ah)"/>
+<line x1="903.0" y1="274.0" x2="903.0" y2="381.0" stroke-width="2.6"/>
+<line x1="903.0" y1="274.0" x2="903.0" y2="381.0" stroke-width="2.6" marker-end="url(#ah)"/>
+<line x1="1197.0" y1="274.0" x2="1106.0" y2="381.0" stroke-width="2.6"/>
+<line x1="1197.0" y1="274.0" x2="1106.0" y2="381.0" stroke-width="2.6" marker-end="url(#ah)"/>
+<line x1="1197.0" y1="274.0" x2="1287.0" y2="381.0" stroke-width="2.6"/>
+<line x1="1197.0" y1="274.0" x2="1287.0" y2="381.0" stroke-width="2.6" marker-end="url(#ah)"/>
+<line x1="522.0" y1="441.0" x2="429.0" y2="548.0" stroke-width="2.6"/>
+<line x1="522.0" y1="441.0" x2="429.0" y2="548.0" stroke-width="2.6" marker-end="url(#ah)"/>
+<line x1="522.0" y1="441.0" x2="612.0" y2="548.0" stroke-width="2.6"/>
+<line x1="522.0" y1="441.0" x2="612.0" y2="548.0" stroke-width="2.6" marker-end="url(#ah)"/>
+<line x1="703.0" y1="441.0" x2="612.0" y2="548.0" stroke-width="2.6"/>
+<line x1="703.0" y1="441.0" x2="612.0" y2="548.0" stroke-width="2.6" marker-end="url(#ah)"/>
+<line x1="703.0" y1="441.0" x2="793.0" y2="548.0" stroke-width="2.6"/>
+<line x1="703.0" y1="441.0" x2="793.0" y2="548.0" stroke-width="2.6" marker-end="url(#ah)"/>
+<line x1="1287.0" y1="441.0" x2="1104.0" y2="548.0" stroke-width="2.6"/>
+<line x1="1287.0" y1="441.0" x2="1104.0" y2="548.0" stroke-width="2.6" marker-end="url(#ah)"/>
+<line x1="1287.0" y1="441.0" x2="1241.0" y2="548.0" stroke-width="2.6"/>
+<line x1="1287.0" y1="441.0" x2="1241.0" y2="548.0" stroke-width="2.6" marker-end="url(#ah)"/>
+<line x1="1287.0" y1="441.0" x2="1378.0" y2="548.0" stroke-width="2.6"/>
+<line x1="1287.0" y1="441.0" x2="1378.0" y2="548.0" stroke-width="2.6" marker-end="url(#ah)"/>
+<line x1="1287.0" y1="441.0" x2="1514.0" y2="548.0" stroke-width="2.6"/>
+<line x1="1287.0" y1="441.0" x2="1514.0" y2="548.0" stroke-width="2.6" marker-end="url(#ah)"/>
+<line x1="429.0" y1="608.0" x2="612.0" y2="717.0" stroke-width="2.6"/>
+<line x1="429.0" y1="608.0" x2="612.0" y2="717.0" stroke-width="2.6" marker-end="url(#ah)"/>
+<line x1="612.0" y1="608.0" x2="612.0" y2="717.0" stroke-width="2.6"/>
+<line x1="612.0" y1="608.0" x2="612.0" y2="717.0" stroke-width="2.6" marker-end="url(#ah)"/>
+<line x1="793.0" y1="608.0" x2="612.0" y2="717.0" stroke-width="2.6"/>
+<line x1="793.0" y1="608.0" x2="612.0" y2="717.0" stroke-width="2.6" marker-end="url(#ah)"/>
+<line x1="793.0" y1="608.0" x2="792.0" y2="717.0" stroke-width="2.6"/>
+<line x1="793.0" y1="608.0" x2="792.0" y2="717.0" stroke-width="2.6" marker-end="url(#ah)"/>
+<line x1="1104.0" y1="608.0" x2="1310.0" y2="717.0" stroke-width="2.6"/>
+<line x1="1104.0" y1="608.0" x2="1310.0" y2="717.0" stroke-width="2.6" marker-end="url(#ah)"/>
+<line x1="1241.0" y1="608.0" x2="1310.0" y2="717.0" stroke-width="2.6"/>
+<line x1="1241.0" y1="608.0" x2="1310.0" y2="717.0" stroke-width="2.6" marker-end="url(#ah)"/>
+<line x1="1378.0" y1="608.0" x2="1310.0" y2="717.0" stroke-width="2.6"/>
+<line x1="1378.0" y1="608.0" x2="1310.0" y2="717.0" stroke-width="2.6" marker-end="url(#ah)"/>
+<line x1="1514.0" y1="608.0" x2="1310.0" y2="717.0" stroke-width="2.6"/>
+<line x1="1514.0" y1="608.0" x2="1310.0" y2="717.0" stroke-width="2.6" marker-end="url(#ah)"/>
+<rect x="856.0" y="47.0" width="94.0" height="60.0" stroke-width="2.6" fill="#ffffff"/>
+<rect x="565.0" y="214.0" width="94.0" height="60.0" stroke-width="2.6" fill="#ffffff"/>
+<rect x="856.0" y="214.0" width="94.0" height="60.0" stroke-width="2.6" fill="#ffffff"/>
+<rect x="1150.0" y="214.0" width="94.0" height="60.0" stroke-width="2.6" fill="#ffffff"/>
+<rect x="475.0" y="381.0" width="94.0" height="60.0" stroke-width="2.6" fill="#ffffff"/>
+<rect x="656.0" y="381.0" width="94.0" height="60.0" stroke-width="2.6" fill="#ffffff"/>
+<rect x="856.0" y="381.0" width="94.0" height="60.0" stroke-width="2.6" fill="#ffffff"/>
+<rect x="1059.0" y="381.0" width="94.0" height="60.0" stroke-width="2.6" fill="#ffffff"/>
+<rect x="1240.0" y="381.0" width="94.0" height="60.0" stroke-width="2.6" fill="#ffffff"/>
+<rect x="382.0" y="548.0" width="94.0" height="60.0" stroke-width="2.6" fill="#ffffff"/>
+<rect x="565.0" y="548.0" width="94.0" height="60.0" stroke-width="2.6" fill="#ffffff"/>
+<rect x="746.0" y="548.0" width="94.0" height="60.0" stroke-width="2.6" fill="#ffffff"/>
+<rect x="1057.0" y="548.0" width="94.0" height="60.0" stroke-width="2.6" fill="#ffffff"/>
+<rect x="1194.0" y="548.0" width="94.0" height="60.0" stroke-width="2.6" fill="#ffffff"/>
+<rect x="1331.0" y="548.0" width="94.0" height="60.0" stroke-width="2.6" fill="#ffffff"/>
+<rect x="1467.0" y="548.0" width="94.0" height="60.0" stroke-width="2.6" fill="#ffffff"/>
+<rect x="565.0" y="717.0" width="94.0" height="60.0" stroke-width="2.6" fill="#ffffff"/>
+<rect x="745.0" y="717.0" width="94.0" height="60.0" stroke-width="2.6" fill="#ffffff"/>
+<rect x="1263.0" y="717.0" width="94.0" height="60.0" stroke-width="2.6" fill="#ffffff"/>
+<polyline points="790.0,155.0 787.4,154.8 784.9,154.1 782.5,153.0 780.4,151.5 778.5,149.6 777.0,147.5 775.9,145.1 775.2,142.6 775.0,140.0 775.2,137.4 775.9,134.9 777.0,132.5 778.5,130.4 780.4,128.5 782.5,127.0 784.9,125.9 787.4,125.2 790.0,125.0" stroke-width="2.6" fill="none"/>
+<polyline points="1037.0,125.0 1039.6,125.2 1042.1,125.9 1044.5,127.0 1046.6,128.5 1048.5,130.4 1050.0,132.5 1051.1,134.9 1051.8,137.4 1052.0,140.0 1051.8,142.6 1051.1,145.1 1050.0,147.5 1048.5,149.6 1046.6,151.5 1044.5,153.0 1042.1,154.1 1039.6,154.8 1037.0,155.0" stroke-width="2.6" fill="none"/>
+<line x1="790.0" y1="155.0" x2="1037.0" y2="155.0" stroke-width="2.6"/>
+<line x1="1052.0" y1="140.0" x2="1352.0" y2="152.0" stroke-width="2.6"/>
+<polyline points="1186.0,685.0 1183.4,684.8 1180.9,684.1 1178.5,683.0 1176.4,681.5 1174.5,679.6 1173.0,677.5 1171.9,675.1 1171.2,672.6 1171.0,670.0 1171.2,667.4 1171.9,664.9 1173.0,662.5 1174.5,660.4 1176.4,658.5 1178.5,657.0 1180.9,655.9 1183.4,655.2 1186.0,655.0" stroke-width="2.6" fill="none"/>
+<polyline points="1419.0,655.0 1421.6,655.2 1424.1,655.9 1426.5,657.0 1428.6,658.5 1430.5,660.4 1432.0,662.5 1433.1,664.9 1433.8,667.4 1434.0,670.0 1433.8,672.6 1433.1,675.1 1432.0,677.5 1430.5,679.6 1428.6,681.5 1426.5,683.0 1424.1,684.1 1421.6,684.8 1419.0,685.0" stroke-width="2.6" fill="none"/>
+<line x1="1186.0" y1="685.0" x2="1419.0" y2="685.0" stroke-width="2.6"/>
+<line x1="1434.0" y1="672.0" x2="1630.0" y2="704.0" stroke-width="2.6"/>
+<line x1="186.0" y1="48.0" x2="186.0" y2="786.0" stroke-width="2.6" marker-end="url(#ah)"/>
+<line x1="186.0" y1="786.0" x2="186.0" y2="48.0" stroke-width="2.6" marker-end="url(#ah)"/>
+<line x1="161.0" y1="48.0" x2="210.0" y2="48.0" stroke-width="2.6"/>
+<line x1="161.0" y1="786.0" x2="210.0" y2="786.0" stroke-width="2.6"/>
+<line x1="383.0" y1="861.0" x2="1552.0" y2="861.0" stroke-width="2.6" marker-end="url(#ah)"/>
+<line x1="1552.0" y1="861.0" x2="383.0" y2="861.0" stroke-width="2.6" marker-end="url(#ah)"/>
+<line x1="383.0" y1="834.0" x2="383.0" y2="887.0" stroke-width="2.6"/>
+<line x1="1552.0" y1="834.0" x2="1552.0" y2="887.0" stroke-width="2.6"/>
+<polyline points="342.0,96.0 331.4,146.5 322.5,197.0 315.4,247.5 310.0,298.0 306.4,348.5 304.5,399.0 304.4,449.5 306.0,500.0 270.0,500.0 309.0,614.0 362.0,500.0 326.0,500.0 324.4,449.5 324.5,399.0 326.4,348.5 330.0,298.0 335.4,247.5 342.5,197.0 351.4,146.5 362.0,96.0 342.0,96.0" stroke-width="2.6" fill="#ffffff"/>
+<polyline points="1662.0,604.0 1670.2,562.0 1677.0,520.0 1682.2,478.0 1686.0,436.0 1688.2,394.0 1689.0,352.0 1688.2,310.0 1686.0,268.0 1650.0,268.0 1694.0,152.0 1742.0,268.0 1706.0,268.0 1708.2,310.0 1709.0,352.0 1708.2,394.0 1706.0,436.0 1702.2,478.0 1697.0,520.0 1690.2,562.0 1682.0,604.0 1662.0,604.0" stroke-width="2.6" fill="#ffffff"/>
+</g>
+<text x="903.0" y="77.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="42" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">M</text>
+<text x="612.0" y="244.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="42" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">A</text>
+<text x="903.0" y="244.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="42" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">B</text>
+<text x="1197.0" y="244.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="42" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">C</text>
+<text x="522.0" y="411.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="42" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">D</text>
+<text x="703.0" y="411.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="42" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">E</text>
+<text x="903.0" y="411.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="42" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">K</text>
+<text x="1106.0" y="411.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="42" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">L</text>
+<text x="1287.0" y="411.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="42" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">N</text>
+<text x="429.0" y="578.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="42" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">F</text>
+<text x="612.0" y="578.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="42" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">G</text>
+<text x="793.0" y="578.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="42" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">H</text>
+<text x="1104.0" y="578.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="42" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">P</text>
+<text x="1241.0" y="578.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="42" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">Q</text>
+<text x="1378.0" y="578.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="42" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">R</text>
+<text x="1514.0" y="578.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="42" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">S</text>
+<text x="612.0" y="747.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="42" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">I</text>
+<text x="792.0" y="747.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="42" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">J</text>
+<text x="1310.0" y="747.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="42" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">T</text>
+<text x="1362.0" y="150.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="32" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">扇出</text>
+<text x="1640.0" y="706.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="32" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">扇入</text>
+<text x="905.0" y="826.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="32" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">宽度</text>
+<text x="150.0" y="400.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="32" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b" transform="rotate(90 150.0 400.0)">深度</text>
+<text x="390.0" y="348.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="32" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b" transform="rotate(90 390.0 348.0)">主宰</text>
+<text x="1782.0" y="430.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="32" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b" transform="rotate(90 1782.0 430.0)">从属</text>
+</svg>

@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1769" height="1212" viewBox="0 0 1769 1212">
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9.2" refY="5" markerWidth="6.5" markerHeight="6.5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2b2b2b"/></marker></defs>
+<rect x="0" y="0" width="1769" height="1212" fill="#ffffff"/>
+<g stroke="#2b2b2b" fill="none" stroke-linecap="round" stroke-linejoin="round">
+<rect x="525.0" y="459.0" width="600.0" height="301.0" stroke-width="3" fill="#ffffff"/>
+<rect x="614.0" y="113.0" width="151.0" height="142.0" stroke-width="3" fill="#ffffff"/>
+<rect x="884.0" y="113.0" width="151.0" height="142.0" stroke-width="3" fill="#ffffff"/>
+<rect x="614.0" y="963.0" width="151.0" height="143.0" stroke-width="3" fill="#ffffff"/>
+<rect x="884.0" y="963.0" width="151.0" height="143.0" stroke-width="3" fill="#ffffff"/>
+<rect x="119.0" y="499.0" width="152.0" height="72.0" stroke-width="3" fill="#ffffff"/>
+<rect x="119.0" y="639.0" width="152.0" height="89.0" stroke-width="3" fill="#ffffff"/>
+<rect x="1363.0" y="499.0" width="242.0" height="72.0" stroke-width="3" fill="#ffffff"/>
+<rect x="1363.0" y="632.0" width="242.0" height="72.0" stroke-width="3" fill="#ffffff"/>
+<rect x="614.0" y="441.0" width="151.0" height="39.0" stroke-width="2.6" fill="#d9d9d9"/>
+<rect x="884.0" y="441.0" width="151.0" height="39.0" stroke-width="2.6" fill="#d9d9d9"/>
+<rect x="614.0" y="736.0" width="151.0" height="39.0" stroke-width="2.6" fill="#d9d9d9"/>
+<rect x="884.0" y="736.0" width="151.0" height="39.0" stroke-width="2.6" fill="#d9d9d9"/>
+<rect x="513.0" y="496.0" width="28.0" height="77.0" stroke-width="2.6" fill="#d9d9d9"/>
+<rect x="513.0" y="646.0" width="28.0" height="77.0" stroke-width="2.6" fill="#d9d9d9"/>
+<rect x="1113.0" y="496.0" width="27.0" height="77.0" stroke-width="2.6" fill="#d9d9d9"/>
+<rect x="1113.0" y="630.0" width="27.0" height="77.0" stroke-width="2.6" fill="#d9d9d9"/>
+<line x1="689.0" y1="255.0" x2="689.0" y2="441.0" stroke-width="2.8" marker-end="url(#ah)"/>
+<line x1="959.0" y1="255.0" x2="959.0" y2="441.0" stroke-width="2.8" marker-end="url(#ah)"/>
+<line x1="689.0" y1="775.0" x2="689.0" y2="963.0" stroke-width="2.8" marker-end="url(#ah)"/>
+<line x1="959.0" y1="775.0" x2="959.0" y2="963.0" stroke-width="2.8" marker-end="url(#ah)"/>
+<line x1="271.0" y1="535.0" x2="513.0" y2="535.0" stroke-width="2.8" marker-end="url(#ah)"/>
+<line x1="513.0" y1="535.0" x2="271.0" y2="535.0" stroke-width="2.8" marker-end="url(#ah)"/>
+<line x1="271.0" y1="684.0" x2="513.0" y2="684.0" stroke-width="2.8" marker-end="url(#ah)"/>
+<line x1="513.0" y1="684.0" x2="271.0" y2="684.0" stroke-width="2.8" marker-end="url(#ah)"/>
+<line x1="1140.0" y1="535.0" x2="1363.0" y2="535.0" stroke-width="2.8" marker-end="url(#ah)"/>
+<line x1="1363.0" y1="535.0" x2="1140.0" y2="535.0" stroke-width="2.8" marker-end="url(#ah)"/>
+<line x1="1140.0" y1="669.0" x2="1363.0" y2="669.0" stroke-width="2.8" marker-end="url(#ah)"/>
+<line x1="1363.0" y1="669.0" x2="1140.0" y2="669.0" stroke-width="2.8" marker-end="url(#ah)"/>
+<polyline points="1035.0,441.0 1183.0,236.0 1259.0,236.0" stroke-width="2.6" fill="none"/>
+</g>
+<text x="825.0" y="600.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="46" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">目标系统</text>
+<text x="689.0" y="157.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="46" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">上级</text>
+<text x="689.0" y="213.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="46" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">系统</text>
+<text x="959.0" y="157.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="46" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">上级</text>
+<text x="959.0" y="213.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="46" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">系统</text>
+<text x="689.0" y="1008.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="46" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">下级</text>
+<text x="689.0" y="1064.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="46" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">系统</text>
+<text x="959.0" y="1008.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="46" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">下级</text>
+<text x="959.0" y="1064.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="46" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">系统</text>
+<text x="195.0" y="535.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="46" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">人</text>
+<text x="195.0" y="684.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="46" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">硬件</text>
+<text x="1484.0" y="535.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="46" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">同级系统</text>
+<text x="1484.0" y="668.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="46" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">同级系统</text>
+<text x="568.0" y="340.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="44" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">调用</text>
+<text x="352.0" y="505.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="44" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">使用</text>
+<text x="1245.0" y="505.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="44" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">使用</text>
+<text x="1024.0" y="822.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="44" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">调用</text>
+<text x="1315.0" y="236.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="44" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">接口</text>
+</svg>

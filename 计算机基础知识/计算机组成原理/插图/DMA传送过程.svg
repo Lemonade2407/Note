@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="669" height="706" viewBox="0 0 669 706">
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9.2" refY="5" markerWidth="6.5" markerHeight="6.5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2b2b2b"/></marker></defs>
+<rect x="0" y="0" width="669" height="706" fill="#ffffff"/>
+<g stroke="#2b2b2b" fill="none" stroke-linecap="round" stroke-linejoin="round">
+<rect x="57.0" y="76.0" width="250.0" height="145.0" stroke-width="1.5" fill="#ffffff"/>
+<rect x="57.0" y="254.0" width="250.0" height="87.0" stroke-width="1.5" fill="#ffffff"/>
+<rect x="57.0" y="374.0" width="250.0" height="88.0" stroke-width="1.5" fill="#ffffff"/>
+<rect x="58.0" y="495.0" width="249.0" height="36.0" stroke-width="1.5" fill="#ffffff"/>
+<line x1="182.0" y1="221.0" x2="182.0" y2="254.0" stroke-width="1.4" marker-end="url(#ah)"/>
+<line x1="182.0" y1="341.0" x2="182.0" y2="374.0" stroke-width="1.4" marker-end="url(#ah)"/>
+<line x1="182.0" y1="462.0" x2="182.0" y2="495.0" stroke-width="1.4" marker-end="url(#ah)"/>
+<line x1="472.0" y1="50.0" x2="472.0" y2="101.0" stroke-width="1.4" marker-end="url(#ah)"/>
+<polyline points="472.0,102.0 562.0,152.0 472.0,202.0 382.0,152.0 472.0,102.0" stroke-width="1.5" fill="#ffffff"/>
+<line x1="472.0" y1="202.0" x2="472.0" y2="240.0" stroke-width="1.4" marker-end="url(#ah)"/>
+<rect x="353.0" y="240.0" width="247.0" height="118.0" stroke-width="1.5" fill="#ffffff"/>
+<polyline points="472.0,396.0 562.0,446.0 472.0,496.0 382.0,446.0 472.0,396.0" stroke-width="1.5" fill="#ffffff"/>
+<line x1="472.0" y1="496.0" x2="472.0" y2="533.0" stroke-width="1.4" marker-end="url(#ah)"/>
+<rect x="395.0" y="533.0" width="157.0" height="60.0" stroke-width="1.5" fill="#ffffff"/>
+<polyline points="382.0,152.0 330.0,152.0 330.0,68.0 472.0,68.0 472.0,102.0" stroke-width="1.4" fill="none"/>
+<line x1="472.0" y1="80.0" x2="472.0" y2="102.0" stroke-width="1.4" marker-end="url(#ah)"/>
+<polyline points="382.0,446.0 330.0,446.0 330.0,68.0" stroke-width="1.4" fill="none"/>
+</g>
+<text x="180.0" y="58.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="18" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">CPU</text>
+<text x="69.0" y="102.1" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">预处理：</text>
+<text x="69.0" y="125.3" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">主存起始地址→DMA</text>
+<text x="69.0" y="148.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">设备地址→DMA</text>
+<text x="69.0" y="171.7" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">传送数据个数→DMA</text>
+<text x="69.0" y="194.9" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">启动设备</text>
+<text x="69.0" y="274.3" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">数据传送：</text>
+<text x="69.0" y="297.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">继续执行主程序</text>
+<text x="69.0" y="320.7" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">同时完成一批数据的传送</text>
+<text x="69.0" y="394.8" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">后处理：</text>
+<text x="69.0" y="418.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">中断服务程序</text>
+<text x="69.0" y="441.2" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">做 DMA 结束处理</text>
+<text x="182.5" y="513.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">继续执行主程序</text>
+<text x="420.0" y="40.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">DMA 请求</text>
+<text x="472.0" y="152.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">允许传送?</text>
+<text x="492.0" y="218.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">Y</text>
+<text x="365.0" y="266.4" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">主存地址送总线</text>
+<text x="365.0" y="288.1" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">数据送 I/O 设备(或主存)</text>
+<text x="365.0" y="309.9" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">修改主存地址</text>
+<text x="365.0" y="331.6" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">修改字计数器</text>
+<text x="472.0" y="434.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">数据块</text>
+<text x="472.0" y="458.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">传送结束?</text>
+<text x="492.0" y="512.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">Y</text>
+<text x="407.0" y="552.1" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">向 CPU 申请</text>
+<text x="407.0" y="573.9" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">程序中断</text>
+<text x="348.0" y="142.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">N</text>
+<text x="348.0" y="436.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">N</text>
+<text x="190.0" y="622.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">(a)  DMA 传送过程</text>
+<text x="490.0" y="622.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">(b)  数据传送阶段的细化</text>
+<text x="350.0" y="672.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="19" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">图 5.48   DMA 传送过程示意图</text>
+</svg>

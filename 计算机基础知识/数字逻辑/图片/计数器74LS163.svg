@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="390" height="500" viewBox="0 0 390 500">
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9.2" refY="5" markerWidth="6.5" markerHeight="6.5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2b2b2b"/></marker></defs>
+<rect x="0" y="0" width="390" height="500" fill="#ffffff"/>
+<g stroke="#2b2b2b" fill="none" stroke-linecap="round" stroke-linejoin="round">
+<rect x="105.0" y="40.0" width="180.0" height="420.0" stroke-width="1.5" fill="#f4f6f8"/>
+<line x1="75.0" y1="80.0" x2="105.0" y2="80.0" stroke-width="1.3"/>
+<circle cx="100.0" cy="125.0" r="5.0" stroke-width="1.3" fill="none"/>
+<line x1="75.0" y1="125.0" x2="95.0" y2="125.0" stroke-width="1.3"/>
+<circle cx="100.0" cy="165.0" r="5.0" stroke-width="1.3" fill="none"/>
+<line x1="75.0" y1="165.0" x2="95.0" y2="165.0" stroke-width="1.3"/>
+<line x1="75.0" y1="215.0" x2="105.0" y2="215.0" stroke-width="1.3"/>
+<line x1="75.0" y1="255.0" x2="105.0" y2="255.0" stroke-width="1.3"/>
+<line x1="75.0" y1="310.0" x2="105.0" y2="310.0" stroke-width="1.3"/>
+<line x1="75.0" y1="345.0" x2="105.0" y2="345.0" stroke-width="1.3"/>
+<line x1="75.0" y1="380.0" x2="105.0" y2="380.0" stroke-width="1.3"/>
+<line x1="75.0" y1="415.0" x2="105.0" y2="415.0" stroke-width="1.3"/>
+<line x1="285.0" y1="140.0" x2="315.0" y2="140.0" stroke-width="1.3"/>
+<line x1="285.0" y1="185.0" x2="315.0" y2="185.0" stroke-width="1.3"/>
+<line x1="285.0" y1="230.0" x2="315.0" y2="230.0" stroke-width="1.3"/>
+<line x1="285.0" y1="275.0" x2="315.0" y2="275.0" stroke-width="1.3"/>
+<line x1="285.0" y1="420.0" x2="315.0" y2="420.0" stroke-width="1.3"/>
+</g>
+<text x="195.0" y="250.0" font-family="SimSun, 'Microsoft YaHei', serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b" font-weight="bold">74LS163</text>
+<text x="117.0" y="80.0" font-family="SimSun, 'Microsoft YaHei', serif" font-size="15" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">CLK</text>
+<text x="117.0" y="125.0" font-family="SimSun, 'Microsoft YaHei', serif" font-size="15" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">CLR</text>
+<text x="117.0" y="165.0" font-family="SimSun, 'Microsoft YaHei', serif" font-size="15" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">LD</text>
+<text x="117.0" y="215.0" font-family="SimSun, 'Microsoft YaHei', serif" font-size="15" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">ENT</text>
+<text x="117.0" y="255.0" font-family="SimSun, 'Microsoft YaHei', serif" font-size="15" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">ENP</text>
+<text x="117.0" y="310.0" font-family="SimSun, 'Microsoft YaHei', serif" font-size="15" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">A</text>
+<text x="117.0" y="345.0" font-family="SimSun, 'Microsoft YaHei', serif" font-size="15" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">B</text>
+<text x="117.0" y="380.0" font-family="SimSun, 'Microsoft YaHei', serif" font-size="15" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">C</text>
+<text x="117.0" y="415.0" font-family="SimSun, 'Microsoft YaHei', serif" font-size="15" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">D</text>
+<text x="273.0" y="140.0" font-family="SimSun, 'Microsoft YaHei', serif" font-size="15" text-anchor="end" dominant-baseline="central" fill="#2b2b2b">QA</text>
+<text x="273.0" y="185.0" font-family="SimSun, 'Microsoft YaHei', serif" font-size="15" text-anchor="end" dominant-baseline="central" fill="#2b2b2b">QB</text>
+<text x="273.0" y="230.0" font-family="SimSun, 'Microsoft YaHei', serif" font-size="15" text-anchor="end" dominant-baseline="central" fill="#2b2b2b">QC</text>
+<text x="273.0" y="275.0" font-family="SimSun, 'Microsoft YaHei', serif" font-size="15" text-anchor="end" dominant-baseline="central" fill="#2b2b2b">QD</text>
+<text x="273.0" y="420.0" font-family="SimSun, 'Microsoft YaHei', serif" font-size="15" text-anchor="end" dominant-baseline="central" fill="#2b2b2b">RCO</text>
+</svg>

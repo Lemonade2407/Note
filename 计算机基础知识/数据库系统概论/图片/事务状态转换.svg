@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="400" viewBox="0 0 720 400">
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9.2" refY="5" markerWidth="6.5" markerHeight="6.5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2b2b2b"/></marker></defs>
+<rect x="0" y="0" width="720" height="400" fill="#ffffff"/>
+<g stroke="#2b2b2b" fill="none" stroke-linecap="round" stroke-linejoin="round">
+<ellipse cx="110.0" cy="110.0" rx="66.0" ry="34.0" stroke-width="1.4" fill="#f7f7f7"/>
+<ellipse cx="330.0" cy="60.0" rx="66.0" ry="32.0" stroke-width="1.4" fill="#f7f7f7"/>
+<ellipse cx="330.0" cy="190.0" rx="66.0" ry="32.0" stroke-width="1.4" fill="#f7f7f7"/>
+<ellipse cx="560.0" cy="50.0" rx="66.0" ry="32.0" stroke-width="1.4" fill="#f7f7f7"/>
+<ellipse cx="560.0" cy="200.0" rx="66.0" ry="32.0" stroke-width="1.4" fill="#f7f7f7"/>
+<line x1="176.0" y1="106.0" x2="262.0" y2="70.0" stroke-width="1.4" marker-end="url(#ah)"/>
+<line x1="120.0" y1="144.0" x2="268.0" y2="180.0" stroke-width="1.4" marker-end="url(#ah)"/>
+<line x1="396.0" y1="56.0" x2="492.0" y2="52.0" stroke-width="1.4" marker-end="url(#ah)"/>
+<line x1="396.0" y1="194.0" x2="492.0" y2="196.0" stroke-width="1.4" marker-end="url(#ah)"/>
+<line x1="330.0" y1="92.0" x2="330.0" y2="158.0" stroke-width="1.4" marker-end="url(#ah)"/>
+<line x1="330.0" y1="222.0" x2="330.0" y2="300.0" stroke-width="1.4" marker-end="url(#ah)"/>
+<polyline points="330.0,300.0 560.0,300.0 560.0,232.0" stroke-width="1.4" fill="none" marker-end="url(#ah)"/>
+</g>
+<text x="110.0" y="110.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">活动状态</text>
+<text x="330.0" y="60.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">部分提交</text>
+<text x="330.0" y="190.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">失败状态</text>
+<text x="560.0" y="50.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">提交</text>
+<text x="560.0" y="200.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">中止</text>
+<text x="214.0" y="74.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="13" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">读/写操作</text>
+<text x="168.0" y="178.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="13" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">出错</text>
+<text x="444.0" y="34.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="13" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">最后一条语句</text>
+<text x="420.0" y="284.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="13" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">撤销（UNDO）</text>
+<text x="300.0" y="350.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="14" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">提交后数据永久保存；中止后回滚到事务开始前的状态</text>
+</svg>

@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1383" height="706" viewBox="0 0 1383 706">
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9.2" refY="5" markerWidth="6.5" markerHeight="6.5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2b2b2b"/></marker></defs>
+<rect x="0" y="0" width="1383" height="706" fill="#ffffff"/>
+<g stroke="#2b2b2b" fill="none" stroke-linecap="round" stroke-linejoin="round">
+<rect x="47.0" y="20.0" width="92.0" height="72.0" stroke-width="0" fill="#E7E7E7"/>
+<rect x="139.0" y="20.0" width="345.0" height="72.0" stroke-width="0" fill="#E7E7E7"/>
+<rect x="484.0" y="20.0" width="319.0" height="72.0" stroke-width="0" fill="#E7E7E7"/>
+<rect x="803.0" y="20.0" width="463.0" height="72.0" stroke-width="0" fill="#E7E7E7"/>
+<rect x="47.0" y="92.0" width="92.0" height="117.0" stroke-width="0" fill="#E7E7E7"/>
+<rect x="139.0" y="92.0" width="345.0" height="117.0" stroke-width="0" fill="#E7E7E7"/>
+<rect x="484.0" y="92.0" width="319.0" height="117.0" stroke-width="0" fill="#E7E7E7"/>
+<rect x="803.0" y="92.0" width="463.0" height="117.0" stroke-width="0" fill="#E7E7E7"/>
+<rect x="47.0" y="209.0" width="92.0" height="479.0" stroke-width="0" fill="#E7E7E7"/>
+<rect x="139.0" y="209.0" width="345.0" height="479.0" stroke-width="0" fill="#E7E7E7"/>
+<rect x="484.0" y="209.0" width="319.0" height="479.0" stroke-width="0" fill="#E7E7E7"/>
+<rect x="803.0" y="209.0" width="463.0" height="479.0" stroke-width="0" fill="#E7E7E7"/>
+<line x1="47.0" y1="20.0" x2="47.0" y2="688.0" stroke-width="2"/>
+<line x1="139.0" y1="20.0" x2="139.0" y2="688.0" stroke-width="2"/>
+<line x1="484.0" y1="20.0" x2="484.0" y2="688.0" stroke-width="2"/>
+<line x1="803.0" y1="20.0" x2="803.0" y2="688.0" stroke-width="2"/>
+<line x1="1266.0" y1="20.0" x2="1266.0" y2="688.0" stroke-width="2"/>
+<line x1="47.0" y1="20.0" x2="1266.0" y2="20.0" stroke-width="2"/>
+<line x1="47.0" y1="92.0" x2="1266.0" y2="92.0" stroke-width="2"/>
+<line x1="47.0" y1="209.0" x2="1266.0" y2="209.0" stroke-width="2"/>
+<line x1="47.0" y1="688.0" x2="1266.0" y2="688.0" stroke-width="2"/>
+</g>
+<text x="311.5" y="56.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="37" text-anchor="middle" dominant-baseline="central" fill="#C55A11">创建型</text>
+<text x="643.5" y="56.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="37" text-anchor="middle" dominant-baseline="central" fill="#C55A11">结构型</text>
+<text x="1034.5" y="56.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="37" text-anchor="middle" dominant-baseline="central" fill="#C55A11">行为型</text>
+<text x="93.0" y="150.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="36" text-anchor="middle" dominant-baseline="central" fill="#C55A11">类</text>
+<text x="93.0" y="423.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="36" text-anchor="middle" dominant-baseline="central" fill="#C55A11">对</text>
+<text x="93.0" y="473.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="36" text-anchor="middle" dominant-baseline="central" fill="#C55A11">象</text>
+<text x="179.0" y="150.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="31" text-anchor="start" dominant-baseline="central" fill="#C55A11">Factory Method</text>
+<text x="524.0" y="150.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="31" text-anchor="start" dominant-baseline="central" fill="#C55A11">Adapter (类)</text>
+<text x="843.0" y="132.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="31" text-anchor="start" dominant-baseline="central" fill="#C55A11">Interpreter</text>
+<text x="843.0" y="176.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="31" text-anchor="start" dominant-baseline="central" fill="#C55A11">Template Method</text>
+<text x="179.0" y="360.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="31" text-anchor="start" dominant-baseline="central" fill="#C55A11">Abstract Factory</text>
+<text x="179.0" y="417.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="31" text-anchor="start" dominant-baseline="central" fill="#C55A11">Builder</text>
+<text x="179.0" y="473.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="31" text-anchor="start" dominant-baseline="central" fill="#C55A11">Prototype</text>
+<text x="179.0" y="530.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="31" text-anchor="start" dominant-baseline="central" fill="#C55A11">Singleton</text>
+<text x="524.0" y="307.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="31" text-anchor="start" dominant-baseline="central" fill="#C55A11">Adapter (对象)</text>
+<text x="524.0" y="364.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="31" text-anchor="start" dominant-baseline="central" fill="#C55A11">Bridge</text>
+<text x="524.0" y="417.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="31" text-anchor="start" dominant-baseline="central" fill="#C55A11">Composite</text>
+<text x="524.0" y="471.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="31" text-anchor="start" dominant-baseline="central" fill="#C55A11">Decorator</text>
+<text x="524.0" y="528.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="31" text-anchor="start" dominant-baseline="central" fill="#C55A11">Facade</text>
+<text x="524.0" y="582.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="31" text-anchor="start" dominant-baseline="central" fill="#C55A11">Flyweight</text>
+<text x="524.0" y="640.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="31" text-anchor="start" dominant-baseline="central" fill="#C55A11">Proxy</text>
+<text x="843.0" y="245.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="31" text-anchor="start" dominant-baseline="central" fill="#C55A11">Chain of Responsibility</text>
+<text x="843.0" y="291.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="31" text-anchor="start" dominant-baseline="central" fill="#C55A11">Command</text>
+<text x="843.0" y="335.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="31" text-anchor="start" dominant-baseline="central" fill="#C55A11">Iterator</text>
+<text x="843.0" y="381.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="31" text-anchor="start" dominant-baseline="central" fill="#C55A11">Mediator</text>
+<text x="843.0" y="427.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="31" text-anchor="start" dominant-baseline="central" fill="#C55A11">Memento</text>
+<text x="843.0" y="473.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="31" text-anchor="start" dominant-baseline="central" fill="#C55A11">Observer</text>
+<text x="843.0" y="519.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="31" text-anchor="start" dominant-baseline="central" fill="#C55A11">State</text>
+<text x="843.0" y="565.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="31" text-anchor="start" dominant-baseline="central" fill="#C55A11">Strategy</text>
+<text x="843.0" y="612.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="31" text-anchor="start" dominant-baseline="central" fill="#C55A11">Visitor</text>
+</svg>

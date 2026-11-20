@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="350" height="410" viewBox="0 0 350 410">
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9.2" refY="5" markerWidth="6.5" markerHeight="6.5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2b2b2b"/></marker></defs>
+<rect x="0" y="0" width="350" height="410" fill="#ffffff"/>
+<g stroke="#2b2b2b" fill="none" stroke-linecap="round" stroke-linejoin="round">
+<rect x="80.0" y="40.0" width="170.0" height="330.0" stroke-width="1.5" fill="#f4f6f8"/>
+<line x1="50.0" y1="86.0" x2="80.0" y2="86.0" stroke-width="1.3"/>
+<line x1="50.0" y1="126.0" x2="80.0" y2="126.0" stroke-width="1.3"/>
+<line x1="50.0" y1="166.0" x2="80.0" y2="166.0" stroke-width="1.3"/>
+<line x1="50.0" y1="236.0" x2="80.0" y2="236.0" stroke-width="1.3"/>
+<circle cx="75.0" cy="276.0" r="5.0" stroke-width="1.3" fill="none"/>
+<line x1="50.0" y1="276.0" x2="70.0" y2="276.0" stroke-width="1.3"/>
+<circle cx="75.0" cy="316.0" r="5.0" stroke-width="1.3" fill="none"/>
+<line x1="50.0" y1="316.0" x2="70.0" y2="316.0" stroke-width="1.3"/>
+<circle cx="255.0" cy="80.0" r="5.0" stroke-width="1.3" fill="none"/>
+<line x1="260.0" y1="80.0" x2="280.0" y2="80.0" stroke-width="1.3"/>
+<circle cx="255.0" cy="112.0" r="5.0" stroke-width="1.3" fill="none"/>
+<line x1="260.0" y1="112.0" x2="280.0" y2="112.0" stroke-width="1.3"/>
+<circle cx="255.0" cy="144.0" r="5.0" stroke-width="1.3" fill="none"/>
+<line x1="260.0" y1="144.0" x2="280.0" y2="144.0" stroke-width="1.3"/>
+<circle cx="255.0" cy="176.0" r="5.0" stroke-width="1.3" fill="none"/>
+<line x1="260.0" y1="176.0" x2="280.0" y2="176.0" stroke-width="1.3"/>
+<circle cx="255.0" cy="208.0" r="5.0" stroke-width="1.3" fill="none"/>
+<line x1="260.0" y1="208.0" x2="280.0" y2="208.0" stroke-width="1.3"/>
+<circle cx="255.0" cy="240.0" r="5.0" stroke-width="1.3" fill="none"/>
+<line x1="260.0" y1="240.0" x2="280.0" y2="240.0" stroke-width="1.3"/>
+<circle cx="255.0" cy="272.0" r="5.0" stroke-width="1.3" fill="none"/>
+<line x1="260.0" y1="272.0" x2="280.0" y2="272.0" stroke-width="1.3"/>
+<circle cx="255.0" cy="304.0" r="5.0" stroke-width="1.3" fill="none"/>
+<line x1="260.0" y1="304.0" x2="280.0" y2="304.0" stroke-width="1.3"/>
+</g>
+<text x="165.0" y="205.0" font-family="SimSun, 'Microsoft YaHei', serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b" font-weight="bold">74LS138</text>
+<text x="92.0" y="86.0" font-family="SimSun, 'Microsoft YaHei', serif" font-size="15" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">C</text>
+<text x="92.0" y="126.0" font-family="SimSun, 'Microsoft YaHei', serif" font-size="15" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">B</text>
+<text x="92.0" y="166.0" font-family="SimSun, 'Microsoft YaHei', serif" font-size="15" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">A</text>
+<text x="92.0" y="236.0" font-family="SimSun, 'Microsoft YaHei', serif" font-size="15" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">G1</text>
+<text x="92.0" y="276.0" font-family="SimSun, 'Microsoft YaHei', serif" font-size="15" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">G2A</text>
+<text x="92.0" y="316.0" font-family="SimSun, 'Microsoft YaHei', serif" font-size="15" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">G2B</text>
+<text x="238.0" y="80.0" font-family="SimSun, 'Microsoft YaHei', serif" font-size="15" text-anchor="end" dominant-baseline="central" fill="#2b2b2b">Y0</text>
+<text x="238.0" y="112.0" font-family="SimSun, 'Microsoft YaHei', serif" font-size="15" text-anchor="end" dominant-baseline="central" fill="#2b2b2b">Y1</text>
+<text x="238.0" y="144.0" font-family="SimSun, 'Microsoft YaHei', serif" font-size="15" text-anchor="end" dominant-baseline="central" fill="#2b2b2b">Y2</text>
+<text x="238.0" y="176.0" font-family="SimSun, 'Microsoft YaHei', serif" font-size="15" text-anchor="end" dominant-baseline="central" fill="#2b2b2b">Y3</text>
+<text x="238.0" y="208.0" font-family="SimSun, 'Microsoft YaHei', serif" font-size="15" text-anchor="end" dominant-baseline="central" fill="#2b2b2b">Y4</text>
+<text x="238.0" y="240.0" font-family="SimSun, 'Microsoft YaHei', serif" font-size="15" text-anchor="end" dominant-baseline="central" fill="#2b2b2b">Y5</text>
+<text x="238.0" y="272.0" font-family="SimSun, 'Microsoft YaHei', serif" font-size="15" text-anchor="end" dominant-baseline="central" fill="#2b2b2b">Y6</text>
+<text x="238.0" y="304.0" font-family="SimSun, 'Microsoft YaHei', serif" font-size="15" text-anchor="end" dominant-baseline="central" fill="#2b2b2b">Y7</text>
+</svg>

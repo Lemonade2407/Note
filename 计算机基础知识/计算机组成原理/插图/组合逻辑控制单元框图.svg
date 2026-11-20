@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="602" height="488" viewBox="0 0 602 488">
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9.2" refY="5" markerWidth="6.5" markerHeight="6.5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2b2b2b"/></marker></defs>
+<rect x="0" y="0" width="602" height="488" fill="#ffffff"/>
+<g stroke="#2b2b2b" fill="none" stroke-linecap="round" stroke-linejoin="round">
+<rect x="295.0" y="52.0" width="126.0" height="33.0" stroke-width="1.5" fill="#ededed" rx="3"/>
+<rect x="295.0" y="119.0" width="126.0" height="33.0" stroke-width="1.5" fill="#ededed" rx="3"/>
+<rect x="278.0" y="186.0" width="160.0" height="120.0" stroke-width="1.5" fill="#ffffff" rx="3"/>
+<rect x="165.0" y="186.0" width="50.0" height="120.0" stroke-width="1.5" fill="#ffffff" rx="3"/>
+<polyline points="353.0,85.0 353.0,110.0 350.0,110.0 358.0,119.0 366.0,110.0 363.0,110.0 363.0,85.0 353.0,85.0" stroke-width="1.4" fill="none"/>
+<polyline points="307.4,152.0 307.4,177.0 304.0,177.0 310.0,184.0 316.0,177.0 312.6,177.0 312.6,152.0 307.4,152.0" stroke-width="1.4" fill="none"/>
+<polyline points="327.4,152.0 327.4,177.0 324.0,177.0 330.0,184.0 336.0,177.0 332.6,177.0 332.6,152.0 327.4,152.0" stroke-width="1.4" fill="none"/>
+<polyline points="401.4,152.0 401.4,177.0 398.0,177.0 404.0,184.0 410.0,177.0 406.6,177.0 406.6,152.0 401.4,152.0" stroke-width="1.4" fill="none"/>
+<line x1="215.0" y1="202.0" x2="277.0" y2="202.0" stroke-width="1.4" marker-end="url(#ah)"/>
+<line x1="215.0" y1="230.0" x2="277.0" y2="230.0" stroke-width="1.4" marker-end="url(#ah)"/>
+<line x1="215.0" y1="290.0" x2="277.0" y2="290.0" stroke-width="1.4" marker-end="url(#ah)"/>
+<circle cx="243.0" cy="251.0" r="1.6" stroke-width="0.5" fill="#2b2b2b"/>
+<circle cx="243.0" cy="258.0" r="1.6" stroke-width="0.5" fill="#2b2b2b"/>
+<circle cx="243.0" cy="265.0" r="1.6" stroke-width="0.5" fill="#2b2b2b"/>
+<line x1="38.0" y1="246.0" x2="164.0" y2="246.0" stroke-width="1.4" marker-end="url(#ah)"/>
+<line x1="304.0" y1="306.0" x2="304.0" y2="341.0" stroke-width="1.4" marker-end="url(#ah)"/>
+<line x1="324.0" y1="306.0" x2="324.0" y2="341.0" stroke-width="1.4" marker-end="url(#ah)"/>
+<line x1="412.0" y1="306.0" x2="412.0" y2="341.0" stroke-width="1.4" marker-end="url(#ah)"/>
+<line x1="498.0" y1="202.0" x2="439.0" y2="202.0" stroke-width="1.4" marker-end="url(#ah)"/>
+<line x1="498.0" y1="290.0" x2="439.0" y2="290.0" stroke-width="1.4" marker-end="url(#ah)"/>
+<circle cx="465.0" cy="238.0" r="1.7" stroke-width="0.5" fill="#2b2b2b"/>
+<circle cx="465.0" cy="246.0" r="1.7" stroke-width="0.5" fill="#2b2b2b"/>
+<circle cx="465.0" cy="254.0" r="1.7" stroke-width="0.5" fill="#2b2b2b"/>
+</g>
+<text x="358.0" y="68.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">IR</text>
+<text x="358.0" y="135.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="14" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">操作码译码</text>
+<text x="358.0" y="246.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">CU</text>
+<text x="190.0" y="197.3" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="13" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">节</text>
+<text x="190.0" y="211.8" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="13" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">拍</text>
+<text x="190.0" y="226.4" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="13" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">发</text>
+<text x="190.0" y="241.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="13" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">生</text>
+<text x="190.0" y="255.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="13" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">器</text>
+<text x="378.0" y="100.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="13" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b" font-style="italic">n</text>
+<text x="389.0" y="100.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="13" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">位操作码</text>
+<text x="301.0" y="165.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="13" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">0</text>
+<text x="322.0" y="165.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="13" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">1</text>
+<text x="365.0" y="168.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="13" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">…</text>
+<text x="414.0" y="165.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="13" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">2</text>
+<text x="422.0" y="160.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="9" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">n-1</text>
+<text x="236.4" y="196.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="13" text-anchor="start" dominant-baseline="central" fill="#2b2b2b" font-style="italic">T</text>
+<text x="244.2" y="199.1" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="9.1" text-anchor="start" dominant-baseline="central" fill="#2b2b2b" font-style="italic">0</text>
+<text x="236.4" y="225.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="13" text-anchor="start" dominant-baseline="central" fill="#2b2b2b" font-style="italic">T</text>
+<text x="244.2" y="228.1" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="9.1" text-anchor="start" dominant-baseline="central" fill="#2b2b2b" font-style="italic">1</text>
+<text x="236.4" y="285.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="13" text-anchor="start" dominant-baseline="central" fill="#2b2b2b" font-style="italic">T</text>
+<text x="244.2" y="288.1" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="9.1" text-anchor="start" dominant-baseline="central" fill="#2b2b2b" font-style="italic">n</text>
+<text x="95.0" y="222.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="14" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">CLK</text>
+<text x="95.0" y="240.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="13" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">（机器主频）</text>
+<text x="297.4" y="355.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="13" text-anchor="start" dominant-baseline="central" fill="#2b2b2b" font-style="italic">C</text>
+<text x="305.2" y="358.1" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="9.1" text-anchor="start" dominant-baseline="central" fill="#2b2b2b" font-style="italic">0</text>
+<text x="317.4" y="355.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="13" text-anchor="start" dominant-baseline="central" fill="#2b2b2b" font-style="italic">C</text>
+<text x="325.2" y="358.1" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="9.1" text-anchor="start" dominant-baseline="central" fill="#2b2b2b" font-style="italic">1</text>
+<text x="366.0" y="355.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="13" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">…</text>
+<text x="405.4" y="355.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="13" text-anchor="start" dominant-baseline="central" fill="#2b2b2b" font-style="italic">C</text>
+<text x="413.2" y="358.1" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="9.1" text-anchor="start" dominant-baseline="central" fill="#2b2b2b" font-style="italic">n</text>
+<text x="300.0" y="392.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="14" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">发至 CPU 内部及系统总线的控制信号</text>
+<text x="524.0" y="246.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="14" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">标志</text>
+<text x="300.0" y="462.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">图 10.1  带译码和节拍输入的控制单元框图</text>
+</svg>

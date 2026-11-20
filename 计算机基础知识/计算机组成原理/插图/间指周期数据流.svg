@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="621" height="355" viewBox="0 0 621 355">
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9.2" refY="5" markerWidth="6.5" markerHeight="6.5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2b2b2b"/></marker></defs>
+<rect x="0" y="0" width="621" height="355" fill="#ffffff"/>
+<g stroke="#2b2b2b" fill="none" stroke-linecap="round" stroke-linejoin="round">
+<rect x="41.0" y="47.0" width="262.0" height="251.0" stroke-width="1.6" fill="none"/>
+<rect x="193.0" y="94.0" width="85.0" height="35.0" stroke-width="1.5" fill="#ededed" rx="3"/>
+<rect x="193.0" y="164.0" width="85.0" height="35.0" stroke-width="1.5" fill="#ededed" rx="3"/>
+<rect x="193.0" y="233.0" width="85.0" height="35.0" stroke-width="1.5" fill="#ededed" rx="3"/>
+<rect x="471.0" y="123.0" width="87.0" height="56.0" stroke-width="1.5" fill="#ededed" rx="3"/>
+<line x1="345.0" y1="84.0" x2="345.0" y2="284.0" stroke-width="1.6"/>
+<line x1="360.0" y1="84.0" x2="360.0" y2="284.0" stroke-width="1.6"/>
+<line x1="389.0" y1="84.0" x2="389.0" y2="284.0" stroke-width="1.6"/>
+<line x1="403.0" y1="84.0" x2="403.0" y2="284.0" stroke-width="1.6"/>
+<line x1="431.0" y1="84.0" x2="431.0" y2="284.0" stroke-width="1.6"/>
+<line x1="446.0" y1="84.0" x2="446.0" y2="284.0" stroke-width="1.6"/>
+<polyline points="148.0,247.5 193.0,247.5 193.0,254.5 148.0,254.5 148.0,247.5" stroke-width="1.4" fill="none"/>
+<polyline points="144.5,112.0 144.5,255.0 151.5,255.0 151.5,112.0 144.5,112.0" stroke-width="1.4" fill="none"/>
+<polyline points="148.0,104.0 182.0,104.0 182.0,99.0 193.0,108.0 182.0,117.0 182.0,112.0 148.0,112.0 148.0,104.0" stroke-width="1.4" fill="none"/>
+<circle cx="167.0" cy="232.0" r="8.5" stroke-width="1.3" fill="#ffffff"/>
+<polyline points="278.0,107.0 334.0,107.0 334.0,102.0 345.0,111.0 334.0,120.0 334.0,115.0 278.0,115.0 278.0,107.0" stroke-width="1.4" fill="none"/>
+<circle cx="310.0" cy="96.0" r="8.5" stroke-width="1.3" fill="#ffffff"/>
+<polyline points="278.0,177.0 335.0,177.0 335.0,172.0 346.0,181.0 335.0,190.0 335.0,185.0 278.0,185.0 278.0,177.0" stroke-width="1.4" fill="none"/>
+<circle cx="310.0" cy="166.0" r="8.5" stroke-width="1.3" fill="#ffffff"/>
+<polyline points="346.0,247.0 291.0,247.0 291.0,242.0 280.0,251.0 291.0,260.0 291.0,255.0 346.0,255.0 346.0,247.0" stroke-width="1.4" fill="none"/>
+<circle cx="310.0" cy="236.0" r="8.5" stroke-width="1.3" fill="#ffffff"/>
+<polyline points="446.0,127.0 464.0,127.0 464.0,124.0 471.0,130.0 464.0,136.0 464.0,133.0 446.0,133.0 446.0,127.0" stroke-width="1.4" fill="none"/>
+<polyline points="471.0,144.0 410.0,144.0 410.0,141.0 403.0,147.0 410.0,153.0 410.0,150.0 471.0,150.0 471.0,144.0" stroke-width="1.4" fill="none"/>
+<polyline points="446.0,161.0 464.0,161.0 464.0,158.0 471.0,164.0 464.0,170.0 464.0,167.0 446.0,167.0 446.0,161.0" stroke-width="1.4" fill="none"/>
+<polyline points="360.0,164.5 389.0,164.5 389.0,171.5 360.0,171.5 360.0,164.5" stroke-width="1.4" fill="none"/>
+<polyline points="360.0,247.5 389.0,247.5 389.0,254.5 360.0,254.5 360.0,247.5" stroke-width="1.4" fill="none"/>
+</g>
+<text x="172.0" y="59.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">CPU</text>
+<text x="235.5" y="111.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">MAR</text>
+<text x="235.5" y="181.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">CU</text>
+<text x="235.5" y="250.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">MDR</text>
+<text x="514.5" y="151.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="14" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">存储器</text>
+<text x="353.0" y="11.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="13" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">地</text>
+<text x="353.0" y="25.1" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="13" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">址</text>
+<text x="353.0" y="39.1" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="13" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">总</text>
+<text x="353.0" y="53.1" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="13" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">线</text>
+<text x="396.0" y="11.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="13" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">数</text>
+<text x="396.0" y="25.1" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="13" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">据</text>
+<text x="396.0" y="39.1" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="13" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">总</text>
+<text x="396.0" y="53.1" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="13" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">线</text>
+<text x="438.0" y="11.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="13" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">控</text>
+<text x="438.0" y="25.1" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="13" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">制</text>
+<text x="438.0" y="39.1" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="13" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">总</text>
+<text x="438.0" y="53.1" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="13" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">线</text>
+<text x="167.0" y="232.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="11" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">1</text>
+<text x="310.0" y="96.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="11" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">2</text>
+<text x="310.0" y="166.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="11" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">3</text>
+<text x="310.0" y="236.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="11" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">4</text>
+<text x="300.0" y="335.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">图 8.11  间址周期数据流</text>
+</svg>

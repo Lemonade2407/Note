@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="420" viewBox="0 0 900 420">
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9.2" refY="5" markerWidth="6.5" markerHeight="6.5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2b2b2b"/></marker></defs>
+<rect x="0" y="0" width="900" height="420" fill="#ffffff"/>
+<g stroke="#2b2b2b" fill="none" stroke-linecap="round" stroke-linejoin="round">
+<line x1="150.0" y1="66.0" x2="150.0" y2="350.0" stroke-width="0.9" stroke-dasharray="4,4"/>
+<line x1="228.0" y1="66.0" x2="228.0" y2="350.0" stroke-width="0.9" stroke-dasharray="4,4"/>
+<line x1="306.0" y1="66.0" x2="306.0" y2="350.0" stroke-width="0.9" stroke-dasharray="4,4"/>
+<line x1="384.0" y1="66.0" x2="384.0" y2="350.0" stroke-width="0.9" stroke-dasharray="4,4"/>
+<line x1="462.0" y1="66.0" x2="462.0" y2="350.0" stroke-width="0.9" stroke-dasharray="4,4"/>
+<line x1="540.0" y1="66.0" x2="540.0" y2="350.0" stroke-width="0.9" stroke-dasharray="4,4"/>
+<line x1="618.0" y1="66.0" x2="618.0" y2="350.0" stroke-width="0.9" stroke-dasharray="4,4"/>
+<line x1="696.0" y1="66.0" x2="696.0" y2="350.0" stroke-width="0.9" stroke-dasharray="4,4"/>
+<line x1="774.0" y1="66.0" x2="774.0" y2="350.0" stroke-width="0.9" stroke-dasharray="4,4"/>
+<polyline points="150.0,100.0 150.0,100.0 228.0,100.0 228.0,136.0 306.0,136.0 306.0,100.0 384.0,100.0 384.0,100.0 462.0,100.0 462.0,136.0 540.0,136.0 540.0,136.0 618.0,136.0 618.0,100.0 696.0,100.0 696.0,136.0 774.0,136.0" stroke-width="1.9" fill="none"/>
+<line x1="150.0" y1="200.0" x2="189.0" y2="200.0" stroke-width="1.9"/>
+<line x1="189.0" y1="200.0" x2="189.0" y2="236.0" stroke-width="1.9"/>
+<line x1="189.0" y1="236.0" x2="228.0" y2="236.0" stroke-width="1.9"/>
+<line x1="228.0" y1="236.0" x2="267.0" y2="236.0" stroke-width="1.9"/>
+<line x1="267.0" y1="236.0" x2="267.0" y2="200.0" stroke-width="1.9"/>
+<line x1="267.0" y1="200.0" x2="306.0" y2="200.0" stroke-width="1.9"/>
+<line x1="306.0" y1="200.0" x2="345.0" y2="200.0" stroke-width="1.9"/>
+<line x1="345.0" y1="200.0" x2="345.0" y2="236.0" stroke-width="1.9"/>
+<line x1="345.0" y1="236.0" x2="384.0" y2="236.0" stroke-width="1.9"/>
+<line x1="384.0" y1="200.0" x2="423.0" y2="200.0" stroke-width="1.9"/>
+<line x1="423.0" y1="200.0" x2="423.0" y2="236.0" stroke-width="1.9"/>
+<line x1="423.0" y1="236.0" x2="462.0" y2="236.0" stroke-width="1.9"/>
+<line x1="462.0" y1="236.0" x2="501.0" y2="236.0" stroke-width="1.9"/>
+<line x1="501.0" y1="236.0" x2="501.0" y2="200.0" stroke-width="1.9"/>
+<line x1="501.0" y1="200.0" x2="540.0" y2="200.0" stroke-width="1.9"/>
+<line x1="540.0" y1="236.0" x2="579.0" y2="236.0" stroke-width="1.9"/>
+<line x1="579.0" y1="236.0" x2="579.0" y2="200.0" stroke-width="1.9"/>
+<line x1="579.0" y1="200.0" x2="618.0" y2="200.0" stroke-width="1.9"/>
+<line x1="618.0" y1="200.0" x2="657.0" y2="200.0" stroke-width="1.9"/>
+<line x1="657.0" y1="200.0" x2="657.0" y2="236.0" stroke-width="1.9"/>
+<line x1="657.0" y1="236.0" x2="696.0" y2="236.0" stroke-width="1.9"/>
+<line x1="696.0" y1="236.0" x2="735.0" y2="236.0" stroke-width="1.9"/>
+<line x1="735.0" y1="236.0" x2="735.0" y2="200.0" stroke-width="1.9"/>
+<line x1="735.0" y1="200.0" x2="774.0" y2="200.0" stroke-width="1.9"/>
+<line x1="150.0" y1="300.0" x2="150.0" y2="300.0" stroke-width="1.9"/>
+<line x1="150.0" y1="300.0" x2="189.0" y2="300.0" stroke-width="1.9"/>
+<line x1="189.0" y1="300.0" x2="189.0" y2="336.0" stroke-width="1.9"/>
+<line x1="189.0" y1="336.0" x2="228.0" y2="336.0" stroke-width="1.9"/>
+<line x1="228.0" y1="336.0" x2="228.0" y2="336.0" stroke-width="1.9"/>
+<line x1="228.0" y1="336.0" x2="267.0" y2="336.0" stroke-width="1.9"/>
+<line x1="267.0" y1="336.0" x2="267.0" y2="300.0" stroke-width="1.9"/>
+<line x1="267.0" y1="300.0" x2="306.0" y2="300.0" stroke-width="1.9"/>
+<line x1="306.0" y1="300.0" x2="306.0" y2="336.0" stroke-width="1.9"/>
+<line x1="306.0" y1="336.0" x2="345.0" y2="336.0" stroke-width="1.9"/>
+<line x1="345.0" y1="336.0" x2="345.0" y2="300.0" stroke-width="1.9"/>
+<line x1="345.0" y1="300.0" x2="384.0" y2="300.0" stroke-width="1.9"/>
+<line x1="384.0" y1="300.0" x2="384.0" y2="336.0" stroke-width="1.9"/>
+<line x1="384.0" y1="336.0" x2="423.0" y2="336.0" stroke-width="1.9"/>
+<line x1="423.0" y1="336.0" x2="423.0" y2="300.0" stroke-width="1.9"/>
+<line x1="423.0" y1="300.0" x2="462.0" y2="300.0" stroke-width="1.9"/>
+<line x1="462.0" y1="300.0" x2="462.0" y2="300.0" stroke-width="1.9"/>
+<line x1="462.0" y1="300.0" x2="501.0" y2="300.0" stroke-width="1.9"/>
+<line x1="501.0" y1="300.0" x2="501.0" y2="336.0" stroke-width="1.9"/>
+<line x1="501.0" y1="336.0" x2="540.0" y2="336.0" stroke-width="1.9"/>
+<line x1="540.0" y1="336.0" x2="540.0" y2="336.0" stroke-width="1.9"/>
+<line x1="540.0" y1="336.0" x2="579.0" y2="336.0" stroke-width="1.9"/>
+<line x1="579.0" y1="336.0" x2="579.0" y2="300.0" stroke-width="1.9"/>
+<line x1="579.0" y1="300.0" x2="618.0" y2="300.0" stroke-width="1.9"/>
+<line x1="618.0" y1="300.0" x2="618.0" y2="336.0" stroke-width="1.9"/>
+<line x1="618.0" y1="336.0" x2="657.0" y2="336.0" stroke-width="1.9"/>
+<line x1="657.0" y1="336.0" x2="657.0" y2="300.0" stroke-width="1.9"/>
+<line x1="657.0" y1="300.0" x2="696.0" y2="300.0" stroke-width="1.9"/>
+<line x1="696.0" y1="300.0" x2="696.0" y2="300.0" stroke-width="1.9"/>
+<line x1="696.0" y1="300.0" x2="735.0" y2="300.0" stroke-width="1.9"/>
+<line x1="735.0" y1="300.0" x2="735.0" y2="336.0" stroke-width="1.9"/>
+<line x1="735.0" y1="336.0" x2="774.0" y2="336.0" stroke-width="1.9"/>
+</g>
+<text x="30.0" y="28.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17" text-anchor="start" dominant-baseline="central" fill="#2b2b2b" font-weight="bold">常用数字编码波形：不归零、曼彻斯特、差分曼彻斯特</text>
+<text x="189.0" y="56.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">1</text>
+<text x="267.0" y="56.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">0</text>
+<text x="345.0" y="56.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">1</text>
+<text x="423.0" y="56.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">1</text>
+<text x="501.0" y="56.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">0</text>
+<text x="579.0" y="56.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">0</text>
+<text x="657.0" y="56.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">1</text>
+<text x="735.0" y="56.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">0</text>
+<text x="134.0" y="40.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="14" text-anchor="end" dominant-baseline="central" fill="#2b2b2b">数据比特</text>
+<text x="134.0" y="118.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="end" dominant-baseline="central" fill="#2b2b2b">不归零 NRZ</text>
+<text x="134.0" y="218.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="end" dominant-baseline="central" fill="#2b2b2b">曼彻斯特</text>
+<text x="134.0" y="318.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="end" dominant-baseline="central" fill="#2b2b2b">差分曼彻斯特</text>
+<text x="30.0" y="392.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="14" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">曼彻斯特：每位中间必有跳变，1 高→低、0 低→高；差分曼彻斯特：位开始处跳变表示 0、不跳变表示 1</text>
+</svg>

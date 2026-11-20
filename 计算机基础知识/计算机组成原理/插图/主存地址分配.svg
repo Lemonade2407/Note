@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="943" height="364" viewBox="0 0 943 364">
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9.2" refY="5" markerWidth="6.5" markerHeight="6.5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2b2b2b"/></marker></defs>
+<rect x="0" y="0" width="943" height="364" fill="#ffffff"/>
+<g stroke="#2b2b2b" fill="none" stroke-linecap="round" stroke-linejoin="round">
+<rect x="271.0" y="77.0" width="62.0" height="27.0" stroke-width="1.4" fill="none"/>
+<rect x="271.0" y="104.0" width="62.0" height="27.0" stroke-width="1.4" fill="none"/>
+<rect x="271.0" y="131.0" width="62.0" height="27.0" stroke-width="1.4" fill="none"/>
+<rect x="333.0" y="77.0" width="64.0" height="27.0" stroke-width="1.4" fill="none"/>
+<rect x="333.0" y="104.0" width="64.0" height="27.0" stroke-width="1.4" fill="none"/>
+<rect x="333.0" y="131.0" width="64.0" height="27.0" stroke-width="1.4" fill="none"/>
+<rect x="397.0" y="77.0" width="63.0" height="27.0" stroke-width="1.4" fill="none"/>
+<rect x="397.0" y="104.0" width="63.0" height="27.0" stroke-width="1.4" fill="none"/>
+<rect x="397.0" y="131.0" width="63.0" height="27.0" stroke-width="1.4" fill="none"/>
+<rect x="460.0" y="77.0" width="64.0" height="27.0" stroke-width="1.4" fill="none"/>
+<rect x="460.0" y="104.0" width="64.0" height="27.0" stroke-width="1.4" fill="none"/>
+<rect x="460.0" y="131.0" width="64.0" height="27.0" stroke-width="1.4" fill="none"/>
+<rect x="602.0" y="77.0" width="64.0" height="27.0" stroke-width="1.4" fill="none"/>
+<rect x="602.0" y="104.0" width="64.0" height="27.0" stroke-width="1.4" fill="none"/>
+<rect x="602.0" y="131.0" width="64.0" height="27.0" stroke-width="1.4" fill="none"/>
+<rect x="666.0" y="77.0" width="64.0" height="27.0" stroke-width="1.4" fill="none"/>
+<rect x="666.0" y="104.0" width="64.0" height="27.0" stroke-width="1.4" fill="none"/>
+<rect x="666.0" y="131.0" width="64.0" height="27.0" stroke-width="1.4" fill="none"/>
+<polyline points="271.0,70.0 272.5,67.5 275.0,65.5 280.0,63.5 284.0,62.5 382.5,62.5 387.5,61.5 392.5,59.5 397.5,55.0 402.5,59.5 407.5,61.5 412.5,62.5 511.0,62.5 515.0,63.5 520.0,65.5 522.5,67.5 524.0,70.0" stroke-width="1.2" fill="none"/>
+<polyline points="602.0,70.0 603.5,67.5 606.0,65.5 611.0,63.5 615.0,62.5 651.0,62.5 656.0,61.5 661.0,59.5 666.0,55.0 671.0,59.5 676.0,61.5 681.0,62.5 717.0,62.5 721.0,63.5 726.0,65.5 728.5,67.5 730.0,70.0" stroke-width="1.2" fill="none"/>
+</g>
+<text x="302.0" y="90.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">0</text>
+<text x="302.0" y="117.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">4</text>
+<text x="302.0" y="144.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">8</text>
+<text x="365.0" y="90.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">1</text>
+<text x="365.0" y="117.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">5</text>
+<text x="365.0" y="144.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">9</text>
+<text x="428.5" y="90.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">2</text>
+<text x="428.5" y="117.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">6</text>
+<text x="428.5" y="144.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">10</text>
+<text x="492.0" y="90.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">3</text>
+<text x="492.0" y="117.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">7</text>
+<text x="492.0" y="144.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">11</text>
+<text x="634.0" y="90.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">1</text>
+<text x="634.0" y="117.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">3</text>
+<text x="634.0" y="144.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">5</text>
+<text x="698.0" y="90.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">0</text>
+<text x="698.0" y="117.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">2</text>
+<text x="698.0" y="144.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">4</text>
+<text x="347.0" y="36.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="14" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">字节地址</text>
+<text x="655.0" y="36.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="14" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">字节地址</text>
+<text x="238.0" y="62.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="14" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">字地址</text>
+<text x="583.0" y="62.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="14" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">字地址</text>
+<text x="253.0" y="90.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">0</text>
+<text x="253.0" y="117.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">4</text>
+<text x="253.0" y="144.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">8</text>
+<text x="585.0" y="90.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">0</text>
+<text x="585.0" y="117.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">2</text>
+<text x="585.0" y="144.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">4</text>
+<text x="397.0" y="180.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="14" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">(a) IBM 370</text>
+<text x="666.0" y="180.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="14" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">(b) PDP-11</text>
+<text x="450.0" y="208.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="14" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">图 4.6  字节寻址的主存地址分配</text>
+<text x="45.0" y="248.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="18" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">由图 4.6(a)所示，对 24 位地址线的主存而言，按字节寻址的范围是 16 M，按字寻址的范围</text>
+<text x="45.0" y="281.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="18" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">为 4 M。由图 4.6(b)所示，对 24 位地址线而言，按字节寻址的范围仍为 16 M，但按字寻址的范</text>
+<text x="45.0" y="314.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="18" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">围为 8 M。</text>
+</svg>

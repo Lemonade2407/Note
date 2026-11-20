@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1374" height="456" viewBox="0 0 1374 456">
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9.2" refY="5" markerWidth="6.5" markerHeight="6.5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2b2b2b"/></marker></defs>
+<rect x="0" y="0" width="1374" height="456" fill="#ffffff"/>
+<g stroke="#2b2b2b" fill="none" stroke-linecap="round" stroke-linejoin="round">
+<rect x="421.0" y="38.0" width="485.0" height="114.0" stroke-width="3.0" fill="none"/>
+<rect x="4.0" y="298.0" width="364.0" height="114.0" stroke-width="3.0" fill="none"/>
+<rect x="482.0" y="298.0" width="364.0" height="114.0" stroke-width="3.0" fill="none"/>
+<rect x="941.0" y="298.0" width="364.0" height="114.0" stroke-width="3.0" fill="none"/>
+<line x1="664.0" y1="152.0" x2="664.0" y2="220.0" stroke-width="3.0"/>
+<line x1="186.0" y1="220.0" x2="1123.0" y2="220.0" stroke-width="3.0"/>
+<line x1="186.0" y1="220.0" x2="186.0" y2="298.0" stroke-width="3.0"/>
+<line x1="664.0" y1="220.0" x2="664.0" y2="298.0" stroke-width="3.0"/>
+<line x1="1123.0" y1="220.0" x2="1123.0" y2="298.0" stroke-width="3.0"/>
+</g>
+<text x="663.5" y="95.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="60" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">图书借阅系统</text>
+<text x="186.0" y="355.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="60" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">输入数据</text>
+<text x="664.0" y="355.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="60" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">调度</text>
+<text x="1123.0" y="355.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="60" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">输出数据</text>
+</svg>

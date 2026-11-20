@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="640" viewBox="0 0 400 640">
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9.2" refY="5" markerWidth="6.5" markerHeight="6.5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2b2b2b"/></marker></defs>
+<rect x="0" y="0" width="400" height="640" fill="#ffffff"/>
+<g stroke="#2b2b2b" fill="none" stroke-linecap="round" stroke-linejoin="round">
+<rect x="120.0" y="40.0" width="170.0" height="32.0" stroke-width="1.3" fill="#f4f6f8"/>
+<rect x="120.0" y="92.0" width="170.0" height="32.0" stroke-width="1.3" fill="#f4f6f8" stroke-dasharray="6,4"/>
+<rect x="120.0" y="144.0" width="170.0" height="32.0" stroke-width="1.3" fill="#f4f6f8"/>
+<rect x="120.0" y="196.0" width="170.0" height="32.0" stroke-width="1.3" fill="#f4f6f8"/>
+<rect x="120.0" y="248.0" width="170.0" height="32.0" stroke-width="1.3" fill="#f4f6f8"/>
+<rect x="120.0" y="300.0" width="170.0" height="32.0" stroke-width="1.3" fill="#f4f6f8"/>
+<rect x="120.0" y="400.0" width="170.0" height="32.0" stroke-width="1.3" fill="#f4f6f8"/>
+<rect x="120.0" y="470.0" width="170.0" height="32.0" stroke-width="1.3" fill="#f4f6f8"/>
+<line x1="205.0" y1="72.0" x2="205.0" y2="90.0" stroke-width="1.3" marker-end="url(#ah)"/>
+<line x1="205.0" y1="124.0" x2="205.0" y2="142.0" stroke-width="1.3" marker-end="url(#ah)"/>
+<line x1="205.0" y1="176.0" x2="205.0" y2="194.0" stroke-width="1.3" marker-end="url(#ah)"/>
+<line x1="205.0" y1="228.0" x2="205.0" y2="246.0" stroke-width="1.3" marker-end="url(#ah)"/>
+<line x1="205.0" y1="280.0" x2="205.0" y2="298.0" stroke-width="1.3" marker-end="url(#ah)"/>
+<polyline points="205.0,326.0 281.0,360.0 205.0,394.0 129.0,360.0 205.0,326.0" stroke-width="1.3" fill="#eef3fa"/>
+<line x1="205.0" y1="332.0" x2="205.0" y2="324.0" stroke-width="1.3" marker-end="url(#ah)"/>
+<line x1="205.0" y1="394.0" x2="205.0" y2="398.0" stroke-width="1.3" marker-end="url(#ah)"/>
+<line x1="205.0" y1="432.0" x2="205.0" y2="468.0" stroke-width="1.3" marker-end="url(#ah)"/>
+<polyline points="281.0,360.0 352.0,360.0 352.0,500.0" stroke-width="1.3" fill="none"/>
+<line x1="352.0" y1="500.0" x2="294.0" y2="500.0" stroke-width="1.3" marker-end="url(#ah)"/>
+<polyline points="120.0,416.0 74.0,416.0 74.0,264.0" stroke-width="1.3" fill="none"/>
+<line x1="74.0" y1="264.0" x2="118.0" y2="264.0" stroke-width="1.3" marker-end="url(#ah)"/>
+</g>
+<text x="205.0" y="56.0" font-family="SimSun, 'Microsoft YaHei', serif" font-size="13" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">配置数据源</text>
+<text x="205.0" y="108.0" font-family="SimSun, 'Microsoft YaHei', serif" font-size="13" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">动态配置数据源</text>
+<text x="205.0" y="160.0" font-family="SimSun, 'Microsoft YaHei', serif" font-size="13" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">初始化环境</text>
+<text x="205.0" y="212.0" font-family="SimSun, 'Microsoft YaHei', serif" font-size="13" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">建立连接</text>
+<text x="205.0" y="264.0" font-family="SimSun, 'Microsoft YaHei', serif" font-size="13" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">分配语句句柄</text>
+<text x="205.0" y="316.0" font-family="SimSun, 'Microsoft YaHei', serif" font-size="13" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">执行SQL语句</text>
+<text x="205.0" y="416.0" font-family="SimSun, 'Microsoft YaHei', serif" font-size="13" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">结果集处理</text>
+<text x="205.0" y="486.0" font-family="SimSun, 'Microsoft YaHei', serif" font-size="13" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">中止</text>
+<text x="205.0" y="358.0" font-family="SimSun, 'Microsoft YaHei', serif" font-size="13" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">有无结果集</text>
+<text x="205.0" y="374.0" font-family="SimSun, 'Microsoft YaHei', serif" font-size="12" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b"></text>
+<text x="219.0" y="388.0" font-family="SimSun, 'Microsoft YaHei', serif" font-size="12" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">有</text>
+<text x="360.0" y="352.0" font-family="SimSun, 'Microsoft YaHei', serif" font-size="12" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">无</text>
+<text x="300.0" y="626.0" font-family="SimSun, 'Microsoft YaHei', serif" font-size="13" text-anchor="middle" dominant-baseline="central" fill="#444">图 8.5  ODBC 的工作流程</text>
+</svg>

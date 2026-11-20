@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1919" height="1247" viewBox="0 0 1919 1247">
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9.2" refY="5" markerWidth="6.5" markerHeight="6.5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2b2b2b"/></marker></defs>
+<rect x="0" y="0" width="1919" height="1247" fill="#ffffff"/>
+<g stroke="#2b2b2b" fill="none" stroke-linecap="round" stroke-linejoin="round">
+<rect x="845.0" y="32.0" width="338.0" height="88.0" stroke-width="3.0" fill="none"/>
+<rect x="72.0" y="234.0" width="245.0" height="144.0" stroke-width="3.0" fill="none"/>
+<rect x="342.0" y="234.0" width="243.0" height="144.0" stroke-width="3.0" fill="none"/>
+<rect x="624.0" y="234.0" width="136.0" height="144.0" stroke-width="3.0" fill="none"/>
+<rect x="785.0" y="234.0" width="190.0" height="144.0" stroke-width="3.0" fill="none"/>
+<rect x="1000.0" y="234.0" width="136.0" height="144.0" stroke-width="3.0" fill="none"/>
+<rect x="1161.0" y="234.0" width="177.0" height="144.0" stroke-width="3.0" fill="none"/>
+<rect x="1356.0" y="234.0" width="284.0" height="144.0" stroke-width="3.0" fill="none"/>
+<rect x="1658.0" y="234.0" width="230.0" height="144.0" stroke-width="3.0" fill="none"/>
+<line x1="1014.0" y1="120.0" x2="1014.0" y2="172.0" stroke-width="3.0"/>
+<line x1="194.0" y1="172.0" x2="1773.0" y2="172.0" stroke-width="3.0"/>
+<line x1="194.0" y1="172.0" x2="194.0" y2="234.0" stroke-width="3.0"/>
+<line x1="463.0" y1="172.0" x2="463.0" y2="234.0" stroke-width="3.0"/>
+<line x1="692.0" y1="172.0" x2="692.0" y2="234.0" stroke-width="3.0"/>
+<line x1="880.0" y1="172.0" x2="880.0" y2="234.0" stroke-width="3.0"/>
+<line x1="1068.0" y1="172.0" x2="1068.0" y2="234.0" stroke-width="3.0"/>
+<line x1="1249.0" y1="172.0" x2="1249.0" y2="234.0" stroke-width="3.0"/>
+<line x1="1498.0" y1="172.0" x2="1498.0" y2="234.0" stroke-width="3.0"/>
+<line x1="1773.0" y1="172.0" x2="1773.0" y2="234.0" stroke-width="3.0"/>
+<rect x="814.0" y="448.0" width="337.0" height="88.0" stroke-width="3.0" fill="none"/>
+<rect x="114.0" y="650.0" width="244.0" height="144.0" stroke-width="3.0" fill="none"/>
+<rect x="410.0" y="650.0" width="244.0" height="144.0" stroke-width="3.0" fill="none"/>
+<rect x="706.0" y="650.0" width="243.0" height="144.0" stroke-width="3.0" fill="none"/>
+<rect x="998.0" y="650.0" width="250.0" height="144.0" stroke-width="3.0" fill="none"/>
+<rect x="1290.0" y="650.0" width="250.0" height="144.0" stroke-width="3.0" fill="none"/>
+<rect x="1579.0" y="650.0" width="244.0" height="144.0" stroke-width="3.0" fill="none"/>
+<line x1="982.0" y1="536.0" x2="982.0" y2="588.0" stroke-width="3.0"/>
+<line x1="236.0" y1="588.0" x2="1701.0" y2="588.0" stroke-width="3.0"/>
+<line x1="236.0" y1="588.0" x2="236.0" y2="650.0" stroke-width="3.0"/>
+<line x1="532.0" y1="588.0" x2="532.0" y2="650.0" stroke-width="3.0"/>
+<line x1="827.0" y1="588.0" x2="827.0" y2="650.0" stroke-width="3.0"/>
+<line x1="1123.0" y1="588.0" x2="1123.0" y2="650.0" stroke-width="3.0"/>
+<line x1="1415.0" y1="588.0" x2="1415.0" y2="650.0" stroke-width="3.0"/>
+<line x1="1701.0" y1="588.0" x2="1701.0" y2="650.0" stroke-width="3.0"/>
+<rect x="800.0" y="880.0" width="348.0" height="84.0" stroke-width="3.0" fill="none"/>
+<rect x="118.0" y="1088.0" width="244.0" height="140.0" stroke-width="3.0" fill="none"/>
+<rect x="412.0" y="1088.0" width="238.0" height="140.0" stroke-width="3.0" fill="none"/>
+<rect x="696.0" y="1088.0" width="154.0" height="140.0" stroke-width="3.0" fill="none"/>
+<rect x="897.0" y="1088.0" width="154.0" height="140.0" stroke-width="3.0" fill="none"/>
+<rect x="1105.0" y="1088.0" width="154.0" height="140.0" stroke-width="3.0" fill="none"/>
+<rect x="1299.0" y="1088.0" width="244.0" height="140.0" stroke-width="3.0" fill="none"/>
+<rect x="1589.0" y="1088.0" width="237.0" height="140.0" stroke-width="3.0" fill="none"/>
+<line x1="974.0" y1="964.0" x2="974.0" y2="1016.0" stroke-width="3.0"/>
+<line x1="240.0" y1="1016.0" x2="1707.0" y2="1016.0" stroke-width="3.0"/>
+<line x1="240.0" y1="1016.0" x2="240.0" y2="1088.0" stroke-width="3.0"/>
+<line x1="531.0" y1="1016.0" x2="531.0" y2="1088.0" stroke-width="3.0"/>
+<line x1="773.0" y1="1016.0" x2="773.0" y2="1088.0" stroke-width="3.0"/>
+<line x1="974.0" y1="1016.0" x2="974.0" y2="1088.0" stroke-width="3.0"/>
+<line x1="1182.0" y1="1016.0" x2="1182.0" y2="1088.0" stroke-width="3.0"/>
+<line x1="1421.0" y1="1016.0" x2="1421.0" y2="1088.0" stroke-width="3.0"/>
+<line x1="1707.0" y1="1016.0" x2="1707.0" y2="1088.0" stroke-width="3.0"/>
+</g>
+<text x="1014.0" y="76.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="52" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">输入数据</text>
+<text x="194.5" y="278.4" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="48" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">图书信息</text>
+<text x="194.5" y="333.6" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="48" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">维护事务</text>
+<text x="463.5" y="278.4" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="48" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">读者信息</text>
+<text x="463.5" y="333.6" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="48" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">维护事务</text>
+<text x="692.0" y="278.4" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="48" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">读者</text>
+<text x="692.0" y="333.6" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="48" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">号</text>
+<text x="880.0" y="278.4" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="48" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">图书条</text>
+<text x="880.0" y="333.6" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="48" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">码号</text>
+<text x="1068.0" y="278.4" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="48" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">续借</text>
+<text x="1068.0" y="333.6" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="48" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">事务</text>
+<text x="1249.5" y="278.4" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="48" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">支付</text>
+<text x="1249.5" y="333.6" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="48" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">事务</text>
+<text x="1498.0" y="278.4" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="48" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">管理员</text>
+<text x="1498.0" y="333.6" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="48" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">查询事务</text>
+<text x="1773.0" y="278.4" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="48" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">读者</text>
+<text x="1773.0" y="333.6" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="48" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">查询事务</text>
+<text x="982.5" y="492.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="52" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">输出数据</text>
+<text x="236.0" y="722.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="46" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">借阅信息</text>
+<text x="532.0" y="722.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="46" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">超期信息</text>
+<text x="827.5" y="722.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="46" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">续借信息</text>
+<text x="1123.0" y="722.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="46" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">还书信息</text>
+<text x="1415.0" y="694.4" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="46" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">读者的查</text>
+<text x="1415.0" y="749.6" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="46" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">询结果</text>
+<text x="1701.0" y="694.4" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="46" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">管理员的</text>
+<text x="1701.0" y="749.6" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="46" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">查询结果</text>
+<text x="974.0" y="922.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="52" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">调度</text>
+<text x="240.0" y="1130.4" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="46" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">图书信息</text>
+<text x="240.0" y="1185.6" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="46" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">维护</text>
+<text x="531.0" y="1130.4" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="46" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">读者信息</text>
+<text x="531.0" y="1185.6" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="46" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">维护</text>
+<text x="773.0" y="1158.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="46" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">借书</text>
+<text x="974.0" y="1158.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="46" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">续借</text>
+<text x="1182.0" y="1158.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="46" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">还书</text>
+<text x="1421.0" y="1130.4" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="46" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">读者的</text>
+<text x="1421.0" y="1185.6" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="46" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">信息查询</text>
+<text x="1707.5" y="1130.4" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="46" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">管理员的</text>
+<text x="1707.5" y="1185.6" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="46" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">信息查询</text>
+</svg>

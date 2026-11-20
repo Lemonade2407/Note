@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1347" height="598" viewBox="0 0 1347 598">
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9.2" refY="5" markerWidth="6.5" markerHeight="6.5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2b2b2b"/></marker></defs>
+<rect x="0" y="0" width="1347" height="598" fill="#ffffff"/>
+<g stroke="#2b2b2b" fill="none" stroke-linecap="round" stroke-linejoin="round">
+<circle cx="211.0" cy="119.0" r="38.0" stroke-width="1.6" fill="none"/>
+<polyline points="75.0,74.0 188.0,106.0" stroke-width="1.6" fill="none" marker-end="url(#ah)"/>
+<polyline points="72.0,166.0 188.0,133.0" stroke-width="1.6" fill="none" marker-end="url(#ah)"/>
+<line x1="251.0" y1="119.0" x2="302.0" y2="119.0" stroke-width="1.6" marker-end="url(#ah)"/>
+<circle cx="808.0" cy="119.0" r="38.0" stroke-width="1.6" fill="none"/>
+<line x1="672.0" y1="119.0" x2="768.0" y2="119.0" stroke-width="1.6" marker-end="url(#ah)"/>
+<polyline points="838.0,103.0 912.0,62.0" stroke-width="1.6" fill="none" marker-end="url(#ah)"/>
+<polyline points="838.0,135.0 912.0,178.0" stroke-width="1.6" fill="none" marker-end="url(#ah)"/>
+<circle cx="211.0" cy="310.0" r="38.0" stroke-width="1.6" fill="none"/>
+<polyline points="75.0,291.0 188.0,305.0" stroke-width="1.6" fill="none" marker-end="url(#ah)"/>
+<polyline points="235.0,296.0 322.0,262.0" stroke-width="1.6" fill="none" marker-end="url(#ah)"/>
+<polyline points="235.0,325.0 322.0,356.0" stroke-width="1.6" fill="none" marker-end="url(#ah)"/>
+<circle cx="808.0" cy="310.0" r="38.0" stroke-width="1.6" fill="none"/>
+<polyline points="672.0,262.0 786.0,297.0" stroke-width="1.6" fill="none" marker-end="url(#ah)"/>
+<polyline points="670.0,366.0 786.0,325.0" stroke-width="1.6" fill="none" marker-end="url(#ah)"/>
+<line x1="848.0" y1="310.0" x2="908.0" y2="310.0" stroke-width="1.6" marker-end="url(#ah)"/>
+<circle cx="211.0" cy="457.0" r="38.0" stroke-width="1.6" fill="none"/>
+<polyline points="75.0,420.0 188.0,449.0" stroke-width="1.6" fill="none" marker-end="url(#ah)"/>
+<polyline points="72.0,542.0 188.0,470.0" stroke-width="1.6" fill="none" marker-end="url(#ah)"/>
+<line x1="251.0" y1="457.0" x2="302.0" y2="457.0" stroke-width="1.6" marker-end="url(#ah)"/>
+<circle cx="808.0" cy="457.0" r="38.0" stroke-width="1.6" fill="none"/>
+<line x1="672.0" y1="457.0" x2="768.0" y2="457.0" stroke-width="1.6" marker-end="url(#ah)"/>
+<polyline points="837.0,441.0 912.0,402.0" stroke-width="1.6" fill="none" marker-end="url(#ah)"/>
+<polyline points="837.0,473.0 912.0,514.0" stroke-width="1.6" fill="none" marker-end="url(#ah)"/>
+</g>
+<text x="62.0" y="52.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="26" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">A</text>
+<text x="56.0" y="178.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="26" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">B</text>
+<text x="147.0" y="114.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="34" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">*</text>
+<text x="306.0" y="100.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="26" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">C</text>
+<text x="357.0" y="94.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="26" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">数据A和数据B同时输</text>
+<text x="357.0" y="128.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="26" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">入才能变换成数据C</text>
+<text x="660.0" y="92.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="26" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">A</text>
+<text x="853.0" y="119.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="30" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">+</text>
+<text x="884.0" y="56.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="26" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">B</text>
+<text x="884.0" y="182.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="26" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">C</text>
+<text x="961.0" y="90.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="26" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">数据A变换成数据B或数据C</text>
+<text x="961.0" y="124.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="26" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">或数据B和数据C，其中“+”</text>
+<text x="961.0" y="158.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="26" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">号可以省略</text>
+<text x="68.0" y="270.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="26" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">A</text>
+<text x="258.0" y="302.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="34" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">*</text>
+<text x="316.0" y="240.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="26" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">B</text>
+<text x="316.0" y="372.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="26" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">C</text>
+<text x="357.0" y="285.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="26" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">数据A变换成数据B</text>
+<text x="357.0" y="319.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="26" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">和数据C</text>
+<text x="662.0" y="246.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="26" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">A</text>
+<text x="658.0" y="388.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="26" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">B</text>
+<text x="746.0" y="310.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="32" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">⊕</text>
+<text x="912.0" y="298.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="26" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">C</text>
+<text x="961.0" y="268.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="26" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">数据A或数据B（但不能</text>
+<text x="961.0" y="302.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="26" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">A、B同时）输入时变换</text>
+<text x="961.0" y="336.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="26" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">成数据C</text>
+<text x="66.0" y="412.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="26" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">A</text>
+<text x="66.0" y="548.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="26" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">B</text>
+<text x="147.0" y="456.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="30" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">+</text>
+<text x="306.0" y="438.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="26" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">C</text>
+<text x="357.0" y="425.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="26" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">数据A或数据B或数据</text>
+<text x="357.0" y="459.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="26" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">A、数据B同时输入变</text>
+<text x="357.0" y="493.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="26" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">换成数据C，其中，</text>
+<text x="357.0" y="526.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="26" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">“+”号可以省略</text>
+<text x="660.0" y="440.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="26" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">A</text>
+<text x="852.0" y="457.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="32" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">⊕</text>
+<text x="884.0" y="396.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="26" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">B</text>
+<text x="884.0" y="520.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="26" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">C</text>
+<text x="961.0" y="446.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="26" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">数据A变换成数据B或数</text>
+<text x="961.0" y="480.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="26" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">据C，但不能变换成数据</text>
+<text x="961.0" y="514.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="26" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">B和数据C</text>
+</svg>

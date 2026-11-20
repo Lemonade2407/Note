@@ -1,0 +1,140 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="724" viewBox="0 0 1024 724">
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9.2" refY="5" markerWidth="6.5" markerHeight="6.5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2b2b2b"/></marker></defs>
+<rect x="0" y="0" width="1024" height="724" fill="#ffffff"/>
+<g stroke="#2b2b2b" fill="none" stroke-linecap="round" stroke-linejoin="round">
+<polyline points="42.0,31.0 65.1,52.0 42.0,73.0" stroke-width="12.6" fill="#1a9db8"/>
+<polyline points="72.2,31.0 95.3,52.0 72.2,73.0" stroke-width="12.6" fill="#1a9db8"/>
+<circle cx="720.0" cy="45.0" r="23.0" stroke-width="1.0" fill="#1a5fa8"/>
+<circle cx="720.0" cy="45.0" r="18.0" stroke-width="0.8" fill="none"/>
+<rect x="128.0" y="287.0" width="353.0" height="305.0" stroke-width="1.6" fill="none"/>
+<ellipse cx="237.0" cy="332.0" rx="41.0" ry="15.0" stroke-width="1.4" fill="none"/>
+<ellipse cx="237.0" cy="378.0" rx="41.0" ry="16.0" stroke-width="1.4" fill="none"/>
+<ellipse cx="239.0" cy="435.0" rx="41.0" ry="15.0" stroke-width="1.4" fill="none"/>
+<ellipse cx="244.0" cy="501.0" rx="41.0" ry="16.0" stroke-width="1.4" fill="none"/>
+<ellipse cx="403.0" cy="429.0" rx="41.0" ry="15.0" stroke-width="1.4" fill="none"/>
+<ellipse cx="411.0" cy="475.0" rx="40.0" ry="15.0" stroke-width="1.4" fill="none"/>
+<ellipse cx="412.0" cy="513.0" rx="40.0" ry="15.0" stroke-width="1.4" fill="none"/>
+<ellipse cx="286.0" cy="566.0" rx="40.0" ry="15.0" stroke-width="1.4" fill="none"/>
+<ellipse cx="413.0" cy="566.0" rx="40.0" ry="15.0" stroke-width="1.4" fill="none"/>
+<circle cx="65.0" cy="309.0" r="7.0" stroke-width="1.4" fill="none"/>
+<line x1="65.0" y1="316.0" x2="65.0" y2="337.0" stroke-width="1.4"/>
+<line x1="51.0" y1="323.0" x2="79.0" y2="323.0" stroke-width="1.4"/>
+<line x1="65.0" y1="337.0" x2="53.0" y2="351.0" stroke-width="1.4"/>
+<line x1="65.0" y1="337.0" x2="77.0" y2="351.0" stroke-width="1.4"/>
+<circle cx="65.0" cy="421.0" r="7.0" stroke-width="1.4" fill="none"/>
+<line x1="65.0" y1="428.0" x2="65.0" y2="449.0" stroke-width="1.4"/>
+<line x1="51.0" y1="435.0" x2="79.0" y2="435.0" stroke-width="1.4"/>
+<line x1="65.0" y1="449.0" x2="53.0" y2="463.0" stroke-width="1.4"/>
+<line x1="65.0" y1="449.0" x2="77.0" y2="463.0" stroke-width="1.4"/>
+<circle cx="65.0" cy="525.0" r="7.0" stroke-width="1.4" fill="none"/>
+<line x1="65.0" y1="532.0" x2="65.0" y2="553.0" stroke-width="1.4"/>
+<line x1="51.0" y1="539.0" x2="79.0" y2="539.0" stroke-width="1.4"/>
+<line x1="65.0" y1="553.0" x2="53.0" y2="567.0" stroke-width="1.4"/>
+<line x1="65.0" y1="553.0" x2="77.0" y2="567.0" stroke-width="1.4"/>
+<line x1="79.0" y1="323.0" x2="196.0" y2="332.0" stroke-width="1.4"/>
+<line x1="79.0" y1="323.0" x2="196.0" y2="378.0" stroke-width="1.4"/>
+<line x1="79.0" y1="435.0" x2="198.0" y2="435.0" stroke-width="1.4"/>
+<line x1="79.0" y1="539.0" x2="203.0" y2="501.0" stroke-width="1.4"/>
+<line x1="239.0" y1="450.0" x2="241.0" y2="484.0" stroke-width="1.3" stroke-dasharray="5,4" marker-end="url(#ah)"/>
+<line x1="378.0" y1="439.0" x2="286.0" y2="491.0" stroke-width="1.3" stroke-dasharray="5,4" marker-end="url(#ah)"/>
+<line x1="370.0" y1="475.0" x2="285.0" y2="499.0" stroke-width="1.4" marker-end="url(#ah)"/>
+<line x1="372.0" y1="513.0" x2="285.0" y2="499.0" stroke-width="1.4" marker-end="url(#ah)"/>
+<line x1="286.0" y1="551.0" x2="285.0" y2="499.0" stroke-width="1.4" marker-end="url(#ah)"/>
+<line x1="373.0" y1="566.0" x2="285.0" y2="499.0" stroke-width="1.4" marker-end="url(#ah)"/>
+<circle cx="516.0" cy="118.0" r="7.0" stroke-width="1.4" fill="none"/>
+<line x1="516.0" y1="125.0" x2="516.0" y2="145.0" stroke-width="1.4"/>
+<line x1="502.0" y1="134.0" x2="530.0" y2="134.0" stroke-width="1.4"/>
+<line x1="516.0" y1="145.0" x2="504.0" y2="158.0" stroke-width="1.4"/>
+<line x1="516.0" y1="145.0" x2="528.0" y2="158.0" stroke-width="1.4"/>
+<rect x="645.0" y="118.0" width="63.0" height="29.0" stroke-width="1.2" fill="none"/>
+<rect x="799.0" y="118.0" width="65.0" height="29.0" stroke-width="1.2" fill="none"/>
+<line x1="516.0" y1="160.0" x2="516.0" y2="700.0" stroke-width="1.0"/>
+<line x1="672.0" y1="160.0" x2="672.0" y2="700.0" stroke-width="1.0"/>
+<line x1="822.0" y1="160.0" x2="822.0" y2="700.0" stroke-width="1.0"/>
+<rect x="509.0" y="184.0" width="15.0" height="176.0" stroke-width="1.2" fill="#ffffff"/>
+<rect x="667.0" y="184.0" width="13.0" height="176.0" stroke-width="1.2" fill="#ffffff"/>
+<rect x="816.0" y="199.0" width="15.0" height="50.0" stroke-width="1.2" fill="#ffffff"/>
+<rect x="509.0" y="384.0" width="15.0" height="85.0" stroke-width="1.2" fill="#ffffff"/>
+<rect x="667.0" y="375.0" width="15.0" height="159.0" stroke-width="1.2" fill="#ffffff"/>
+<rect x="816.0" y="378.0" width="15.0" height="50.0" stroke-width="1.2" fill="#ffffff"/>
+<rect x="509.0" y="496.0" width="15.0" height="59.0" stroke-width="1.2" fill="#ffffff"/>
+<rect x="667.0" y="558.0" width="17.0" height="138.0" stroke-width="1.2" fill="#ffffff"/>
+<rect x="816.0" y="490.0" width="15.0" height="29.0" stroke-width="1.2" fill="#ffffff"/>
+<rect x="509.0" y="563.0" width="15.0" height="133.0" stroke-width="1.2" fill="#ffffff"/>
+<line x1="505.0" y1="204.0" x2="666.0" y2="204.0" stroke-width="1.2" marker-end="url(#ah)"/>
+<line x1="682.0" y1="212.0" x2="814.0" y2="212.0" stroke-width="1.2" marker-end="url(#ah)"/>
+<line x1="814.0" y1="246.0" x2="682.0" y2="246.0" stroke-width="1.2" marker-end="url(#ah)"/>
+<line x1="666.0" y1="262.0" x2="529.0" y2="262.0" stroke-width="1.2" marker-end="url(#ah)"/>
+<line x1="529.0" y1="288.0" x2="666.0" y2="288.0" stroke-width="1.2" marker-end="url(#ah)"/>
+<line x1="666.0" y1="310.0" x2="529.0" y2="310.0" stroke-width="1.2" marker-end="url(#ah)"/>
+<line x1="666.0" y1="358.0" x2="529.0" y2="358.0" stroke-width="1.2" marker-end="url(#ah)"/>
+<line x1="814.0" y1="292.0" x2="872.0" y2="292.0" stroke-width="1.2" stroke-dasharray="5,4" marker-end="url(#ah)"/>
+<rect x="871.0" y="275.0" width="100.0" height="36.0" stroke-width="1.2" fill="#e8e8e8"/>
+<line x1="505.0" y1="386.0" x2="666.0" y2="386.0" stroke-width="1.2" marker-end="url(#ah)"/>
+<line x1="682.0" y1="392.0" x2="814.0" y2="392.0" stroke-width="1.2" marker-end="url(#ah)"/>
+<line x1="814.0" y1="420.0" x2="682.0" y2="420.0" stroke-width="1.2" marker-end="url(#ah)"/>
+<line x1="666.0" y1="452.0" x2="529.0" y2="452.0" stroke-width="1.2" marker-end="url(#ah)"/>
+<line x1="814.0" y1="440.0" x2="872.0" y2="440.0" stroke-width="1.2" stroke-dasharray="5,4" marker-end="url(#ah)"/>
+<rect x="871.0" y="426.0" width="100.0" height="34.0" stroke-width="1.2" fill="#e8e8e8"/>
+<line x1="529.0" y1="466.0" x2="666.0" y2="466.0" stroke-width="1.2" marker-end="url(#ah)"/>
+<line x1="682.0" y1="492.0" x2="814.0" y2="492.0" stroke-width="1.2" marker-end="url(#ah)"/>
+<line x1="814.0" y1="520.0" x2="682.0" y2="520.0" stroke-width="1.2" marker-end="url(#ah)"/>
+<line x1="666.0" y1="562.0" x2="529.0" y2="562.0" stroke-width="1.2" marker-end="url(#ah)"/>
+<line x1="666.0" y1="590.0" x2="529.0" y2="590.0" stroke-width="1.2" marker-end="url(#ah)"/>
+<line x1="529.0" y1="616.0" x2="666.0" y2="616.0" stroke-width="1.2" marker-end="url(#ah)"/>
+<line x1="814.0" y1="612.0" x2="872.0" y2="612.0" stroke-width="1.2" stroke-dasharray="5,4" marker-end="url(#ah)"/>
+<rect x="871.0" y="594.0" width="100.0" height="38.0" stroke-width="1.2" fill="#e8e8e8"/>
+<line x1="666.0" y1="640.0" x2="529.0" y2="640.0" stroke-width="1.2" marker-end="url(#ah)"/>
+<line x1="529.0" y1="660.0" x2="666.0" y2="660.0" stroke-width="1.2" marker-end="url(#ah)"/>
+<line x1="666.0" y1="690.0" x2="529.0" y2="690.0" stroke-width="1.2" marker-end="url(#ah)"/>
+</g>
+<text x="148.0" y="52.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="44" text-anchor="start" dominant-baseline="central" fill="#17869c" font-weight="bold">需求的描述方法</text>
+<text x="720.0" y="46.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="20.0" text-anchor="middle" dominant-baseline="central" fill="#ffffff" font-weight="bold">B</text>
+<text x="720.0" y="58.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="5.4" text-anchor="middle" dominant-baseline="central" fill="#ffffff">BJUT</text>
+<text x="752.0" y="36.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="21.0" text-anchor="start" dominant-baseline="central" fill="#17869c" font-weight="bold">北京工业大学</text>
+<text x="752.0" y="56.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="8.0" text-anchor="start" dominant-baseline="central" fill="#17869c">BEIJINGUNIVERSITYOFTECHNOLOGY</text>
+<text x="104.0" y="164.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="38" text-anchor="start" dominant-baseline="central" fill="#2b2b2b" font-weight="bold">图形模型</text>
+<text x="306.0" y="309.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="18.6" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b" font-weight="bold">ATM Server</text>
+<text x="237.0" y="332.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="12" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">服务启动</text>
+<text x="237.0" y="378.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="12" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">服务停止</text>
+<text x="239.0" y="435.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="12" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">创建会话</text>
+<text x="244.0" y="501.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="12" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">菜单事务</text>
+<text x="403.0" y="429.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="12" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">错误处理</text>
+<text x="411.0" y="475.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="12" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">查询</text>
+<text x="412.0" y="513.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="12" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">转账</text>
+<text x="286.0" y="566.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="12" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">取款</text>
+<text x="413.0" y="566.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="12" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">存款</text>
+<text x="65.0" y="363.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="11.040000000000001" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">管理员</text>
+<text x="65.0" y="475.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="11.040000000000001" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">客户</text>
+<text x="65.0" y="579.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="11.040000000000001" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">银行</text>
+<text x="232.0" y="467.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="10.8" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">&lt;&lt;include&gt;&gt;</text>
+<text x="336.0" y="467.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="10.8" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">&lt;&lt;extend&gt;&gt;</text>
+<text x="676.0" y="132.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">ATM</text>
+<text x="831.0" y="132.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="14" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">Database</text>
+<text x="585.5" y="190.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">Card</text>
+<text x="748.0" y="198.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">Card number</text>
+<text x="748.0" y="232.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">Card OK</text>
+<text x="597.5" y="248.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">PIN request</text>
+<text x="597.5" y="274.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">PIN</text>
+<text x="597.5" y="296.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">Option menu</text>
+<text x="597.0" y="326.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="13" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">&lt;&lt;exception&gt;&gt;</text>
+<text x="597.0" y="343.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="14" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">invalid card</text>
+<text x="921.0" y="293.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="12" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">Validate card</text>
+<text x="585.5" y="372.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">Withdraw request</text>
+<text x="748.0" y="378.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">Balance request</text>
+<text x="748.0" y="406.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">Balance</text>
+<text x="597.5" y="438.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">Amount request</text>
+<text x="921.0" y="443.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="12" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">Handle request</text>
+<text x="597.5" y="452.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">Amount</text>
+<text x="748.0" y="478.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">Debit (amount)</text>
+<text x="748.0" y="506.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">Debit response</text>
+<text x="597.0" y="530.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="13" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">&lt;&lt;exception&gt;&gt;</text>
+<text x="597.0" y="547.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="14" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">insufficient cash</text>
+<text x="597.5" y="576.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">Card</text>
+<text x="597.5" y="602.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">Card removed</text>
+<text x="921.0" y="606.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="12" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">Complete</text>
+<text x="921.0" y="620.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="12" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">transaction</text>
+<text x="597.5" y="626.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">Cash</text>
+<text x="597.5" y="646.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">Cash removed</text>
+<text x="597.5" y="676.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">Receipt</text>
+</svg>

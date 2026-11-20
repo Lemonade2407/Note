@@ -1,0 +1,151 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1214" height="513" viewBox="0 0 1214 513">
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9.2" refY="5" markerWidth="6.5" markerHeight="6.5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2b2b2b"/></marker></defs>
+<rect x="0" y="0" width="1214" height="513" fill="#ffffff"/>
+<g stroke="#2b2b2b" fill="none" stroke-linecap="round" stroke-linejoin="round">
+<rect x="10.0" y="64.0" width="1180.0" height="431.0" stroke-width="1.6" fill="#ffffff"/>
+<rect x="10.0" y="64.0" width="1180.0" height="100.0" stroke-width="1.6" fill="#e8e8e8"/>
+<line x1="10.0" y1="164.0" x2="1190.0" y2="164.0" stroke-width="1.4"/>
+<line x1="10.0" y1="206.0" x2="1190.0" y2="206.0" stroke-width="1.4"/>
+<line x1="10.0" y1="247.0" x2="1190.0" y2="247.0" stroke-width="1.4"/>
+<line x1="10.0" y1="289.0" x2="1190.0" y2="289.0" stroke-width="1.4"/>
+<line x1="10.0" y1="330.0" x2="1190.0" y2="330.0" stroke-width="1.4"/>
+<line x1="10.0" y1="371.0" x2="1190.0" y2="371.0" stroke-width="1.4"/>
+<line x1="10.0" y1="413.0" x2="1190.0" y2="413.0" stroke-width="1.4"/>
+<line x1="10.0" y1="454.0" x2="1190.0" y2="454.0" stroke-width="1.4"/>
+<line x1="368.0" y1="64.0" x2="368.0" y2="495.0" stroke-width="1.4"/>
+<line x1="718.9" y1="335.5" x2="732.9" y2="335.5" stroke-width="1.5"/>
+<line x1="704.9" y1="377.0" x2="718.9" y2="377.0" stroke-width="1.5"/>
+<line x1="704.9" y1="418.5" x2="718.9" y2="418.5" stroke-width="1.5"/>
+</g>
+<text x="189.0" y="90.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="26" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">判断位</text>
+<text x="132.5" y="140.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="26" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">y</text>
+<text x="143.7" y="146.8" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17.68" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">n-1</text>
+<text x="173.4" y="140.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="26" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">y</text>
+<text x="184.6" y="146.8" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17.68" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">n</text>
+<text x="194.5" y="140.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="26" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">y</text>
+<text x="205.7" y="146.8" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17.68" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">n+1</text>
+<text x="779.0" y="100.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="26" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">操　作　内　容</text>
+<text x="159.0" y="185.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="26" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">0</text>
+<text x="189.0" y="185.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="26" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">0</text>
+<text x="219.0" y="185.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="26" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">0</text>
+<text x="420.0" y="185.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="25" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">[z</text>
+<text x="444.8" y="191.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17.0" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">i+1</text>
+<text x="473.3" y="185.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="25" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">]</text>
+<text x="484.1" y="191.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17.0" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">补</text>
+<text x="501.1" y="185.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="25" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic"> = 2</text>
+<text x="553.8" y="177.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17.0" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">-2</text>
+<text x="572.9" y="185.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="25" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">[z</text>
+<text x="597.6" y="191.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17.0" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">i</text>
+<text x="607.1" y="185.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="25" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">]</text>
+<text x="617.9" y="191.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17.0" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">补</text>
+<text x="159.0" y="226.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="26" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">0</text>
+<text x="189.0" y="226.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="26" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">0</text>
+<text x="219.0" y="226.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="26" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">1</text>
+<text x="420.0" y="226.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="25" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">[z</text>
+<text x="444.8" y="233.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17.0" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">i+1</text>
+<text x="473.3" y="226.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="25" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">]</text>
+<text x="484.1" y="233.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17.0" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">补</text>
+<text x="501.1" y="226.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="25" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic"> = 2</text>
+<text x="553.8" y="219.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17.0" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">-2</text>
+<text x="572.9" y="226.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="25" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">[z</text>
+<text x="597.6" y="233.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17.0" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">i</text>
+<text x="607.1" y="226.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="25" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">]</text>
+<text x="617.9" y="233.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17.0" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">补</text>
+<text x="634.9" y="226.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="25" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic"> + [x]</text>
+<text x="715.6" y="233.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17.0" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">补</text>
+<text x="159.0" y="268.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="26" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">0</text>
+<text x="189.0" y="268.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="26" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">1</text>
+<text x="219.0" y="268.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="26" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">0</text>
+<text x="420.0" y="268.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="25" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">[z</text>
+<text x="444.8" y="274.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17.0" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">i+1</text>
+<text x="473.3" y="268.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="25" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">]</text>
+<text x="484.1" y="274.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17.0" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">补</text>
+<text x="501.1" y="268.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="25" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic"> = 2</text>
+<text x="553.8" y="260.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17.0" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">-2</text>
+<text x="572.9" y="268.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="25" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">[z</text>
+<text x="597.6" y="274.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17.0" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">i</text>
+<text x="607.1" y="268.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="25" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">]</text>
+<text x="617.9" y="274.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17.0" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">补</text>
+<text x="634.9" y="268.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="25" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic"> + [x]</text>
+<text x="715.6" y="274.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17.0" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">补</text>
+<text x="159.0" y="309.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="26" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">0</text>
+<text x="189.0" y="309.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="26" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">1</text>
+<text x="219.0" y="309.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="26" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">1</text>
+<text x="420.0" y="309.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="25" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">[z</text>
+<text x="444.8" y="316.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17.0" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">i+1</text>
+<text x="473.3" y="309.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="25" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">]</text>
+<text x="484.1" y="316.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17.0" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">补</text>
+<text x="501.1" y="309.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="25" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic"> = 2</text>
+<text x="553.8" y="302.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17.0" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">-2</text>
+<text x="572.9" y="309.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="25" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">[z</text>
+<text x="597.6" y="316.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17.0" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">i</text>
+<text x="607.1" y="309.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="25" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">]</text>
+<text x="617.9" y="316.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17.0" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">补</text>
+<text x="634.9" y="309.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="25" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic"> + 2[x]</text>
+<text x="729.6" y="316.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17.0" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">补</text>
+<text x="159.0" y="350.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="26" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">1</text>
+<text x="189.0" y="350.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="26" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">0</text>
+<text x="219.0" y="350.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="26" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">0</text>
+<text x="420.0" y="350.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="25" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">[z</text>
+<text x="444.8" y="357.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17.0" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">i+1</text>
+<text x="473.3" y="350.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="25" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">]</text>
+<text x="484.1" y="357.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17.0" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">补</text>
+<text x="501.1" y="350.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="25" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic"> = 2</text>
+<text x="553.8" y="343.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17.0" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">-2</text>
+<text x="572.9" y="350.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="25" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">[z</text>
+<text x="597.6" y="357.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17.0" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">i</text>
+<text x="607.1" y="350.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="25" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">]</text>
+<text x="617.9" y="357.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17.0" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">补</text>
+<text x="634.9" y="350.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="25" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic"> + 2[-</text>
+<text x="718.9" y="350.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="25" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">x</text>
+<text x="732.9" y="350.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="25" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">]</text>
+<text x="743.6" y="357.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17.0" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">补</text>
+<text x="159.0" y="392.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="26" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">1</text>
+<text x="189.0" y="392.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="26" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">0</text>
+<text x="219.0" y="392.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="26" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">1</text>
+<text x="420.0" y="392.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="25" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">[z</text>
+<text x="444.8" y="398.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17.0" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">i+1</text>
+<text x="473.3" y="392.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="25" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">]</text>
+<text x="484.1" y="398.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17.0" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">补</text>
+<text x="501.1" y="392.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="25" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic"> = 2</text>
+<text x="553.8" y="384.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17.0" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">-2</text>
+<text x="572.9" y="392.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="25" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">[z</text>
+<text x="597.6" y="398.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17.0" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">i</text>
+<text x="607.1" y="392.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="25" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">]</text>
+<text x="617.9" y="398.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17.0" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">补</text>
+<text x="634.9" y="392.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="25" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic"> + [-</text>
+<text x="704.9" y="392.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="25" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">x</text>
+<text x="718.9" y="392.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="25" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">]</text>
+<text x="729.6" y="398.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17.0" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">补</text>
+<text x="159.0" y="433.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="26" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">1</text>
+<text x="189.0" y="433.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="26" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">1</text>
+<text x="219.0" y="433.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="26" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">0</text>
+<text x="420.0" y="433.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="25" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">[z</text>
+<text x="444.8" y="440.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17.0" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">i+1</text>
+<text x="473.3" y="433.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="25" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">]</text>
+<text x="484.1" y="440.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17.0" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">补</text>
+<text x="501.1" y="433.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="25" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic"> = 2</text>
+<text x="553.8" y="426.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17.0" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">-2</text>
+<text x="572.9" y="433.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="25" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">[z</text>
+<text x="597.6" y="440.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17.0" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">i</text>
+<text x="607.1" y="433.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="25" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">]</text>
+<text x="617.9" y="440.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17.0" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">补</text>
+<text x="634.9" y="433.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="25" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic"> + [-</text>
+<text x="704.9" y="433.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="25" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">x</text>
+<text x="718.9" y="433.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="25" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">]</text>
+<text x="729.6" y="440.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17.0" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">补</text>
+<text x="159.0" y="474.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="26" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">1</text>
+<text x="189.0" y="474.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="26" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">1</text>
+<text x="219.0" y="474.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="26" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">1</text>
+<text x="420.0" y="474.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="25" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">[z</text>
+<text x="444.8" y="481.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17.0" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">i+1</text>
+<text x="473.3" y="474.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="25" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">]</text>
+<text x="484.1" y="481.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17.0" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">补</text>
+<text x="501.1" y="474.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="25" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic"> = 2</text>
+<text x="553.8" y="467.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17.0" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">-2</text>
+<text x="572.9" y="474.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="25" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">[z</text>
+<text x="597.6" y="481.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17.0" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">i</text>
+<text x="607.1" y="474.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="25" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">]</text>
+<text x="617.9" y="481.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17.0" text-anchor="start" dominant-baseline="central" fill="#111111" font-style="italic">补</text>
+<text x="607.0" y="36.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="26" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">表 6.18　补码两位乘的运算规则</text>
+</svg>

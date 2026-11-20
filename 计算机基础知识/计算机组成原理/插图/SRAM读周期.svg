@@ -1,0 +1,142 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="667" height="387" viewBox="0 0 667 387">
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9.2" refY="5" markerWidth="6.5" markerHeight="6.5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2b2b2b"/></marker></defs>
+<rect x="0" y="0" width="667" height="387" fill="#ffffff"/>
+<g stroke="#2b2b2b" fill="none" stroke-linecap="round" stroke-linejoin="round">
+<line x1="128.0" y1="59.0" x2="128.0" y2="289.0" stroke-width="1.0"/>
+<line x1="216.0" y1="167.0" x2="216.0" y2="301.0" stroke-width="1.0"/>
+<line x1="311.0" y1="80.0" x2="311.0" y2="245.0" stroke-width="1.0"/>
+<line x1="321.0" y1="80.0" x2="321.0" y2="245.0" stroke-width="1.0"/>
+<line x1="484.0" y1="58.0" x2="484.0" y2="245.0" stroke-width="1.0"/>
+<line x1="284.0" y1="231.0" x2="284.0" y2="324.0" stroke-width="1.0"/>
+<line x1="529.0" y1="195.0" x2="529.0" y2="245.0" stroke-width="1.0"/>
+<line x1="551.0" y1="236.0" x2="551.0" y2="314.0" stroke-width="1.0"/>
+<line x1="306.0" y1="70.0" x2="484.0" y2="70.0" stroke-width="1.1" marker-end="url(#ah)"/>
+<line x1="306.0" y1="70.0" x2="128.0" y2="70.0" stroke-width="1.1" marker-end="url(#ah)"/>
+<line x1="219.5" y1="94.0" x2="311.0" y2="94.0" stroke-width="1.1" marker-end="url(#ah)"/>
+<line x1="219.5" y1="94.0" x2="128.0" y2="94.0" stroke-width="1.1" marker-end="url(#ah)"/>
+<polyline points="90.0,104.0 114.0,104.0 128.0,115.0 142.0,126.0 470.0,126.0 484.0,115.0 498.0,104.0 600.0,104.0" stroke-width="1.4" fill="none"/>
+<polyline points="90.0,126.0 114.0,126.0 128.0,115.0 142.0,104.0 470.0,104.0 484.0,115.0 498.0,126.0 600.0,126.0" stroke-width="1.4" fill="none"/>
+<polyline points="89.0,169.0 208.0,169.0 224.0,191.0 306.0,191.0 322.0,169.0 600.0,169.0" stroke-width="1.4" fill="none"/>
+<line x1="89.0" y1="173.9" x2="89.0" y2="169.0" stroke-width="0.8"/>
+<line x1="89.4" y1="182.0" x2="97.5" y2="169.0" stroke-width="0.8"/>
+<line x1="97.9" y1="182.0" x2="106.0" y2="169.0" stroke-width="0.8"/>
+<line x1="106.4" y1="182.0" x2="114.5" y2="169.0" stroke-width="0.8"/>
+<line x1="114.9" y1="182.0" x2="123.0" y2="169.0" stroke-width="0.8"/>
+<line x1="123.4" y1="182.0" x2="131.5" y2="169.0" stroke-width="0.8"/>
+<line x1="131.9" y1="182.0" x2="140.0" y2="169.0" stroke-width="0.8"/>
+<line x1="140.4" y1="182.0" x2="148.5" y2="169.0" stroke-width="0.8"/>
+<line x1="148.9" y1="182.0" x2="157.0" y2="169.0" stroke-width="0.8"/>
+<line x1="157.4" y1="182.0" x2="165.5" y2="169.0" stroke-width="0.8"/>
+<line x1="165.9" y1="182.0" x2="174.0" y2="169.0" stroke-width="0.8"/>
+<line x1="174.4" y1="182.0" x2="182.5" y2="169.0" stroke-width="0.8"/>
+<line x1="182.9" y1="182.0" x2="191.0" y2="169.0" stroke-width="0.8"/>
+<line x1="191.4" y1="182.0" x2="199.5" y2="169.0" stroke-width="0.8"/>
+<line x1="199.9" y1="182.0" x2="208.0" y2="169.0" stroke-width="0.8"/>
+<line x1="322.0" y1="173.9" x2="322.0" y2="169.0" stroke-width="0.8"/>
+<line x1="322.4" y1="182.0" x2="330.5" y2="169.0" stroke-width="0.8"/>
+<line x1="330.9" y1="182.0" x2="339.0" y2="169.0" stroke-width="0.8"/>
+<line x1="339.4" y1="182.0" x2="347.5" y2="169.0" stroke-width="0.8"/>
+<line x1="347.9" y1="182.0" x2="356.0" y2="169.0" stroke-width="0.8"/>
+<line x1="356.4" y1="182.0" x2="364.5" y2="169.0" stroke-width="0.8"/>
+<line x1="364.9" y1="182.0" x2="373.0" y2="169.0" stroke-width="0.8"/>
+<line x1="373.4" y1="182.0" x2="381.5" y2="169.0" stroke-width="0.8"/>
+<line x1="381.9" y1="182.0" x2="390.0" y2="169.0" stroke-width="0.8"/>
+<line x1="390.4" y1="182.0" x2="398.5" y2="169.0" stroke-width="0.8"/>
+<line x1="398.9" y1="182.0" x2="407.0" y2="169.0" stroke-width="0.8"/>
+<line x1="407.4" y1="182.0" x2="415.5" y2="169.0" stroke-width="0.8"/>
+<line x1="415.9" y1="182.0" x2="424.0" y2="169.0" stroke-width="0.8"/>
+<line x1="424.4" y1="182.0" x2="432.5" y2="169.0" stroke-width="0.8"/>
+<line x1="432.9" y1="182.0" x2="441.0" y2="169.0" stroke-width="0.8"/>
+<line x1="441.4" y1="182.0" x2="449.5" y2="169.0" stroke-width="0.8"/>
+<line x1="449.9" y1="182.0" x2="458.0" y2="169.0" stroke-width="0.8"/>
+<line x1="458.4" y1="182.0" x2="466.5" y2="169.0" stroke-width="0.8"/>
+<line x1="466.9" y1="182.0" x2="475.0" y2="169.0" stroke-width="0.8"/>
+<line x1="475.4" y1="182.0" x2="483.5" y2="169.0" stroke-width="0.8"/>
+<line x1="483.9" y1="182.0" x2="492.0" y2="169.0" stroke-width="0.8"/>
+<line x1="492.4" y1="182.0" x2="500.5" y2="169.0" stroke-width="0.8"/>
+<line x1="500.9" y1="182.0" x2="509.0" y2="169.0" stroke-width="0.8"/>
+<line x1="509.4" y1="182.0" x2="517.5" y2="169.0" stroke-width="0.8"/>
+<line x1="517.9" y1="182.0" x2="526.0" y2="169.0" stroke-width="0.8"/>
+<line x1="526.4" y1="182.0" x2="534.5" y2="169.0" stroke-width="0.8"/>
+<line x1="534.9" y1="182.0" x2="543.0" y2="169.0" stroke-width="0.8"/>
+<line x1="543.4" y1="182.0" x2="551.5" y2="169.0" stroke-width="0.8"/>
+<line x1="551.9" y1="182.0" x2="560.0" y2="169.0" stroke-width="0.8"/>
+<line x1="560.4" y1="182.0" x2="568.5" y2="169.0" stroke-width="0.8"/>
+<line x1="568.9" y1="182.0" x2="577.0" y2="169.0" stroke-width="0.8"/>
+<line x1="577.4" y1="182.0" x2="585.5" y2="169.0" stroke-width="0.8"/>
+<line x1="585.9" y1="182.0" x2="594.0" y2="169.0" stroke-width="0.8"/>
+<line x1="594.4" y1="182.0" x2="600.0" y2="169.0" stroke-width="0.8"/>
+<line x1="63.6" y1="170.7" x2="80.4" y2="170.7" stroke-width="1.0"/>
+<line x1="265.0" y1="218.0" x2="306.0" y2="218.0" stroke-width="1.1" marker-end="url(#ah)"/>
+<line x1="265.0" y1="218.0" x2="224.0" y2="218.0" stroke-width="1.1" marker-end="url(#ah)"/>
+<line x1="425.0" y1="163.0" x2="335.0" y2="163.0" stroke-width="1.0" marker-end="url(#ah)"/>
+<line x1="89.0" y1="256.0" x2="300.0" y2="256.0" stroke-width="1.4"/>
+<line x1="89.0" y1="256.0" x2="97.7" y2="242.0" stroke-width="0.8"/>
+<line x1="97.5" y1="256.0" x2="106.2" y2="242.0" stroke-width="0.8"/>
+<line x1="106.0" y1="256.0" x2="114.7" y2="242.0" stroke-width="0.8"/>
+<line x1="114.5" y1="256.0" x2="123.2" y2="242.0" stroke-width="0.8"/>
+<line x1="123.0" y1="256.0" x2="131.7" y2="242.0" stroke-width="0.8"/>
+<line x1="131.5" y1="256.0" x2="140.2" y2="242.0" stroke-width="0.8"/>
+<line x1="140.0" y1="256.0" x2="148.7" y2="242.0" stroke-width="0.8"/>
+<line x1="148.5" y1="256.0" x2="157.2" y2="242.0" stroke-width="0.8"/>
+<line x1="157.0" y1="256.0" x2="165.7" y2="242.0" stroke-width="0.8"/>
+<line x1="165.5" y1="256.0" x2="174.2" y2="242.0" stroke-width="0.8"/>
+<line x1="174.0" y1="256.0" x2="182.7" y2="242.0" stroke-width="0.8"/>
+<line x1="182.5" y1="256.0" x2="191.2" y2="242.0" stroke-width="0.8"/>
+<line x1="191.0" y1="256.0" x2="199.7" y2="242.0" stroke-width="0.8"/>
+<line x1="199.5" y1="256.0" x2="208.2" y2="242.0" stroke-width="0.8"/>
+<line x1="208.0" y1="256.0" x2="216.7" y2="242.0" stroke-width="0.8"/>
+<line x1="216.5" y1="256.0" x2="225.2" y2="242.0" stroke-width="0.8"/>
+<line x1="225.0" y1="256.0" x2="233.7" y2="242.0" stroke-width="0.8"/>
+<line x1="233.5" y1="256.0" x2="242.2" y2="242.0" stroke-width="0.8"/>
+<line x1="242.0" y1="256.0" x2="250.7" y2="242.0" stroke-width="0.8"/>
+<line x1="250.5" y1="256.0" x2="259.2" y2="242.0" stroke-width="0.8"/>
+<line x1="259.0" y1="256.0" x2="267.7" y2="242.0" stroke-width="0.8"/>
+<line x1="267.5" y1="256.0" x2="276.2" y2="242.0" stroke-width="0.8"/>
+<line x1="276.0" y1="256.0" x2="284.7" y2="242.0" stroke-width="0.8"/>
+<line x1="284.5" y1="256.0" x2="293.2" y2="242.0" stroke-width="0.8"/>
+<line x1="293.0" y1="256.0" x2="300.0" y2="242.0" stroke-width="0.8"/>
+<polyline points="300.0,256.0 311.0,244.0 520.0,244.0 531.0,256.0 520.0,268.0 311.0,268.0 300.0,256.0" stroke-width="1.4" fill="none"/>
+<line x1="531.0" y1="256.0" x2="600.0" y2="256.0" stroke-width="1.4"/>
+<line x1="531.0" y1="256.0" x2="539.7" y2="242.0" stroke-width="0.8"/>
+<line x1="539.5" y1="256.0" x2="548.2" y2="242.0" stroke-width="0.8"/>
+<line x1="548.0" y1="256.0" x2="556.7" y2="242.0" stroke-width="0.8"/>
+<line x1="556.5" y1="256.0" x2="565.2" y2="242.0" stroke-width="0.8"/>
+<line x1="565.0" y1="256.0" x2="573.7" y2="242.0" stroke-width="0.8"/>
+<line x1="573.5" y1="256.0" x2="582.2" y2="242.0" stroke-width="0.8"/>
+<line x1="582.0" y1="256.0" x2="590.7" y2="242.0" stroke-width="0.8"/>
+<line x1="590.5" y1="256.0" x2="599.2" y2="242.0" stroke-width="0.8"/>
+<line x1="599.0" y1="256.0" x2="600.0" y2="242.0" stroke-width="0.8"/>
+<line x1="250.0" y1="280.0" x2="284.0" y2="280.0" stroke-width="1.1" marker-end="url(#ah)"/>
+<line x1="250.0" y1="280.0" x2="216.0" y2="280.0" stroke-width="1.1" marker-end="url(#ah)"/>
+<line x1="436.0" y1="291.0" x2="551.0" y2="291.0" stroke-width="1.1" marker-end="url(#ah)"/>
+<line x1="436.0" y1="291.0" x2="321.0" y2="291.0" stroke-width="1.1" marker-end="url(#ah)"/>
+<line x1="506.5" y1="219.0" x2="529.0" y2="219.0" stroke-width="1.1" marker-end="url(#ah)"/>
+<line x1="506.5" y1="219.0" x2="484.0" y2="219.0" stroke-width="1.1" marker-end="url(#ah)"/>
+<line x1="268.0" y1="307.0" x2="282.0" y2="307.0" stroke-width="1.0" marker-end="url(#ah)"/>
+<line x1="392.0" y1="307.0" x2="330.0" y2="307.0" stroke-width="1.0" marker-end="url(#ah)"/>
+</g>
+<text x="137.0" y="38.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="14" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">地址有效</text>
+<text x="492.0" y="38.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="14" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">地址失效</text>
+<text x="290.6" y="55.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="14" text-anchor="start" dominant-baseline="central" fill="#2b2b2b" font-style="italic">t</text>
+<text x="298.4" y="58.9" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="9.799999999999999" text-anchor="start" dominant-baseline="central" fill="#2b2b2b" font-style="italic">RC</text>
+<text x="207.3" y="81.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="14" text-anchor="start" dominant-baseline="central" fill="#2b2b2b" font-style="italic">t</text>
+<text x="215.2" y="84.9" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="9.799999999999999" text-anchor="start" dominant-baseline="central" fill="#2b2b2b" font-style="italic">A</text>
+<text x="72.0" y="115.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">A</text>
+<text x="72.0" y="180.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">CS</text>
+<text x="256.3" y="204.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="13" text-anchor="start" dominant-baseline="central" fill="#2b2b2b" font-style="italic">t</text>
+<text x="263.5" y="207.6" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="9.1" text-anchor="start" dominant-baseline="central" fill="#2b2b2b" font-style="italic">CO</text>
+<text x="432.0" y="157.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="13" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">片选失效</text>
+<text x="52.0" y="256.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">D</text>
+<text x="60.4" y="260.2" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="10.5" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">OUT</text>
+<text x="241.3" y="268.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="13" text-anchor="start" dominant-baseline="central" fill="#2b2b2b" font-style="italic">t</text>
+<text x="248.5" y="271.6" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="9.1" text-anchor="start" dominant-baseline="central" fill="#2b2b2b" font-style="italic">CX</text>
+<text x="458.7" y="278.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="13" text-anchor="start" dominant-baseline="central" fill="#2b2b2b" font-style="italic">t</text>
+<text x="466.0" y="281.6" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="9.1" text-anchor="start" dominant-baseline="central" fill="#2b2b2b" font-style="italic">OTD</text>
+<text x="494.7" y="206.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="13" text-anchor="start" dominant-baseline="central" fill="#2b2b2b" font-style="italic">t</text>
+<text x="502.0" y="209.6" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="9.1" text-anchor="start" dominant-baseline="central" fill="#2b2b2b" font-style="italic">OHA</text>
+<text x="232.0" y="320.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="13" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">数据有效</text>
+<text x="398.0" y="312.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="13" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">数据稳定</text>
+<text x="560.0" y="305.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="13" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">高阻</text>
+<text x="300.0" y="355.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="14" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">图 4.15  2114 RAM 的读周期时序</text>
+</svg>

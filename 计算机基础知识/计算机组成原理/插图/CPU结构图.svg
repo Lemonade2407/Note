@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="884" height="376" viewBox="0 0 884 376">
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9.2" refY="5" markerWidth="6.5" markerHeight="6.5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2b2b2b"/></marker></defs>
+<rect x="0" y="0" width="884" height="376" fill="#ffffff"/>
+<g stroke="#2b2b2b" fill="none" stroke-linecap="round" stroke-linejoin="round">
+<rect x="56.0" y="98.0" width="179.0" height="179.0" stroke-width="1.6" fill="none"/>
+<rect x="81.0" y="130.0" width="58.0" height="56.0" stroke-width="1.5" fill="#ededed" rx="3"/>
+<rect x="151.0" y="130.0" width="60.0" height="56.0" stroke-width="1.5" fill="#ededed" rx="3"/>
+<rect x="82.0" y="204.0" width="57.0" height="56.0" stroke-width="1.5" fill="#ededed" rx="3"/>
+<rect x="151.0" y="204.0" width="60.0" height="56.0" stroke-width="1.5" fill="#ededed" rx="3"/>
+<line x1="288.0" y1="96.0" x2="288.0" y2="278.0" stroke-width="1.6"/>
+<line x1="302.0" y1="96.0" x2="302.0" y2="278.0" stroke-width="1.6"/>
+<line x1="339.0" y1="96.0" x2="339.0" y2="278.0" stroke-width="1.6"/>
+<line x1="353.0" y1="96.0" x2="353.0" y2="278.0" stroke-width="1.6"/>
+<line x1="391.0" y1="96.0" x2="391.0" y2="278.0" stroke-width="1.6"/>
+<line x1="405.0" y1="96.0" x2="405.0" y2="278.0" stroke-width="1.6"/>
+<polyline points="236.0,127.0 247.0,118.0 247.0,123.0 277.0,123.0 277.0,118.0 288.0,127.0 277.0,136.0 277.0,131.0 247.0,131.0 247.0,136.0 236.0,127.0" stroke-width="1.4" fill="none"/>
+<polyline points="236.0,160.0 247.0,151.0 247.0,156.0 328.0,156.0 328.0,151.0 339.0,160.0 328.0,169.0 328.0,164.0 247.0,164.0 247.0,169.0 236.0,160.0" stroke-width="1.4" fill="none"/>
+<polyline points="236.0,192.0 288.0,192.0 288.0,198.0 236.0,198.0 236.0,192.0" stroke-width="1.4" fill="none"/>
+<polyline points="302.0,192.0 339.0,192.0 339.0,198.0 302.0,198.0 302.0,192.0" stroke-width="1.4" fill="none"/>
+<polyline points="353.0,188.0 378.0,188.0 378.0,183.0 389.0,192.0 378.0,201.0 378.0,196.0 353.0,196.0 353.0,188.0" stroke-width="1.4" fill="none"/>
+<polyline points="287.0,281.0 290.0,289.0 298.0,290.0 338.0,290.0 344.0,297.0 350.0,290.0 390.0,290.0 397.0,289.0 398.0,281.0" stroke-width="1.3" fill="none"/>
+<rect x="475.0" y="31.0" width="182.0" height="229.0" stroke-width="1.3" fill="none" stroke-dasharray="14,4,3,4"/>
+<rect x="526.0" y="76.0" width="98.0" height="27.0" stroke-width="1.5" fill="#ededed" rx="3"/>
+<rect x="526.0" y="118.0" width="98.0" height="27.0" stroke-width="1.5" fill="#ededed" rx="3"/>
+<rect x="526.0" y="159.0" width="98.0" height="27.0" stroke-width="1.5" fill="#ededed" rx="3"/>
+<rect x="526.0" y="201.0" width="98.0" height="42.0" stroke-width="1.5" fill="#ededed" rx="3"/>
+<line x1="480.0" y1="89.0" x2="480.0" y2="222.0" stroke-width="1.4"/>
+<line x1="480.0" y1="89.0" x2="500.0" y2="89.0" stroke-width="1.4"/>
+<line x1="500.0" y1="89.0" x2="524.0" y2="89.0" stroke-width="1.4" marker-end="url(#ah)"/>
+<line x1="480.0" y1="131.0" x2="500.0" y2="131.0" stroke-width="1.4"/>
+<line x1="500.0" y1="131.0" x2="524.0" y2="131.0" stroke-width="1.4" marker-end="url(#ah)"/>
+<line x1="480.0" y1="172.0" x2="500.0" y2="172.0" stroke-width="1.4"/>
+<line x1="500.0" y1="172.0" x2="524.0" y2="172.0" stroke-width="1.4" marker-end="url(#ah)"/>
+<line x1="480.0" y1="222.0" x2="500.0" y2="222.0" stroke-width="1.4"/>
+<line x1="500.0" y1="222.0" x2="524.0" y2="222.0" stroke-width="1.4" marker-end="url(#ah)"/>
+<rect x="688.0" y="35.0" width="40.0" height="223.0" stroke-width="1.5" fill="#ffffff" rx="3"/>
+<rect x="792.0" y="35.0" width="62.0" height="152.0" stroke-width="1.5" fill="#ededed" rx="3"/>
+<rect x="793.0" y="217.0" width="62.0" height="40.0" stroke-width="1.5" fill="#ededed" rx="3"/>
+<rect x="793.0" y="276.0" width="62.0" height="45.0" stroke-width="1.5" fill="#ededed" rx="3"/>
+<polyline points="728.0,54.0 737.0,47.0 737.0,51.0 783.0,51.0 783.0,47.0 792.0,54.0 783.0,61.0 783.0,57.0 737.0,57.0 737.0,61.0 728.0,54.0" stroke-width="1.4" fill="none"/>
+<polyline points="728.0,74.0 737.0,67.0 737.0,71.0 783.0,71.0 783.0,67.0 792.0,74.0 783.0,81.0 783.0,77.0 737.0,77.0 737.0,81.0 728.0,74.0" stroke-width="1.4" fill="none"/>
+<polyline points="728.0,172.0 737.0,165.0 737.0,169.0 783.0,169.0 783.0,165.0 792.0,172.0 783.0,179.0 783.0,175.0 737.0,175.0 737.0,179.0 728.0,172.0" stroke-width="1.4" fill="none"/>
+<circle cx="760.0" cy="114.0" r="1.7" stroke-width="0.5" fill="#2b2b2b"/>
+<circle cx="760.0" cy="122.0" r="1.7" stroke-width="0.5" fill="#2b2b2b"/>
+<circle cx="760.0" cy="130.0" r="1.7" stroke-width="0.5" fill="#2b2b2b"/>
+<line x1="624.0" y1="89.0" x2="686.0" y2="89.0" stroke-width="1.4" marker-end="url(#ah)"/>
+<line x1="624.0" y1="131.0" x2="686.0" y2="131.0" stroke-width="1.4" marker-end="url(#ah)"/>
+<line x1="624.0" y1="172.0" x2="686.0" y2="172.0" stroke-width="1.4" marker-end="url(#ah)"/>
+<line x1="624.0" y1="222.0" x2="686.0" y2="222.0" stroke-width="1.4" marker-end="url(#ah)"/>
+<polyline points="822.0,189.0 815.0,197.0 819.0,197.0 819.0,207.0 815.0,207.0 822.0,215.0 829.0,207.0 825.0,207.0 825.0,197.0 829.0,197.0 822.0,189.0" stroke-width="1.4" fill="none"/>
+<polyline points="819.0,259.0 819.0,266.0 815.0,266.0 822.0,274.0 829.0,266.0 825.0,266.0 825.0,259.0 819.0,259.0" stroke-width="1.4" fill="none"/>
+<polyline points="730.0,236.0 738.0,229.0 738.0,232.8 783.0,232.8 783.0,229.0 791.0,236.0 783.0,243.0 783.0,239.2 738.0,239.2 738.0,243.0 730.0,236.0" stroke-width="1.4" fill="none"/>
+<polyline points="756.8,310.0 756.8,191.0 753.0,191.0 760.0,183.0 767.0,191.0 763.2,191.0 763.2,310.0 756.8,310.0" stroke-width="1.4" fill="none"/>
+<polyline points="765.0,290.0 772.0,284.0 772.0,287.0 785.0,287.0 785.0,284.0 792.0,290.0 785.0,296.0 785.0,293.0 772.0,293.0 772.0,296.0 765.0,290.0" stroke-width="1.4" fill="none"/>
+<polyline points="761.0,290.0 761.0,312.0 769.0,312.0 769.0,290.0 761.0,290.0" stroke-width="1.4" fill="none"/>
+<polyline points="575.0,308.0 765.0,308.0 765.0,316.0 575.0,316.0 575.0,308.0" stroke-width="1.4" fill="none"/>
+<polyline points="571.0,272.0 571.0,316.0 579.0,316.0 579.0,272.0 571.0,272.0" stroke-width="1.4" fill="none"/>
+<polyline points="566.0,275.0 575.0,259.0 584.0,275.0" stroke-width="1.4" fill="none"/>
+</g>
+<text x="70.0" y="112.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">CPU</text>
+<text x="110.0" y="158.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">ALU</text>
+<text x="181.0" y="158.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="14" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">寄存器</text>
+<text x="110.5" y="223.2" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="14" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">中断</text>
+<text x="110.5" y="240.8" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="14" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">系统</text>
+<text x="181.0" y="232.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">CU</text>
+<text x="276.0" y="205.2" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="13" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">控</text>
+<text x="276.0" y="219.4" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="13" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">制</text>
+<text x="276.0" y="233.8" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="13" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">总</text>
+<text x="276.0" y="248.1" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="13" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">线</text>
+<text x="325.0" y="205.2" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="13" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">数</text>
+<text x="325.0" y="219.4" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="13" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">据</text>
+<text x="325.0" y="233.8" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="13" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">总</text>
+<text x="325.0" y="248.1" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="13" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">线</text>
+<text x="375.0" y="205.2" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="13" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">地</text>
+<text x="375.0" y="219.4" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="13" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">址</text>
+<text x="375.0" y="233.8" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="13" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">总</text>
+<text x="375.0" y="248.1" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="13" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">线</text>
+<text x="342.0" y="303.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="14" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">系统总线</text>
+<text x="240.0" y="330.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">图 8.1   使用系统总线的 CPU</text>
+<text x="562.0" y="52.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">ALU</text>
+<text x="575.0" y="89.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="14" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">状态标志</text>
+<text x="575.0" y="131.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="14" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">移位</text>
+<text x="575.0" y="172.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="14" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">取反</text>
+<text x="575.0" y="213.6" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="14" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">算术和</text>
+<text x="575.0" y="230.4" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="14" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">布尔逻辑</text>
+<text x="708.0" y="98.8" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="13" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">内</text>
+<text x="708.0" y="112.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="13" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">部</text>
+<text x="708.0" y="126.1" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="13" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">C</text>
+<text x="708.0" y="139.8" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="13" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">P</text>
+<text x="708.0" y="153.4" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="13" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">U</text>
+<text x="708.0" y="167.1" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="13" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">数</text>
+<text x="708.0" y="180.7" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="13" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">据</text>
+<text x="708.0" y="194.4" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="13" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">总</text>
+<text x="708.0" y="208.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="13" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">线</text>
+<text x="823.0" y="111.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="14" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">寄存器</text>
+<text x="824.0" y="237.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">CU</text>
+<text x="824.0" y="290.1" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="14" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">中断</text>
+<text x="824.0" y="306.9" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="14" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">系统</text>
+<text x="660.0" y="297.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="14" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">控制信号</text>
+<text x="700.0" y="326.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">图 8.2   CPU 的内部结构</text>
+</svg>

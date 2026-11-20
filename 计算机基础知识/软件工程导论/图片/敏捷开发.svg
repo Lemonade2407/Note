@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="724" viewBox="0 0 1024 724">
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9.2" refY="5" markerWidth="6.5" markerHeight="6.5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2b2b2b"/></marker></defs>
+<rect x="0" y="0" width="1024" height="724" fill="#ffffff"/>
+<g stroke="#2b2b2b" fill="none" stroke-linecap="round" stroke-linejoin="round">
+<polyline points="42.0,26.0 60.0,26.0 84.0,52.0 60.0,78.0 42.0,78.0 66.0,52.0" stroke-width="1.0" fill="#18A3C6"/>
+<polyline points="82.0,26.0 100.0,26.0 124.0,52.0 100.0,78.0 82.0,78.0 106.0,52.0" stroke-width="1.0" fill="#18A3C6"/>
+<circle cx="790.0" cy="46.0" r="26.0" stroke-width="2.6" fill="#FFFFFF"/>
+<circle cx="790.0" cy="46.0" r="20.0" stroke-width="1.0" fill="#FFFFFF"/>
+<rect x="103.0" y="150.0" width="9.0" height="40.0" stroke-width="0" fill="#1F5FA8"/>
+<polyline points="443.0,377.0 448.7,392.2 464.9,392.9 452.2,403.0 456.5,418.6 443.0,409.7 429.5,418.6 433.8,403.0 421.1,392.9 437.3,392.2" stroke-width="1.0" fill="#E00000"/>
+<polyline points="420.0,543.0 425.4,557.5 440.9,558.2 428.8,567.9 432.9,582.8 420.0,574.2 407.1,582.8 411.2,567.9 399.1,558.2 414.6,557.5" stroke-width="1.0" fill="#E00000"/>
+<polyline points="820.0,221.0 825.9,236.8 842.8,237.6 829.6,248.1 834.1,264.4 820.0,255.1 805.9,264.4 810.4,248.1 797.2,237.6 814.1,236.8" stroke-width="1.0" fill="#E00000"/>
+<polyline points="900.0,281.0 905.9,296.8 922.8,297.6 909.6,308.1 914.1,324.4 900.0,315.1 885.9,324.4 890.4,308.1 877.2,297.6 894.1,296.8" stroke-width="1.0" fill="#E00000"/>
+<polyline points="755.0,338.0 760.4,352.5 775.9,353.2 763.8,362.9 767.9,377.8 755.0,369.2 742.1,377.8 746.2,362.9 734.1,353.2 749.6,352.5" stroke-width="1.0" fill="#E00000"/>
+<polyline points="740.0,468.0 745.4,482.5 760.9,483.2 748.8,492.9 752.9,507.8 740.0,499.2 727.1,507.8 731.2,492.9 719.1,483.2 734.6,482.5" stroke-width="1.0" fill="#E00000"/>
+<polyline points="855.0,518.0 860.4,532.5 875.9,533.2 863.8,542.9 867.9,557.8 855.0,549.2 842.1,557.8 846.2,542.9 834.1,533.2 849.6,532.5" stroke-width="1.0" fill="#E00000"/>
+</g>
+<text x="158.0" y="55.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="42" text-anchor="start" dominant-baseline="central" fill="#18A3C6" font-weight="bold">过程改进</text>
+<text x="790.0" y="42.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="11" text-anchor="middle" dominant-baseline="central" fill="#18A3C6" font-weight="bold">BJUT</text>
+<text x="790.0" y="58.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="7" text-anchor="middle" dominant-baseline="central" fill="#18A3C6">1960</text>
+<text x="826.0" y="38.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="27" text-anchor="start" dominant-baseline="central" fill="#18A3C6" font-weight="bold">北京工业大学</text>
+<text x="828.0" y="65.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="8" text-anchor="start" dominant-baseline="central" fill="#1F5FA8">BEIJING UNIVERSITY OF TECHNOLOGY</text>
+<text x="125.0" y="170.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="31" text-anchor="start" dominant-baseline="central" fill="#2b2b2b" font-weight="bold">敏捷开发</text>
+<text x="120.0" y="265.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="26" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">开发周期末尾集中交付</text>
+<text x="120.0" y="313.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="26" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">坚持最初的计划和需求</text>
+<text x="120.0" y="361.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="26" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">开发团队与业务团队各自工作</text>
+<text x="120.0" y="409.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="26" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">团队成员自主决定工作方式</text>
+<text x="120.0" y="457.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="26" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">依赖邮件、文档、通讯工具</text>
+<text x="120.0" y="505.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="26" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">通过文档、报告等衡量进度</text>
+<text x="120.0" y="553.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="26" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">定期代码审查和代码重构</text>
+<text x="550.0" y="265.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="26" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">定期交付可用产品增量</text>
+<text x="550.0" y="313.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="26" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">定期回顾需求变化的响应策略</text>
+<text x="550.0" y="361.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="26" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">跨职能团队合作</text>
+<text x="550.0" y="409.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="26" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">严苛的监督和管理措施</text>
+<text x="550.0" y="457.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="26" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">强调直接沟通</text>
+<text x="550.0" y="505.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="26" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">以可工作的软件衡量进度</text>
+<text x="550.0" y="553.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="26" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">追求绝对进度</text>
+</svg>

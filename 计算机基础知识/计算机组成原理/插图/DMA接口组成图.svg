@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="707" height="570" viewBox="0 0 707 570">
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9.2" refY="5" markerWidth="6.5" markerHeight="6.5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2b2b2b"/></marker></defs>
+<rect x="0" y="0" width="707" height="570" fill="#ffffff"/>
+<g stroke="#2b2b2b" fill="none" stroke-linecap="round" stroke-linejoin="round">
+<polyline points="54.0,37.5 72.0,24.5 72.0,31.0 620.0,31.0 620.0,24.5 638.0,37.5 620.0,50.5 620.0,44.0 72.0,44.0 72.0,50.5 54.0,37.5" stroke-width="1.5" fill="none"/>
+<rect x="52.0" y="126.0" width="74.0" height="314.0" stroke-width="1.5" fill="#ffffff"/>
+<rect x="140.0" y="126.0" width="74.0" height="314.0" stroke-width="1.5" fill="#ffffff"/>
+<polyline points="89.0,44.0 79.0,58.0 84.5,58.0 84.5,112.0 79.0,112.0 89.0,126.0 99.0,112.0 93.5,112.0 93.5,58.0 99.0,58.0 89.0,44.0" stroke-width="1.4" fill="none"/>
+<polyline points="177.0,44.0 167.0,58.0 172.5,58.0 172.5,112.0 167.0,112.0 177.0,126.0 187.0,112.0 181.5,112.0 181.5,58.0 187.0,58.0 177.0,44.0" stroke-width="1.4" fill="none"/>
+<rect x="242.0" y="145.0" width="364.0" height="292.0" stroke-width="1.3" fill="none" stroke-dasharray="9,3,2,3"/>
+<line x1="277.0" y1="44.0" x2="277.0" y2="165.0" stroke-width="1.3"/>
+<line x1="277.0" y1="120.0" x2="277.0" y2="44.0" stroke-width="1.3" marker-end="url(#ah)"/>
+<line x1="298.0" y1="44.0" x2="298.0" y2="165.0" stroke-width="1.3"/>
+<line x1="298.0" y1="120.0" x2="298.0" y2="165.0" stroke-width="1.3" marker-end="url(#ah)"/>
+<line x1="395.0" y1="44.0" x2="395.0" y2="163.0" stroke-width="1.3"/>
+<line x1="395.0" y1="120.0" x2="395.0" y2="163.0" stroke-width="1.3" marker-end="url(#ah)"/>
+<line x1="433.0" y1="44.0" x2="433.0" y2="388.0" stroke-width="1.3"/>
+<line x1="520.0" y1="44.0" x2="520.0" y2="165.0" stroke-width="1.3"/>
+<line x1="520.0" y1="120.0" x2="520.0" y2="165.0" stroke-width="1.3" marker-end="url(#ah)"/>
+<line x1="433.0" y1="182.0" x2="495.0" y2="182.0" stroke-width="1.3" marker-end="url(#ah)"/>
+<line x1="433.0" y1="261.0" x2="495.0" y2="261.0" stroke-width="1.3" marker-end="url(#ah)"/>
+<line x1="433.0" y1="326.0" x2="495.0" y2="326.0" stroke-width="1.3" marker-end="url(#ah)"/>
+<polyline points="433.0,232.0 480.0,232.0 480.0,240.0" stroke-width="1.3" fill="none"/>
+<line x1="480.0" y1="236.0" x2="480.0" y2="244.0" stroke-width="1.3" marker-end="url(#ah)"/>
+<line x1="433.0" y1="370.0" x2="433.0" y2="388.0" stroke-width="1.3" marker-end="url(#ah)"/>
+<rect x="262.0" y="164.0" width="52.0" height="209.0" stroke-width="1.5" fill="#ffffff"/>
+<rect x="341.0" y="163.0" width="55.0" height="210.0" stroke-width="1.5" fill="#ffffff"/>
+<rect x="495.0" y="165.0" width="61.0" height="35.0" stroke-width="1.5" fill="#ffffff"/>
+<rect x="495.0" y="244.0" width="61.0" height="34.0" stroke-width="1.5" fill="#ffffff"/>
+<rect x="495.0" y="309.0" width="61.0" height="34.0" stroke-width="1.5" fill="#ffffff"/>
+<rect x="400.0" y="388.0" width="61.0" height="32.0" stroke-width="1.5" fill="#ffffff"/>
+<rect x="400.0" y="480.0" width="61.0" height="34.0" stroke-width="1.5" fill="#ffffff"/>
+<polyline points="430.0,420.0 421.0,433.0 425.5,433.0 425.5,467.0 421.0,467.0 430.0,480.0 439.0,467.0 434.5,467.0 434.5,433.0 439.0,433.0 430.0,420.0" stroke-width="1.4" fill="none"/>
+<polyline points="282.0,373.0 282.0,502.0 400.0,502.0" stroke-width="1.3" fill="none"/>
+<polyline points="297.0,373.0 297.0,492.0 400.0,492.0" stroke-width="1.3" fill="none"/>
+<line x1="360.0" y1="492.0" x2="400.0" y2="492.0" stroke-width="1.3" marker-end="url(#ah)"/>
+<line x1="340.0" y1="502.0" x2="400.0" y2="502.0" stroke-width="1.3" marker-end="url(#ah)"/>
+<circle cx="255.0" cy="140.0" r="10.0" stroke-width="1.2" fill="#ffffff"/>
+<circle cx="300.0" cy="140.0" r="10.0" stroke-width="1.2" fill="#ffffff"/>
+<circle cx="420.0" cy="140.0" r="10.0" stroke-width="1.2" fill="#ffffff"/>
+<circle cx="530.0" cy="140.0" r="10.0" stroke-width="1.2" fill="#ffffff"/>
+<circle cx="255.0" cy="405.0" r="10.0" stroke-width="1.2" fill="#ffffff"/>
+<circle cx="300.0" cy="405.0" r="10.0" stroke-width="1.2" fill="#ffffff"/>
+<circle cx="480.0" cy="452.0" r="10.0" stroke-width="1.2" fill="#ffffff"/>
+</g>
+<text x="89.0" y="255.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="21" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">主</text>
+<text x="89.0" y="340.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="21" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">存</text>
+<text x="177.0" y="283.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="20" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">CPU</text>
+<text x="545.0" y="396.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">DMA 接口</text>
+<text x="288.0" y="200.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">DMA</text>
+<text x="288.0" y="240.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">控</text>
+<text x="288.0" y="266.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">制</text>
+<text x="288.0" y="292.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">逻</text>
+<text x="288.0" y="318.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">辑</text>
+<text x="368.0" y="240.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">中</text>
+<text x="368.0" y="270.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">断</text>
+<text x="368.0" y="300.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">机</text>
+<text x="368.0" y="330.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">构</text>
+<text x="525.5" y="182.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">AR</text>
+<text x="525.5" y="261.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">WC</text>
+<text x="525.5" y="326.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">DAR</text>
+<text x="577.0" y="182.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">+1</text>
+<text x="577.0" y="261.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">+1</text>
+<text x="525.0" y="220.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="14" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">溢出信号</text>
+<text x="430.5" y="404.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">BR</text>
+<text x="430.5" y="497.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">设备</text>
+<text x="225.0" y="490.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">DACK</text>
+<text x="332.0" y="481.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">DREQ</text>
+<text x="240.0" y="90.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">HLDA</text>
+<text x="302.0" y="90.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">HRQ</text>
+<text x="385.0" y="66.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">中</text>
+<text x="385.0" y="86.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">断</text>
+<text x="385.0" y="106.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">请</text>
+<text x="385.0" y="126.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">求</text>
+<text x="455.0" y="90.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">数据线</text>
+<text x="530.0" y="90.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">地址线</text>
+<text x="255.0" y="140.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="12" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">4</text>
+<text x="300.0" y="140.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="12" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">3</text>
+<text x="420.0" y="140.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="12" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">7</text>
+<text x="530.0" y="140.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="12" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">5</text>
+<text x="255.0" y="405.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="12" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">6</text>
+<text x="300.0" y="405.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="12" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">2</text>
+<text x="480.0" y="452.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="12" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">1</text>
+<text x="355.0" y="540.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="19" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">图 5.47   简单的 DMA 接口组成原理图</text>
+</svg>

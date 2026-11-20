@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1092" height="616" viewBox="0 0 1092 616">
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9.2" refY="5" markerWidth="6.5" markerHeight="6.5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2b2b2b"/></marker></defs>
+<rect x="0" y="0" width="1092" height="616" fill="#ffffff"/>
+<g stroke="#2b2b2b" fill="none" stroke-linecap="round" stroke-linejoin="round">
+<polyline points="310.0,68.0 330.0,68.0 330.0,130.0 347.0,130.0 320.0,160.0 293.0,130.0 310.0,130.0 310.0,68.0" stroke-width="1.5" fill="#f0f0f0"/>
+<polyline points="310.0,180.0 330.0,180.0 330.0,232.0 347.0,232.0 320.0,262.0 293.0,232.0 310.0,232.0 310.0,180.0" stroke-width="1.5" fill="#f0f0f0"/>
+<line x1="311.0" y1="266.0" x2="311.0" y2="605.0" stroke-width="1.5" stroke-dasharray="7,6"/>
+<line x1="329.0" y1="266.0" x2="329.0" y2="605.0" stroke-width="1.5" stroke-dasharray="7,6"/>
+<line x1="311.0" y1="266.0" x2="329.0" y2="266.0" stroke-width="1.5"/>
+<line x1="311.0" y1="605.0" x2="329.0" y2="605.0" stroke-width="1.5"/>
+<line x1="292.0" y1="171.0" x2="604.0" y2="171.0" stroke-width="2.6"/>
+<line x1="604.0" y1="173.0" x2="604.0" y2="194.0" stroke-width="1.9" marker-end="url(#ah)"/>
+<rect x="447.0" y="195.0" width="315.0" height="47.0" stroke-width="1.6" fill="#ededed"/>
+<line x1="604.0" y1="242.0" x2="604.0" y2="261.0" stroke-width="1.9" marker-end="url(#ah)"/>
+<rect x="422.0" y="262.0" width="365.0" height="84.0" stroke-width="1.6" fill="#ededed"/>
+<line x1="604.0" y1="346.0" x2="604.0" y2="361.0" stroke-width="1.9" marker-end="url(#ah)"/>
+<rect x="447.0" y="362.0" width="315.0" height="49.0" stroke-width="1.6" fill="#ededed"/>
+<line x1="604.0" y1="411.0" x2="604.0" y2="442.0" stroke-width="1.9" marker-end="url(#ah)"/>
+<rect x="447.0" y="443.0" width="315.0" height="53.0" stroke-width="1.6" fill="#ededed"/>
+<polyline points="604.0,496.0 604.0,519.0 886.0,519.0" stroke-width="1.8" fill="none" marker-end="url(#ah)"/>
+<line x1="893.0" y1="78.0" x2="893.0" y2="493.0" stroke-width="1.5" stroke-dasharray="7,6"/>
+<line x1="919.0" y1="78.0" x2="919.0" y2="493.0" stroke-width="1.5" stroke-dasharray="7,6"/>
+<line x1="893.0" y1="78.0" x2="919.0" y2="78.0" stroke-width="1.5"/>
+<line x1="893.0" y1="493.0" x2="919.0" y2="493.0" stroke-width="1.5"/>
+<polyline points="893.0,528.0 919.0,528.0 919.0,570.0 933.0,570.0 906.0,600.0 879.0,570.0 893.0,570.0 893.0,528.0" stroke-width="1.5" fill="#f0f0f0"/>
+</g>
+<text x="322.0" y="37.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="26" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b" font-weight="bold">进程P0</text>
+<text x="562.0" y="37.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="26" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b" font-weight="bold">操作系统</text>
+<text x="905.0" y="45.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="26" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b" font-weight="bold">进程P1</text>
+<text x="250.0" y="116.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="26" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b" font-weight="bold">运行</text>
+<text x="182.0" y="208.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="25" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b" font-weight="bold">特殊的运行状态</text>
+<text x="246.0" y="398.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="26" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b" font-weight="bold">就绪</text>
+<text x="246.0" y="432.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="26" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b" font-weight="bold">或</text>
+<text x="246.0" y="466.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="26" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b" font-weight="bold">阻塞</text>
+<text x="415.0" y="139.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="26" text-anchor="start" dominant-baseline="central" fill="#2b2b2b" font-weight="bold">中断或系统调用</text>
+<text x="604.5" y="218.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="25" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b" font-weight="bold">中断处理或系统服务</text>
+<text x="604.5" y="286.6" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="24" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b" font-weight="bold">修改P0状态，状态信息保存到</text>
+<text x="604.5" y="321.4" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="24" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b" font-weight="bold">PCB0</text>
+<text x="604.5" y="386.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="25" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b" font-weight="bold">调度程序选中P1</text>
+<text x="604.5" y="469.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="24" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b" font-weight="bold">从PCB1读入状态信息</text>
+<text x="972.0" y="297.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="26" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b" font-weight="bold">就绪</text>
+<text x="996.0" y="557.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="26" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b" font-weight="bold">运行</text>
+</svg>

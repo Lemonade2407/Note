@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="500" viewBox="0 0 900 500">
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9.2" refY="5" markerWidth="6.5" markerHeight="6.5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2b2b2b"/></marker></defs>
+<rect x="0" y="0" width="900" height="500" fill="#ffffff"/>
+<g stroke="#2b2b2b" fill="none" stroke-linecap="round" stroke-linejoin="round">
+<rect x="170.0" y="30.0" width="66.0" height="40.0" stroke-width="1.3" fill="#ffffff"/>
+<rect x="246.0" y="30.0" width="66.0" height="40.0" stroke-width="1.3" fill="#ffffff"/>
+<rect x="322.0" y="30.0" width="66.0" height="40.0" stroke-width="1.3" fill="#ffffff"/>
+<rect x="398.0" y="30.0" width="66.0" height="40.0" stroke-width="1.3" fill="#ededed"/>
+<rect x="474.0" y="30.0" width="66.0" height="40.0" stroke-width="1.3" fill="#ededed"/>
+<rect x="550.0" y="30.0" width="66.0" height="40.0" stroke-width="1.3" fill="#ededed"/>
+<rect x="626.0" y="30.0" width="66.0" height="40.0" stroke-width="1.3" fill="#ffffff"/>
+<rect x="702.0" y="30.0" width="66.0" height="40.0" stroke-width="1.3" fill="#ffffff"/>
+<rect x="170.0" y="188.0" width="66.0" height="40.0" stroke-width="1.3" fill="#ededed"/>
+<rect x="330.0" y="188.0" width="66.0" height="40.0" stroke-width="1.3" fill="#ededed"/>
+<rect x="490.0" y="188.0" width="66.0" height="40.0" stroke-width="1.3" fill="#ededed"/>
+<line x1="236.0" y1="208.0" x2="328.0" y2="208.0" stroke-width="1.4" marker-end="url(#ah)"/>
+<line x1="396.0" y1="208.0" x2="488.0" y2="208.0" stroke-width="1.4" marker-end="url(#ah)"/>
+<rect x="160.0" y="326.0" width="104.0" height="84.0" stroke-width="1.5" fill="#ededed" rx="7"/>
+<rect x="430.0" y="324.0" width="66.0" height="40.0" stroke-width="1.3" fill="#ededed"/>
+<line x1="266.0" y1="348.0" x2="426.0" y2="344.0" stroke-width="1.3" marker-end="url(#ah)"/>
+<rect x="430.0" y="370.0" width="66.0" height="40.0" stroke-width="1.3" fill="#ededed"/>
+<line x1="266.0" y1="358.0" x2="426.0" y2="390.0" stroke-width="1.3" marker-end="url(#ah)"/>
+<rect x="430.0" y="416.0" width="66.0" height="40.0" stroke-width="1.3" fill="#ededed"/>
+<line x1="266.0" y1="368.0" x2="426.0" y2="436.0" stroke-width="1.3" marker-end="url(#ah)"/>
+</g>
+<text x="30.0" y="52.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17" text-anchor="start" dominant-baseline="central" fill="#2b2b2b" font-weight="bold">连续分配</text>
+<text x="203.0" y="50.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">0</text>
+<text x="279.0" y="50.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">1</text>
+<text x="355.0" y="50.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">2</text>
+<text x="431.0" y="50.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">3</text>
+<text x="507.0" y="50.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">4</text>
+<text x="583.0" y="50.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">5</text>
+<text x="659.0" y="50.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">6</text>
+<text x="735.0" y="50.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">7</text>
+<text x="620.0" y="92.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="14" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">FCB 记起始块号 3、长度 3</text>
+<text x="30.0" y="210.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17" text-anchor="start" dominant-baseline="central" fill="#2b2b2b" font-weight="bold">链接分配</text>
+<text x="203.0" y="208.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="14" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">块 3</text>
+<text x="363.0" y="208.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="14" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">块 7</text>
+<text x="523.0" y="208.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="14" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">块 1</text>
+<text x="240.0" y="178.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="13" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">下一块指针</text>
+<text x="400.0" y="178.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="13" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">下一块指针</text>
+<text x="660.0" y="208.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="14" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">每块末尾存下一块的块号</text>
+<text x="30.0" y="370.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17" text-anchor="start" dominant-baseline="central" fill="#2b2b2b" font-weight="bold">索引分配</text>
+<text x="212.0" y="356.8" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">索引块</text>
+<text x="212.0" y="379.2" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">（索引表）</text>
+<text x="463.0" y="344.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="14" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">块 3</text>
+<text x="463.0" y="390.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="14" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">块 7</text>
+<text x="463.0" y="436.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="14" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">块 1</text>
+<text x="520.0" y="344.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="14" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">索引块里按顺序存</text>
+<text x="520.0" y="368.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="14" text-anchor="start" dominant-baseline="central" fill="#2b2b2b">放各数据块块号</text>
+</svg>

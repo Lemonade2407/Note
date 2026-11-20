@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="635" height="430" viewBox="0 0 635 430">
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9.2" refY="5" markerWidth="6.5" markerHeight="6.5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2b2b2b"/></marker></defs>
+<rect x="0" y="0" width="635" height="430" fill="#ffffff"/>
+<g stroke="#2b2b2b" fill="none" stroke-linecap="round" stroke-linejoin="round">
+<rect x="466.0" y="32.0" width="91.0" height="35.0" stroke-width="1.5" fill="#ededed" rx="3"/>
+<rect x="95.0" y="91.0" width="90.0" height="35.0" stroke-width="1.5" fill="#ededed" rx="3"/>
+<rect x="273.0" y="91.0" width="92.0" height="35.0" stroke-width="1.5" fill="#ededed" rx="3"/>
+<line x1="205.0" y1="104.0" x2="255.0" y2="104.0" stroke-width="1.5"/>
+<line x1="205.0" y1="112.0" x2="255.0" y2="112.0" stroke-width="1.5"/>
+<polyline points="205.0,100.0 195.0,108.0 205.0,116.0" stroke-width="1.5" fill="#ffffff"/>
+<polyline points="255.0,100.0 265.0,108.0 255.0,116.0" stroke-width="1.5" fill="#ffffff"/>
+<line x1="383.0" y1="104.0" x2="579.0" y2="104.0" stroke-width="1.5"/>
+<line x1="383.0" y1="112.0" x2="579.0" y2="112.0" stroke-width="1.5"/>
+<polyline points="383.0,100.0 373.0,108.0 383.0,116.0" stroke-width="1.5" fill="#ffffff"/>
+<polyline points="579.0,100.0 589.0,108.0 579.0,116.0" stroke-width="1.5" fill="#ffffff"/>
+<line x1="79.0" y1="228.0" x2="577.0" y2="228.0" stroke-width="1.5"/>
+<line x1="79.0" y1="238.0" x2="577.0" y2="238.0" stroke-width="1.5"/>
+<polyline points="79.0,223.0 64.0,233.0 79.0,243.0" stroke-width="1.5" fill="#ffffff"/>
+<polyline points="577.0,223.0 592.0,233.0 577.0,243.0" stroke-width="1.5" fill="#ffffff"/>
+<line x1="79.0" y1="343.0" x2="577.0" y2="343.0" stroke-width="1.5"/>
+<line x1="79.0" y1="353.0" x2="577.0" y2="353.0" stroke-width="1.5"/>
+<polyline points="79.0,338.0 64.0,348.0 79.0,358.0" stroke-width="1.5" fill="#ffffff"/>
+<polyline points="577.0,338.0 592.0,348.0 577.0,358.0" stroke-width="1.5" fill="#ffffff"/>
+<rect x="95.0" y="164.0" width="90.0" height="35.0" stroke-width="1.5" fill="#ededed" rx="3"/>
+<rect x="224.0" y="164.0" width="77.0" height="35.0" stroke-width="1.5" fill="#ededed" rx="3"/>
+<rect x="338.0" y="164.0" width="92.0" height="35.0" stroke-width="1.5" fill="#ededed" rx="3"/>
+<rect x="468.0" y="164.0" width="91.0" height="35.0" stroke-width="1.5" fill="#ededed" rx="3"/>
+<rect x="96.0" y="279.0" width="90.0" height="36.0" stroke-width="1.5" fill="#ededed" rx="3"/>
+<rect x="206.0" y="279.0" width="112.0" height="36.0" stroke-width="1.5" fill="#ededed" rx="3"/>
+<rect x="338.0" y="279.0" width="110.0" height="36.0" stroke-width="1.5" fill="#ededed" rx="3"/>
+<rect x="468.0" y="279.0" width="91.0" height="36.0" stroke-width="1.5" fill="#ededed" rx="3"/>
+<line x1="512.0" y1="67.0" x2="512.0" y2="104.0" stroke-width="1.4"/>
+<line x1="320.0" y1="126.0" x2="320.0" y2="228.0" stroke-width="1.4"/>
+<line x1="141.0" y1="199.0" x2="141.0" y2="228.0" stroke-width="1.4"/>
+<line x1="263.0" y1="199.0" x2="263.0" y2="228.0" stroke-width="1.4"/>
+<line x1="384.0" y1="199.0" x2="384.0" y2="228.0" stroke-width="1.4"/>
+<line x1="513.0" y1="199.0" x2="513.0" y2="228.0" stroke-width="1.4"/>
+<line x1="141.0" y1="315.0" x2="141.0" y2="343.0" stroke-width="1.4"/>
+<line x1="263.0" y1="315.0" x2="263.0" y2="343.0" stroke-width="1.4"/>
+<line x1="393.0" y1="315.0" x2="393.0" y2="343.0" stroke-width="1.4"/>
+<line x1="513.0" y1="315.0" x2="513.0" y2="343.0" stroke-width="1.4"/>
+</g>
+<text x="511.5" y="49.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">主存</text>
+<text x="140.0" y="108.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">CPU</text>
+<text x="319.0" y="108.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">Cache/桥</text>
+<text x="228.0" y="131.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">局部总线</text>
+<text x="481.0" y="131.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">系统总线</text>
+<text x="310.0" y="258.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">高速总线</text>
+<text x="300.0" y="372.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">扩展总线</text>
+<text x="140.0" y="181.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">SCSI</text>
+<text x="262.5" y="181.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">图形</text>
+<text x="384.0" y="181.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">多媒体</text>
+<text x="513.5" y="181.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">局域网</text>
+<text x="141.0" y="297.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">FAX</text>
+<text x="262.0" y="297.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="14" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">扩展总线接口</text>
+<text x="393.0" y="297.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="14" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">Modem</text>
+<text x="513.5" y="297.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="16" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">串行接口</text>
+<text x="300.0" y="405.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="18" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">图 3.10  四总线结构</text>
+</svg>

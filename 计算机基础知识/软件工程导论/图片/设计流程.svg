@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2744" height="1488" viewBox="0 0 2744 1488">
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9.2" refY="5" markerWidth="6.5" markerHeight="6.5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2b2b2b"/></marker></defs>
+<rect x="0" y="0" width="2744" height="1488" fill="#ffffff"/>
+<g stroke="#2b2b2b" fill="none" stroke-linecap="round" stroke-linejoin="round">
+<rect x="432.0" y="276.0" width="456.0" height="188.0" stroke-width="2.5" fill="#40afca"/>
+<rect x="1444.0" y="764.0" width="456.0" height="188.0" stroke-width="2.5" fill="#40afca"/>
+<polyline points="1674.0,232.0 1936.0,370.0 1674.0,508.0 1412.0,370.0 1674.0,232.0" stroke-width="2.5" fill="#40afca"/>
+<polyline points="1670.0,1168.0 1928.0,1308.0 1670.0,1448.0 1412.0,1308.0 1670.0,1168.0" stroke-width="2.5" fill="#40afca"/>
+<line x1="48.0" y1="370.0" x2="432.0" y2="370.0" stroke-width="4" marker-end="url(#ah)"/>
+<line x1="888.0" y1="370.0" x2="1412.0" y2="370.0" stroke-width="4" marker-end="url(#ah)"/>
+<polyline points="1674.0,232.0 1674.0,108.0 640.0,108.0 640.0,276.0" stroke-width="4" fill="none" marker-end="url(#ah)"/>
+<line x1="1674.0" y1="508.0" x2="1674.0" y2="764.0" stroke-width="4" marker-end="url(#ah)"/>
+<line x1="1672.0" y1="952.0" x2="1670.0" y2="1166.0" stroke-width="4" marker-end="url(#ah)"/>
+<polyline points="1412.0,1308.0 1340.0,1308.0 1340.0,860.0 1444.0,860.0" stroke-width="4" fill="none" marker-end="url(#ah)"/>
+<line x1="1928.0" y1="1308.0" x2="2390.0" y2="1308.0" stroke-width="4" marker-end="url(#ah)"/>
+</g>
+<text x="660.0" y="370.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="58" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b" font-weight="bold">架构设计</text>
+<text x="1672.0" y="858.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="58" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b" font-weight="bold">详细设计</text>
+<text x="1674.0" y="370.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="58" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b" font-weight="bold">评审</text>
+<text x="1670.0" y="1308.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="58" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b" font-weight="bold">评审</text>
+<text x="165.0" y="115.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="54" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b" font-weight="bold">需求规格</text>
+<text x="165.0" y="195.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="54" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b" font-weight="bold">说明</text>
+<text x="770.0" y="205.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="54" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b" font-weight="bold">软件架构</text>
+<text x="1155.0" y="60.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="54" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b" font-weight="bold">退改</text>
+<text x="1815.0" y="620.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="54" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b" font-weight="bold">通过</text>
+<text x="1875.0" y="1075.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="54" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b" font-weight="bold">构件规格</text>
+<text x="1180.0" y="1040.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="54" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b" font-weight="bold">退改</text>
+<text x="2270.0" y="1385.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="54" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b" font-weight="bold">通过</text>
+<text x="2600.0" y="1155.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="54" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b" font-weight="bold">软件设计</text>
+<text x="2600.0" y="1235.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="54" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b" font-weight="bold">说明书</text>
+</svg>

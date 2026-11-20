@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="599" height="325" viewBox="0 0 599 325">
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9.2" refY="5" markerWidth="6.5" markerHeight="6.5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2b2b2b"/></marker></defs>
+<rect x="0" y="0" width="599" height="325" fill="#ffffff"/>
+<g stroke="#2b2b2b" fill="none" stroke-linecap="round" stroke-linejoin="round">
+<rect x="135.0" y="24.0" width="153.0" height="39.0" stroke-width="1.5" fill="#ededed" rx="3"/>
+<rect x="135.0" y="102.0" width="153.0" height="126.0" stroke-width="1.6" fill="#ffffff" rx="3"/>
+<polyline points="206.5,64.0 206.5,90.0 202.0,90.0 211.0,100.0 220.0,90.0 215.5,90.0 215.5,64.0 206.5,64.0" stroke-width="1.4" fill="none"/>
+<line x1="80.0" y1="119.0" x2="134.0" y2="119.0" stroke-width="1.4" marker-end="url(#ah)"/>
+<line x1="80.0" y1="169.0" x2="134.0" y2="169.0" stroke-width="1.4" marker-end="url(#ah)"/>
+<line x1="80.0" y1="209.0" x2="134.0" y2="209.0" stroke-width="1.4" marker-end="url(#ah)"/>
+<circle cx="95.0" cy="138.0" r="1.6" stroke-width="0.5" fill="#2b2b2b"/>
+<circle cx="95.0" cy="145.0" r="1.6" stroke-width="0.5" fill="#2b2b2b"/>
+<circle cx="95.0" cy="152.0" r="1.6" stroke-width="0.5" fill="#2b2b2b"/>
+<polyline points="289.0,115.5 312.0,115.5 312.0,111.0 322.0,120.0 312.0,129.0 312.0,124.5 289.0,124.5 289.0,115.5" stroke-width="1.4" fill="none"/>
+<polyline points="289.0,152.5 517.0,152.5 517.0,148.0 528.0,157.0 517.0,166.0 517.0,161.5 289.0,161.5 289.0,152.5" stroke-width="1.4" fill="none"/>
+<polyline points="528.0,200.5 311.0,200.5 311.0,196.0 300.0,205.0 311.0,214.0 311.0,209.5 528.0,209.5 528.0,200.5" stroke-width="1.4" fill="none"/>
+<line x1="528.0" y1="51.0" x2="528.0" y2="253.0" stroke-width="1.6"/>
+<line x1="545.0" y1="51.0" x2="545.0" y2="253.0" stroke-width="1.6"/>
+</g>
+<text x="211.5" y="43.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">指令寄存器</text>
+<text x="211.0" y="165.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">控制单元</text>
+<text x="58.0" y="113.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">标志</text>
+<text x="58.0" y="213.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">时钟</text>
+<text x="420.0" y="120.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="14" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">CPU 内的控制信号</text>
+<text x="410.0" y="183.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="14" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">到系统总线的控制信号</text>
+<text x="410.0" y="223.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="14" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">来自系统总线的控制信号</text>
+<text x="537.0" y="102.8" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="13" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">系</text>
+<text x="537.0" y="116.5" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="13" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">统</text>
+<text x="537.0" y="130.1" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="13" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">总</text>
+<text x="537.0" y="143.8" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="13" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">线</text>
+<text x="270.0" y="290.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">图 9.2   控制单元外特性</text>
+</svg>

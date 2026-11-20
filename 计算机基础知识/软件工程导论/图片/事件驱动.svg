@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1813" height="1034" viewBox="0 0 1813 1034">
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9.2" refY="5" markerWidth="6.5" markerHeight="6.5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2b2b2b"/></marker></defs>
+<rect x="0" y="0" width="1813" height="1034" fill="#ffffff"/>
+<g stroke="#2b2b2b" fill="none" stroke-linecap="round" stroke-linejoin="round">
+<rect x="353.0" y="84.0" width="400.0" height="174.0" stroke-width="3.4" fill="#ffffff" rx="22" stroke="#a52a1a"/>
+<rect x="950.0" y="84.0" width="405.0" height="174.0" stroke-width="3.4" fill="#ffffff" rx="22" stroke="#a52a1a"/>
+<rect x="123.0" y="424.0" width="1646.0" height="224.0" stroke-width="2.6" fill="#ffffff"/>
+<rect x="292.0" y="464.0" width="519.0" height="143.0" stroke-width="3.4" fill="#ffffff" stroke="#1b1b8c"/>
+<rect x="890.0" y="464.0" width="520.0" height="143.0" stroke-width="3.4" fill="#ffffff" stroke="#1b1b8c"/>
+<rect x="351.0" y="786.0" width="403.0" height="166.0" stroke-width="3.4" fill="#ffffff" rx="22" stroke="#2d6e21"/>
+<rect x="949.0" y="783.0" width="403.0" height="167.0" stroke-width="3.4" fill="#ffffff" rx="22" stroke="#2d6e21"/>
+<line x1="551.0" y1="258.0" x2="551.0" y2="462.0" stroke-width="3.6" marker-end="url(#ah)"/>
+<line x1="1150.0" y1="258.0" x2="1150.0" y2="462.0" stroke-width="3.6" marker-end="url(#ah)"/>
+<line x1="551.0" y1="607.0" x2="551.0" y2="784.0" stroke-width="3.6" marker-end="url(#ah)"/>
+<line x1="1151.0" y1="607.0" x2="1151.0" y2="781.0" stroke-width="3.6" marker-end="url(#ah)"/>
+<line x1="1048.0" y1="570.0" x2="668.0" y2="774.0" stroke-width="3.6" marker-end="url(#ah)"/>
+</g>
+<text x="553.0" y="173.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="56" text-anchor="middle" dominant-baseline="central" fill="#a52a1a">Source 1</text>
+<text x="1153.0" y="173.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="56" text-anchor="middle" dominant-baseline="central" fill="#a52a1a">Source 2</text>
+<text x="551.0" y="536.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="56" text-anchor="middle" dominant-baseline="central" fill="#1b1b8c">Channel 1</text>
+<text x="1150.0" y="536.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="56" text-anchor="middle" dominant-baseline="central" fill="#1b1b8c">Channel 2</text>
+<text x="1660.0" y="536.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="50" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">Bus</text>
+<text x="551.0" y="871.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="50" text-anchor="middle" dominant-baseline="central" fill="#2d6e21">Listener 1</text>
+<text x="1150.0" y="868.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="50" text-anchor="middle" dominant-baseline="central" fill="#2d6e21">Listener 2</text>
+</svg>

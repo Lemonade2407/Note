@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="520" viewBox="0 0 900 520">
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9.2" refY="5" markerWidth="6.5" markerHeight="6.5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2b2b2b"/></marker></defs>
+<rect x="0" y="0" width="900" height="520" fill="#ffffff"/>
+<g stroke="#2b2b2b" fill="none" stroke-linecap="round" stroke-linejoin="round">
+<rect x="120.0" y="40.0" width="200.0" height="46.0" stroke-width="1.5" fill="#ededed" rx="7"/>
+<rect x="120.0" y="106.0" width="200.0" height="46.0" stroke-width="1.5" fill="#ededed" rx="7"/>
+<rect x="120.0" y="172.0" width="200.0" height="46.0" stroke-width="1.5" fill="#ededed" rx="7"/>
+<rect x="120.0" y="238.0" width="200.0" height="46.0" stroke-width="1.5" fill="#ededed" rx="7"/>
+<rect x="120.0" y="304.0" width="200.0" height="46.0" stroke-width="1.5" fill="#ededed" rx="7"/>
+<rect x="120.0" y="370.0" width="200.0" height="46.0" stroke-width="1.5" fill="#ededed" rx="7"/>
+<line x1="220.0" y1="86.0" x2="220.0" y2="106.0" stroke-width="1.5" marker-end="url(#ah)"/>
+<line x1="220.0" y1="152.0" x2="220.0" y2="172.0" stroke-width="1.5" marker-end="url(#ah)"/>
+<line x1="220.0" y1="218.0" x2="220.0" y2="238.0" stroke-width="1.5" marker-end="url(#ah)"/>
+<line x1="220.0" y1="284.0" x2="220.0" y2="304.0" stroke-width="1.5" marker-end="url(#ah)"/>
+<line x1="220.0" y1="350.0" x2="220.0" y2="370.0" stroke-width="1.5" marker-end="url(#ah)"/>
+<rect x="580.0" y="40.0" width="200.0" height="46.0" stroke-width="1.5" fill="#ededed" rx="7"/>
+<rect x="580.0" y="106.0" width="200.0" height="46.0" stroke-width="1.5" fill="#ededed" rx="7"/>
+<rect x="580.0" y="172.0" width="200.0" height="46.0" stroke-width="1.5" fill="#ededed" rx="7"/>
+<rect x="580.0" y="238.0" width="200.0" height="46.0" stroke-width="1.5" fill="#ededed" rx="7"/>
+<rect x="580.0" y="304.0" width="200.0" height="46.0" stroke-width="1.5" fill="#ededed" rx="7"/>
+<rect x="580.0" y="370.0" width="200.0" height="46.0" stroke-width="1.5" fill="#ededed" rx="7"/>
+<line x1="680.0" y1="86.0" x2="680.0" y2="106.0" stroke-width="1.5" marker-end="url(#ah)"/>
+<line x1="680.0" y1="152.0" x2="680.0" y2="172.0" stroke-width="1.5" marker-end="url(#ah)"/>
+<line x1="680.0" y1="218.0" x2="680.0" y2="238.0" stroke-width="1.5" marker-end="url(#ah)"/>
+<line x1="680.0" y1="284.0" x2="680.0" y2="304.0" stroke-width="1.5" marker-end="url(#ah)"/>
+<line x1="680.0" y1="350.0" x2="680.0" y2="370.0" stroke-width="1.5" marker-end="url(#ah)"/>
+<rect x="386.0" y="150.0" width="128.0" height="120.0" stroke-width="1.5" fill="#f7f7f7" rx="7"/>
+<polyline points="320.0,261.0 386.0,230.0" stroke-width="1.5" fill="none" marker-end="url(#ah)"/>
+<polyline points="514.0,200.0 580.0,195.0" stroke-width="1.5" fill="none" marker-end="url(#ah)"/>
+</g>
+<text x="220.0" y="63.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">生产一个数据</text>
+<text x="220.0" y="129.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">P(empty)</text>
+<text x="220.0" y="195.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">P(mutex)</text>
+<text x="220.0" y="261.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">放入缓冲区</text>
+<text x="220.0" y="327.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">V(mutex)</text>
+<text x="220.0" y="393.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">V(full)</text>
+<text x="680.0" y="63.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">P(full)</text>
+<text x="680.0" y="129.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">P(mutex)</text>
+<text x="680.0" y="195.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">取出数据</text>
+<text x="680.0" y="261.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">V(mutex)</text>
+<text x="680.0" y="327.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">V(empty)</text>
+<text x="680.0" y="393.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">消费数据</text>
+<text x="450.0" y="196.4" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">缓冲区</text>
+<text x="450.0" y="223.6" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">n 个单元</text>
+<text x="450.0" y="300.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">互斥访问缓冲区</text>
+<text x="450.0" y="452.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="15" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b">顺序：先 P(empty)/P(full)，再 P(mutex)——反过来可能死锁</text>
+<text x="220.0" y="24.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b" font-weight="bold">生产者</text>
+<text x="680.0" y="24.0" font-family="'Microsoft YaHei', 'SimHei', sans-serif" font-size="17" text-anchor="middle" dominant-baseline="central" fill="#2b2b2b" font-weight="bold">消费者</text>
+</svg>
